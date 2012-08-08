@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-08-28T23:20:34+02:00
 
 ====== Putengeschnetzeltes mit Gemüse ======
 created Sonntag, 28. August 2011

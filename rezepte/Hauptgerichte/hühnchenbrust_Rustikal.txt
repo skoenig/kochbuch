@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-08-28T23:10:59+02:00
 
 ====== Hühnchenbrust Rustikal ======
 created Sonntag, 28. August 2011

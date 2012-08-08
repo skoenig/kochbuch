@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-03-08T01:25:28.781808
 
 ====== Sojasoße ======
 Created Dienstag, 08. März 2011

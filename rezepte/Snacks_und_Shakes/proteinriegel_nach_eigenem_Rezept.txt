@@ -1,6 +1,4 @@
 1: 
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
 
 ====== Proteinriegel nach eigenem Rezept ======
 //Created 2011-05-17//

@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-03-03T00:49:46.981050
 
 ====== Hühnerfrikassee ======
 Created Donnerstag, 03. März 2011

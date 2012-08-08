@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-08-28T23:07:35+02:00
 
 ====== Falscher Kartoffelsalat ======
 created Sonntag, 28. August 2011

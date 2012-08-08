@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-02-16T01:11:31.742856
 
 ====== Grüner-Eistee ======
 Created Mittwoch 16 Februar 2011

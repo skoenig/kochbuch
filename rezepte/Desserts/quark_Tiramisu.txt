@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-03-03T03:51:08.969883
 
 ====== Quark Tiramisu ======
 Created Donnerstag, 03. März 2011

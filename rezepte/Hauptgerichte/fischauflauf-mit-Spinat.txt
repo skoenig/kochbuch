@@ -1,5 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
 
 ====== Fischauflauf mit Spinat ======
 

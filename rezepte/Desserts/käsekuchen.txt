@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-03-03T03:47:33.683004
 
 ====== Käsekuchen ======
 Created Donnerstag, 03. März 2011

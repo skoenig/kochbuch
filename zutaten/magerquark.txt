@@ -1,6 +1,3 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-04-06T23:43:14.979443
 
 ====== Magerquark ======
 Created Mittwoch, 06. April 2011
