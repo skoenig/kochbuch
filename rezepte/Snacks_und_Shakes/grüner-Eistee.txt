@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-02-16T01:11:31.742856
+
+====== Grüner-Eistee ======
+Created Mittwoch 16 Februar 2011
+
+* Grüner Tee
+* Süßstoff
+* Zitronensaft(konzentrat)
+
+
+== Zubereitung: ==
+Grünen Tee aufgießen, nicht kochendes Wasser, 3 min. ziehen lassen.
+Abkühlen lassen, mit Zitrone und Süßstoff abschmecken.
+

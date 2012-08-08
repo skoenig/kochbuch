@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-08T01:25:28.781808
+
+====== Sojasoße ======
+Created Dienstag, 08. März 2011
+
+Nährwerte und Kalorien (kcal) Sojasoße je 100 g
+
+Gesamt:			478 kjoule / 114 kcal 	
+Kohlenhydrate: 	6,2 g
+Fett 				5,2 g
+Eiweiss 			10,7 g
+Ballaststoffe 		5,1 g 	
+Magnesium 		68 mg 	
+Cholesterin 		na mg
+
+{{./Sojasoßesojasosse-nahrwerte.jpg}}

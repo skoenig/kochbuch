@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-06T23:43:14.979443
+
+====== Magerquark ======
+Created Mittwoch, 06. April 2011
+
+== pro 100 Gramm 500 Gramm ==
+Brennwert: 	73,0 kcal / 306,0 kJ 	365,0 kcal / 1.530,0 kJ
+Proteine: 	13,5 g 	67,5 g
+Kohlenhydrate: 	4,0 g 	20,0 g
+Fett: 	0,3 g 	1,5 g
+Broteinheiten: 	0,3 g 	1,5 g
+Vitamine
+Vitamin C: 	1,0 mg 	5,0 mg
+Mineralien
+Eisen: 	0,4 mg 	2,0 mg
+Kalzium: 	120,0 mg 	600,0 mg
+Magnesium: 	11,0 mg 	55,0 mg
+Natrium: 	40,0 mg 	200,0 mg
+Zink: 	0,6 mg 	3,0 mg 
