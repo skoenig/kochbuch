@@ -1,6 +1,8 @@
-
-====== Putengeschnetzeltes mit Gemüse ======
+Putengeschnetzeltes mit Gemüse
+==============================
 created Sonntag, 28. August 2011
+
+@done 2013-10-02
 
 Das geschnetzelte Putenfleisch in einer Pfanne mit 2 EL Öl gut anbraten. Aus der Pfanne nehmen und warm stellen.
 Die Zwiebel mit dem Knoblauch anbraten. Dann Paprikaschoten und Möhren dazugeben und 5 Min. mitbraten. Dann die Zucchini dazugeben und kurz mitbraten. Nun das Putenfleisch wieder zu dem Gemüse geben und mit Gemüsebrühe und Sahne ablöschen. Petersilie und Estragon darüber streuen und das Ganze ca. 8 Min. fertig kochen. Nach Geschmack mit Salz und Pfeffer würzen und die Speisestärke unterrühren.
