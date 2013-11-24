@@ -1,6 +1,6 @@
-
-====== Reis mit Fisch ======
-created Sonntag, 28. August 2011
+Reis mit Fisch
+==============
+*created Sunday, 28. August 2011 - updated Monday, 25. November 2013*
 
 Zutaten: Reis (Naturreis passt hier nicht so gut, da er den Geschmack des Fisches nicht so gut annimmt), Fischfilets (Kabeljau bzw. Dorsch, Seelachs, etc. bitte Seefisch, da Süßwasserfische hier einfach zu "muffig" schmecken), Gewürze und Salz nach eigenem Geschmack
 
