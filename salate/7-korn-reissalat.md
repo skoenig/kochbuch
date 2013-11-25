@@ -1,8 +1,8 @@
+7 Korn Reissalat
+================
+*created Wednesday, 16. February 2011 - updated Monday, 25. November 2013*
 
-====== 7-Korn-Reissalat ======
-Created Mittwoch 16 Februar 2011
-
-Zutaten:
+## Zutaten:
 Salat:
 150g 7 korn reis (dr. edgar)
 100g brokolie
@@ -18,8 +18,8 @@ Dressing:
 kräuter
 salz pfeffer
 
-=== Zubereitung: ===
-sallat: reis kochen, hühnerfleisch in kleine mundgerechte(ich hab gern streifen) schneiden, salzen und schön durchbraten, fleisch zur seite stellen.
+## Zubereitung
+salat: reis kochen, hühnerfleisch in kleine mundgerechte(ich hab gern streifen) schneiden, salzen und schön durchbraten, fleisch zur seite stellen.
 brokolie klein schneiden, kirschtomaten halbieren.
 reis, gemüse und sallat vermischen. öl dazu eventuel salzen.
 
@@ -29,4 +29,3 @@ hühnerfleisch auf den sallat legen und dressing darüber träufeln.
 ess ich immer gern nach dem training!
 aufpassen mit dem knoblauch :D nicht zuviel erwischen kann bei schwerem training ins hösschen gehen!
 und am abend ab 19:00 is auch nicht empfehlenswert denn dann hat es in der früh wenn du aufstehst einen mief in deinem zimmer durch schwitzen und atmen :D !
-dann wünsch ich noch guten appetit 
