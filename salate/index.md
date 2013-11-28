@@ -1,0 +1,7 @@
+[falafelsalat](./falafelsalat.md)
+[nudelsalat](./nudelsalat.md)
+[gemischter_gemuesesalat_mit_haehnchenbruststreifen](./gemischter_gemuesesalat_mit_haehnchenbruststreifen.md)
+[thunfischsalat_2](./thunfischsalat_2.md)
+[thunfischsalat](./thunfischsalat.md)
+[7-korn-reissalat](./7-korn-reissalat.md)
+[eiersalat](./eiersalat.md)
