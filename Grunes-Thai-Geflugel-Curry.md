@@ -1,4 +1,6 @@
-## Zutaten
+![grünes Thai Geflügel Curry](http://static.chefkoch-cdn.de/ck.de/rezepte/219/219765/543518-420x280-fix-gruenes-thai-gefluegel-curry.jpg)
+
+## Zutaten für 4 Portionen
 - 400 g 	Hähnchenfilet, oder Putenfilet in Streifen
 - 250 g 	Basmati
 - 2 EL 	Öl, (neutral)
@@ -9,7 +11,6 @@
 - 1  	Paprikaschote(n), grüne
 - 5  	Champignons, weiße, frisch
 - 1 TL, gehäuft	Currypaste, grüne Thai-
-
 
 ## Zubereitung
 
