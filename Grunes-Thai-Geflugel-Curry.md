@@ -1,17 +1,17 @@
+## Zutaten
+- 400 g 	Hähnchenfilet, oder Putenfilet in Streifen
+- 250 g 	Basmati
+- 2 EL 	Öl, (neutral)
+- 1 kleine 	Zwiebel(n) oder 2 Frühlingszwiebeln, in Streifen
+- 400 ml 	Kokosmilch, Dose (nicht schütteln)
+- 100 g 	Erbsen, TK
+- 150 g 	Zuckerschote(n), TK
+- 1  	Paprikaschote(n), grüne
+- 5  	Champignons, weiße, frisch
+- 1 TL, gehäuft	Currypaste, grüne Thai-
 
-Zutaten
-400 g 	Hähnchenfilet, oder Putenfilet in Streifen
-250 g 	Basmati
-2 EL 	Öl, (neutral)
-1 kleine 	Zwiebel(n) oder 2 Frühlingszwiebeln, in Streifen
-400 ml 	Kokosmilch, Dose (nicht schütteln)
-100 g 	Erbsen, TK
-150 g 	Zuckerschote(n), TK
-1  	Paprikaschote(n), grüne
-5  	Champignons, weiße, frisch
-1 TL, gehäuft 	Currypaste, grüne Thai-
-Portionen
-Zubereitung
+
+## Zubereitung
 
 Arbeitszeit: ca. 10 Min. / Koch-/Backzeit: ca. 20 Min. / Schwierigkeitsgrad: simpel / Brennwert p. P.: keine Angabe
 Zuerst mit dem Reis beginnen:
