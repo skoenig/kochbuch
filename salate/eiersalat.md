@@ -1,17 +1,18 @@
+Eiersalat
+==========
+*created Wednesday, 16. February 2011*
 
-====== Eiersalat ======
-Created Mittwoch 16 Februar 2011
 
-Habe eben mal in der Küche einen leckeren Eiersalt gezaubert.
+## Zutaten
+- 500ml Eiklar
+- 1 Zwiebel
+- 2 Eßlöffel Miracle Wipp Balance Mayo
+- halben Teelöffel scharfer Senf
+- etwas fettarme Milch
+- Salz und schwarzer Peffer
 
-Dafür habe ich folgendes verwendet:
-500ml Eiklar
-1 Zwiebel
-2 Eßlöffel Miracle Wipp Balance Mayo
-halben Teelöffel scharfer Senf
-etwas fettarme Milch
-salz und schwarzer peffer
 
+## Zubereitung
 Eiklar anbraten und abbkühlen lassen. Zwiebeln in Würfel schneiden und mit Mayo und Senf vermischen. Soviel Milch hinzugeben bis es eine gute Konsitenz gibt (nicht zu dick). Mit Salz und Peffer abschmecken. Zum Schluss gebratens Eiklar unterühren. Dauert ca. 10 min und ist sehr lecker.
 
-Sollte gerade noch so zur AD zu gebrauchen sein. Nährwerte kann ich auf wünsch morgen posten...
+
