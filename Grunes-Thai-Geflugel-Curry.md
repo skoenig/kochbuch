@@ -10,7 +10,7 @@
 - 150 g 	Zuckerschote(n), TK
 - 1  	Paprikaschote(n), grüne
 - 5  	Champignons, weiße, frisch
-- 1 TL, gehäuft	Currypaste, grüne Thai-
+- 1 TL gehäufte grüne Thai-Currypaste
 
 ## Zubereitung
 
@@ -25,4 +25,4 @@ Gefrorene Erbsen und Erbsenschoten im Sieb mit heißem Wasser überbrühen.
 Öl im Topf erhitzen, bei mittlerer Hitze die Zwiebeln, Paprika, Champignons kurz anschwitzen und aus dem Topf nehmen. Die Currypaste in den Topf geben und unter Rühren 5 EL des Kokosfettes, das sich oben in der Dose absetzt, dazugeben. Dann das Fleisch dazu und vorsichtig rühren (1-2 Min.)
 Die restliche Kokosmilch und das Gemüse dazugeben und unter vorsichtigem Rühren bei mittlerer Hitze ziehen lassen (5 Min.)
 
-Keine Angst wegen der Schärfe, mit Kokosmilch und Reis ist das nicht zu scharf aber würzig. 
+Keine Angst wegen der Schärfe, mit Kokosmilch und Reis ist das nicht zu scharf aber würzig.
