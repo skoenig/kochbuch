@@ -1,6 +1,6 @@
-[[uploads/auberginen-la-napoli.jpg|float|align=right]]
-
 ## Zutaten für 2 Personen
+[[/uploads/auberginen-la-napoli.jpg|float|align=right|width=400px|heigth=300px]]
+
 - 375 g 	Aubergine(n)
 - 1  	Zwiebel(n)
 - 1/2 Dose 	Tomate(n)
