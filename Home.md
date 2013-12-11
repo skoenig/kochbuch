@@ -2,29 +2,11 @@
 
 hier
 
-sind ein paar 
+sind ein
 
-leckere Sachen 
+paar leckere Sachen 
 
-für die Backentaschen.
-
-
-## Links
-
-- Aubergine Napoli: http://www.chefkoch.de/rezepte/289541107803845/Auberginen-la-Napoli.html
-
-
-- Sieht ganz cool aus: http://www.yummly.com/
-
-- http://chefkoch.de
-
-- http://dutchfood.about.com/od/mainmeals/r/BabiKetjap.htm
-
-- http://www.kochbar.de/rezept/195574/Indonesischer-Fleischtopf.html
-
-- http://de.wikibooks.org/wiki/Kochbuch/_Kalafkalsch
-
-- Gefuellte Paprika mit Hack und Gemuese: http://www.chefkoch.de/rezepte/1223231227626380/Gefuellte-Paprika.html
+für die speckigen Backentaschen:
 
 [Hauptgerichte](pages/hauptgerichte/)
 
@@ -33,3 +15,13 @@ für die Backentaschen.
 [Beilagen](pages/beilagen/)
 
 [Snacks & Shakes ](pages/snacks_und_shakes/)
+
+[[_]] 
+
+## Links
+
+- http://www.yummly.com/
+
+- http://chefkoch.de
+
+- http://www.oldschool-training.de/board/Forum-Rezepte
