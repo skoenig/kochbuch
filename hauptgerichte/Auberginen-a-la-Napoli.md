@@ -14,6 +14,8 @@
 - Zucker
 - Mehl
 
+[[_]]
+
 ## Zubereitung
 
 Die Auberginen putzen und in ca. 1 cm-dicke Scheiben schneiden, salzen und 20 Minuten stehen lassen. Nach dieser Zeit die Scheiben abtrocknen, in Mehl wenden und von beiden Seiten kurz in Öl anbräunen.
