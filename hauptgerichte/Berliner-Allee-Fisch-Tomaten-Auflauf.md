@@ -1,5 +1,5 @@
-@lowcarb
-@done(2014-01-05)
+- @lowcarb
+- @done(2014-01-05)
 
 ##Zutaten
 - 4  	Rotbarschfilet oder Seelachsfilets
