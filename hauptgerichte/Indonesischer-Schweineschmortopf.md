@@ -1,3 +1,6 @@
+- @done
+- @rating(*****)
+
 ## Zutaten fuer 4 Personen
 
  * 2 EL Oel
