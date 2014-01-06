@@ -1,3 +1,5 @@
+- @new
+
 ## Zutaten für 2 Personen
 [[/uploads/auberginen-la-napoli.jpg|float|align=right|width=400px|heigth=300px]]
 
