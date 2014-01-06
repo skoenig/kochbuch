@@ -1,22 +1,16 @@
+- @new
 
-====== Eier- Gratin mit Krabben ======
-Created Donnerstag, 03. März 2011
+## Zutaten für 2 Portionen
+- 1 TL Majoran
+- geriebene Muskatnuss
+- Butter
+- 30g Lauchzwiebeln (hab normale Zwiebeln benutzt, da nix anderes da war)
+- 150g Garnelen
+- 100g Schlagsahne
+- 70g Käse
+- 6 Eier
 
-Hi,
-Ich hab heut ein Rezept gelesen, dass mit ein paar kleinen Änderungen gut für eine AD geeignet ist, also hab ichs gleich mal probiert um ein bisschen Abwechslung auf den Tisch zu bekommen.
-
-Zutaten für 2 Portionen:
-
-1 TL Majoran
-geriebene Muskatnuss
-Butter
-30g Lauchzwiebeln (hab normale Zwiebeln benutzt, da nix anderes da war)
-150g Garnelen
-100g Schlagsahne
-70g Käse
-6 Eier
-
-Zubereitung:
+## Zubereitung
 
 Zuerst werden 4 Eier 10Min hart gekocht, dann gepellt und in scheiben geschnitten und in 2 Schalen gelegt.
 
@@ -27,6 +21,5 @@ dann gibt man die abgebrausen Garnelen kurz in die Pfanne, und würzt das Ganze 
 dann mischt man noch die 2 restlichen Eier mit der Sahne gibt den Muskat dazu und gibt das Ganze dann über die Garnelen.
 
 danach würfelt man noch den Käse und streut ihn oben drauf und gart alles im Ofen bei 250Grad vorgeheiztem Ofen für ~5-10Min, bis die Oberfläche leicht gebräunt ist.
-
 
 das Ganze gab dann 2 Portionen mit je ~850 Kcal und 60g Fett, 5g KH und 65g Eiweiß

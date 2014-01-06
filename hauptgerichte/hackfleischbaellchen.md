@@ -1,8 +1,7 @@
+- @new
+- @lowcarb
 
-====== Hackfleischbaellchen ======
-Created Donnerstag, 03. März 2011
-
-Grundmischung:
+## Zutaten
 500-800 g rinderhack
 1-2 eier
 zwiebeln
@@ -10,6 +9,7 @@ chilli
 salz, pfeffer
 ev. bissl brösel
 
+## Zubereitung
 1. bohnenkraut+getr. minzeblätter dazu
 2. oregano und je 1 stück schafskäse in jedem laibchen
 3. getrocknete pilze in wasser augeweicht und kleingeschnitten dazu + bissl knobi gepresst

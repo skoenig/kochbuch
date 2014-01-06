@@ -1,19 +1,17 @@
+- @new
 
-====== Tonno Steaks ======
-Created Donnerstag, 03. März 2011
+##Zutaten
+- 2 Thunfischsteaks (am besten frisch, geht aber auch TK)
+- 1 Chili-Schote
+- 3 EL Sesam
+- 1 Bund Schnittlauch
+- Terriyaki Marinade
+- 2 gelbe Paprika
+- 1 Zwiebel
+- Butter oder Öl (Oliven- oder besser noch Sesam/ErdnussÖl)
 
-Man braucht:
-2 Thunfischsteaks (am besten frisch, geht aber auch TK)
-1 Chili-Schote
-3 EL Sesam
-1 Bund Schnittlauch
-Terriyaki Marinade
-2 gelbe Paprika
-1 Zwiebel
-Butter oder Öl (Oliven- oder besser noch Sesam/ErdnussÖl)
----------------------------------------------------------------------------------
+## Zubereitung
 Thunfischsteaks in eine Schüssel, mit Terriyaki Sauce übergießen und ziehen lassen
-
 
 Erstmal Pfanne erhitzen, Sesam rein (kein Öl!!!), Schnittlauch klein schnippeln und in eine Schüssel.
 Terriyaki Sauce zum Schnittlauch und den angerösteten Sesam drüber bis das ganze "stockt".

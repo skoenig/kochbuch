@@ -1,8 +1,6 @@
+- @new
 
-
-Pilav für 3-4 Personen:
-========================================================================
-Zutaten:
+## Zutaten
 - 2 Beutel Kurzkoch-Reis
 - 1/2 Zwiebel
 - 2 Paprika (rot, gelb)
@@ -11,6 +9,7 @@ Zutaten:
 - Rotwein
 - Pfeffer
 
+## Zubereitung
 - Reis aufsetzen
 - Paprika und Champignons in kleine Würfel schneiden
 - Paprika und Champignons beim Reis mitkochen, würzeh
@@ -19,5 +18,3 @@ Zutaten:
 - Leber mit Rotwein ablöschen
 - evtl. mit Pfeffer nachwürzen
 - alles zusammen servieren
-
-

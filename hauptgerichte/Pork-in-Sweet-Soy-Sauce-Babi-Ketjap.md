@@ -1,3 +1,5 @@
+- @new
+
 ## Ingredients
 
 [[/uploads/babi-ketjap.jpg|float|align=right]]
@@ -36,4 +38,4 @@ In a dry frying pan toast the peanuts. They're done when the peanutty fumes hit 
 
 Halve the cucumber lengthways. Gouge out the seeds using a teaspoon. Discard seeds. Now cut the cucumber into thin half moon slices. Place the slices in a bowl. Cut the chile in half, remove the seeds and chop very finely. Add to the cucumber. Now make a salad dressing by adding together the oil, vinegar, and a pinch each of sugar, salt and pepper in a bowl. Drizzle some of the salad dressing over the cucumber salad. Toss and serve.
 
-I like to serve the Babi Ketjap with cooked white rice, sambal paste, cucumber salad and little bowls of the peanut & coconut mix. 
+I like to serve the Babi Ketjap with cooked white rice, sambal paste, cucumber salad and little bowls of the peanut & coconut mix.

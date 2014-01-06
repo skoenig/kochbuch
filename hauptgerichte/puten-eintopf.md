@@ -1,7 +1,6 @@
+- @new
 
-====== Puten-Eintopf ======
-Created Donnerstag, 03. März 2011
-
+## Zutaten
 500gr. Putenhack
 2kg Suppengemüse
 400gr. Basmati-Reis
@@ -9,6 +8,6 @@ Created Donnerstag, 03. März 2011
 ½ Glas gefriergetrocknete Zwiebeln
 3Teel. Knoblauchpulver
 
+## Zubereitung
 Putenhack anbraten(evtl. noch mit Paprika, Pfeffer, Curry usw würzen), das Suppengemüse zufügen..dann die Zwiebeln, Knoblauchpulver und die Gemüsebrühe zufügen. In der Zwischenzeit den Reis bissfest kochen. Alles in eine große Tupperschüssel geben und vermengen->durchziehen lasssen.
 
-Das ganze gibt ene richtig große Portion :D bei grade mal ca. 2700kcal.:

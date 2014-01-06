@@ -1,14 +1,14 @@
 - @done(2011-03-03)
 
 ## Zutaten für 2 Portionen
-* Weizen (Ebly), 1 Tasse/n
-* 2  	Fischfilet(s) (Seelachs)
-100 g 	Krabben oder Garnelen
-* 1  	Zwiebel(n)
-2 EL 	Olivenöl
-* 1 Zehe/n 	Knoblauch
-* 1  	Paprikaschote(n), rote
-* 2 Tasse/n 	Brühe aus Instant - Pulver
+- Weizen (Ebly), 1 Tasse/n
+- 2      Fischfilet(s) (Seelachs)
+100 g     Krabben oder Garnelen
+- 1      Zwiebel(n)
+2 EL     Olivenöl
+- 1 Zehe/n     Knoblauch
+- 1      Paprikaschote(n), rote
+- 2 Tasse/n     Brühe aus Instant - Pulver
 Salz und Pfeffer
 
 ## Zubereitung

@@ -1,13 +1,13 @@
+- @new
 
-====== Thunfisch Spaghetti ======
-Created Mittwoch 16 Februar 2011
-
+## Zutaten
 500gr Spaghetti ich nehm Vollkorn + Ei Spaghetti
 2 Dosen Thunfisch ( in Wasser )
 2-3 Tehen Knobi
 1 große Paprika Rot
 Viel Olivenöl
 
+## Zubereitung
 Spaghetti kochen "al dente" versteht sich.
 
 Parallel in einer Pfanne die Knobi Zehen in Olivenöl etwas erhitzen.
@@ -19,6 +19,3 @@ Mit etwas Salz & Pfeffer abschmecken.
 Spaghetti in eine Schüssel + Den Pfanneninhalt obendrauf.
 Eine Mengenangabe fürs Öl kann ich net geben ich nehme recht viel...
 Sodass eine Soße entsteht bzw. die Nudeln nicht trocken sind.
-
-Schmeckt echt lecker!
-Bis auf das Olivenöl wenig Fett. 

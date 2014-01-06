@@ -4,18 +4,18 @@
 Das ganze dürfte dann so ca. 4 Portionen ergeben - sofern man noch Beilagen, wie z.b. Kartoffeln, Reis, Nudeln, Vollkornbrot dazu futtert. Hält sich in einer großen Tupperschüssel auch locker 5-6Tage im Kühlschrank.
 
 ## Zutaten
-* 500gr. Thunfisch/Tartar/Putenhack/Soja-Hack etc…
-* 2 Do. Kidney-Bohnen
-* 1.Do. Mais
-* 1 Do. Brechbohnen
-* 1P. passierte Tomaten
-* 1Do. Tomaten(samt Saft!!)
-* 1/3Glas gefriergetrocknete Zwiebeln
-* 3geh. Teel. Alnatura Gemüsebrühe
-* 2-3Teel. Knoblauchpulver
-* 3-4Teel. Rosenpaprika scharf
-* 2Teel. Gem. Chillipulver
-* 2geh. Essl. Scharfes Paprikamark
+- 500gr. Thunfisch/Tartar/Putenhack/Soja-Hack etc…
+- 2 Do. Kidney-Bohnen
+- 1.Do. Mais
+- 1 Do. Brechbohnen
+- 1P. passierte Tomaten
+- 1Do. Tomaten(samt Saft!!)
+- 1/3Glas gefriergetrocknete Zwiebeln
+- 3geh. Teel. Alnatura Gemüsebrühe
+- 2-3Teel. Knoblauchpulver
+- 3-4Teel. Rosenpaprika scharf
+- 2Teel. Gem. Chillipulver
+- 2geh. Essl. Scharfes Paprikamark
 
 
 ## Zubereitung

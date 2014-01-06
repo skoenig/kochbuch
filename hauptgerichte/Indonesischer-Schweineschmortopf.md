@@ -18,7 +18,7 @@
  * Ofen auf 180 C vorheizen
  * Schalotten, Knoblauch in Scheiben schneiden
  * in Pfanne auf hoher Stufe kurz erhitzen
- * Fleisch wuerfeln, Ingwer in Scheiben schneiden 
+ * Fleisch wuerfeln, Ingwer in Scheiben schneiden
  * auf mittlere Hitze runterstellen, Schalotten / Knoblauch aus der Pfanne nehmen
  * Fleisch und Ingwer in die Pfanne geben 3-4 Minuten
  * Sojasosse, Kecup, Huehnerfond in die Pfanne geben, einmal aufkochen lassen

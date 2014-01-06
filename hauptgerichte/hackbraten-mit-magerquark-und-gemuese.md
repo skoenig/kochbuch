@@ -1,8 +1,4 @@
-Hackbraten mit magerquark und gemuese
-=====================================
-*created Sunday, 28. August 2011 - updated Monday, 25. November 2013*
-
-@done 2013-10-03
+- @done(2013-10-03)
 
 ## Zutaten
 167 g   Porree

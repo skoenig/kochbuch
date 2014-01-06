@@ -1,7 +1,6 @@
+- @new
 
-====== Putenfleisch-Nudelpfanne ======
-Created Donnerstag, 03. März 2011
-
+## Zutaten
 1 große Zwiebel
 1 Knoblauchzehe
 1 EL Tomatenmark
@@ -11,6 +10,7 @@ Created Donnerstag, 03. März 2011
 ~1/8 Rotwein (je nach Geschmack)
 Olivenöl (Geheimtipp: SesamÖl!)
 
+## Zubereitung
 Zwiebel klein schnipseln und zusammen mit dem Knoblauch anschwitzen, dann das kleingeschnippelte Putenfleisch dazu und scharf anbraten.
 salzen, pfeffern, Kräuter dazu und gut durchmischen.
 Das Tomatenmark rein und wieder durchmischen.
@@ -18,4 +18,3 @@ Dann mit dem Rotwein ablöschen und ein wenig Wasser dazu. Warten bis alles verk
 
 Wenn ihr nicht grade auf Diät seit könnt ihr auch ein bissl Parmesan drüberreiben = LECKER²
 
-Konnt leider keine Pics machen weil ich vor lauter Hunger gleich die ganze Pfanne in mich hineingeschaufelt habe (bis auf den Teller den ich meiner Freundin abgegeben hab) :-)

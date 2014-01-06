@@ -1,14 +1,14 @@
-====== Low Carb Omegabällchen ======
-Created Donnerstag, 03. März 2011
+- @new
 
-=== Zutaten: ===
-* 2 Büchsen Thunfisch in Wasser
-* 1 ganzes Ei und 4 Eiklar
-* 40gr Leinsamen geschrotet
-* 1 Zwiebel
-* Roter Pfeffer
 
-=== Zubereitung: ===
+## Zutaten
+- 2 Büchsen Thunfisch in Wasser
+- 1 ganzes Ei und 4 Eiklar
+- 40gr Leinsamen geschrotet
+- 1 Zwiebel
+- Roter Pfeffer
+
+## Zubereitung
 Den Thunfisch auspressen und in ein Gefäß reingeben.
 jetzt das ein und das Eiklar dazugeben.
 die Zwiebel in fein Würfel schneiden und auch dazumengen.

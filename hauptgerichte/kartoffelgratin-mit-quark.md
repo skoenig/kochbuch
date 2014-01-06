@@ -1,21 +1,19 @@
+- @new
 
-====== Kartoffelgratin mit Quark ======
-Created Donnerstag, 03. März 2011
-
-Zutaten für 2 Portionen
-500 g 	Kartoffel(n), festkochend
-250 g 	Quark (Magerquark)
+## Zutaten für 2 Portionen
+500 g     Kartoffel(n), festkochend
+250 g     Quark (Magerquark)
 1 EL         Parmesan, gerieben
-2  	        Eigelb
-1 EL 	Kräuter, gemischt, gehackt
-  	Salz
-  	Pfeffer, weiß
-  	Cayennepfeffer
-2  	Eiweiß
-1 EL 	Sesam
-  	Fett für die Auflaufform
+2              Eigelb
+1 EL     Kräuter, gemischt, gehackt
+      Salz
+      Pfeffer, weiß
+      Cayennepfeffer
+2      Eiweiß
+1 EL     Sesam
+      Fett für die Auflaufform
 
-Zubereitung
+## Zubereitung
 Kartoffeln schälen, in Scheiben hobeln und in kochendem Wasser ca. 2 Min. lang blanchieren. Anschließend abtropfen lassen.
 
 Quark mit Käse, Eigelb und Kräutern verrühren und mit den Gewürzen abschmecken.
@@ -25,5 +23,3 @@ Abwechselnd Kartoffelscheiben und Quarkmasse in eine gefettete, flache Auflauffo
 Sesam darüber streuen und das Gericht ca. 25 Min. lang bei 200°C im vorgeheizten Backofen auf mittlerer Schiene backen.
 
 Passt gut zu Braten, Schnitzel oder auch zu einem Buffet.
-Zubereitungszeit: 	ca. 20 Min.
-Schwierigkeitsgrad: 	normal

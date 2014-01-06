@@ -1,7 +1,6 @@
+- @new
 
-====== Spinat auf Nudeln mit Schinkenstreifen und Gorgonzolasoße ======
-Created Donnerstag, 03. März 2011
-
+## Zubereitung
 Man nehme Blattspinat, 200gr fettfreien Schinken , 1-2 Zwiebeln, etwas Sahne (70 ml bei eienr person ist noch tragbar ;) ), Gorgonzola.
 
 

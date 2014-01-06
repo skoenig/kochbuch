@@ -1,8 +1,6 @@
+- @new
 
-
-Zucchini-Spaghetti
-========================================================================
-Zutaten für eine Person:
+## Zutaten für eine Portion
 1 Zucchini
 2 Tomaten
 2 EL Mineralwasser
@@ -13,7 +11,7 @@ Salz, Pfeffer
 Gyrosgewürz
 frische Kräuter
 
-Zubereitung:
+## Zubereitung
 Mit einem Schälmesser die Zucchini in feine Streifen schneiden. Also in Spaghetti.
 In einem Topf mit Olivenöl andünsten. Tomaten und Oliven in kleine
 Stückchen schneiden und dazu geben. Dann das Wasser hinzufügen.

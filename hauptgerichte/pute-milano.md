@@ -1,7 +1,6 @@
+- @new
 
-====== Pute Milano ======
-Created Donnerstag, 03. März 2011
-
+## Zubereitung
 habe 100g pute dünn geklopft + salz/pfeffer
 
 zwiebeln + champignons angebraten, etwas sauerkraut und spargel dazu (beiden relativ wenig) +50g rinderhack + 25g gewürzketchup und 20g barbecue soße + italienische kräuter + 40g passierte tomaten

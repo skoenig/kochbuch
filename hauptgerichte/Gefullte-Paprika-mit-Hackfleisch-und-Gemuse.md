@@ -1,19 +1,20 @@
+- @new
 
 ## Zutaten für 2 Portionen
 [[/uploads/gefuellte-paprika.jpg|float|align=right]]
 
-- 1,33  	Zwiebel(n)
-- 2 große 	Paprikaschote(n), (rote und gelbe)
-- 133 g 	Möhre(n)
-- 0,67 Stange/n 	Lauch
-- 0,67 Stange/n 	Staudensellerie
-- 0,67  	Brokkoli
-- 300 g 	Hackfleisch, gemischt
-- 100 g 	Käse, Gouda gerieben
-- 167 ml 	Gemüsebrühe
-- 1,33 EL 	Butter
--  	Salz und Pfeffer
-- 0,67 TL 	Paprikapulver
+- 1,33      Zwiebel(n)
+- 2 große     Paprikaschote(n), (rote und gelbe)
+- 133 g     Möhre(n)
+- 0,67 Stange/n     Lauch
+- 0,67 Stange/n     Staudensellerie
+- 0,67      Brokkoli
+- 300 g     Hackfleisch, gemischt
+- 100 g     Käse, Gouda gerieben
+- 167 ml     Gemüsebrühe
+- 1,33 EL     Butter
+-      Salz und Pfeffer
+- 0,67 TL     Paprikapulver
 
 [[_]]
 ## Zubereitung
@@ -34,4 +35,4 @@ Mit dem Käse wird das Hackfleisch nun unter das Gemüse vermischt und in die Pa
 Das Ganze nun bei 175°C ca 25-30 Minuten schmoren lassen.
 Der Paprika ist noch schön fest und die Füllung sehr lecker!
 
-Dazu passt Reis, Kartoffelpüree oder auch einfache Kartoffeln, mehr Gemüse braucht man nicht! 
+Dazu passt Reis, Kartoffelpüree oder auch einfache Kartoffeln, mehr Gemüse braucht man nicht!
