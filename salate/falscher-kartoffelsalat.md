@@ -1,5 +1,8 @@
 _created Sunday, 28. August 2011_
 
+- @new
+- @lowcarb
+
 ein kartoffelsalat-ersatz mit wenig kohlenhydraten (knapp 4 %), lässt sich aus der steckrübe zaubern. er schmeckt zwar minimal süsser, als die klassische variante, ist ihr in der konsistenz aber sehr ähnlich.
 
 ## Zutaten
