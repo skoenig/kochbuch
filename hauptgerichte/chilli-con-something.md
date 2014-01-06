@@ -1,13 +1,9 @@
+- @new
+- @lowcarb
 
-====== Chilli con… ======
-Created Donnerstag, 03. März 2011
+Das ganze dürfte dann so ca. 4 Portionen ergeben - sofern man noch Beilagen, wie z.b. Kartoffeln, Reis, Nudeln, Vollkornbrot dazu futtert. Hält sich in einer großen Tupperschüssel auch locker 5-6Tage im Kühlschrank.
 
-Für den Aufbau mit Sicherheit ne gute Alternative…für die Diät aufgrund der vielen „Dosenzutaten“ weniger geeignet.
-
-Das ganze dürfte dann so ca. 4Portionen ergeben-sofern man noch Beilagen, wie z.b. Kartoffeln, Reis, Nudeln, Vollkornbrot dazu futtert. Hält sich in einer großen Tupperschüssel auch locker 5-6Tage im Kühlschrank.
-
-
-Zutaten:
+## Zutaten
 * 500gr. Thunfisch/Tartar/Putenhack/Soja-Hack etc…
 * 2 Do. Kidney-Bohnen
 * 1.Do. Mais
@@ -22,5 +18,5 @@ Zutaten:
 * 2geh. Essl. Scharfes Paprikamark
 
 
-Zubereitung:
-Das Fleisch/Fisch zusammen mit den Zwiebeln anbraten(in einem GROßEN Topf!!). Bohnen+Mais in einem Sieb mit heißem Wasser gründlich abspülen->zu dem angebratetenen Fleisch geben. Passierte Tomaten+Dosentomaten dazu. Dann alle Gewürze dazugeben und ca. 90 min bei kleiner Flamme unter gelegentlichem Umrühren einköcheln lassen. Wenn es anfangs zu pampig erscheint->nicht täuschen lassen, die Dosenzutaten geben beim Einköcheln noch ordentlich Flüssigkeit ab
+## Zubereitung
+Das Fleisch/Fisch zusammen mit den Zwiebeln anbraten(in einem GROßEN Topf!!). Bohnen+Mais in einem Sieb mit heißem Wasser gründlich abspülen->zu dem angebratetenen Fleisch geben. Passierte Tomaten+Dosentomaten dazu. Dann alle Gewürze dazugeben und ca. 90 min bei kleiner Flamme unter gelegentlichem Umrühren einköcheln lassen. Wenn es anfangs zu pampig erscheint->nicht täuschen lassen, die Dosenzutaten geben beim Einköcheln noch ordentlich Flüssigkeit ab.
