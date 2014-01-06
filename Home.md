@@ -4,7 +4,7 @@ hier
 
 sind ein
 
-paar leckere Sachen 
+paar leckere Sachen
 
 für die speckigen Backentaschen:
 
@@ -12,11 +12,9 @@ für die speckigen Backentaschen:
 
 [Salate](pages/salate/)
 
-[Beilagen](pages/beilagen/)
-
 [Snacks & Shakes ](pages/snacks_und_shakes/)
 
-[[_]] 
+[[_]]
 
 ## Links
 
