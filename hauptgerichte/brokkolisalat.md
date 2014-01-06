@@ -1,8 +1,6 @@
+- @new
 
-====== Brokkolisalat ======
-Created Mittwoch 16 Februar 2011
-
-
+## Zutaten
 
 für den Salat:
 Brokkoli
@@ -16,5 +14,6 @@ für die marinade:
 etwas süßstoff
 2 esslöffel essig
 
+## Zubereitung
 brokkoli in salzwasser garen und gleichzeitig schinkenwürfel oder speck rösten in einer pfanne.. frühlingszwiebeln dazu und dann den brokkoli untermischen.. nach 1-2 minuten von der herdplatte nehmen und etwas fettarmen käse drüber reiben.
 Die marinade gut mit dem brokkoli-schinken-misch vermengen und etwas abkühlen lassen.
