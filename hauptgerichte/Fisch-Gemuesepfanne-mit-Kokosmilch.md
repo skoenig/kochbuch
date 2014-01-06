@@ -2,6 +2,8 @@
 - @lowcarb
 
 ##Zutaten
+[[/uploads/Fisch-Gemuesepfanne-mit-Kokosmilch.jpg|float|align=right|width=400px|heigth=300px]]
+
 - 500 g	 Fischfilet(s), TK oder frisch (z. B. Pangasius, Seelachs)
 - 1 	 Zucchini
 - 1 	 Paprikaschote(n), gelbe
@@ -16,6 +18,8 @@
 -  	 Salz und Pfeffer
 -  	 Knoblauch
 -  	 Dill
+
+[[_]]
 
 ##Zubereitung
 
