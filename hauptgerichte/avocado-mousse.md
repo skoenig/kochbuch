@@ -1,6 +1,6 @@
-====== Avocado Mousse ======
-Created Mittwoch 16 Februar 2011
+- @new
 
+##Zutaten
 * Avocado (reif, d.h. so dass man sie mit Schale schon gut eindrücken kann), 1 Stück
 * 1/2 Zitrone
 * 1/4 Zwiebel
@@ -8,6 +8,7 @@ Created Mittwoch 16 Februar 2011
 * Pfeffer
 * Kräuter
 
+##Zubereitung
 Man schneidet nun die Avocado in 2 Hälften, löffelt den Inhalt aus und packt das ganze in eine Schüssel. Das Ganze wird dann püriert. Danach presst man darüber die Zitrone aus (erst einmal sparsam verwenden, nicht alles auspressen). Danach schneidet man die 1/4 Zwiebel in kleine Teilchen und gibt sie zu dem Avocado Brei hinzu. Anschliessend gibt man die Kräuter (TK oder frisch) dazu und würzt das alles mit Salz und Pfeffer. Eventuell mit noch etwas mehr Zitrone abschmecken.
 
 Schmeckt hervorragend zu:
