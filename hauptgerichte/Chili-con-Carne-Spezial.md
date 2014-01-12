@@ -1,9 +1,9 @@
 - @lowcarb
 - @done(2013-01-11)
 
+## Zutaten für 4 Portionen
 [[uploads/chili-con-carne-spezial.jpg|align=right|float]]
 
-## Zutaten für 4 Portionen
 - 2 2/3 Stk.	Gemüsezwiebeln fein gehackt
 - 2 2/3 Stk.	Knoblauchzehen gehackt
 - 666 2/3 gr.	Tomatenfruchtfleisch in Stücken
