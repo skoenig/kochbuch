@@ -1,4 +1,4 @@
-[[uploads/food.jpg|align=right|float]]
+[[uploads/chili-con-carne-spezial.jpg|align=right|float]]
 
 hier
 
