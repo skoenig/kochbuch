@@ -1,4 +1,4 @@
-[[uploads/chili-con-carne-spezial.jpg|align=right|float]]
+[[uploads/chili-con-carne-spezial.jpg]]
 
 - @lowcarb
 - @done(2013-01-11)
