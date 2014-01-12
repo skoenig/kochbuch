@@ -2,6 +2,7 @@
 - @done(2013-01-11)
 
 ## Zutaten für 4 Portionen
+[[uploads/food.jpg|align=right|float]]
 [[uploads/chili-con-carne-spezial.jpg|align=right|float]]
 
 - 2 2/3 Stk.	Gemüsezwiebeln fein gehackt
