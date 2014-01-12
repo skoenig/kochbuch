@@ -3,7 +3,7 @@
 
 ## Zutaten für 4 Portionen
 
-[[uploads/food.jpg|align=right|float]]
+[[uploads/food.jpg]]
 
 [[uploads/chili-con-carne-spezial.jpg|align=right|float]]
 
