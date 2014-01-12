@@ -1,13 +1,9 @@
-[[/uploads/chili-con-carne-spezial.jpg]]
-
-
-
 - @lowcarb
 - @done(2013-01-11)
 
 ## Zutaten für 4 Portionen
 
-
+[[/uploads/chili-con-carne-spezial.jpg]]
 
 - 2 2/3 Stk.	Gemüsezwiebeln fein gehackt
 - 2 2/3 Stk.	Knoblauchzehen gehackt
@@ -28,8 +24,9 @@
 - 333 1/3 Gramm	Gehacktes halb und halb
 - 5 1/3 EL	Olivenöl
 
-## Zubereitung
+[[_]]
 
+## Zubereitung
 Die Zwiebeln und das Hack in dem Olivenöl anbraten.
 Die Tomatenstücke, geschälte Tomaten, Tomatenmark, Knoblauch, Bohnen , Mais, Lorbeerbblätter, Chili, Rotwein, Kreuzkümmel, Salz, Pfeffer , Zucker und die Brühe hinzugeben. Bei Bedarf etwas Wasser hinzugeben wenn das Chili zu dick wird.
 Jetzt die "Geheim - Zutat" Kakaopulver (Nesquick) hinzugeben. Dadurch wird das Chili schön Cremig, bekommt eine schöne dunkle Farbe und gibt einen super Geschmack !!!!
