@@ -1,5 +1,4 @@
-
-[[uploads/chili-con-carne-spezial.jpg]]
+[[/uploads/chili-con-carne-spezial.jpg]]
 
 
 
