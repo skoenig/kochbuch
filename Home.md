@@ -37,7 +37,7 @@ für die speckigen Backentaschen:
 - Pork
 - Lamb
 
-## Legumes
+### Legumes
 per 100g    | calories | carbs | protein | fat
 ------------|----------|-------|---------|------
 Black beans |  193.60  | 34.50 |  10.90  | 0.80
@@ -49,8 +49,7 @@ Kidney Beans|  121.00  | 20.80 |   8.12  | 0.93
 White Beans |  114.00  | 21.20 |   7.26  | 0.29
 Green beans |   21.00  |  4.25 |   1.26  | 0.37
 
-
-## Vegetables
+### Vegetables
 per 100g                        | calories | carbs | protein | fat
 --------------------------------|----------|-------|---------|------
 Asparagus (Gemüsespargel)       |  19.00   |  2.46 |   2.14  | 0.65
