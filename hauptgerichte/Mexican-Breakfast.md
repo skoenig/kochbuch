@@ -1,9 +1,10 @@
 - @done(2013-01-02)
 - @lowcarb
+- @breakfast
 
 ## Zutaten
-- 2 Eiklar
-- 1/2 Packung mexikanisches TK MIschgemüse
+- 3 Eiklar, 1 Vollei
+- 1/2 Packung mexikanisches TK Mischgemüse
 - 1 Dose schwarze Bohnen
 
 ## Zubereitung
