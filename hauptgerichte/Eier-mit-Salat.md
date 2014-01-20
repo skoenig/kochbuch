@@ -1,5 +1,6 @@
 - @lowcarb
 - @breakfast
+- @new
 
 ## Zutaten
 - 3 Eier
