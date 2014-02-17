@@ -1,12 +1,13 @@
 - @new
-
-![siumai](http://kochbuch.gauss/uploads/siumai.jpg "siu mai")
+[[uploads/siumai.jpg|align=right|float]]
 
 Yields about 20 dumplings
 
 Prep Time: 30 minutes
 Cook Time: 15 minutes
 Total Time: 45 minutes
+
+[[_]]
 
 ## Ingredients
 
