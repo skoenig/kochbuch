@@ -1,5 +1,5 @@
 - @new
-[[uploads/siumai.jpg|align=right|float]]
+[[/uploads/siumai.jpg|align=right|float]]
 
 Yields about 20 dumplings
 
