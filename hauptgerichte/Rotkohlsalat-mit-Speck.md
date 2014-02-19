@@ -3,7 +3,6 @@
 
 
 ## Zutaten
-
 [[uploads/rotkohlsalat.jpg|align=right|float]]
 
 - 1 Kopf	 Rotkohl oder 1 Glas fertigen Rotkohl (550g)
