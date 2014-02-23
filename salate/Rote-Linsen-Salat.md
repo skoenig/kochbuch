@@ -2,7 +2,7 @@
 - @done(2014-02-23)
 
 ## Zutaten
-[[/uploads/auberginen-la-napoli.jpg|float|align=right|width=400px|heigth=300px]]
+[[/uploads/rote-linsen-salat.jpg|float|align=right|width=400px]]
 - 150 g	 Linsen, rote
 - 500 ml Gemüsebrühe
 - 100 g  Feldsalat
