@@ -1,3 +1,5 @@
+- @done
+
 ## Zutaten
 - 0,75 kg	Schweinenuss
 - Salz & Pfeffer

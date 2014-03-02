@@ -1,5 +1,6 @@
 - @lowcarb
 - @breakfast
+- @new
 
 ## Zutaten
 - 2 Eiklar, 1 Vollei

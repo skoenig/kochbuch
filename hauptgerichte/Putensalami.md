@@ -1,10 +1,10 @@
 - @new
 
 ## Zutaten
-2 Putenschnitzel
-1 Zwiebel
-2 Scheiben Käse
-6 kleine Salamischeiben
+- 2 Putenschnitzel
+- 1 Zwiebel
+- 2 Scheiben Käse
+- 6 kleine Salamischeiben
 
 ## Zubereitung
 Zwiebel in halbe Ringe schneiden und in der Pfanne mit Margarine anschwitzen, nach einiger Zeit (sobald die ersten Ringe braun werden) Putenschnitzel (ich nehme immer 2 x 160g, ja, die sind "standardisiert") dazugeben und Hitze reduzieren, Schnitzel fertig braten.
