@@ -1,7 +1,4 @@
-Eiersalat
-==========
-*created Wednesday, 16. February 2011*
-
+- @new
 
 ## Zutaten
 - 500ml Eiklar
@@ -11,8 +8,6 @@ Eiersalat
 - etwas fettarme Milch
 - Salz und schwarzer Peffer
 
-
 ## Zubereitung
 Eiklar anbraten und abbkühlen lassen. Zwiebeln in Würfel schneiden und mit Mayo und Senf vermischen. Soviel Milch hinzugeben bis es eine gute Konsitenz gibt (nicht zu dick). Mit Salz und Peffer abschmecken. Zum Schluss gebratens Eiklar unterühren. Dauert ca. 10 min und ist sehr lecker.
-
 

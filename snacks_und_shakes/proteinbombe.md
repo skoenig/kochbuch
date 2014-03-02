@@ -1,17 +1,11 @@
+- @new
 
-====== Proteinbombe ======
-Created Donnerstag, 03. März 2011
+## Zutaten
+- 250g Magerquark
+- 3 ganze Eier
+- 50g Proteinpulver (z.B. Vanille)
+- 300ml Milch
 
-Probiert mal diesen Quarkkuchen (ideal für Unterwegs):
-
-250g Magerquark
-3 ganze Eier
-50g Proteinpulver (z.B. Vanille)
-300ml Milch
-
+## Zubereitung
 Alles zusammenmischen. 25 min bei 200° im Ofen backen.
 
-Fertig...
-
----
-Wer es fettarmer haben will, der kann statt den Eiern 100ml Eiklar nehmen...

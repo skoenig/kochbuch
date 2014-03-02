@@ -1,18 +1,14 @@
+- @new
+## Zutaten
+- 200gr Proteinpulver (Vanille)
+- 70gr Maisstärke
+- 750gr Beerenmischung Tiefgekühlt aus dem Aldi
+- 1 liter Milch (oder Soyamilch bei Laktoseintoleranz)
+- 330gr Reis (Originario)
+- Vanillenextrkt
+- Süsstoffpulver
 
-====== Panerais Milchreis ======
-Created Donnerstag, 03. März 2011
-
-Zutaten
-
-200gr Proteinpulver (Vanille)
-70gr Maisstärke
-750gr Beerenmischung Tiefgekühlt aus dem Aldi
-1 liter Milch (oder Soyamilch bei Laktoseintoleranz)
-330gr Reis (Originario)
-Vanillenextrkt
-Süsstoffpulver
-
-
+## Zubereitung
 Die Milch in einen grossen Topf reingeben dazu noch 1 liter Wasser und das Reis dazu.
 Dass ganze muss jetzt zum Kochen gebracht werden und dann ca 15min kochen.
 
@@ -28,10 +24,5 @@ man kann es warm oder auch kalt essen,ich bevorzuge die Kalte veriante :)
 
 Statt Wasser kann man natürlich auch Milch nehmen.
 
-Dises Milchreis lässt sich ohne probleme 4 Tage im Kühlscharnk halten,bei mir sind die 4 liter nach 3 Tagen jedoch bereits verputzt :-)
+Dises Milchreis lässt sich ohne probleme 4 Tage im Kühlschrank halten,bei mir sind die 4 liter nach 3 Tagen jedoch bereits verputzt :-)
 
-Guten Appetit.
-
-Werde mal bei gelegenheit ein Foto machen wenn ich das nächste mal Milchreis mache
-
-Gruss Panerai

@@ -1,11 +1,5 @@
-
-====== All-Inclusive-Shake ======
-Created Donnerstag, 03. März 2011
-
-Hi Zusammen,
-
-hier mal mein Rezept für einen, in meinen Augen, allesumfassenden Shake:
-
+- @new
+## Zutaten
 - 600g Magerquark
 - 2 Bananen
 - 100 g Joghurt
@@ -16,7 +10,7 @@ hier mal mein Rezept für einen, in meinen Augen, allesumfassenden Shake:
 - 50 g Honig
 (-Geschmackssache: Kakao dazu)
 
+## Zubereitung
 Alles ab in' Mixer und gut durchquirlen.
 Wem der Quark zu dickflüssig macht, kann auch aufgeweichte Sojabohnen nehmen, die haben zwar etwas mehr Fett, aber auch mehr Eiweiß.
 
-Schmeckt super finde ich, und so hau ich mir das fast jeden Trainingstag weg. 

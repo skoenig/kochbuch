@@ -1,14 +1,12 @@
+- @new
 
-====== Quarkkuchen 7 ======
-created Saturday, 11. February 2012
+## Zutaten
+- Süßstoff entsprechend ca. 100  g Zucker
+- Vanillezucker               1  Pkg
+- Eier                        3  Stück
+- Backpulver                  1  Pkg
+- Grieß                       2  EL
+- Magerquark               1000  g
 
-=== Zutaten: ===
-Süßstoff entsprechend ca. 100  g Zucker
-Vanillezucker               1  Pkg
-Eier                        3  Stück
-Backpulver                  1  Pkg
-Grieß                       2  EL
-Magerquark               1000  g
-=== Zubereitung: ===
+## Zubereitung
 Alles verrühren und in eine Kuchenform geben, bei 170°C für ca. 50 Minuten im Ofen backen. Keine Umluft!
-=== Nährwerte: ===

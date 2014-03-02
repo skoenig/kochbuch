@@ -1,16 +1,14 @@
+- @new
 
-====== Quarkkuchen 1 ======
-created Sonntag, 28. August 2011
+## Zutaten
+- Eier        3 Stk
+- Magerquark  250 g
+- Butter      250 g
+- Süßstoff (flüssig)
+- Kakaopulver
+- Vanillearoma
 
-== Zutaten: ==
-Eier        3 Stk
-Magerquark  250 g
-Butter      250 g
-Süßstoff (flüssig)
-Kakaopulver
-Vanillearoma
-
-== Zubereitung: ==
+## Zubereitung
 Backofen auf 160 Grad vorheizen, Eier trennen, Eiweiß so steif wie möglich schlagen.
 Eigelb mit dem Quark vermengen und mit dem Rührgerät schaumig-locker schlagen. Nach belieben Süßstoff zugeben bis eine süß-glatte Masse entsteht.
 Wer will kann jetzt noch ein paar Tropfen Vanillearoma (empfehle Buttervanille) und oder etwas Kakaopulver in die Eigelb-Quark-Masse rühren.

@@ -1,13 +1,12 @@
-= Thunfisch Salat Mit Brokkoli =
-created Thursday, 20. September 2012 
+- @new
 
-== Zutaten: ==
+## Zutaten
 * Eine Hand voll Broccoli
 * Eine Dose Thunfisch Naturell ohne Öl
 * Kleiner Becher Joghurt
 * Salz, Pfeffer
 
-== Zubereitung: ==
+## Zubereitung
 Den Broccoli verzehrfertig kochen, danach abkühlen lassen.
 Joghurt, Salz und Pfeffer je nach Geschmack, vermengen.
 Thunfisch Naturell abtropfen und in die Sauce unterheben.

@@ -6,7 +6,7 @@
 - 4 Zehen Knobi
 - 2 Grosse Zwiebeln
 - 1-2 trockene Brötchen.
-- Olivenöl ==> Gute 2-3 Esslöffel
+- Olivenöl Gute 2-3 Esslöffel
 - Salz & Pfeffer nach Geschmack
 
 
@@ -18,12 +18,12 @@ Die Brötchen kurz weichen lassen + rein
 Salz & Pfeffer nach Geschmack
 Öl nicht vergessen
 
-Alles gut durchkneten!!!
+Alles gut durchkneten
 
 Bällchen formen und in die Mitte ein grosses Stück Schafskäse
-Ich mache so 8 Stück aus 500gr manchmal 10 wenn die Frau mitißt;)
+Ich mache so 8 Stück aus 500gr manchmal 10 wenn die Frau mitißt
 
-Pfanne heissmachen & rein damit!!!
+Pfanne heissmachen & rein damit!
 
 Parallel Naturreis kochen. 125gr
 Ich brate in Olivenöl.... der Saft der dabei entsteht, nehme ich für über den Reis dann ist es nicht trocken....

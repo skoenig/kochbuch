@@ -15,8 +15,8 @@ Das Hackfleisch mit den fein geschnittenen Zwiebeln, dem Ei und Eiweiss und Parm
 Dann aus dem Teig kleine Frikadellen formen und in der Pfanne anbraten.
 Das Rezept reicht etwa für 5 kleine Frikadellen. Also eher ein Rezept zum mal kosten.
 
-=== Nährwerte: ===
-kcal: 580
-Eiweiss: 69,1 g
-KH:6,0 g
-Fett: 27,6 g
+##  Nährwerte
+- kcal: 580
+- Eiweiss: 69,1 g
+- KH:6,0 g
+- Fett: 27,6 g
