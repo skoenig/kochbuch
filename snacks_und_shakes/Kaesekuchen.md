@@ -1,11 +1,11 @@
 - @new
 
 ## Zutaten
-1000g Magerquark
-200g Kleie
-20 Eiklar
-Süßstoff
-Backpulver
+- 1000g Magerquark
+- 200g Kleie
+- 20 Eiklar
+- Süßstoff
+- Backpulver
 
 ## Zubereitung
 Alles gut mischen und dann bei 180 Grad 60-80 min in den Ofen (Bis da ganze einigermaßen fest ist.
