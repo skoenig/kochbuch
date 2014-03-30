@@ -20,3 +20,8 @@
 
 Die Kichererbsen 12 Stunden einweichen - kann man sich bei den Kichererbsen aus dem Glas sparen. Etwa 1 Stunde weich kochen, Wasser abgießen und beiseite stellen. 
 Alle Zutaten von Kichererbsen bis Salz im Mixer pürieren oder mit dem Pürierstab zerkleinern. Es muss eine geschmeidige Masse entstehen. Falls die Masse zu trocken ist, etwas vom Kochwasser hinzufügen. Am Schluss Tahin und Zitronensaft unterrühren. Die Masse in den Kühlschrank stellen. 
+
+## Alternative Zubereitung - ausprobiert von dima
+http://www.chefkoch.de/rezepte/1445571249478297/Hummus-Israeli.html
+
+Hauptunterschied: mehr wasser und oel.
