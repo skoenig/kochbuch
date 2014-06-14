@@ -5,16 +5,14 @@
 
 - 1 EL     Senf
 - 100 g    Linsen, rote
-- ½ kleine     Zwiebel(n)
+- ½ kleine Zwiebel(n)
 - 2 EL     Öl
 - ½ EL     Sojasauce
--
-- n. B.    Petersilie, gehackte
 - Paprikapulver
-- Pfeffer
+- n. B.    gehackte Petersilie
 - n. B.    Essig
 - n. B.    Zitronensaft
-- Salz
+- Salz & Pfeffer
 
 ## Zubereitung
 
