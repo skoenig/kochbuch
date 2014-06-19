@@ -1,16 +1,12 @@
-Zutaten
+- @lowcarb
+- @done(2014-06-19)
 
-   100 g       Mehl (Mandelmehl)
-   50 g        Süßstoff (Erythrit)
-   2 EL        [59]Wasser
-   1 EL, gest. Mus (Mandelmus)
+## Zutaten
 
-Zubereitung
+- 100 g       Mehl (Mandelmehl)
+- 50 g        Süßstoff (Erythrit)
+- 2 EL        Wasser
+- 1 EL, gest. Mus (Mandelmus)
 
-   Arbeitszeit: ca. 3 Min. / Schwierigkeitsgrad: simpel / Brennwert p. P.:
-   keine Angabe
-   Den Süßstoff mit 2 EL Wasser mischen, damit er sich etwas auflöst.
-   Mandelmehl und Mandelmus dazugeben und alles gut miteinander verrühren.
-   Aus der Masse Kugeln formen. Ergibt ca. 15 Stück. Im Kühlschrank
-   aufbewahren.
-
+## Zubereitung
+Den Süßstoff mit 2 EL Wasser mischen, damit er sich etwas auflöst.  Mandelmehl und Mandelmus dazugeben und alles gut miteinander verrühren. Aus der Masse Kugeln formen. Ergibt ca. 15 Stück. Im Kühlschrank aufbewahren.
