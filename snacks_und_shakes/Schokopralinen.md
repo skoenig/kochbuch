@@ -1,21 +1,16 @@
 - @lowcarb
+- @done(2014-08-31)
 
 ## Zutaten
 
-- 200 g [59]Mandel(n), frische, fein gemahlen
-- 2 EL Mus (Mandelmus)
-- 2 TL, gestr. Kakaopulver (RohkostqualitÃ¤t)
+- 200 g gemahlene Mandel(n)
+- 2 EL Mandelmus
+- 2 TL gestr. Kakaopulver
 - etwas Aroma (Orangenaroma)
 - etwas Zitronensaft, frisch gepresst
-- n. B. SÃ¼Ãstoff (Erythrit light)
-- n. B. [60]Wasser
+- n. B. Süßstoff (Erythrit light)
+- n. B. Wasser
 
 ## Zubereitung
 
-   Die frisch gemahlenen Mandeln in
-   eine SchÃ¼ssel geben. Mandelmus, Kakao, Orangenaroma, Zitronensaft und
-   Erythrit light nach Belieben dazugeben. Alles miteinander verrÃ¼hren
-   und so viel Wasser dazugeben, bis es eine formbare Masse gibt. Sollte
-   es zu feucht sein, kÃ¶nnen noch geriebene Mandeln dazugegeben werden,
-   bis die Masse passt. Aus der Mischung Kugeln formen. Im KÃ¼hlschrank
-   aufbewahren.
+Die frisch gemahlenen Mandeln in eine Schüssel geben. Mandelmus, Kakao, Orangenaroma, Zitronensaft und    Erythrit light nach Belieben dazugeben. Alles miteinander verrühren und so viel Wasser dazugeben, bis es eine formbare Masse gibt. Sollte es zu feucht sein, können noch geriebene Mandeln dazugegeben werden,    bis die Masse passt. Aus der Mischung Kugeln formen. Im Kühlschrank aufbewahren.
