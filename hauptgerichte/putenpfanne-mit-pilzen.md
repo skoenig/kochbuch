@@ -1,15 +1,15 @@
 - @new
 
 ## Zutaten
-- 200-300g Putenbrustfilet
-- 300g Champingnongs
-- 1Zwiebel
-- 1EL Schmand/Sauresahne / Creme frech legére (ka wie mans schreibt)
+- 500g Putenbrustfilet
+- 400g Champingnongs
+- 1 große Zwiebel
+- 1 EL Schmand/Sauresahne / Creme frech legére (ka wie mans schreibt)
 - 1-2EL Olivenöl
-- 1/2Brühwürfel
+- 1/2 Brühwürfel
 - Gewürze z.B. Italienisch
-- Zuchini
+- 250g Zuchini
 - Chili
 
 ## Zubereitung
-Putenfilet in Streifen schneiden. Öl in einer Pfanne erhitzen. Putenfleisch braten...während es brät Pilze waschen und schneiden.Zwiebel Würfeln mit anbraten.Zuchine und chili schneiden...zuchini zugeben Pilze zugeben.chili zugeben. Schmand rein. Brühwürfel zugeben unterrühren. Würzen
+Putenfilet in Streifen schneiden, Zwiebel würfeln, Öl in einer Pfanne erhitzen. Putenfleisch braten...während es brät Pilze waschen und schneiden. Zwiebel Würfeln mit anbraten. Zuchini und chili schneiden... Zuchini, Pilze und Chili zugeben. Schmand rein. Brühwürfel zugeben unterrühren. 
