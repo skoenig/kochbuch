@@ -2,7 +2,7 @@
 - @done(2015-02-08)
 
 ## Zutaten für 3 Portionen
-[[/uploads/eiersalat.jpg|float|align=right]]
+[[/uploads/eiersalat.jpg|float|align=right|width=400px]]
 
 - 6.00 Ei, Eier
 - 500.00 g, Magerquark
