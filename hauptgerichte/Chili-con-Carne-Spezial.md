@@ -5,29 +5,28 @@
 
 [[/uploads/chili-con-carne-spezial.jpg|align=right|float]]
 
-- 2 2/3 Stk.	Gemüsezwiebeln fein gehackt
-- 2 2/3 Stk.	Knoblauchzehen gehackt
-- 666 2/3 gr.	Tomatenfruchtfleisch in Stücken
-- 1 1/3 Dose	geschälte Tomaten, klein geschnitten
-- 4 EL	Tomatenmark Tube
-- 4 Dose	Rote Kidney Bohnen a 420 gramm
-- 1 1/3 Dose	Mais - kleine Dose
-- 1 1/3 TL	Kreuzkümmel gemahlen
-- 4 Stk.	Lorbeerblätter, nach dem Kochen entfernen
-- 1 1/3 Stk.	Chili Schote getrocknet gemahlen, ca 3 gramm
-- 133 1/3 ml	Rotwein trocken
-- 1 1/3 EL	Körnige Gemüsebrühe Pulver
-- 4 EL	Herrenschokolade
-- 1 1/3 Prise	Salz
-- 1 1/3 Prise	Pfeffer aus der Mühle
-- 1 1/3 Prise	Oregano
-- 333 1/3 Gramm	Gehacktes halb und halb
-- 5 1/3 EL	Olivenöl
+- 2 	    Gemüsezwiebeln fein gehackt
+- 1/2  	    Knoblauchknolle gehackt
+- 1 Dose (400 gramm) geschälte Tomaten
+- 500 g     passierte Tomaten
+- 4 EL	    Tomatenmark
+- 4 Dosen   rote Kidney Bohnen a 255 gramm
+- 1 Dose	Kichererbsen a 265 gramm
+- 1 TL	    Kreuzkümmel gemahlen
+- 4 Stk.	Lorbeerblätter
+- 3 Stk.	Chili Schate gehackt
+- 150 ml	Rotwein trocken
+- 2 EL  	Körnige Gemüsebrühe
+- 4 EL  	Kakaopulver oder Herrenschokolade
+- 1 TL   	Salz
+- 1 TL  	Pfeffer aus der Mühle
+- 1 Prise	Oregano
+- 500 g     Hackfleisch gemischt
+- 5 EL  	Olivenöl
 
 [[_]]
 
 ## Zubereitung
-Die Zwiebeln und das Hack in dem Olivenöl anbraten.
-Die Tomatenstücke, geschälte Tomaten, Tomatenmark, Knoblauch, Bohnen , Mais, Lorbeerbblätter, Chili, Rotwein, Kreuzkümmel, Salz, Pfeffer , Zucker und die Brühe hinzugeben. Bei Bedarf etwas Wasser hinzugeben wenn das Chili zu dick wird.
-Jetzt die "Geheim - Zutat" Kakaopulver (Nesquick) hinzugeben. Dadurch wird das Chili schön Cremig, bekommt eine schöne dunkle Farbe und gibt einen super Geschmack !!!!
-Das ganze jetzt noch 45 min auf kleiner Flamme köcheln lassen, damit alles schön duchziehen kann. Nach Gechmack durch Zugabe von weiterem Chili die Schärfe erhöhen - aber nicht Übertreiben.
+Die Zwiebeln kleinschneiden, das Hack in dem Olivenöl anbraten, danach die Zwiebeln anbraten. Zusammen wird es eventuell zu flüssig.
+Wenn die Zwiebeln und das Hack fertig angebraten sind, zusammen mit allen anderen Zutaten in einen ausreichend großen Topf geben und verrühren.
+Das ganze jetzt noch 45 min auf kleiner Flamme köcheln lassen, damit alles schön duchziehen kann.
