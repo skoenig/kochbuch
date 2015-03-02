@@ -1,4 +1,4 @@
-- @new
+- @done(2015-02-03)
 - @lowcarb
 
 ## Zutaten
