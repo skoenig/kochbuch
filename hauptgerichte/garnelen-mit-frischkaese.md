@@ -1,16 +1,12 @@
 - @new
+- @lowcarb
 
 ## Zutaten
-250g Garnelen Natur oder Provence
-50g Brunch Paprika Peperoni Frischkäse
+- 250g Garnelen Natur oder Provence
+- 50g Frischkäse
+- Oel oder Kokosfett
+- 2-3 Chili
 
 ## Zubereitung
-Garnelen in Öl kurz anbraten, wer mag kann noch Zwiebeln mit dazu geben. Anschließend einfach nur Frischkäse drauf, kurz warm werden lassen. Fertig.
+Garnelen in Öl kurz anbraten, wer mag kann noch Zwiebeln mit dazu geben. Die Chilis kleinhacken, mit dem Frischkäse mischen und auf die Garnelen geben, kurz warm werden lassen.
 Mit Nudeln muss es göttlich schmecken.
-Für Low Fat einfach weniger Frischkäse nehmen.
-
-## Nährwerte
-kcal 348
-EW 49,5g
-KH 2g
-Fett 15g
