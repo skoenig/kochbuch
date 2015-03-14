@@ -1,12 +1,14 @@
-- @new
+- @done(2015-03-14)
 - @lowcarb
 
 ## Zutaten
-- 250g Garnelen Natur oder Provence
-- 50g Frischkäse
-- Oel oder Kokosfett
-- 2-3 Chili
+- 225g Garnelen Natur oder Provence
+- Kokosfett
+- 3 Chilis
+- 200g Frischkäse
+- 1 EL Olivenöl
+
 
 ## Zubereitung
-Garnelen in Öl kurz anbraten, wer mag kann noch Zwiebeln mit dazu geben. Die Chilis kleinhacken, mit dem Frischkäse mischen und auf die Garnelen geben, kurz warm werden lassen.
+Garnelen auftauen, abspülen, trocknen und im Kokosfett anbraten, wer mag kann noch Zwiebeln mit dazu geben. Die Chilis kleinhacken, mit dem Frischkäse und dem Öl mischen und auf die Garnelen geben, kurz warm werden lassen.
 Mit Nudeln muss es göttlich schmecken.
