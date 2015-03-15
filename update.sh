@@ -1,6 +1,8 @@
 #!/bin/bash
 cd $(dirname $0)
 
+git pull gauss master && git push gauss master
+
 # replacing all Gollum-style image links with MDwiki compatibles:
 # sed -i 's|\[\[\(.*uploads[^|]*\)\|.*|![](\1)|'
 
