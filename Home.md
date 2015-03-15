@@ -17,12 +17,13 @@ für die speckigen Backentaschen:
 [[_]]
 
 ## Links
-- http://www.yummly.com/
+- http://www.yummly.com
 - http://chefkoch.de
 - http://www.oldschool-training.de/board/Forum-Rezepte
+- http://www.reddit.com/r/ketorecipes
 
 ## APIs
-- http://www.myfitnesspal.com/api                                                                         
+- http://www.myfitnesspal.com/api
 - https://wger.de/de/software/api
 - http://developer.esha.com
 - https://developer.nutritionix.com (APPID: 4d83fae5 APPKEY: ab927b50a035d1d96dffd5223868c801)
