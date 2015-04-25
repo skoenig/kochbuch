@@ -13,7 +13,6 @@
 - 4-6 EL Grieß
 - etwas Butter
 - Semmelbrösel
--
 
 ## Zubereitung
 Eiklar steif schlagen, Eigelb mit Süßstoff schäumig schlagen, den Topfen dazugeben. Nach und nach das Walnußöl, Backpulver, Vanillin, 1/2 Zitrone (Saft + geriebene Schale), den Vanillepudding und den Grieß dazugeben, gut vermischen und danach den Eiklar darunterheben (nicht rühren!).
