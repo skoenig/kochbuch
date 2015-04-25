@@ -1,11 +1,10 @@
-@done(2015-04-18)
-@lchf
+- @done(2015-04-18)
+- @lchf
 
 ## Zutaten
-
 [[/uploads/gruener-ballaststoff-smoothie.jpg|float|align=right|width=400px|heigth=300px]]
 
- 
+
 -    50.00 g, Brokkoli (Roh)
 -    50.00 g, Grünkohl
 -    0.50 Avocado
