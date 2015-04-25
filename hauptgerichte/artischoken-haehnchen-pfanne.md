@@ -19,4 +19,4 @@
 - Das ganze wird gewürzt mit etwas Knoblauch, Chili, Worcester Sauce und/oder Soja
 - Alles zusammen nochmal durchbraten und zum Schluss noch mit etwas Schnittlauch beträufeln
 
-Das sieht nicht nur lecker aus, sondern schmeckt herrlich bei der Hitze. Die Artischocken sind sehr saftig und zudem noch leicht erfrischend säuerlich (da sie in Zitronensäure eingelegt sind). Als Beilage bietet sich z.b. [Blumenkohlreis](beilagen/Blumenkohlreis) an.
+Das sieht nicht nur lecker aus, sondern schmeckt herrlich bei der Hitze. Die Artischocken sind sehr saftig und zudem noch leicht erfrischend säuerlich (da sie in Zitronensäure eingelegt sind). Als Beilage bietet sich z.b. [Blumenkohlreis](/beilagen/Blumenkohlreis) an.
