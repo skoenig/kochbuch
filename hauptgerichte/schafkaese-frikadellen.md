@@ -25,4 +25,4 @@ Ich mache so 8 Stück aus 500gr manchmal 10 wenn die Frau mitißt
 
 Pfanne heissmachen & rein damit!
 
-Dazu passt [Blumenkohlreis](beilagen/blumenkohlreis.md)
+Dazu passt [Blumenkohlreis](beilagen/Blumenkohlreis)
