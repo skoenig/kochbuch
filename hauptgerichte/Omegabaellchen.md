@@ -24,5 +24,5 @@ nach 2 Stunden das Gemisch aus dem Kühlschrank nehmen und mit den Händen Frika
 das ganze wird nun 8-10 Minuten gebacken
 
 Ich kann eich versichern,das ihr mit diesem Rezept die Linie zum Thunfisch neu entdecken werdet
-Die Bällchen enthalten Omegafettsäuren,Ballaststoffe und reichlich Eiweiß und eignen sich vorzüglich als Fleischbeilage zu Reis.
+Die Bällchen enthalten Omegafettsäuren,Ballaststoffe und reichlich Eiweiß und eignen sich vorzüglich als Fleischbeilage zu [Blumenkohlreis](beilagen/blumenkohlreis).
 

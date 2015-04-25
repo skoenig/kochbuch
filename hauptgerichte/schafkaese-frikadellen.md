@@ -25,5 +25,4 @@ Ich mache so 8 Stück aus 500gr manchmal 10 wenn die Frau mitißt
 
 Pfanne heissmachen & rein damit!
 
-Parallel Naturreis kochen. 125gr
-Ich brate in Olivenöl.... der Saft der dabei entsteht, nehme ich für über den Reis dann ist es nicht trocken....
+Dazu passt [Blumenkohlreis](beilagen/blumenkohlreis.md)

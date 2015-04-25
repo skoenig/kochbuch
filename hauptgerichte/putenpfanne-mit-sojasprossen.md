@@ -28,7 +28,7 @@ Ebenfalls in die Pfanne geben .
 
 Die Sauce einmal aufkochen lassen . Zitronensaft
 darüberträufeln und mit Schnittlauch bestreuen .
-Reis passt perfekt dazu .
+Dazu passt [Blumenkohlreis](beilagen/blumenkohlreis.md)
 
 ## Nährwerte pro Portion
 - 38g EW

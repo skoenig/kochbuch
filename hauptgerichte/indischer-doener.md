@@ -1,4 +1,5 @@
 - @new
+- @draft
 
 ## Zubereitung
 Man nehme Putenbrust(ich nehm 1kg stück immer) und schneide hauchdünne(umso dünner umso besser) scheiben herunter ihr wisst ja wie groß die bei nem Döner sind.

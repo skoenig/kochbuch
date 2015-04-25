@@ -4,7 +4,7 @@
 
 ## Zutaten für 4 Portionen
 - 400 g     Hähnchenfilet, oder Putenfilet in Streifen
-- 250 g     Basmati
+- 250 g     Basmatireis
 - 2 EL     Öl, (neutral)
 - 1 kleine     Zwiebel(n) oder 2 Frühlingszwiebeln, in Streifen
 - 400 ml     Kokosmilch, Dose (nicht schütteln)
