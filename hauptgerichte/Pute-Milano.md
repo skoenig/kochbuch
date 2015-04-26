@@ -1,4 +1,5 @@
 - @new
+- @draft
 
 ## Zubereitung
 habe 100g pute dünn geklopft + salz/pfeffer
