@@ -21,6 +21,7 @@ für die speckigen Backentaschen:
 - http://chefkoch.de
 - http://www.oldschool-training.de/board/Forum-Rezepte
 - http://www.reddit.com/r/ketorecipes
+- http://www.rezeptefinden.de/s/keto.html
 
 ## APIs
 - http://www.myfitnesspal.com/api
