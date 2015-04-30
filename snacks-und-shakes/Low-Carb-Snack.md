@@ -1,13 +1,16 @@
-- @new
+- @done(2015-04-28)
 - @lowcarb
 
 ## Zutaten
+[[/uploads/Low-Carb-Snack.jpg|float|align=right|width=400px|heigth=300px]]
 
 - 3 EL    Mandel(n), gemahlen
 - 1       Eier
 - 1 EL    Butter, weich
 - 1 TL    Backpulver
 - 1 Prise Salz
+
+[[_]]
 
 ## Zubereitung
 
