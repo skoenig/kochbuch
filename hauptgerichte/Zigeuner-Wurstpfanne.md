@@ -9,7 +9,6 @@
 - etwas Majoran
 - Salz, Pfeffer
 
-# Zubereitung
+## Zubereitung
 Paprika in Streifen schneiden. Zwiebel fein würfeln. Würstchen in Scheiben schneiden. Öl in einer beschichteten Pfanne erhitzen. Wurst darin goldbraun braten. Zwiebel und Paprika zugeben, andünsten. Tomaten samt Saft zugeben, grob zerkleinern. Ragout aufkochen und ca. 5 Minuten köcheln lassen.
 Majoran waschen und, bis auf etwas, abzupfen und hacken. Unter die Wurstpfanne heben. Alles mit Salz und Pfeffer würzen. Mit Rest Majoran garnieren. Dazu schmeckt frisches Schwarzbrot.
-Zubereitungszeit: ca. 35 Minuten
