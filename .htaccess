@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^kochbuch\.skoenig\.regulus\.uberspace\.de [NC]
+# doesn't work:
+#RewriteRule kochbuch/(.*) http://backpack.skoenig.regulus.uberspace.de/$1 [R=301,L]
+Redirect 301 /kochbuch/ http://kochbuch.skoenig.regulus.uberspace.de/index.html
