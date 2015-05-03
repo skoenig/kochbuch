@@ -1,4 +1,5 @@
 - @new
+- @lowcarb
 
 ## Zutaten (für 3-4 Personen)
 - Hühnerbrust 900g
@@ -11,9 +12,9 @@
 - Chilli
 
 ## Zubereitung
-Hühnerbrust kleinschneiden, mit Olivenöl und bisschen Knoblauch anbraten, mit salz, pfeffer und chilli würzen, Sauerrahm (Saure Sahne) und Schmelzkäse (von dem leichten) dazu, alles rühren bis der käse geschmolzen ist - fertig.
+Hühnerbrust kleinschneiden, mit Olivenöl und bisschen Knoblauch anbraten, mit Salz, Pfeffer und Chilli würzen, Sauerrahm (Saure Sahne) und Schmelzkäse dazu, alles rühren bis der Käse geschmolzen ist - fertig.
 
-## Nährwertangaben
+## Nährwerte
 Fett - 105 g
 KH - 16 g
 EW ca 250 g

@@ -4,16 +4,16 @@
 ##Zutaten
 [[/uploads/sojabohnen-rot-gelb-gruen.jpg|align=right|float|width=400px]]
 
-- 1 Tasse	 Sojabohnen
+- 1 Tasse        Sojabohnen
 - Olivenöl
-- 2 kleine	 Zwiebel(n), gewürfelt
-- 2 	 Lorbeerblatt
+- 2 kleine       Zwiebel(n), gewürfelt
+- 2      Lorbeerblatt
 - Paprikapulver, rosenscharf
-- 6 	 Paprikaschote(n), rot, gewürfelt
-- 1 Tasse	 Maiskörner
-- 1 Tasse	 Erbsen
+- 6      Paprikaschote(n), rot, gewürfelt
+- 1 Tasse        Maiskörner
+- 1 Tasse        Erbsen
 - Salz
-- 1 Handvoll	 Kräuter, frische (z. B. Basilikum, Petersilie, Schnittlauch)
+- 1 Handvoll     Kräuter, frische (z. B. Basilikum, Petersilie, Schnittlauch)
 - Rosmarin, getrocknet
 - Koriander
 - Kümmel

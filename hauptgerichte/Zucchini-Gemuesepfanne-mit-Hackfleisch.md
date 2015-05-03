@@ -2,7 +2,7 @@
 - @lowcarb
 
 ## Zutaten für 4 Portionen
-- 500 g	Hackfleisch, gemischt
+- 500 g Hackfleisch, gemischt
 - 1 Zwiebeln
 - 2 Zehen Knoblauch
 - 1 Zucchini

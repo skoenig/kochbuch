@@ -6,8 +6,7 @@
 - 4 grüne scharfe Peperoni
 - 5 EL Butter
 - 8 Eier
-- Salz
-- Pfeffer
+- Salz & Pfeffer
 - 1 TL Rosenpaprikapulver
 
 ## Zubereitung

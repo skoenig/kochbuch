@@ -4,15 +4,15 @@
 # Zutaten
 [[/uploads/humus.jpg|float|align=right|width=300px]]
 
-- 250 g	 Kichererbsen, getrocknete oder aus dem Glas
-- 2 Zehe/n	 Knoblauch oder Knoblauchpaste
-- 1 Prise	 Kreuzkümmel
-- 1 TL	 Paprikapulver, süßer
-- 1 Bund	 Petersilie
-- 5 EL	 Olivenöl
-- 	 Salz
-- 4 EL	 Sesampaste (Tahin)
-- 1/2 	 Zitrone
+- 250 g  Kichererbsen, getrocknete oder aus dem Glas
+- 2 Zehe/n       Knoblauch oder Knoblauchpaste
+- 1 Prise        Kreuzkümmel
+- 1 TL   Paprikapulver, süßer
+- 1 Bund         Petersilie
+- 5 EL   Olivenöl
+-        Salz
+- 4 EL   Sesampaste (Tahin)
+- 1/2    Zitrone
 
 [[_]]
 

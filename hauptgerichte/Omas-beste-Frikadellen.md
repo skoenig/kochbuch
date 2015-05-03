@@ -1,17 +1,17 @@
-* 500 g	 Hackfleisch (halb und halb)
-* 1 	 Zwiebel(n)
-* 1 	 Brötchen
-* 1 	 Ei(er)
-* 1 TL	 Salz
-* 1 TL	 Senf
-* 1 TL, gestr.	 Majoran, getrocknet
-* 1 TL	 Paprikapulver
-* viel	 Pfeffer, aus der Mühle
-* 2 TL	 Petersilie, getrocknet
-* n. B.	 Knoblauch
-* 1 TL	 Maggi
+* 500 g  Hackfleisch (halb und halb)
+* 1      Zwiebel(n)
+* 1      Brötchen
+* 1      Ei(er)
+* 1 TL   Salz
+* 1 TL   Senf
+* 1 TL, gestr.   Majoran, getrocknet
+* 1 TL   Paprikapulver
+* viel   Pfeffer, aus der Mühle
+* 2 TL   Petersilie, getrocknet
+* n. B.  Knoblauch
+* 1 TL   Maggi
 * Margarine, zum Braten
-* evtl.	 Mehl, oder Semmelbrösel
+* evtl.  Mehl, oder Semmelbrösel
 
 **Quelle:** http://www.chefkoch.de/rezepte/819141186405890/Omas-beste-Frikadellen.html
 

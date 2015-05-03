@@ -3,16 +3,16 @@
 
 ## Zutaten
 [[/uploads/rote-linsen-salat.jpg|float|align=right|width=400px]]
-- 150 g	 Linsen, rote
-- 500 ml Gemüsebrühe
-- 100 g  Feldsalat
-- 1 	 Knoblauchzehe
-- 6 EL	 Olivenöl
-- 2 EL	 Essig
-- 1 kleine	 Zwiebel(n)
-- 10 kleine	 Cherrytomaten
-- n. B.	 Kräuter, Petersilie
-- 	 Salz und Pfeffer
+- 150 g         Linsen, rote
+- 500 ml        Gemüsebrühe
+- 100 g         Feldsalat
+- 1             Knoblauchzehe
+- 6 EL          Olivenöl
+- 2 EL          Essig
+- 1 kleine      Zwiebel(n)
+- 10 kleine     Cherrytomaten
+- n. B.         Kräuter, Petersilie
+-               Salz und Pfeffer
 [[_]]
 
 ## Zubereitung
