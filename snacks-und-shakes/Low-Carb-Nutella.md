@@ -1,5 +1,5 @@
-@lchf
-@done(2015-05-07)
+- @lchf
+- @done(2015-05-07)
 
 ## Zutaten
 - 2     reife Avocados
