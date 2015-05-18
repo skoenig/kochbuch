@@ -3,6 +3,7 @@
 
 ## Zutaten für 4 Personen
 [[/uploads/low-carbonara.jpg|float|align=right|width=400px|heigth=300px]]
+
 - 3     Karotten
 - 1     Zucchini
 - 300g  Bacon (Frühstücksspeck)
