@@ -12,7 +12,9 @@ für die speckigen Backentaschen:
 
 [Salate](pages/salate/)
 
-[Snacks & Shakes ](pages/snacks-und-shakes/)
+[Snacks & Shakes](pages/snacks-und-shakes/)
+
+[Beilagen](pages/beilagen/)
 
 [[_]]
 
