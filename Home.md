@@ -1,12 +1,12 @@
 [[uploads/food.jpg|align=right|float]]
 
-hier
+*"hier*
 
-sind ein
+*sind ein*
 
-paar leckere Sachen
+*paar leckere Sachen*
 
-für die speckigen Backentaschen:
+*für die speckigen Backentaschen"*
 
 [Hauptgerichte](pages/hauptgerichte/)
 
