@@ -1,4 +1,5 @@
 - @new
+- @draft
 
 ## Zutaten
 - 1 packung uncle bens fertig-reis, 250 gr. (der für die mikrowelle), natur-reis oder mexican
