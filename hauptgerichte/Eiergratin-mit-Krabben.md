@@ -4,7 +4,7 @@
 - 1 TL Majoran
 - geriebene Muskatnuss
 - Butter
-- 30g Lauchzwiebeln (hab normale Zwiebeln benutzt, da nix anderes da war)
+- 30g Lauchzwiebeln
 - 150g Garnelen
 - 100g Schlagsahne
 - 70g Käse
@@ -12,7 +12,7 @@
 
 ## Zubereitung
 
-Zuerst werden 4 Eier 10Min hart gekocht, dann gepellt und in scheiben geschnitten und in 2 Schalen gelegt.
+Zuerst werden 4 Eier 10 Minuten hart gekocht, dann gepellt und in scheiben geschnitten und in 2 Schalen gelegt.
 
 dann werden die Zwiebeln geputzt, und in Ringe geschnitten, dannach gibt man ca. einen Esslöffel Butter in eine Pfanne und zerlässt diesen und gibt dann die Zwiebeln mit dem Majoran in die Pfanne und brät diese für ca. 1Min
 
