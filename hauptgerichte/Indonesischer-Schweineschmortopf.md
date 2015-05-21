@@ -1,5 +1,5 @@
 - @done
-- @rating(+++++)
+- @favourite
 
 ## Zutaten fuer 4 Personen
 
