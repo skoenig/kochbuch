@@ -1,0 +1,19 @@
+brand: Kochbuch
+navbar_right_items: 2
+bootswatch: journal
+navbar_inverse: true
+bootstrap: 3.3.4
+
+reflinks:
+    markdown:
+        url: http://daringfireball.net/projects/markdown/
+        title: Markdown
+    jinja2:
+        url: http://jinja.pocoo.org
+        title: Jinja2
+    bootstrap:
+        url: http://getbootstrap.com
+        title: Bootstrap
+    bootswatch:
+        url: http://bootswatch.com
+        title: Bootswatch

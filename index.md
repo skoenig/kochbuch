@@ -1,4 +1,17 @@
-[[uploads/food.jpg|align=right|float]]
+---
+title: Kochbuch
+layout: page_nobreadcrumbs
+abstract: "hier sind ein paar leckere Sachen für die speckigen Backentaschen"
+content:
+    - hauptgerichte
+    - snacks-und-shakes
+    - beilagen
+    - salate
+    - tag
+    - about
+---
+
+![](uploads/food.jpg)
 
 *"hier*
 
@@ -8,15 +21,14 @@
 
 *für die speckigen Backentaschen"*
 
-[Hauptgerichte](pages/hauptgerichte/)
+[Hauptgerichte](/hauptgerichte/index.md)
 
-[Salate](pages/salate/)
+[Salate](/salate/index.md)
 
-[Snacks & Shakes](pages/snacks-und-shakes/)
+[Snacks & Shakes](/snacks-und-shakes/index.md)
 
-[Beilagen](pages/beilagen/)
+[Beilagen](/beilagen/index.md)
 
-[[_]]
 
 ## Links
 - http://www.yummly.com
@@ -29,7 +41,7 @@
 - http://www.myfitnesspal.com/api
 - https://wger.de/de/software/api
 - http://developer.esha.com
-- https://developer.nutritionix.com (APPID: 4d83fae5 APPKEY: ab927b50a035d1d96dffd5223868c801)
+- https://developer.nutritionix.com
 
 ## Zutaten
 ### Proteins
@@ -74,3 +86,5 @@ Kohlrabi                        |  27.00   |  6.00 |   1.00  | 0.00
 Rutabaga (Steckrübe, Kohlrübe)  |  30.00   |  6.84 |   0.93  | 0.18
 Horseradish                     |  48.00   | 11.27 |   1.20  | 0.67
 Peas (Erbsen)                   |  78.00   | 14.26 |   5.15  | 0.28
+
+*last updated: Wed Jun 17 00:37:14 CEST 2015*
