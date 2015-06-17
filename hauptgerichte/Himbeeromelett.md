@@ -1,5 +1,6 @@
-- @lchf
-- @done(2015-04-30)
+---
+tags: ["lchf", "done(2015-04-30)" ]
+---
 
 ## Zutaten für 1 Omlett
 - 3     Eier
