@@ -87,4 +87,3 @@ Rutabaga (Steckrübe, Kohlrübe)  |  30.00   |  6.84 |   0.93  | 0.18
 Horseradish                     |  48.00   | 11.27 |   1.20  | 0.67
 Peas (Erbsen)                   |  78.00   | 14.26 |   5.15  | 0.28
 
-*last updated: Wed Jun 17 00:37:14 CEST 2015*
