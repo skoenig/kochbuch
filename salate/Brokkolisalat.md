@@ -1,22 +1,19 @@
-- @lowcarb
-- @draft
-- @new
+---
+tags: [new, lowcarb]
+---
 
 
 ## Zutaten
 
-für den Salat:
-Brokkoli
-Schinken oder Speck
-Frühlingszwiebeln
-Käse gerieben
-
-für die marinade:
-1/2 tasse joghurt 0,1% fett (je nach belieben eben)
-1-2 esslöffel mayo (bei diät weniger und auch diätmayo)
-etwas süßstoff
-2 esslöffel essig
+- Brokkoli
+- Schinken oder Speck
+- Frühlingszwiebeln
+- Käse gerieben
+- ½         Tasse Joghurt
+- 1-2 EL    Mayonnaise
+- 2 EL      Essig
+- etwas     Süßstoff
 
 ## Zubereitung
-brokkoli in salzwasser garen und gleichzeitig schinkenwürfel oder speck rösten in einer pfanne.. frühlingszwiebeln dazu und dann den brokkoli untermischen.. nach 1-2 minuten von der herdplatte nehmen und etwas fettarmen käse drüber reiben.
-Die marinade gut mit dem brokkoli-schinken-misch vermengen und etwas abkühlen lassen.
+Den Brokkoli in Salzwasser garen und gleichzeitig Schinkenwürfel oder speck in einer Pfanne rösten. Frühlingszwiebeln dazu und dann den Brokkoli abtopfen lassen und untermischen. Nach 1-2 Minuten vom Herd nehmen und etwas Käse drüber reiben.
+Die Marinade gut mit dem Brokkoli-Schinken-Misch vermengen und etwas abkühlen lassen.
