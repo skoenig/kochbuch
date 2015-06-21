@@ -1,8 +1,9 @@
 - @lchf
 - @done(2015-05-03)
 
+![](../uploads/eiweissreiche-brunch-pfannkuchen.jpg)
+
 ## Zutaten
-[[/uploads/eiweissreiche-brunch-pfannkuchen.jpg|float|align=right|width=400px|heigth=300px]]
 
 ### Pfannkuchen (ca. 6 Stück)
 - 4     Eier
@@ -18,8 +19,6 @@
 - ½ TL  Vanillepulver
 - 200 g Sahne
 - etwas Süßstoff nach Bedarf
-
-[[_]]
 
 ## Zubereitung
 
