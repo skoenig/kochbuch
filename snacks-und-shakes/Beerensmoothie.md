@@ -1,6 +1,6 @@
-- @lchf
-- @new
-- @breakfast
+---
+tags: ["lchf", "breakfast", "done(2015-06-022)"]
+---
 
 ## Zutaten
 - 75 g      gefrorene Erdbeeren
