@@ -12,4 +12,4 @@
 - Butter oder Kokosöl zum Braten
 
 ## Zubereitung
-Alle Zutaten bis auf das Fett verrühren und diese Masse in eine gefettete Pfann gießen und ein Omlett daraus braten.
+Alle Zutaten bis auf das Fett verrühren, diese Masse in eine gefettete Pfanne gießen und einen Pfannkuchen daraus braten.
