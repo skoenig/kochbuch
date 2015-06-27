@@ -1,5 +1,6 @@
-- @lchf
-- @new
+---
+tags: ["lchf", "done(2015-06-23)"
+---
 
 ## Zutaten für 1 Portion
 - 2-3       Eier
@@ -12,4 +13,4 @@
 - Butter oder Kokosöl zum Braten
 
 ## Zubereitung
-Alle Zutaten bis auf das Fett verrühren, diese Masse in eine gefettete Pfanne gießen und einen Pfannkuchen daraus braten.
+Alle Zutaten bis auf das Fett verrühren, diese Masse in eine gefettete Pfanne gießen und zwei Pfannkuchen daraus braten.
