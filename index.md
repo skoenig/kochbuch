@@ -21,27 +21,27 @@ content:
 
 *für die speckigen Backentaschen"*
 
-[Hauptgerichte](/hauptgerichte/index.md)
+[Hauptgerichte](/hauptgerichte/)
 
-[Salate](/salate/index.md)
+[Salate](/salate/)
 
-[Snacks & Shakes](/snacks-und-shakes/index.md)
+[Snacks & Shakes](/snacks-und-shakes/)
 
-[Beilagen](/beilagen/index.md)
+[Beilagen](/beilagen/)
 
 
 ## Links
-- http://www.yummly.com
-- http://chefkoch.de
-- http://www.oldschool-training.de/board/Forum-Rezepte
-- http://www.reddit.com/r/ketorecipes
-- http://www.rezeptefinden.de/s/keto.html
+- <http://www.yummly.com>
+- <http://chefkoch.de>
+- <http://www.oldschool-training.de/board/Forum-Rezepte>
+- <http://www.reddit.com/r/ketorecipes>
+- <http://www.rezeptefinden.de/s/keto.html>
 
 ## APIs
-- http://www.myfitnesspal.com/api
-- https://wger.de/de/software/api
-- http://developer.esha.com
-- https://developer.nutritionix.com
+- <http://www.myfitnesspal.com/api>
+- <https://wger.de/de/software/api>
+- <http://developer.esha.com>
+- <https://developer.nutritionix.com>
 
 ## Zutaten
 ### Proteins
