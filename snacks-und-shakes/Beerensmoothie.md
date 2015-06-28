@@ -1,5 +1,6 @@
 ---
-tags: ["lchf", "breakfast", "done(2015-06-022)"]
+tags: ["lchf", "breakfast"]
+date: 2015-06-22
 ---
 
 ## Zutaten

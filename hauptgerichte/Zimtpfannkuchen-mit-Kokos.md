@@ -1,5 +1,6 @@
 ---
-tags: ["lchf", "done(2015-06-23)"]
+tags: ["lchf"]
+date: 2015-06-23
 ---
 
 ## Zutaten für 1 Portion

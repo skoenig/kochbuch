@@ -1,5 +1,6 @@
 ---
-tags: ["lchf", "done(2015-05-03)"]
+tags: ["lchf"]
+date: 2015-05-03
 ---
 
 ![](../uploads/eiweissreiche-brunch-pfannkuchen.jpg)
