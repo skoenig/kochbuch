@@ -1,5 +1,7 @@
-- @lchf
-- @new
+---
+tags: ["lchf"]
+date: 2015-06-30
+---
 
 ## Zutaten für 2 Portionen
 - 4     große Kohlblätter
