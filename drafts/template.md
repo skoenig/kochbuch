@@ -1,5 +1,6 @@
-- @lchf
-- @new
+---
+tags: ["lchf", "new"]
+---
 
 ## Zutaten
 
