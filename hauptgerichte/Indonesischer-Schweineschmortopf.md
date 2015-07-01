@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "favourite"]
+tags: ["lowcarb", "favourites"]
 ---
 
 ## Zutaten fuer 4 Personen
