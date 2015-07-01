@@ -1,5 +1,6 @@
-- @lowcarb
-- @done
+---
+tags: ["lowcarb", "new"]
+---
 
 ## Zutaten
 * 125g guten Kassler

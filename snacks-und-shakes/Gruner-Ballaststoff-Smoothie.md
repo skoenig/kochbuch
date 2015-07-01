@@ -1,5 +1,7 @@
-- @done(2015-04-18)
-- @lchf
+---
+tags: ["lchf"]
+date: 2015-04-18
+---
 
 ## Zutaten
 ![](/uploads/gruener-ballaststoff-smoothie.jpg)

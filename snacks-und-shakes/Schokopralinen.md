@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2014-08-31)
+---
+tags: ["lchf"]
+date: 2014-08-31
+---
 
 ## Zutaten
 

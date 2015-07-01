@@ -1,8 +1,9 @@
-- @lowcarb
-- @done(2014-06-19)
+---
+tags: ["lowcarb"]
+date: 2014-06-19
+---
 
 ## Zutaten
-
 - 100 g           Mandelmehl
 - 2 EL, gehäuft   Mandelmus
 - 1 EL, gehäuft   Süßstoff (Erythrit)

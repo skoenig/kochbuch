@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2015-05-21)
+---
+tags: ["lowcarb"]
+date: 2015-05-21
+---
 
 ## Zutaten
 ![](/uploads/low-carb-schokomuffins.jpg)

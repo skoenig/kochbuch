@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2013-01-12)
+---
+tags: ["lowcarb"]
+date: 2013-01-12
+---
 
 ## Zutaten für 2 Portionen
 - 400 g    Hackfleisch

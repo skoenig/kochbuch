@@ -1,6 +1,7 @@
-- @lowcarb
-- @breakfast
-- @done(2015-05-02)
+---
+tags: ["lowcarb", "breakfast"]
+date: 2015-05-02
+---
 
 ## Zutaten
 ![](/uploads/spinat-mit-bohnen-und-ei.jpg)

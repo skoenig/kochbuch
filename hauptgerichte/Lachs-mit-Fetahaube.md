@@ -1,5 +1,7 @@
-- @lchf
-- @done(2015-05-18)
+---
+tags: ["lchf"]
+date: 2015-05-18
+---
 
 ## Zutaten
 - 4     Lachsfilets a 125 g

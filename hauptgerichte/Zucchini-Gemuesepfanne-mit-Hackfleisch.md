@@ -1,5 +1,7 @@
-- @done(2014-09-19)
-- @lowcarb
+---
+tags: ["lowcarb"]
+date: 2014-09-19
+---
 
 ## Zutaten für 4 Portionen
 - 500 g Hackfleisch, gemischt

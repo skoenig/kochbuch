@@ -1,4 +1,6 @@
-- @done(2013-10-02)
+---
+date: 2013-10-02
+---
 
 ## Zutaten für 2 Portionen
 250 g       Putenfleisch, geschnetzeltes

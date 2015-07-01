@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2015-02-08)
+---
+tags: ["lowcarb"]
+date: 2015-02-08
+---
 
 ## Zutaten für 3 Portionen
 [](/uploads/eiersalat.jpg)

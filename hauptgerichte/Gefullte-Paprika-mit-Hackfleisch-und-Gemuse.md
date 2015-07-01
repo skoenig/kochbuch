@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2015-03-15)
+---
+tags: ["lowcarb"]
+date: 2015-03-15
+---
 
 ## Zutaten für 4 Portionen
 ![](/uploads/gefuellte-paprika.jpg)

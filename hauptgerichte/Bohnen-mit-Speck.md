@@ -1,6 +1,7 @@
-- @lowcarb
-- @breakfast
-- @done(2014-01-20)
+---
+tags: ["lowcarb", "breakfast"]
+date: 2014-01-20
+---
 
 ## Zutaten
 - 1/2 Zwiebel

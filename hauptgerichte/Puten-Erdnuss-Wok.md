@@ -1,5 +1,7 @@
-- @done(2013-01-06)
-- @lowcarb
+---
+date: 2013-01-06
+tags: ["lowcarb"]
+---
 
 ## Zutaten für 2 Portionen
 - 400g Putenbrust

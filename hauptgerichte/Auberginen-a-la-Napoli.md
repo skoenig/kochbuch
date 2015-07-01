@@ -1,5 +1,7 @@
-- @done(2015-02-20)
-- @lowcarb
+---
+tags: ["lowcarb"]
+date: 2015-02-20
+---
 
 ## Zutaten für 2 Personen
 ![](/uploads/auberginen-la-napoli.jpg)

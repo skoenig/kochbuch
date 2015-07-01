@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2014-02-19)
+---
+tags: ["lowcarb"]
+date: 2014-02-19
+---
 
 ## Zutaten
 ![](/uploads/rotkohlsalat.jpg)

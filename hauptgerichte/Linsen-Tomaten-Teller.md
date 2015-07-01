@@ -1,7 +1,7 @@
-- @lowcarb
-- @breakfast
-- @done(2013-01-10)
-
+---
+tags: ["breakfast"]
+date: 2013-01-10
+---
 
 ## Zutaten
 - 1 Dose grüne Linsen (400g)

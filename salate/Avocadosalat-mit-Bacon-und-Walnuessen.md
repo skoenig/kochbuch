@@ -1,6 +1,7 @@
-- @lchf
-- @done
-- @breakfast
+---
+tags: ["lchf", "breakfast"]
+done: 2015-05-17
+---
 
 ## Zutaten für 2 Portionen
 [](/uploads/avocadosalat-mit-bacon-und-walnuessen.jpg)

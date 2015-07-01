@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2014-06-15)
+---
+tags: ["lowcarb"]
+date: 2014-06-15
+---
 
 ## Zutaten
 - 8 Knoblauchzehen

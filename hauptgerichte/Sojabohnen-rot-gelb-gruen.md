@@ -1,7 +1,9 @@
-- @lowcarb
-- @done(2014-03-02)
+---
+tags: ["lowcarb", "vegan"]
+date: 2014-03-02
+---
 
-##Zutaten
+## Zutaten
 ![](/uploads/sojabohnen-rot-gelb-gruen.jpg)
 
 - 1 Tasse        Sojabohnen

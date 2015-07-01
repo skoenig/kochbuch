@@ -1,4 +1,6 @@
-- @done
+---
+tags: ["lowcarb"]
+---
 
 ## Zutaten
 1 dose thunfisch in wasser

@@ -1,5 +1,7 @@
-- @lchf
-- @done(2015-05-21)
+---
+tags: ["lchf"]
+date: 2015-05-21
+---
 
 ## Zutaten
 - 250 ml    Kaffee

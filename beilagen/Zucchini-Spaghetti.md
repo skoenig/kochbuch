@@ -1,5 +1,7 @@
-- @lchf
-- @done
+---
+tags: ["lchf"]
+date: 2015-05-16
+---
 
 ## Zutaten für eine Portion
 - 1     Zucchini (ca. 800g)

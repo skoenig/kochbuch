@@ -1,5 +1,7 @@
-- @done(2015-04-28)
-- @lowcarb
+---
+tags: ["lowcarb"]
+date: 2015-04-28
+---
 
 ## Zutaten
 ![](/uploads/Low-Carb-Snack.jpg)

@@ -1,4 +1,6 @@
-- @done(2014-02-23)
+---
+date: 2014-02-23
+---
 
 ## Zutaten
 ![](/uploads/rote-linsen-salat.jpg)

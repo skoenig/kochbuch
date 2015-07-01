@@ -1,5 +1,7 @@
-- @lowcarb + dairy
-- @done(2014-06-15)
+---
+tags: ["lowcarb"]
+date: 2014-06-15
+---
 
 ## Zutaten
 - 500 g magerquark (mager)
@@ -8,7 +10,7 @@
 - etwas Süßstoff
 - 100g Mandelsplitter
 - zusätzlich n.B. Mandelmuß / Mandelmehl / Mandelaroma (eine oder alle 3 Zutaten :))
-   
+
 ## Zubereitung
 Denkbar einfach: alles vermengen.
 

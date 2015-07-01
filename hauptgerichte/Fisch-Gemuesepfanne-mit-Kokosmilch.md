@@ -1,5 +1,7 @@
-- @done(2015-04-08)
-- @lowcarb
+---
+tags: ["lowcarb"]
+date: 2015-04-08
+---
 
 ##Zutaten
 ![](/uploads/Fisch-Gemuesepfanne-mit-Kokosmilch.jpg)

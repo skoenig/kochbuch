@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2014-02-23)
+---
+tags: ["lowcarb"]
+date: 2014-02-23
+---
 
 # Zutaten
 ![](/uploads/humus.jpg)

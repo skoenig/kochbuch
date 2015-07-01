@@ -1,5 +1,7 @@
-- @lchf
-- @done(2015-05-18)
+---
+tags: ["lchf"]
+done: 2015-05-18
+---
 
 ## Zutaten
 ![](/uploads/griechischer-salat.jpg)

@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2013-01-11)
+---
+tags: ["lowcarb"]
+date: 2013-01-11
+---
 
 ## Zutaten für 4 Portionen
 ![](/uploads/chili-con-carne-spezial.jpg)

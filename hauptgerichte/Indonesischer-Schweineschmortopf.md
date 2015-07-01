@@ -1,5 +1,6 @@
-- @done
-- @favourite
+---
+tags: ["lowcarb", "favourite"]
+---
 
 ## Zutaten fuer 4 Personen
 

@@ -1,9 +1,11 @@
-- @done(2015-04-15)
+---
+date: 2015-04-15
+---
 
 ## Zutaten
-* Grüner Tee
-* Süßstoff
-* Zitronensaft(konzentrat)
+- Grüner Tee
+- Süßstoff
+- Zitronensaft(konzentrat)
 
 ## Zubereitung
 Grünen Tee aufgießen, nicht kochendes Wasser, 3 min. ziehen lassen.

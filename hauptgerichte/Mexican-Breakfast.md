@@ -1,6 +1,7 @@
-- @done(2013-01-02)
-- @lowcarb
-- @breakfast
+---
+tags: ["lowcarb", "breakfast"]
+date: 2013-01-02
+---
 
 ## Zutaten
 - 3 Eiklar, 1 Vollei

@@ -1,4 +1,7 @@
-- @done(2014-02-18)
+---
+tags: ["lowcarb"]
+date: 2014-02-18
+---
 
 ## Zutaten
 ![](/uploads/spargelauflauf-small.jpg)

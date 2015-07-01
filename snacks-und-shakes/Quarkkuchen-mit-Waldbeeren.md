@@ -1,5 +1,7 @@
-- @lchf
-- @done(2015-05-20)
+---
+tags: ["lchf"]
+date: 2015-05-20
+---
 
 ## Zutaten für 4 Portionen
 - 500 g   Magerquark

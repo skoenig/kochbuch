@@ -1,8 +1,8 @@
-- @lowcarb
-- @done
+---
+tags: ["lowcarb", "new"]
+---
 
 ## Zutaten
-
 - 2 Zwiebeln
 - 40g Schmalz
 - 500g Sauerkraut

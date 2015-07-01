@@ -1,4 +1,3 @@
-- @done
 
 ## Zutaten für 4 Portionen
 - 400 g     Hähnchenfilet, oder Putenfilet in Streifen

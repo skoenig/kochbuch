@@ -1,6 +1,7 @@
-- @lowcarb
-- @breakfast
-- @done(2014-01-19)
+---
+tags: ["lowcarb", "breakfast"]
+date: 2014-01-19
+---
 
 ## Zutaten
 - 1 Dose schwarze Bohnen

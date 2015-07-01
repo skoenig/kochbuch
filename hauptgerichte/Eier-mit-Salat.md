@@ -1,6 +1,7 @@
-- @lowcarb
-- @breakfast
-- @done(2015-04-09)
+---
+tags: ["lowcarb", "breakfast"]
+date: 2015-04-09
+---
 
 ## Zutaten
 ![](/uploads/eier-mit-salat.jpg)

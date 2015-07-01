@@ -1,5 +1,7 @@
-- @lchf
-- @done(2015-05-16)
+---
+tags: ["lchf"]
+date: 2015-05-16
+---
 
 ## Zutaten für 4 Personen
 ![](/uploads/low-carbonara.jpg)

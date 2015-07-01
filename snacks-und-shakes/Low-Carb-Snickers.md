@@ -1,5 +1,7 @@
-- @lchf
-- @done(2015-04-30)
+---
+tags: ["lchf"]
+date: 2015-04-30
+---
 
 ## Zutaten
 ![](/uploads/low-carb-snickers.jpg)

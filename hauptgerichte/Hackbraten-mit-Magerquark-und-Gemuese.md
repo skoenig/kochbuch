@@ -1,4 +1,7 @@
-- @done(2013-10-03)
+---
+date: 2013-10-03
+tags: ["lowcarb"]
+---
 
 ## Zutaten
 - 167 g   Porree

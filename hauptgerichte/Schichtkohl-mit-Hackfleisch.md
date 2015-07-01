@@ -1,5 +1,7 @@
-- @lowcarb
-- @done(2015-01-25)
+---
+tags: ["lowcarb"]
+date: 2015-01-25
+---
 
 ## Zutaten
 

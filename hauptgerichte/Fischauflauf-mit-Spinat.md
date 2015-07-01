@@ -1,4 +1,3 @@
-- @done
 
 ## Zutaten
 - 500 g Fisch (nach Wahl Tipp: Seelachs oder Rotbarsch)

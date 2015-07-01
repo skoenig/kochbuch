@@ -1,5 +1,6 @@
-- @lchf
-- @new
+---
+tags: ["lchf", "new"]
+---
 
 ## Zutaten für 2 Portionen
 - 2 EL          Mayonanaise

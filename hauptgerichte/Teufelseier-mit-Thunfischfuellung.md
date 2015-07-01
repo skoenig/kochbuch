@@ -1,6 +1,7 @@
-- @lchf
-- @breakfast
-- @done(2015-04-29)
+---
+tags: ["lchf", "breakfast"]
+date: 2015-04-29
+---
 
 ## Zutaten für 2 Portionen
 - 4     Eier hart gekocht
