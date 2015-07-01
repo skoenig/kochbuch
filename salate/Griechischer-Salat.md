@@ -2,7 +2,7 @@
 - @done(2015-05-18)
 
 ## Zutaten
-[[/uploads/griechischer-salat.jpg|float|align=right|width=400px|heigth=300px]]
+![](/uploads/griechischer-salat.jpg)
 
 - 130 g Eisbergsalat (~ ½ Salatkopf)
 - 130 g Tomaten
@@ -13,8 +13,6 @@
 - 75 g  Oliven (~ 1 Hand voll)
 - 4 EL  Olivenöl
 - Oregano
-
-[[_]]
 
 ## Zubereitung
 Salat, Fenchel, Tomaten und Gurke waschen und abtropfen lassen. Den Salat in kleine Streifen schneiden, die Tomaten achteln, die Gurke längs halbieren und in dicke Scheiben schneiden, den Fenchel und die Zwiebel in dünne Halbringe schneiden. Den Feta in kleine Würfel schneiden oder einfach zerkrümeln.

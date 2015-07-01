@@ -2,8 +2,7 @@
 - @done(2013-01-11)
 
 ## Zutaten für 4 Portionen
-
-[[/uploads/chili-con-carne-spezial.jpg|align=right|float]]
+![](/uploads/chili-con-carne-spezial.jpg)
 
 - 2         Gemüsezwiebeln fein gehackt
 - 1/2       Knoblauchknolle gehackt
@@ -23,8 +22,6 @@
 - 1 Prise       Oregano
 - 500 g     Hackfleisch gemischt
 - 5 EL          Olivenöl
-
-[[_]]
 
 ## Zubereitung
 Die Zwiebeln kleinschneiden, das Hack in dem Olivenöl anbraten, danach die Zwiebeln anbraten. Zusammen wird es eventuell zu flüssig.

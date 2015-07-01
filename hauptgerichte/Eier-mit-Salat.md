@@ -3,7 +3,7 @@
 - @done(2015-04-09)
 
 ## Zutaten
-[[/uploads/eier-mit-salat.jpg|float|align=right|width=400px|heigth=300px]]
+![](/uploads/eier-mit-salat.jpg)
 
 - 3 Eier
 - 1 TL Olivenöl
@@ -11,8 +11,6 @@
 - 1/4 rote Zwiebel
 - 3-4 Cherry Tomaten
 - Salatblätter
-
-[[_]]
 
 ## Zubereitung
 Die Eier kochen (nicht zu hart), währenddessen den Salat waschen und schneiden. Die Zwiebel würfeln, die Tomaten kleinschneiden und zum Salat geben, mit Öl, Essig, Salz und Peffer abschmeken, dann die Eier in Scheiben schneiden und dazugeben.

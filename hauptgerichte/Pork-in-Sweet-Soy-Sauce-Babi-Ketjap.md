@@ -1,8 +1,7 @@
 - @new
 
 ## Ingredients
-
-[[/uploads/babi-ketjap.jpg|float|align=right]]
+![](/uploads/babi-ketjap.jpg)
 
 -    2 onions, finely chopped
 -    4 tbsp oil
@@ -26,8 +25,6 @@
 -    Salt & pepper
 -    Cooked white rice
 -    Sambal (or another chile paste)
-
-[[_]]
 
 ## Preparation
 In a large pot (I use my cast iron Le Creuset), fry the onions in the oil. Turn the heat up, add the meat and brown on all sides. Now turn the heat down a bit and add the aromatics and the garlic. Stir in the tomato paste, ketjap manis and vinegar.

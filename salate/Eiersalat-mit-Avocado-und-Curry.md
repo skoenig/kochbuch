@@ -12,4 +12,4 @@
 ## Zubereitung
 Die Eier hart kochen. Währendessen Mayonnaise, Curry und etwas Salz in einer Schüssel verrühren. Die Eier abschrecken, schälen und in Würfel schneiden. Die Avocado ebenfalls entkernen, schälen und zu kleinen Würfeln verarbeiten. Die Avocado, die Eier und das Dressing vermischen. Frisch geschnittene Kresse darüberstreuen.
 
-Dazu passt [Körnerbrot](/beilagen/Koernerbrot) sehr gut.
+Dazu passt [Körnerbrot](/beilagen/Koernerbrot.html) sehr gut.

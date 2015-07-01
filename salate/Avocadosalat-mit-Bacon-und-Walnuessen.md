@@ -3,7 +3,7 @@
 - @breakfast
 
 ## Zutaten für 2 Portionen
-[[/uploads/avocadosalat-mit-bacon-und-walnuessen.jpg|float|align=right|width=400px|heigth=300px]]
+[](/uploads/avocadosalat-mit-bacon-und-walnuessen.jpg)
 
 - 200g  Bacon
 - 50 g  Rucola
@@ -12,8 +12,6 @@
 - 1     rote Zwiebel
 - 60 g  Walnüsse
 - 2 EL  Zitronensaft
-
-[[_]]
 
 ## Zubereitung
 Den Bacon auf einem mit Backpapier ausgelegtem Blech ausbreiten und für 10 Minuten bei 190 Grad in den Ofen schieben.

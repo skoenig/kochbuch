@@ -2,7 +2,7 @@
 - @done(2015-02-08)
 
 ## Zutaten für 3 Portionen
-[[/uploads/eiersalat.jpg|float|align=right|width=400px]]
+[](/uploads/eiersalat.jpg)
 
 - 6     Eier
 - 500 g Magerquark
@@ -14,7 +14,6 @@
 - Petersilie
 - 2 g   Salz
 - 2 g   Pfeffer, Schwarz
-[[_]]
 
 ## Zubereitung
 Die Eier hartkochen, inzwischen die Zwiebeln und die Cornichons in sehr kleine Würfel schneiden. Den Magerquark mit Senf und den restlichen Gewürzen verrühren und abschmecken. Evtl. noch Chili hinzufügen.

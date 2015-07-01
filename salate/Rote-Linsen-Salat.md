@@ -1,8 +1,7 @@
-- @lowcarb
 - @done(2014-02-23)
 
 ## Zutaten
-[[/uploads/rote-linsen-salat.jpg|float|align=right|width=400px]]
+![](/uploads/rote-linsen-salat.jpg)
 - 150 g         Linsen, rote
 - 500 ml        Gemüsebrühe
 - 100 g         Feldsalat
@@ -13,7 +12,6 @@
 - 10 kleine     Cherrytomaten
 - n. B.         Kräuter, Petersilie
 -               Salz und Pfeffer
-[[_]]
 
 ## Zubereitung
 

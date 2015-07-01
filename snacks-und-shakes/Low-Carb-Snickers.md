@@ -2,7 +2,7 @@
 - @done(2015-04-30)
 
 ## Zutaten
-[[/uploads/low-carb-snickers.jpg|float|align=right|width=400px|heigth=300px]]
+![](/uploads/low-carb-snickers.jpg)
 
 - 100 g     gesalzene Erdnüsse
 - 100 g     ungesalzene Erdnüsse
@@ -12,8 +12,6 @@
 - 1 Msp.    Vanillepulver
 - 200 g     dunkle Schokolade (min. 80% Kakaoanteil)
 - 1 EL      Kokosöl
-
-[[_]]
 
 ## Zubereitung
 Die Nüsse grob hacken. Erdnussbutter in einem Topf schmelzen, Butter, die gehackten Nüsse, den Süßstoff und die Vanille hinzufügen und gut vermischen.

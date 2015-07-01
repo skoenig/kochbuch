@@ -2,7 +2,7 @@
 - @lowcarb
 
 ## Zutaten für 2 Personen
-[[/uploads/auberginen-la-napoli.jpg|float|align=right|width=400px|heigth=300px]]
+![](/uploads/auberginen-la-napoli.jpg)
 
 - 700 g     Aubergine (2 Stück)
 - 140 g     Zwiebel (1 mittelgroße)
@@ -17,10 +17,7 @@
 - Basilikum
 - Salz und Pfeffer
 
-[[_]]
-
 ## Zubereitung
-
 Die Auberginen putzen und in ca. 1 cm-dicke Scheiben schneiden, salzen und 20 Minuten stehen lassen. Inzwischen die Zwiebeln in gronbe Würfel schneiden in Öl andünsten, die Tomaten und das Tomatenmark dazu, mit Basilikum, Salz und Pfeffer abschmecken. Alles ca. 15 Minuten durchkochen.
 
 Die Auberginenscheiben abtrocknen und von beiden Seiten kurz in Öl anbräunen.

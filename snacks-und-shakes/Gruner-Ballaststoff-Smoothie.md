@@ -2,8 +2,7 @@
 - @lchf
 
 ## Zutaten
-[[/uploads/gruener-ballaststoff-smoothie.jpg|float|align=right|width=400px|heigth=300px]]
-
+![](/uploads/gruener-ballaststoff-smoothie.jpg)
 
 -    50.00 g, Brokkoli (Roh)
 -    50.00 g, Grünkohl
@@ -14,8 +13,6 @@
 -    10.00 g, Ingwer
 -    80.00 g, Apfelsine/orange
 -    100.00 g, Zucchini
-
-[[_]]
 
 ## Zubereitung
 

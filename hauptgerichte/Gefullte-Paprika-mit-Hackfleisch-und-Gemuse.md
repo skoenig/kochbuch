@@ -2,7 +2,7 @@
 - @done(2015-03-15)
 
 ## Zutaten für 4 Portionen
-[[/uploads/gefuellte-paprika.jpg|float|align=right]]
+![](/uploads/gefuellte-paprika.jpg)
 
 - 2 große   Zwiebeln
 - 4 große   Paprikaschoten, rote oder gelbe
@@ -17,9 +17,7 @@
 - 1 TL      Paprikapulver
 - Salz und Pfeffer
 
-[[_]]
 ## Zubereitung
-
 Zwiebeln schälen und eine würfeln, die andere in Scheiben schneiden.
 Möhren schälen, Lauch und Sellerie putzen und alles in dünne Scheiben schneiden. Den Brokkoli in Röschen teilen und waschen.
 

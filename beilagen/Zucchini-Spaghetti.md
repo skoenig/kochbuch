@@ -2,7 +2,7 @@
 - @done
 
 ## Zutaten für eine Portion
-- 1 Zucchini
+- 1     Zucchini (ca. 800g)
 - Salz
 
 ## Zubereitung

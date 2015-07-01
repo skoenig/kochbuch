@@ -9,7 +9,6 @@
 - Olivenöl Gute 2-3 Esslöffel
 - Salz & Pfeffer nach Geschmack
 
-
 ## Zubereitung
 Grosse Schüssel nehmen da das Hack rein
 Die Zwiebeln hacken & auch rein.
@@ -25,4 +24,4 @@ Ich mache so 8 Stück aus 500gr manchmal 10 wenn die Frau mitißt
 
 Pfanne heissmachen & rein damit!
 
-Dazu passt [Blumenkohlreis](/beilagen/Blumenkohlreis)
+Dazu passt [Blumenkohlreis](/beilagen/Blumenkohlreis.html)

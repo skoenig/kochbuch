@@ -2,7 +2,7 @@
 - @done(2014-03-02)
 
 ##Zutaten
-[[/uploads/sojabohnen-rot-gelb-gruen.jpg|align=right|float|width=400px]]
+![](/uploads/sojabohnen-rot-gelb-gruen.jpg)
 
 - 1 Tasse        Sojabohnen
 - Olivenöl
