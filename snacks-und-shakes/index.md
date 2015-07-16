@@ -2,5 +2,5 @@
 title: Snacks Und Shakes
 layout: index
 order: date
-reverse: false
+reverse: true
 ---

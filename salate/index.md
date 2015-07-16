@@ -2,5 +2,5 @@
 title: Salate
 layout: index
 order: date
-reverse: false
+reverse: true
 ---
