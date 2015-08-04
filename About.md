@@ -3,6 +3,6 @@ title: About
 layout: simple_page
 ---
 
-Hier ist meine persönliche kleine Rezeptesammlung. Einige sind für Low Carb bzw. Low Carb High Fat Ernährungsweise geeignet und entsprechend getaggt ("lowcarb" bzw. "lchf").
+Das hier ist nur eine persönliche Sammlung leckerer Rezepte. Einige sind für Low Carb bzw. Low Carb High Fat Ernährungsweise geeignet und entsprechend getaggt ("lowcarb" bzw. "lchf").
 
-Die Sources findet man auf GitHub: <https://github.com/skoenig/kochbuch>
+Das Kochbuch ist [OpenSource](https://github.com/skoenig/kochbuch) und unter der [UNLICENSE](./LICENSE.txt) veröffentlicht.
