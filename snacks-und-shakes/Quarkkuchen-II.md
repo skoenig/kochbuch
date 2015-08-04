@@ -1,20 +1,20 @@
-- @new
+---
+tags: ["lowcarb", "viggie"]
+date: 2015-08-04
+---
 
 ## Zutaten
-- Butter          100g
-- Eier            4 Stk
-- Eiweisspulver   100g
-- Quark 40% Fett  250g
-- Sahne           250 ml
-- Salz
-- Süßstoff        2 EL
+- 100g   Butter
+- 4      Eier
+- 100g   Eiweisspulver
+- 250g   Quark 40% Fett
+- 250 ml Sahne
+- 2 EL   Süßstoff
+- etwas Salz
+- evtl dunkle Beeren (z.B. Himbeeren, Erdbeeren, Heidelbeeren)
+- etwas Kokosöl für die Form
 
 ## Zubereitung
-um dem Auflauf noch ein wenig Pepp zu geben, kann man noch Früchte mit reingeben, z.b. Natreen Aprikosen usw
-Die Backzeit beträgt ca 45-50min bei 180-200°C.
+Alle Zutaten mit einem Rührgerät vermengen, bis eine glatte Masse entsteht und in eine gefettete Kastenform geben. Nach Belieben noch dunkle Beeren unterrühren. Die Form mit Alufolie abdecken und in den Ofen schieben
+Die Backzeit beträgt ca 45-50min bei 180°C.
 
-## Nährwerte
- 2914,5 kcal
-148,75 PW
-14,62 KH
-241,1 FT
