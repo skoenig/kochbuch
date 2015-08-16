@@ -1,22 +1,24 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb", "paleo"]
+---
 
-djuwec, ausgesprochen ( tschuwesch ) ist eigentlich ein ungarisches Fleischgericht.
+*Djuwec, ausgesprochen ("tschuwesch") ist eigentlich ein ungarisches Fleischgericht.*
 
 ## Zutaten
-- 700g schweinefleisch (gulasch)
-- rote,gelbe,grüne paprika je 2 stück
-- 700g tomaten geschält
-- 4 zwiebeln
-- 40 ml sonnenblumenöl
-- paprikagewürz, scharf und edelsüß,salz, pfeffer, tabasco
+- 700g Schweinefleisch (gulasch)
+- je 2 rote, gelbe, grüne Paprika
+- 700g geschälte Tomaten
+- 4 Zwiebeln
+- 40 ml Sonnenblumenöl
+- Paprikagewürz, scharf und edelsüß
+- Salz & Pfeffer
+- Tabasco
 - 650 ml wasser
 
-##Zubereitung
-die tomaten mit kochendem wasser übergießen, schälen und klein schneiden.
-paprika,zwiebeln und fleisch ebenfalls kleinschneiden.
-nun alle zutaten in eine große schüssel geben vermischen und mit den gewürzen abschmecken.
-alles in eine auflaufform mit deckel geben und das wasser dazugeben.
-zugedeckt 90 - 120 min. im backofen auf 200 grad garen.
+## Zubereitung
 
-das essen lässt sich gut vorkochen oder portionsweise einfrieren.
+Die Tomaten mit kochendem Wasser übergießen, schälen und klein schneiden.
+Paprika, Zwiebeln und Fleisch ebenfalls kleinschneiden.
+Nun alle Zutaten in eine große Schüssel geben, vermischen und mit den Gewürzen abschmecken.
+alles in eine auflaufform mit deckel geben und das wasser dazugeben.
+zugedeckt 90 - 120 min. im backofen bei 200 ℃ garen.
