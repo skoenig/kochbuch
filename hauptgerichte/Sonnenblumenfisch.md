@@ -6,17 +6,17 @@ date: 2015-09-05
 ## Zutaten für 4 Personen
 ![](/uploads/sonnenblumenfisch.jpg)
 
-- 650 Gramm Pollack oder Schellfisch
-- 100 Gramm Parmesan
-- 2 unbehandelte Limetten
-- 100 Gramm Sonnenblumenkerne
+- 650 Gramm     Pollack oder Schellfisch
+- 100 Gramm     Parmesan
+- 2             unbehandelte Limetten
+- 100 Gramm     Sonnenblumenkerne
+- 150           Gramm Mischsalat
+- 1             große reife Avocado
+- 200 Gramm     Creme fraiche
+- 1 Esslöffel   Sahne
+- 1             Knoblauchzehe
+- 1             Handvoll gemischte Kräuter
 - Kokosöl zum einfetten der Form
-- 150 Gramm Mischsalat
-- 1 große reife Avocado
-- 200 Gramm Creme fraiche
-- 1 Esslöffel Sahne
-- 1 Knoblauchzehe
-- 1 Handvoll gemischte Kräuter
 - Salz und Pfeffer
 
 ## Zubereitung
