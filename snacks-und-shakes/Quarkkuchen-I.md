@@ -5,7 +5,7 @@ date: 2015-05-20
 
 ## Zutaten für 4 Portionen
 - 500 g   Magerquark
-- 250 g   Mascarpone
+- 250 g   cremiger Frischkäse
 - 8-10 TL Flohsamenschalen (1 TL ~ 2g)
 - 4 TL    Kokosblütenzucker (1 TL ~ 3,8g)
 - 1 TL    Vanillepulver
