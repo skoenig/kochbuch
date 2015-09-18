@@ -8,7 +8,7 @@ content:
     - beilagen
     - salate
     - tag
-    - about
+    - readme
 ---
 
 ![](uploads/food.jpg)
