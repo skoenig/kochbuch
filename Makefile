@@ -5,7 +5,7 @@ build:
 	python -m urubu build
 
 serve:
-	python -m urubu serve
+	tserve --prefix kochbuch _build
 
 publish:
 	rsync -acP --delete _build/ /home/skoenig/Dropbox/Public/kochbuch/

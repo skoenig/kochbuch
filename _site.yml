@@ -4,3 +4,4 @@ bootswatch: journal
 navbar_inverse: true
 bootstrap: 3.3.4
 ignore_patterns: ['drafts', '*~']
+baseurl: kochbuch
