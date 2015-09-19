@@ -1,5 +1,7 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-03
+---
 
 ## Zutaten (für 3-4 Personen)
 - Hühnerbrust 900g
@@ -15,7 +17,7 @@
 Hühnerbrust kleinschneiden, mit Olivenöl und bisschen Knoblauch anbraten, mit Salz, Pfeffer und Chilli würzen, Sauerrahm (Saure Sahne) und Schmelzkäse dazu, alles rühren bis der Käse geschmolzen ist - fertig.
 
 ## Nährwerte
-Fett - 105 g
-KH - 16 g
-EW ca 250 g
-Kcal - ca 2100
+- Fett - 105 g
+- KH - 16 g
+- EW ca 250 g
+- Kcal - ca 2100

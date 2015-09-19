@@ -1,6 +1,7 @@
-- @lowcarb
-- @breakfast
-- @new
+---
+tags: ["new", "lowcarb", "breakfast"]
+date: 2015-05-19
+---
 
 ## Zutaten
 - 2 EL Olivenöl

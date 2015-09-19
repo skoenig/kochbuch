@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-19
+---
 
 ## Zutaten für 2 Portionen
 - 1 TL Majoran
@@ -11,7 +14,6 @@
 - 6 Eier
 
 ## Zubereitung
-
 Zuerst werden 4 Eier 10 Minuten hart gekocht, dann gepellt und in scheiben geschnitten und in 2 Schalen gelegt.
 
 dann werden die Zwiebeln geputzt, und in Ringe geschnitten, dannach gibt man ca. einen Esslöffel Butter in eine Pfanne und zerlässt diesen und gibt dann die Zwiebeln mit dem Majoran in die Pfanne und brät diese für ca. 1Min

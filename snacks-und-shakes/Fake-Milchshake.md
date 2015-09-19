@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-19
+---
 
 ## Zutaten
 - 150g  Magerquark

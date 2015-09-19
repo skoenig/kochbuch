@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-25
+---
 
 ## Zutaten
 - 1 Dose Thunfisch (135g Fischeinwaage)
@@ -9,9 +12,7 @@
 ## Zubereitung
 Das ganze kommt dann in eine mittelgroße Salatschüssel, die Zutaten werden miteinander vermengt, und fertig is der leckere Proteinsalat :)
 
-
 ## Nährwerte
-- 67g Eiweiß´
+- 67g Eiweiß
 - 7.2g Kh
 - 695 Kcal
-

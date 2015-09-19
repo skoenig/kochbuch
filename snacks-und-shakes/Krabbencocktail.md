@@ -1,5 +1,7 @@
-- @lchf
-- @new
+---
+tags: ["new", "lchf"]
+date: 2015-06-08
+---
 
 ## Zutaten für 4 Portionen
 - 200g      Garnelen

@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
 
 ## Zutaten für 1 Portion
 - 1/2   Zwiebel gewürfelt

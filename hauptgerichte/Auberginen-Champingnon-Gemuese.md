@@ -1,5 +1,7 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "veggie", "vegan"]
+date: 2015-05-19
+---
 
 ## Zutaten
 - 250 g Auberginen

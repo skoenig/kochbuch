@@ -1,5 +1,7 @@
-- @lchf
-- @new
+---
+tags: ["new", "lchf"]
+date: 2015-05-19
+---
 
 ## Zutaten
 - 3     Eier

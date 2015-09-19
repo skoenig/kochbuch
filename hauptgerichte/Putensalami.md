@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2014-03-02
+---
 
 ## Zutaten
 - 2 Putenschnitzel

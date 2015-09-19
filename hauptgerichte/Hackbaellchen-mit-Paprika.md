@@ -1,5 +1,7 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
 
 ## Zutaten
 - 200g tatar oder mageres rinderhack
@@ -12,6 +14,5 @@
 - salz
 
 ## Zubereitung
-das hackfleisch mit dem ei vermischen. die zweibel in kleine stücke hacken und unters hackfleisch geben und mit pfeffer und chilipulver würzen. in einer pfanne etwas öl erhitzen, am besten erdnussöl. aus dem hack 3-4 kleine frikadellen formen und anbraten.
-die paprika in feine streifen schneiden und ebenfalls für 1-2 min. ershitzen.
-zeitaufwand 10 minuten.
+Das Hackfleisch mit dem Ei vermischen. Die Zweibel in kleine Stücke hacken und unter das Hackfleisch geben und mit Pfeffer und Chilipulver würzen. In einer Pfanne etwas Öl erhitzen, am besten Erdnussöl. Aus dem Hack 3-4 kleine Frikadellen formen und anbraten.
+Die Paprika in feine Streifen schneiden und ebenfalls für 1-2 min. erhitzen.

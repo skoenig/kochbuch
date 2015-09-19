@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-01
+---
 
 ## Zutaten
 - 1     Dose Thunfisch
@@ -15,4 +18,3 @@ EW: 56,7 g
 Kohlenhydrate: 8,1 g
 Fett: 3,5 g
 Kcal: 310
-

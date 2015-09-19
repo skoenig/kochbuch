@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-03
+---
 
 ## Zutaten für 4 Portionen
 - 1 Zwiebel

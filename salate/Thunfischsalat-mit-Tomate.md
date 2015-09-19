@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-01
+---
 
 ## Zutaten
 - 200gr Hüttenkäse
@@ -11,7 +14,7 @@
 Alles in einer Schale vermischen.
 
 ## Nährwerte
-Protein 55gr
-Kh 23gr
-Fett 11gr
+- Protein 55gr
+- Kh 23gr
+- Fett 11gr
 

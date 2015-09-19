@@ -1,5 +1,7 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-19
+---
 
 ## Zutaten
 - 3 Scheiben Schinken oder 150 g Pute

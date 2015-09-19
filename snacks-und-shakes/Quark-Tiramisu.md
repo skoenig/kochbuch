@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new"]
+date: 2015-04-26
+---
 
 ## Zutaten
 - 500g Topfen (Quark)

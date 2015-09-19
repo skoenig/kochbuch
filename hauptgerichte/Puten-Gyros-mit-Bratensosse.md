@@ -1,5 +1,7 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2015-06-26
+---
 
 ## Zutaten
 - Putenbrustfilet ca. 500 g

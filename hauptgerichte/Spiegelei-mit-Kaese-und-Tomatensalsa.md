@@ -1,6 +1,7 @@
-- @lchf
-- @new
-- @breakfast
+---
+tags: ["new", "lowcarb", "breakfast"]
+date: 2015-05-28
+---
 
 ## Zutaten
 - 2 Eier

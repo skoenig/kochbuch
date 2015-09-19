@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
 
 ## Zutaten für 3 Portionen
 - 600g Tomaten
@@ -17,9 +20,8 @@ Olivenöl mit Knoblauch verrühren und über den Auflauf gießen.  Mit Salz und 
 
 Auflauf auf der 3. Einschubleiste von unten 12-15 Minuten (umluft ca. 10-15 Minuten) backen.  Zum garnieren könnt ihr Basilikumblätter nehmen.
 
-
 ## Nährwerte pro Portion
 - 35g EW
 - 23g Fett
 - 4g KH
-- 371kcal (1555 kj)
+- 371kcal

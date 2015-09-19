@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb", "veggie"]
+date: 2015-04-26
+---
 
 ## Zutaten (ausreichend für 2 Portionen)
 3 Zucchinis mittelgroß

@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-06-26
+---
 
 ## Zutaten
 - 500g Rinderfilet

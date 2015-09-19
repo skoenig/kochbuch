@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
 
 ## Zutaten
 - 100g Mascarpone light (hat weniger KH als normal) Oder Buko Sahnefrischkäse

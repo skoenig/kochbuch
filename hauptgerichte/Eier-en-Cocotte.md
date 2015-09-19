@@ -1,5 +1,7 @@
-- @lchf
-- @new
+---
+tags: ["new", "lchf"]
+date: 2015-07-02
+---
 
 ## Zutaten für 4 Stück
 - 200g  Frühstücksspeck

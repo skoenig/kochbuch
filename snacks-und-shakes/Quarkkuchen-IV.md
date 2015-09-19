@@ -1,5 +1,7 @@
-- @lowcarb
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-05-22
+---
 
 ## Zutaten
 - 3   Eier

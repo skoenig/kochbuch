@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-25
+---
 
 ## Zutaten für 2 Portionen
 - 1   Brötchen
@@ -12,9 +15,8 @@
 - 0,33 Bund   Schnittlauch, klein gehackter
 - 1 Zweig/e   Oregano, klein gehackter
 - 0,33    Tomate(n)
--     Salz
--     Pfeffer
 - 20 g  Käse (Gouda), geriebener
+- Salz & Pfeffer
 
 ## Zubereitung
 Die Brötchen in dünne Scheiben schneiden und in eine Auflaufform legen. Das Ei mit der Milch verquirlen und über die Brötchen gießen.

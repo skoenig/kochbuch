@@ -1,3 +1,8 @@
+---
+tags: ["new", "veggie"]
+date: 2015-06-17
+---
+
 ## Zutaten
 für ein Ofenblech Kartoffeln:
 - ~ 1,5 kg Kartoffeln

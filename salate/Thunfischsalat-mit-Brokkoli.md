@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-25
+---
 
 ## Zutaten
 * Eine Hand voll Broccoli

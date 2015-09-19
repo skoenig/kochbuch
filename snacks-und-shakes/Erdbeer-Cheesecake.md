@@ -1,5 +1,7 @@
-- @lchf
-- @new
+---
+tags: ["new", "lchf"]
+date: 2015-06-04
+---
 
 ## Zutaten
 - 150g  Pekanüsse

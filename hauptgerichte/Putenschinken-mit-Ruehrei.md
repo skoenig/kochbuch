@@ -1,7 +1,10 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
 
 ## Zutaten
-- Drei Eier - davon drei Eiweiß und ein Eigelb
+- 3 Eier - davon 3 Eiweiß und 1 Eigelb
 - Ein Esslöffel italienische Tiefkühl Kräuter
 - Prise frischer Pfeffer
 - 1 Esslöffel Olivenöl

@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2014-01-28
+---
 
 ## Zutaten
 - 1500 g Rinderhack (gemischtes Hack geht auch)

@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-25
+---
 
 ## Zutaten
 - 3-4 Putenschnitzel (ca. 650 g)
@@ -11,7 +14,7 @@
 - 200 g geriebenen Käse
 
 ## Zubereitung
-Das Olivenöl in der Pfanne heiß werden lassen und die Putenschnitzel kurz von beiden Seiten anbraten. In eine Auflaufform geben und von beiden Seiten würzen. Den tiefgefrorenen Blumenkohl** in der Mikrowelle im zugedeckten Topf etwa 7 Minuten bei 600 Watt garen (er sollte noch nicht weich sein) und in kleinere Röschen zerteilen. Die Paprika in dünne Streifen schneiden und mit Sahne, Frischkäse, Gewürzen und Kräutern vermischen und über dem Fleisch verteilen. Anschließend den geriebenen Käse darüber geben und bei 200 Grad im vorgeheizten Backofen ca. 30 Minuten backen. Wenn der Käse goldbraun aussieht ist der Auflauf fertig.
+Das Olivenöl in der Pfanne heiß werden lassen und die Putenschnitzel kurz von beiden Seiten anbraten. In eine Auflaufform geben und von beiden Seiten würzen. Den tiefgefrorenen Blumenkohl in der Mikrowelle im zugedeckten Topf etwa 7 Minuten bei 600 Watt garen (er sollte noch nicht weich sein) und in kleinere Röschen zerteilen. Die Paprika in dünne Streifen schneiden und mit Sahne, Frischkäse, Gewürzen und Kräutern vermischen und über dem Fleisch verteilen. Anschließend den geriebenen Käse darüber geben und bei 200 Grad im vorgeheizten Backofen ca. 30 Minuten backen. Wenn der Käse goldbraun aussieht ist der Auflauf fertig.
 
 ## Nährwerte
 - pro 100 g in %:

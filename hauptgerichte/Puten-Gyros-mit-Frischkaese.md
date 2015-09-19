@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new"]
+date: 2015-06-26
+---
 
 ## Zutaten für 1 Portion
 - Pute 200-250 g

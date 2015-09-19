@@ -1,8 +1,9 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-25
+---
 
 ##Zutaten
-
 - 1-2 Zanderfilets
 - 1-2 Rote Beete-Kugeln (nicht die ausm Glas, sondern die aus der Gemüseabteilung)
 - ca. 200g Salat je nach Geschmack (ich hatte Rucola+ Kopfsalat)a

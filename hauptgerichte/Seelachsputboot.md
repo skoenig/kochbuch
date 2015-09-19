@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2014-03-02
+---
 
 ## Zutaten
 - 400g Alaska-Seelachsfilets (andere Fische gehen sicherlich auch, zB fettigere)

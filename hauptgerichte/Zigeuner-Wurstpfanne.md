@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new"]
+date: 2015-05-01
+---
 
 ## Zutaten für 1 Portion
 - 3/4 mittelgroße Paprika; z. B. rot, gelb und grün

@@ -1,5 +1,7 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
 
 ## Zutaten für 1 Portion
 250 g       Fischfilet, (z. B. Kabeljau)

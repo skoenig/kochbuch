@@ -1,4 +1,8 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
+
 
 ## Zutaten
 - 350g Tartar

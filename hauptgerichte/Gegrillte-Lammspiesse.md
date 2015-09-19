@@ -1,7 +1,9 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-26
+---
 
-##Zutaten für 3 Portionen
+## Zutaten für 3 Portionen
 - 400 g Lammsteak
 - 1 Zwiebel
 - Knoblauch

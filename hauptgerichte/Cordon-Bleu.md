@@ -1,17 +1,17 @@
-- @new
+---
+tags: ["new", "veggie", "vegan"]
+date: 2015-04-26
+---
 
 ## Zutaten
-- 200g pute
-- 200g scheibenkäse (Gauda oder Butterkäse)
+- 200g  Pute
+- 200g  Gauda oder Butterkäse
 
 ## Zubereitung
-die pute erst braten in der pfanne
-dann obendrauf ne scheibe käse legen, umdrehen das ganze und dann kurz anbraten lassen (hierbei den herd schon auf niedrigste stufe) und während die eine seite brät schon die andere seite mit käse bedecken.
-hierbei eignet sich son 5% käse, hat sogar gaanz wenig carbs bei mir, also auch ideal für lowcarb diät ;)
+Die Pute erst in der Pfanne anbraten, dann eine Scheibe Käse obendrauf legen. Die Pute mit dem Käse dann wenden und bei niedriger Hitze das Ganze nur kurz anbraten lassen und während die eine Seite brät schon die andere seite mit käse bedecken.
 
 ## Nährwerte
-kcal (mit meinem 5% fett käse :P ) = 490
+kcal (mit 5%-Fett Käse) = 490
 ew = 90g
-carbs= 4g
+carbs = 4g
 fett = 12g
-

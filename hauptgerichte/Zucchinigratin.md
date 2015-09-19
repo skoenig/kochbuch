@@ -1,4 +1,7 @@
-- @new
+---
+tags: ["new"]
+date: 2015-04-25
+---
 
 ## Zutaten für 2 Portionen
 - 400 g       Zucchini

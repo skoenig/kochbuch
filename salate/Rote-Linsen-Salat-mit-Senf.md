@@ -1,8 +1,9 @@
-- @new
-- @lowcarb
+---
+tags: ["new", "lowcarb"]
+date: 2014-06-15
+---
 
 ## Zutaten
-
 - 1 EL     Senf
 - 100 g    Linsen, rote
 - ½ kleine Zwiebel(n)
@@ -15,7 +16,6 @@
 - Salz & Pfeffer
 
 ## Zubereitung
-
 Zuerst die roten Linsen ca. 15 Min. weich kochen.
 
 Die Zwiebel abziehen und würfeln. Die restlichen Zutaten zu einer Marinade verarbeiten und die Zwiebelwürfel zugeben. Nun die roten Linsen zugeben und untermengen.

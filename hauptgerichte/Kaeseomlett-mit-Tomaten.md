@@ -1,13 +1,15 @@
-- @new
+---
+tags: ["new", "lowcarb"]
+date: 2015-04-25
+---
 
 ## Zutaten
-- 4 Eier
-- Salz
-- schwarzer Pfeffer frisch gemahlen
-- 1/2 Bund Schnittlauch
-- 100 gr. würziger Hartkäse
-- 3 Teel. Butter
-- 4 kleine feste Tomaten.
+- 4     Eier
+- 1/2   Bund Schnittlauch
+- 100g  würziger Hartkäse
+- 3 TL  Butter
+- 4     kleine feste Tomaten.
+- Salz & Pfeffer
 
 ## Zubereitung
 Die Eier verquirlen, mit Salz und Pfeffer würzen. Den Schnittlauch in feine Röllchen schneiden, den Käse klein würfeln, alles unter die Eimasse ziehen.

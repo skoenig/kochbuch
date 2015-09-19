@@ -1,3 +1,5 @@
+
+
 ## Magerquarkshakes Allgemein
 1. Eiweißquelle: Magerquark
 2. Flüssigkeit: Milch (fettarm oder sogar mager), Buttermilch, fettarmer Joghurt mit etwas Wasser verdünnt, fettarmer Kefir, Fruchtsäfte, Gemüsesäfte (auch milchsauer vergoren sehr lecker), Mineralwasser
