@@ -1,1 +1,0 @@
-[http://www.chefkoch.de/rezepte/679121170338150/Wirsingkohl-mit-Speck-und-weisser-Sauce.html](http://www.chefkoch.de/rezepte/679121170338150/Wirsingkohl-mit-Speck-und-weisser-Sauce.html)
