@@ -21,13 +21,13 @@ content:
 
 *für die speckigen Backentaschen"*
 
-[Hauptgerichte](/hauptgerichte/)
+[hauptgerichte]
 
-[Salate](/salate/)
+[salate]
 
-[Snacks & Shakes](/snacks-und-shakes/)
+[snacks-und-shakes]
 
-[Beilagen](/beilagen/)
+[beilagen]
 
 
 ## Links
