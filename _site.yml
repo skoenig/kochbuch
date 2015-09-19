@@ -3,5 +3,5 @@ navbar_right_items: 2
 bootswatch: journal
 navbar_inverse: true
 bootstrap: 3.3.4
-ignore_patterns: ['drafts', '*~']
+ignore_patterns: ['drafts', '*~', 'Notes.markdown']
 baseurl: kochbuch
