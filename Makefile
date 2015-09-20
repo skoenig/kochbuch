@@ -9,3 +9,7 @@ serve:
 
 publish:
 	rsync -acP --delete _build/ /home/skoenig/Dropbox/Public/kochbuch/
+
+publish-gh-pages:
+	./publish-gh-pages.sh
+
