@@ -14,7 +14,7 @@ date: 2015-05-01
 Apfel und Zwiebel kleinschneiden und alles miteinander vermischen.
 
 ## Nährwerte
-EW: 56,7 g
-Kohlenhydrate: 8,1 g
-Fett: 3,5 g
-Kcal: 310
+- Kcal: 310
+- EW:    56,7 g
+- KH:     8,1 g
+- Fett:   3,5 g

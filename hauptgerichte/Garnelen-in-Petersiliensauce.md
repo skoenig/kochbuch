@@ -25,7 +25,7 @@ Riesengarnelen und Petersilie in die Sauce geben und darin erwärmen.
 Baguette passt gut dazu aber auch Schwarzbrot.
 
 ## Nährwerte
-EW:132g
-Fett:76g
-KH:8g
-1324 kcal (5532 kj)
+- kcal: 1324
+- EW:  132g
+- Fett: 76g
+- KH:    8g

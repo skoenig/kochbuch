@@ -14,7 +14,7 @@ Zwiebel in halbe Ringe schneiden und in der Pfanne mit Margarine anschwitzen, na
 Danach die Salami je nach Geschmack auf die Schnitzel verteilen. Sobald Salami rot glänzt Käse über die Schnitzel-Salami-Kombi legen, Hitze leicht erhöhen und Deckel drauf. Wenn der Käse zerläuft ist das ganze servierfertig. Je nach Geschmack noch einen Klecks Ketchup darauf. :)
 
 ## Nährwerte
-- 779 kcal (3261 KJ)
-- Fett: 41.6 g
-- KHs: 9.8 g
+- kcal:     779
+- Fett:  41.6 g
+- KHs:    9.8 g
 - Prots: 93.8 g

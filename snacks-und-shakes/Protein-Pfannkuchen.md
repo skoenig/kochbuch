@@ -18,6 +18,6 @@ Alle Zutaten mit einem Schneebesen oder einem Rührgerät vermischen, bis eine h
 
 ## Nährwerte
 - kcal:   343
-- KH:       6
-- Fett:    17
-- Protein: 44
+- KH:       6g
+- Fett:    17g
+- Protein: 44g

@@ -19,7 +19,7 @@ danach nochmal kräftig umrühren und ein wenig abkühlen lassen
 nun noch das leinöl und den joghurt dazu geben und gut vermengen.
 
 ## Nährwerte
-- 443,4kcal
-- 48,4g EW
-- 27,6g KH
-- 15,3g F
+- kcal: 443
+- EW:   48,4g
+- KH:   27,6g
+- Fett: 15,3g

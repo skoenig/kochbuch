@@ -16,9 +16,8 @@ date: 2015-04-25
 ## Zubereitung
 Das Olivenöl in der Pfanne heiß werden lassen und die Putenschnitzel kurz von beiden Seiten anbraten. In eine Auflaufform geben und von beiden Seiten würzen. Den tiefgefrorenen Blumenkohl in der Mikrowelle im zugedeckten Topf etwa 7 Minuten bei 600 Watt garen (er sollte noch nicht weich sein) und in kleinere Röschen zerteilen. Die Paprika in dünne Streifen schneiden und mit Sahne, Frischkäse, Gewürzen und Kräutern vermischen und über dem Fleisch verteilen. Anschließend den geriebenen Käse darüber geben und bei 200 Grad im vorgeheizten Backofen ca. 30 Minuten backen. Wenn der Käse goldbraun aussieht ist der Auflauf fertig.
 
-## Nährwerte
-- pro 100 g in %:
-- Eiweiß: 42,9 (= 14,5 g)
-- KH: 4,3 (= 1,5 g)
-- Fett: 50,4 (= 7,5 g)
-- Kalorien: 139
+## Nährwerte pro 100g
+- kcal: 139
+- EW: 42,9
+- KH: 4,3
+- Fett: 50,4

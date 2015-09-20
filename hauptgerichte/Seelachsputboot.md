@@ -19,7 +19,7 @@ Sobald die Filets goldbraun sind zur Seite legen und entweder neue Pfanne nehmen
 Den Putenverschnitt würfeln und in die leicht nachgefette Pfanne geben, Sojamilch hinterher, die restliche Tomate dazugeben und in der Pfanne kaputtstampfen. Nach Geschmack anbraten. Über die Putboote oder daneben gießen.
 
 ## Nährwerte
-- 990 kcals
-- 49,9g Fett
-- 1,5g Kohlenhydrate
-- 131,1g Protein
+- kcal: 990
+- Fett: 49,9g
+- KW:    1,5g
+- EW:  131,1g

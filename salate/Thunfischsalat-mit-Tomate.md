@@ -14,7 +14,6 @@ date: 2015-05-01
 Alles in einer Schale vermischen.
 
 ## Nährwerte
-- Protein 55gr
-- Kh 23gr
-- Fett 11gr
-
+- EW:   55g
+- KH:   23g
+- Fett: 11g

@@ -18,6 +18,6 @@ Passt auch gut zu Kartoffeln!
 Ergibt 2 Portionen.
 
 ## Nährwerte
-- Eiweiss 80g
-- KH 15g
-- Fett 12g
+- EW:   80g
+- KH:   15g
+- Fett: 12g

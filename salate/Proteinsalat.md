@@ -13,6 +13,6 @@ date: 2015-04-25
 Das ganze kommt dann in eine mittelgroße Salatschüssel, die Zutaten werden miteinander vermengt, und fertig is der leckere Proteinsalat :)
 
 ## Nährwerte
-- 67g Eiweiß
-- 7.2g Kh
-- 695 Kcal
+- kcal: 695
+- EW:  7g
+- KH:  7,2g

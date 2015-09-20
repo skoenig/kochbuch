@@ -22,8 +22,8 @@ date: 2015-04-26
 6. am besten noch ein wenig ziehen lassen
 
 ## Nährwerte
-- F: 10,5g
-- EW: 138,2g
-- KH: 101,5g
 - kcal: 990
+- Fett:  10,5g
+- EW:   138,2g
+- KH:   101,5g
 

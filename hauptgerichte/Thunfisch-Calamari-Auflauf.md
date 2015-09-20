@@ -16,8 +16,7 @@ Thunfisch abtropfen, in einer pfanne mit dem öl und den geschnittenen calamari 
 Ergibt 3-4 portionen.
 
 ## Nährwerte pro Portion
-
-- EW 51
-- KH 7
-- Fett 25
-- 460 kcal
+- kcal: 460
+- EW:   51g
+- KH:    7g
+- Fett: 25g

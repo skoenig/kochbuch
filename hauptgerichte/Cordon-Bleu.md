@@ -11,7 +11,7 @@ date: 2015-04-26
 Die Pute erst in der Pfanne anbraten, dann eine Scheibe Käse obendrauf legen. Die Pute mit dem Käse dann wenden und bei niedriger Hitze das Ganze nur kurz anbraten lassen und während die eine Seite brät schon die andere seite mit käse bedecken.
 
 ## Nährwerte
-kcal (mit 5%-Fett Käse) = 490
-ew = 90g
-carbs = 4g
-fett = 12g
+- kcal (mit 5%-Fett Käse): 490
+- EW:   90g
+- KH:    4g
+- Fett: 12g

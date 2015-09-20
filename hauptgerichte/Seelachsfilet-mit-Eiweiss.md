@@ -25,7 +25,7 @@ Mit Ketchup (oder diese lecker Soßen wie Curry, Salza etc) vermischen - fertig.
 Das alles sieht zwar recht unappetitlich aus, schmeckt aber super lecker und hat ordentlich Proteine bei wenig KH:
 
 ## Nährwerte
-- 260kcal
-- 55g Eiweiß
-- 2g KH
-- 8g Fett
+- kcal: 260
+- EW:  55g
+- KH:   2g
+- Fett: 8g
