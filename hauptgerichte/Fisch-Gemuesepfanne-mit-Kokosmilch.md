@@ -4,7 +4,7 @@ date: 2015-04-08
 ---
 
 ##Zutaten
-![](/uploads/Fisch-Gemuesepfanne-mit-Kokosmilch.jpg)
+![](../uploads/Fisch-Gemuesepfanne-mit-Kokosmilch.jpg)
 
 - 500 g     Fischfilet(s), TK oder frisch (z. B. Pangasius, Seelachs)
 - 1      Zucchini

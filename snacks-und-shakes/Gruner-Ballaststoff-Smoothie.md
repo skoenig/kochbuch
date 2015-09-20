@@ -4,7 +4,7 @@ date: 2015-04-18
 ---
 
 ## Zutaten
-![](/uploads/gruener-ballaststoff-smoothie.jpg)
+![](../uploads/gruener-ballaststoff-smoothie.jpg)
 
 -    50.00 g, Brokkoli (Roh)
 -    50.00 g, Grünkohl

@@ -19,7 +19,7 @@ tags: ["lchf"]
 - 50 Milliliter Balsamico
 - Ein stengel glattblättrige petersilie
 
-![](/uploads/fischfilet-mit-sesam-und-roten-beeten.jpg)
+![](../uploads/fischfilet-mit-sesam-und-roten-beeten.jpg)
 
 ## Zubereitung
 Zuerst für die rösti den backofen auf 200 Grad vorheizen. Ein Backblech mit Backpapier auslegen. Den blumenkohl reis mit zwiebeln, eiern, geriebenen käse und Flohsamenschalen verrühren. Den Rösti teig in kleinen Häuschen auf das backpapier legen und diese zu Fladen pressen. Im Backofen 20 Minuten backen, bis sie goldbraun sind.

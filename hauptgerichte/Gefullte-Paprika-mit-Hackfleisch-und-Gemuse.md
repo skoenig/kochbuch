@@ -4,7 +4,7 @@ date: 2015-03-15
 ---
 
 ## Zutaten für 4 Portionen
-![](/uploads/gefuellte-paprika.jpg)
+![](../uploads/gefuellte-paprika.jpg)
 
 - 2 große   Zwiebeln
 - 4 große   Paprikaschoten, rote oder gelbe

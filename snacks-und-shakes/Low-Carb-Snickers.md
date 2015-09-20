@@ -4,7 +4,7 @@ date: 2015-07-31
 ---
 
 ## Zutaten
-![](/uploads/low-carb-snickers.jpg)
+![](../uploads/low-carb-snickers.jpg)
 
 - 100 g     gesalzene Erdnüsse
 - 100 g     ungesalzene Erdnüsse

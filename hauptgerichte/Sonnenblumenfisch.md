@@ -4,7 +4,7 @@ date: 2015-09-05
 ---
 
 ## Zutaten für 4 Personen
-![](/uploads/sonnenblumenfisch.jpg)
+![](../uploads/sonnenblumenfisch.jpg)
 
 - 650 Gramm     Pollack oder Schellfisch
 - 100 Gramm     Parmesan

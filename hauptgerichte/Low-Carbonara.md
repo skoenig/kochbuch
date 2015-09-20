@@ -4,7 +4,7 @@ date: 2015-05-16
 ---
 
 ## Zutaten für 4 Personen
-![](/uploads/low-carbonara.jpg)
+![](../uploads/low-carbonara.jpg)
 
 - 3     Karotten
 - 1     Zucchini

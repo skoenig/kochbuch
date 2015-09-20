@@ -4,7 +4,7 @@ date: 2015-05-16
 ---
 
 ## Zutaten
-![](/uploads/blumenkohlreis.jpg)
+![](../uploads/blumenkohlreis.jpg)
 - Blumenkohl frisch (ca. 150 g für eine Portion)
 
 ## Zubereitung

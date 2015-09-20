@@ -4,7 +4,7 @@ date: 2014-03-02
 ---
 
 ## Zutaten
-![](/uploads/sojabohnen-rot-gelb-gruen.jpg)
+![](../uploads/sojabohnen-rot-gelb-gruen.jpg)
 
 - 1 Tasse        Sojabohnen
 - Olivenöl
