@@ -9,6 +9,11 @@ code {
   background-color: transparent;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .page-header {
   margin-top: 30px;
 }
@@ -74,7 +79,7 @@ code {
 
 /* heading scrolling */
 
-h2[id]:before, 
+h2[id]:before,
 h3[id]:before{
   content: "";
   display: block;
@@ -92,7 +97,7 @@ h3[id]:before{
   .sidebar.affix,
   .sidebar.affix-bottom {
     width: 213px;
-  } 
+  }
   .sidebar.affix {
     position: fixed; /* Undo the static from mobile first approach */
     top: 80px;
@@ -109,5 +114,4 @@ h3[id]:before{
     width: 263px;
   }
 }
-
 
