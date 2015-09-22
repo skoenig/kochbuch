@@ -1,18 +1,27 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-04-25
+tags: ["veggie"]
+date: 2015-09-22
 ---
 
-## Zutaten
-- 800  Gramm   Blumenkohl
--              Wasser
--              Zitonensaft
-- 120  Gramm   Saure Sahne
--              frisch gemahlener Pfeffer
-- 10   Gramm   Petersilie (fein gehackt)
-- 2    Stücke  Hühnerei (hartgekocht)
+## Zutaten für 2 Portionen
+- 800 g   Blumenkohl
+- 1       Zitrone
+- 150 g   Saure Sahne
+-         frisch gemahlener Pfeffer
+- 20  g   Petersilie (fein gehackt)
+- 4       Eier
 
 ## Zubereitung
-Den Blumenkohl putzen, waschen, in kleine Röschen teilen. Die Röschen in kochendes Zitronenwasser geben und 5-10 Minuten garen, aus dem Kochwasser herausnehmen und abkühlen lassen. Aus der sauren Sahne und dem Zitronensaft eine Marinade herstellen. Mit
-frisch gemahlenem Pfeffer abschmecken.
-Das Hühnerei in feine Würfel schneiden, mit dem Petersilie vermengen und über den Salat streuen.
+Das Wasser für den Blumenkohl und für die Eier zum Kochen aufsetzen. Die Zitrone entsaften und eine Hälfte vom Saft in das Wasser für den Blumenkohl geben, die andere Hälfte beiseite stellen.
+
+Den Blumenkohl putzen, waschen, in kleine Röschen teilen. Die Röschen in das kochende Zitronenwasser geben und 10 Minuten garen, aus dem Kochwasser herausnehmen und abkühlen lassen. Die Eier 7 Minuten hartkochen.
+
+Aus der sauren Sahne, der Petersilie und dem restlichen Zitronensaft ein Dressing herstellen. Mit frisch gemahlenem Pfeffer abschmecken.
+
+Die Hühnereier in feine Würfel schneiden, über den Blumenkohl geben und das Ganze mit dem Dressing übergießen.
+
+## Nährwerte
+- kcal: 384
+- KH:    27g
+- Fett:  22g
+- EW:    28g
