@@ -20,7 +20,7 @@ Aus der sauren Sahne, der Petersilie und dem restlichen Zitronensaft ein Dressin
 
 Die Hühnereier in feine Würfel schneiden, über den Blumenkohl geben und das Ganze mit dem Dressing übergießen.
 
-## Nährwerte
+## Nährwerte für 1 Portion
 - kcal: 384
 - KH:    27g
 - Fett:  22g
