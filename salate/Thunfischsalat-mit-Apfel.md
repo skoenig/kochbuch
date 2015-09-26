@@ -1,20 +1,23 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-05-01
+tags: ["lowcarb"]
+date: 2015-09-26
 ---
 
 ## Zutaten
+![](../uploads/thunfischsalat-mit-apfel.jpg)
+
 - 1     Dose Thunfisch
-- 100g  Cottage Cheese
-- 1     kleine Zwiebel
-- ½     kleinen Apfel
-- 1     EL Majonaise
+- 100 g körniger Frischkäse (Cottage Cheese)
+- 28 g  Zwiebel (~ 1 kleine Zwiebel)
+- 45 g  Apfel (~ ½ kleiner Apfel)
+- 25 g  Majonnaise (~ 1 EL)
+- Salz
 
 ## Zubereitung
-Apfel und Zwiebel kleinschneiden und alles miteinander vermischen.
+Zwiebel pellen und in kleine Würfel schneiden, den Apfel entkernen und in kleine Stifte schneiden, Thunfisch abtropen lassen. Dann alle Zutaten in einer Schüssel miteinander vermischen und mit Salz abschmecken.
 
 ## Nährwerte
-- Kcal: 310
-- EW:    56,7 g
-- KH:     8,1 g
-- Fett:   3,5 g
+- Kcal: 350
+- EW:    40 g
+- KH:     8 g
+- Fett:  18 g
