@@ -1,10 +1,10 @@
 ---
 tags: ["lchf", "breakfast"]
-done: 2015-05-17
+date: 2015-05-17
 ---
 
 ## Zutaten für 2 Portionen
-[](../uploads/avocadosalat-mit-bacon-und-walnuessen.jpg)
+![](../uploads/avocadosalat-mit-bacon-und-walnuessen.jpg)
 
 - 200g  Bacon
 - 50 g  Rucola
