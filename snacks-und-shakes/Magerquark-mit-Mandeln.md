@@ -1,16 +1,23 @@
 ---
-tags: ["lowcarb"]
-date: 2014-06-15
+tags: ["lowcarb", "lchf"]
+date: 2014-09-26
 ---
 
-## Zutaten
-- 500 g magerquark (mager)
-- 250 g jogurt
-- 250 Sauerrahm (10 oder 15% Fett)
-- etwas Süßstoff
-- 100g Mandelsplitter
-- zusätzlich n.B. Mandelmuß / Mandelmehl / Mandelaroma (eine oder alle 3 Zutaten :))
+## Zutaten für 4 Portionen
+![](../uploads/magerquark-mit-mandeln.jpg)
+
+- 500 g     Magerquark
+- 250 g     Jogurt
+- 250 g     Sauerrahm (10 oder 15% Fett)
+- 100 g     Mandelsplitter
+- 5 g       Stevia
+- zusätzlich n.B. Mandelmuß / Mandelmehl / Mandelaroma
 
 ## Zubereitung
-Denkbar einfach: alles vermengen.
+Denkbar einfach: alles vermengen und kalt stellen.
 
+## Nährwerte pro Portion
+- kcal:   405
+- KH:      10 g
+- EW:      25 g
+- Fett:    29 g
