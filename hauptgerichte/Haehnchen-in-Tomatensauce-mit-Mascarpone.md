@@ -25,4 +25,4 @@ Die Zwiebeln, Knoblauchzehen und die Chilischote fein hacken und in einem Topf m
 
 Die Sauce eine Weile zugedeckt köcheln lassen und dann die Mascarpone unterrühren, bis die Sauce eine cremige Konsistenz hat. Die fertig gebratenen Hähnchenbrustfilets hinzufügen und alles noch mal aufkochen lassen. Mit Salz & Pfeffer abschmecken.
 
-Beim Anrichten mit Basilikumblättern bestreuen und dazu [Blumenkohlreis](/beilagen/Blumenkohlreis) reichen,
+Beim Anrichten mit Basilikumblättern bestreuen und dazu [Blumenkohlreis](../beilagen/Blumenkohlreis) reichen,
