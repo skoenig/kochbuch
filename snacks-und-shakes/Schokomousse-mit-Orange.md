@@ -3,6 +3,8 @@ tags: ["veggie", "lchf"]
 date: 2015-08-15
 ---
 
+![](../uploads/schokomousse-mit-orange.jpg)
+
 ## Zutaten für 6 kleine Gläser
 - 150g dunkle Schokolade (~ 85% Kakaoanteil)
 - 150g Sahne
@@ -17,4 +19,4 @@ Die Eier trennen und das Eiweiß steif schlagen. Eigelb mit dem Kokoszucker und 
 
 Die Schokolade vorsichtig unter die geschlagene Sahne heben und alles verrühren bis eine gleichmäßige Masse entstanden ist. Dann noch das Eiweiß vorsichtig unterheben. Die Mousse jetzt in kleine Gläser füllen und in den Kühlschrank stellen.
 
-Zum servieren noch die beiseite gestellte restliche Orangenschale dazugeben.
+Zum Servieren noch die beiseite gestellte restliche Orangenschale dazugeben.
