@@ -1,9 +1,10 @@
 ---
 tags: ["lowcarb"]
-date: 2013-01-12
+date: 2015-09-27
 ---
 
 ## Zutaten für 2 Portionen
+![](../uploads/eier-im-hackfleischnest.jpg)
 - 400 g    Hackfleisch
 - 2        Ei(er)
 - 1        Zwiebel(n), gewürfelt
