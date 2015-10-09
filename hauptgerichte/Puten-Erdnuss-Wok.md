@@ -1,15 +1,16 @@
 ---
-date: 2013-01-06
+date: 2015-10-05
 tags: ["lowcarb"]
 ---
 
 ## Zutaten für 2 Portionen
-- 400g Putenbrust
-- 2 Paprika
-- 1/2 Zwiebel
-- 200ml Gemüsebrühe
-- 1 TL Sambal Oelek
-- 2 EL Erdnussmuß (keine Erdnussbutter)
+![](../uploads/puten-erdnuss-wok.jpg)
+- 400 g     Putenbrust
+- 2         Paprika
+- ½         Zwiebel
+- 200 ml    Gemüsebrühe
+- 1 TL      Sambal Oelek
+- 2 EL      Erdnussmuß (keine Erdnussbutter)
 - Öl
 - evtl. noch einige Erdnüsse
 
