@@ -15,6 +15,6 @@ date: 2015-08-04
 - etwas Kokosöl für die Form
 
 ## Zubereitung
-Alle Zutaten mit einem Rührgerät vermengen, bis eine glatte Masse entsteht und in eine gefettete Kastenform geben. Nach Belieben noch dunkle Beeren unterrühren. Die Form mit Alufolie abdecken und in den Ofen schieben
+Alle Zutaten mit einem Rührgerät vermengen, bis eine glatte Masse entsteht und in eine gefettete Kastenform geben. Nach Belieben noch dunkle Beeren unterrühren. Die Form mit Alufolie abdecken und in den Ofen schieben.
 Die Backzeit beträgt ca 45-50min bei 180°C.
 
