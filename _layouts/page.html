@@ -18,6 +18,14 @@
     {% block title %}
     <h1>{{this.title}}</h1>
     {% endblock %}
+
+    {% block tags %}
+      {% if this.tags %}
+        {% for tag in this.tags %}
+        <span class="label label-primary">{{tag}}</span>
+        {% endfor %}
+      {% endif %}
+    {% endblock %}
   </div>
 
   <div class="row">
