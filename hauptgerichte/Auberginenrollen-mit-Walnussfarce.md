@@ -23,3 +23,8 @@ Den Backofen auf 225℃  vorheizen. Die Auberginen noch einmal abspülen und abt
 Auf jede Auberginenscheibe einen Esslöffel von der Walnussfarce geben und die Scheiben zusammenrollen und in eine eingefettete feuerfeste Form legen. Die Tomatensauce mit Butter darübergeben und zum Schluss den Feta darüberstreuen. Etwa 20 Minuten im Backofen backen.
 Zum Servieren die restlichen Pistazien über das Gericht streuen.
 
+## Nährwerte pro Portion
+- kcal: 673
+- KH:    24 g
+- Fett:  56 g
+- EW:    13 g
