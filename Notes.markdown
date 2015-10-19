@@ -10,6 +10,13 @@
 - <http://www.oldschool-training.de/board/Forum-Rezepte>
 - <http://www.reddit.com/r/ketorecipes>
 - <http://www.rezeptefinden.de/s/keto.html>
+- <http://happycarb.de/rezepte/fruehstueck/himbeer-mohn-quarkteilchen/>
+- <http://happycarb.de/rezepte/snacks-und-suesses/low-carb-apfeltaschen/>
+- <http://happycarb.de/rezepte/backen/schokoladen-schmandkuechlein/>
+- <http://lowcarb-ketogen.de/lowcarb-kaesekuchen-ohne-reue-mein-lieblingskuchen/>
+- <http://www.lowcarb-ernaehrung.info/rezept-apfelkuchen/>
+- <http://www.lowcarb-ernaehrung.info/rezept-quarkkuchen/>
+- <http://www.lowcarb-ernaehrung.info/rezept-mini-ruehrkuchen/>
 
 ## APIs
 - <http://www.myfitnesspal.com/api>
