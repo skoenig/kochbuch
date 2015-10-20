@@ -1,17 +1,12 @@
 ---
-tags: ["lowcarb", "breakfast"]
+tags: ["slowcarb", "breakfast"]
 date: 2014-01-19
 ---
 
 ## Zutaten
 - 1 Dose schwarze Bohnen
 - 1/4 Avocado
-- 1 Tomate
-- 1 kleine Zwiebel
-- Chiligewürz
-- Petersilie
-- Zitronensaft
-- Salz & Pfeffer
+- [Tomatensalsa](../beilagen/Tomatensalsa.html)
 
 ## Zubereitung
-Für die Salsa Tomate, Zwiebel, Chili, Petersilie zerkleinern, zusammenmischen und mit Zitronensaft, Salz und Pfeffer abschmecken. Das ganze mit den Bohnen in der Mikrowelle erhitzen, währenddessen die Avocado in Scheiben schneiden und anschließend auf den Bohnen anrichten.
+Die Bohnen abgießen und zusammen mit der Salsa auf einem Teller anrichten. Das Ganze mit den Bohnen in der Mikrowelle erhitzen, währenddessen die Avocado in Scheiben schneiden und anschließend auf den Bohnen anrichten.
