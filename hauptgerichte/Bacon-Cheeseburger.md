@@ -1,6 +1,6 @@
 ---
 tags: ["lowcarb", "lchf"]
-date 2015-11-16
+date: 2015-11-16
 ---
 
 ## Zutaten für 4 Burger
