@@ -1,6 +1,6 @@
 ---
 tags: ["lowcarb", "lchf"]
-date: 2015-09-23
+date: 2015-12-08
 ---
 
 ## Zutaten
@@ -14,7 +14,7 @@ date: 2015-09-23
 Alles gut durchmischen und bei mittlerer Hitze in der Pfanne mit Kokosöl braten. Das ergibt ca. 4 kleine Pfannkuchen. Bei diesem Rezept wird die Textur und Konsistenz sehr gut, vor allem durch den Frischkäse und die Eier. Allerdings schmeckt man das Ei (wie bei allen low carb Back- oder Pfannkuchenrezepten mit Ei) sehr deutlich durch.
 
 ## Nährwerte
-- kcal: 400
-- EW:   42 g
-- KH:    4 g
-- Fett: 30 g
+- kcal: 474
+- KH:    5 g
+- Fett: 31 g
+- EW:   44 g
