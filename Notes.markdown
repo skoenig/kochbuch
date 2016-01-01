@@ -17,6 +17,8 @@
 - <http://www.lowcarb-ernaehrung.info/rezept-apfelkuchen/>
 - <http://www.lowcarb-ernaehrung.info/rezept-quarkkuchen/>
 - <http://www.lowcarb-ernaehrung.info/rezept-mini-ruehrkuchen/>
+- <http://der-paleo-lifestyle.de/ernahrung/rezepte/paleo-rezept-crispy-coconut-chicken/>
+- <http://mobile.chefkoch.de/rezepte/m816381186128099/Gebratenes-Fischfilet-mit-Stangensellerie-Pad-Plah-Keun-Chai.html>
 
 ## APIs
 - <http://www.myfitnesspal.com/api>
