@@ -1,27 +1,35 @@
 ---
-tags: ["new", "lchf"]
-date: 2015-06-04
+tags: ["lchf", "veggie"]
+date: 2016-01-08
 ---
 
-## Zutaten
-- 150g  Pekanüsse
-- 150g  Mandeln
-- 130g  Datteln, entsteint
-- 2 EL  Kokosöl
-- Butter für die Form
-- 320g  Erdbeeren
-- 1 TL  Vanullepulver
-- 5 EL  Kokosblütenzucker
-- ½     Zitrone
-- 250g  Mascarpone
-- 250g  griechischer Jogurt
+![](../uploads/erdbeer-cheesecake.jpg)
+
+## Zutaten für eine Torte
+- 150 g     Pekanüsse
+- 150 g     Mandeln
+- 130 g     weiche entsteinte Datteln
+- 2 EL      Kokosöl
+- 300 g     Erdbeeren
+- 1 TL      Vanillepulver
+- 5 EL      Kokosblütenzucker
+- ½         ungewachste Zitrone
+- 250 g     Mascarpone
+- 250 g     griechischer Jogurt
 - Zitronenmelisse
+- Butter
 
 ## Zubereitung
-Pekanüsse und Mandeln grob zerkleinern. Datteln und Kokosöl hinzufügen und in der Küchenmaschine oder mit dem Pürierstab mixen, bis ein dicker Teig entstanden ist. Eine Springform (22cm) mit Butter einfetten und den Teig auf dem Boden verteilen. Alles in den Gefrierschrank stellen.
+Die Nüsse und Mandeln in der Küchenmaschine grob zerkleinern. Datteln und Kokosöl hinzufügen und mixen, bis ein dicker Nussteig entstanden ist. Den Teig in eine gefettete Springform (~ 22 cm) geben und gut andrücken. Den Boden in den Gefrierschrank stellen.
 
-Für die Füllung die halbe Zitrone auspressen und mit der Küchenreibe die Schale abraspeln. Dann die Erdbeeren (einige zur Seite legen), Vanillepulver, Kokosblütenzucker, den Abrieb und den Saft der Zitrone aufkochen und wieder abkühlen lassen. Alles zu einer gleichmäßigen Masse verrühren.
+Die Schale von der Zitrone abreiben und den Saft auspressen. Ein paar Erdbeeren für die Deko beiseite legen. Die Erdbeeren, Vanillepulver, Kokosblütenzucker und Zitronensaft und -abrieb aufkochen und dann wieder vollst ändig abkühlen lassen. Das Ganze zu einer homogenen Masse verrühren.
 
-Mascarpone mit dem griechischen Jogurt verrühren und die abgekühlte Erdbeermasse hinzufügen. Die Masse auf dem Tortenboden verteilen und glatt streichen.
+Mascarpone und Jogurt vermischen und die abgekühlten Beeren hinzufügen und alles gut miteinander vermischen. Diese Masse auf dem Tortenboden verteilen und glattstreichen.
 
-Die Torte muss mindestens 8 Stunden im Gefrierschrank bleiben. Dann mit den kleingehackten restlichen Erdbeeren und der Zitronenmelisse garnieren.
+Den Kuchen mindestens 8 Stunden in den Gefrierschrank stellen, dann mit den verbliebenen Erdbeeren und der Zitronenmelisse dekorieren.
+
+## Nährwerte pro Torte
+- kcal: 4035
+- KH:    168 g
+- Fett:  315 g
+- EW:     90 g
