@@ -7,7 +7,7 @@ date: 2016-01-08
 
 ## Zutaten für eine Torte
 - 150 g     Pekanüsse
-- 150 g     Mandeln
+- 150 g     Mandeln oder Mandelmehl
 - 130 g     weiche entsteinte Datteln
 - 2 EL      Kokosöl
 - 300 g     Erdbeeren
@@ -20,11 +20,11 @@ date: 2016-01-08
 - Butter
 
 ## Zubereitung
-Die Nüsse und Mandeln in der Küchenmaschine grob zerkleinern. Datteln und Kokosöl hinzufügen und mixen, bis ein dicker Nussteig entstanden ist. Den Teig in eine gefettete Springform (~ 22 cm) geben und gut andrücken. Den Boden in den Gefrierschrank stellen.
+Die Nüsse, Mandeln, Datteln und Kokosöl mit dem Pürierstab zerkleinern, bis ein dicker Nussteig entstanden ist. Den Teig in eine gefettete Springform (~ 22 cm) geben und gut mit einem Löffel andrücken. Den Boden in den Gefrierschrank stellen.
 
-Die Schale von der Zitrone abreiben und den Saft auspressen. Ein paar Erdbeeren für die Deko beiseite legen. Die Erdbeeren, Vanillepulver, Kokosblütenzucker und Zitronensaft und -abrieb aufkochen und dann wieder vollst ändig abkühlen lassen. Das Ganze zu einer homogenen Masse verrühren.
+Die Schale von der Zitrone abreiben und den Saft auspressen. Ein paar Erdbeeren für die Deko beiseite legen. Die Erdbeeren, Vanillepulver, Kokosblütenzucker und Zitronensaft und -abrieb aufkochen und dann wieder vollst ändig abkühlen lassen. Das Ganze mit dem Pürierstab zu einer homogenen Masser verrühren.
 
-Mascarpone und Jogurt vermischen und die abgekühlten Beeren hinzufügen und alles gut miteinander vermischen. Diese Masse auf dem Tortenboden verteilen und glattstreichen.
+Mascarpone und Jogurt vermischen und die abgekühlten Beeren hinzufügen und alles mit einem Schneebesen vermischen. Diese Masse auf dem Tortenboden verteilen und glattstreichen.
 
 Den Kuchen mindestens 8 Stunden in den Gefrierschrank stellen, dann mit den verbliebenen Erdbeeren und der Zitronenmelisse dekorieren.
 
