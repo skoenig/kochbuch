@@ -20,6 +20,8 @@
 - <http://der-paleo-lifestyle.de/ernahrung/rezepte/paleo-rezept-crispy-coconut-chicken/>
 - <http://mobile.chefkoch.de/rezepte/m816381186128099/Gebratenes-Fischfilet-mit-Stangensellerie-Pad-Plah-Keun-Chai.html>
 - <http://www.chefkoch.de/rezepte/679121170338150/Wirsingkohl-mit-Speck-und-weisser-Sauce.html>
+- <http://de.allrecipes.com/rezept/866/rindersteak-mit-ingwer-und-brokkoli.aspx>
+- <http://www.kochbar.de/rezept/267927/Krauteintopf-mit-Blutwurst.html>
 
 ## APIs
 - <http://www.myfitnesspal.com/api>
