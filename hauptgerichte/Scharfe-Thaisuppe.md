@@ -1,9 +1,11 @@
 ---
-tags: ["lchf", "new"]
+tags: ["lchf"]
+date: 2016-02-10
 ---
 
 ## Zutaten für 4 Portionen
 - 3         große Karotten
+- 3         Paprika
 - 1         Brokkoli
 - 1         Zwiebel
 - 4         Knoblauchzehen
@@ -20,8 +22,8 @@ tags: ["lchf", "new"]
 - Kokosöl zum Braten
 
 ## Zubereitung
-Karotten schälen, Paprika waschen und ausnehmen, Brokkoli waschen, Zwiebel schälen und dann alles kleinschneiden. Den Ingwer und die Knoblauchzehen kleinhacken. Die Limetten auspressen.
+Karotten schälen, Paprika waschen und ausnehmen, Brokkoli waschen, Zwiebel schälen und dann alles kleinschneiden (muss nicht schön ausehen, später wird alles püriert). Den Ingwer und die Knoblauchzehen schälen und kleinhacken. Die Limette auspressen.
 
-Das Öl in einem großen Topf erhizten und Knoblauch, Currypaste, Zwiebel, Karotten und Ingwer hineingeben und anschwitzen lassen, bis die Karotten weich sind. Paprika, Brokkoli, Zitronengras, Chili, Brühe, Kokosmilch, Weißwein, Fischsauce und Limettensaft hinzugeben. Kurkuma oder Safran hinzugeben. Alles zusammen mit Deckel ca. 25 Minuten köcheln lassen.
+Kokosöl in einem großen Topf erhizten und Knoblauch, Zwiebel, Ingwer, Karotten und Currypaste hineingeben und anschwitzen lassen, bis die Karotten weich sind. Paprika, Brokkoli, Zitronengras, Chili, Brühe, Kokosmilch, Weißwein, Fischsauce und Limettensaft hinzugeben. Kurkuma oder Safran hinzugeben. Alles zusammen mit Deckel ca. 25 Minuten bei mittlerer Hitze köcheln lassen.
 
 Danach etwas von der Flüssigkeit abgießen und beiseite stellen. Die restlichen Zutaten mit dem Pürierstab zu einer gleichmäßig cremigen Masse zerkleinern. Die Suppe noch mal aufkochen lassen. Falls sie zu dickflüssig geworden ist, wieder etwas von der abgegossenen Flüssigkeit hinzugeben.
