@@ -1,13 +1,16 @@
 ---
-tags: ["lowcarb", "lchf", "new"]
+tags: ["lowcarb", "lchf", "veggie"]
+date: 2016-02-21
 ---
+
+![](../uploads/low-carb-knaeckebrot.jpg)
 
 ## Zutaten für 1 Blech
 - 160g  Leinsamen
 - 120g  Kürbiskerne
 -  80g  Sesam
 -  80g  Sonnenblumenkerne
-- 1     Ei
+- 2     Eier
 - 2 TL  Salz
 
 ## Zubereitung
@@ -19,4 +22,9 @@ Den Backofen auf 125 ℃ vorheizen. Ein Backblech mit Backpapier auslegen. Ansch
 
 Das ergibt eine große, feste Platte, die man nach belieben in kleinere Stücke brechen kann.
 
-## Nährwerte pro Portion
+## Nährwerte für 1 Blech
+- kcal: 2635
+- KH:     22g
+- Fett:  215g
+- EW:    133g
+
