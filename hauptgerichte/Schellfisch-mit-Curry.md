@@ -1,5 +1,5 @@
 ---
-date: "2016-02-24"
+date: 2016-02-24
 ---
 
 ![](../uploads/schellfisch-mit-curry.jpg)
