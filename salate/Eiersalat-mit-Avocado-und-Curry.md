@@ -1,7 +1,9 @@
 ---
-tags: ["new", "lchf", "veggie"]
-date: 2015-07-02
+tags: ["lchf", "veggie"]
+date: 2016-02-17
 ---
+
+![](../uploads/eiersalat-mit-avocado-und-curry.jpg)
 
 ## Zutaten für 2 Portionen
 - 4 EL  Mayonnaise
