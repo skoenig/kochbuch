@@ -1,22 +1,30 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2014-01-28
+tags: ["lowcarb"]
+date: 2016-03-03
 ---
 
-## Zutaten
-- 1500 g Rinderhack (gemischtes Hack geht auch)
-- 3-4 rote Zwiebeln
-- 2-3 Eigelb
-- 2 Tassen Paniermehl
-- 4-5 kleine Tomaten
-- 2 EL gehackte Petersilie
+![](../uploads/khlav-kalash-1.jpg)
+![](../uploads/khlav-kalash-2.jpg)
+
+## Zutaten für 2 Portionen
+- 3 rote Zwiebeln
 - 4 Knoblauchzehen
+- 4 kleine Tomaten (120 g)
+- 500 g Rinderhack (gemischtes Hack geht auch)
+- 3 EL Johannisbrotkernmehl
+- 2 Eigelb
+- 2 EL gehackte Petersilie
 - Chilipulver
-- Salz
-- Pfeffer
+- Salz & Pfeffer
 
 ## Zubereitung
-Die Zwiebeln, Knoblauch und Tomaten sehr klein schneiden (am besten mit einem Mixer oder der Küchenmaschine) und alles zusammen mit dem Hackfleisch, Paniermehl und Eigelb in eine Schüssel geben.
-Anschließend den Knoblauch und die anderen Gewürze hinzugeben und die Masse kräftig durchkneten, so dass sich alles schön verteilt und eine sämige Masse entsteht. Nach dem Durchkneten alles nochmal abschmecken und gegebenenfalls nachwürzen.
+Die Zwiebeln und den Knoblauch pellen und sehr fein hacken. Die Tomaten waschen und sehr klein schneiden - ich würde sie allerdings gleich mir dem Mixer oder der Küchenmaschine zerkleinern. Alles zusammen mit dem Hackfleisch, dem Johannisbrotkernmehl und Eigelb in eine Schüssel geben.
+Anschließend alle anderen Gewürze hinzugeben und die Masse kräftig durchkneten, so dass sich alles schön verteilt und eine sämige Masse entsteht. Nach dem Durchkneten alles nochmal abschmecken und gegebenenfalls nachwürzen.
 Die Masse zu kleinen „Zigarren“, 12 bis 14 cm lang, 3 bis 4 cm Durchmesser, formen und anschließend auf Schaschlikspieße stecken.
 Die Khlav Kalash auf dem Grill oder in der Pfanne garen, bis sie schön durch sind und mit einer Dose Krabbensaft servieren!
+
+## Nährwerte pro Portion
+- kca:  689
+- KH:    10g
+- Fett:  48g
+- EW:    55g
