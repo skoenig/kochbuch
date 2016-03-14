@@ -22,6 +22,8 @@
 - <http://www.chefkoch.de/rezepte/679121170338150/Wirsingkohl-mit-Speck-und-weisser-Sauce.html>
 - <http://de.allrecipes.com/rezept/866/rindersteak-mit-ingwer-und-brokkoli.aspx>
 - <http://www.kochbar.de/rezept/267927/Krauteintopf-mit-Blutwurst.html>
+- <http://suddas.blogspot.de/p/lchf-rezepte.html>
+- <http://lchf.de/forum/index.php>
 
 ## APIs
 - <http://www.myfitnesspal.com/api>
