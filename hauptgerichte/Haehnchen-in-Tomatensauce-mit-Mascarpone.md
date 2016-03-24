@@ -3,7 +3,7 @@ date: 2016-03-23
 tags: ["lchf"]
 ---
 
-[]!(../uploads/haehnchen-in-tomatensauce-mit-mascarpone.jpg)
+![](../uploads/haehnchen-in-tomatensauce-mit-mascarpone.jpg)
 
 ## Zutaten für 4 Personen
 - 600 g Hähnchenbrustfilet
