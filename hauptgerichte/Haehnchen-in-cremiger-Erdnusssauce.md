@@ -1,5 +1,6 @@
 ---
-tags: ["lchf", "new"]
+tags: ["lchf"]
+date: 2016-03-24
 ---
 
 ## Zutaten für 4 Personen
@@ -18,7 +19,7 @@ tags: ["lchf", "new"]
 - Butter oder Kokosöl zum Braten
 
 ## Zubereitung
-Die Hähnchenbrustfilets abspülen, abtrocknen und in Würfel schneiden. In einer Pfanne oder einem Topf in BUtter oder Kokosöl gar braten.
+Die Hähnchenbrustfilets abspülen, abtrocknen und in Würfel schneiden. In einer Pfanne oder einem Topf in Butter oder Kokosöl gar braten.
 
 Für die Sauce etwas Kokosöl in einer Pfanne erhitzen und die Currypaste hinzufügen, etwas anrösten. Die Limette entsaften und die Schale abreiben. Kokosmilch, Sahne, Limettensaft, Tamari und Erdnussbutter hinzufügen und umrühren, bis die Sauce eine gleichmäßige und cremige Konsistenz hat.
 
