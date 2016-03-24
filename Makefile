@@ -7,9 +7,9 @@ build:
 serve:
 	tserve --prefix kochbuch _build
 
-publish:
+publish: build
 	rsync -acP --delete _build/ /home/skoenig/Dropbox/Public/kochbuch/
 
-publish-gh-pages:
+publish-gh-pages: build
 	./publish-gh-pages.sh
 
