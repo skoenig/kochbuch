@@ -1,6 +1,6 @@
 ---
 date: 2016-03-16
-tags: ["lowcarb", "lhcf"]
+tags: ["lowcarb", "lchf"]
 ---
 
 ![](../uploads/fischauflauf-mit-spinat.jpg)
