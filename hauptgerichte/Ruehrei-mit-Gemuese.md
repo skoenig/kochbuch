@@ -1,5 +1,5 @@
 ---
-tags: ["new", "lowcarb"]
+tags: ["veggie", "lowcarb"]
 date: 2015-05-03
 ---
 
