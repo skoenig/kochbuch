@@ -1,11 +1,5 @@
 ## Kochbuch
 
-### Todo
-- About/README erweitern:
-    - wie ist die seite entstanden (zuerst eigenes Zim-wiki, dann WG-internes wiki, Gollum, MDwiki etc.)
-    - Erklärung zu den Tags
-    - evtl. Seite für die einzelnen Ernährungsweisen hinzufügen (paleo, lchf, slowcarb)
-
 ## Links
 - <http://www.yummly.com>
 - <http://chefkoch.de>
