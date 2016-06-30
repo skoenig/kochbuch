@@ -1,9 +1,10 @@
 ---
 tags: ["lowcarb"]
-date: 2016-03-03
+date: 2016-06-30
 ---
 
 ![](../uploads/putenschnitzel-mit-salami-ueberbacken.jpg)
+![](../uploads/putenschnitzel-mit-salami-ueberbacken-2.jpg)
 
 ## Zutaten
 - 2 Putenschnitzel
