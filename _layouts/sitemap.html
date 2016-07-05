@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="{{ this.xmlns }}">
+{% for t in site.reflinks %}
+    {% if site.reflinks[t].fn and not site.reflinks[t].hidden %}
+    <url>
+        <loc>{{ site.hostname }}{{ site.reflinks[t].url }}</loc>
+        <changefreq>{{ this.changefreq }}</changefreq>
+        <priority>{{ this.priority }}</priority>
+    </url>
+    {% endif %}
+{% endfor %}
+</urlset>
