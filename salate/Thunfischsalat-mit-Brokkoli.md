@@ -1,19 +1,25 @@
 ---
 tags: ["lowcarb"]
-date: 2015-04-25
+date: 2016-06-28
 ---
 
 ![](../uploads/thunfischsalat-mit-brokkoli.jpg)
 
 ## Zutaten
-* Eine Hand voll Broccoli
-* Eine Dose Thunfisch Naturell ohne Öl
-* Kleiner Becher Joghurt
-* Salz, Pfeffer
+- 350g  Brokkoli
+- 1     Dose Thunfisch Naturell ohne Öl
+- 1     kleiner Becher Joghurt
+- Salz, Pfeffer
 
 ## Zubereitung
-Den Broccoli verzehrfertig kochen, danach abkühlen lassen.
+Wasser zum Kochen bringen und Salzen.
+Den Brokkoli bissfest kochen, also nicht zu lang.
 Joghurt, Salz und Pfeffer je nach Geschmack, vermengen.
-Thunfisch Naturell abtropfen und in die Sauce unterheben.
-Sauce über den abgekühlten Broccoli geben - fertig.
+Thunfisch Naturell abtropfen lassen und mit dem Jogurt vermischen.
+Sauce über den Brokkoli geben - fertig.
 
+## Nährwerte
+- kcal:     340
+- KH:        16g
+- Fett:       4g
+- EW:        58g
