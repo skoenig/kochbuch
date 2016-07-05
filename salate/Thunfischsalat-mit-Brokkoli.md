@@ -1,7 +1,9 @@
 ---
-tags: ["new", "lowcarb"]
+tags: ["lowcarb"]
 date: 2015-04-25
 ---
+
+![](../uploads/thunfischsalat-mit-brokkoli.jpg)
 
 ## Zutaten
 * Eine Hand voll Broccoli
