@@ -1,6 +1,10 @@
 ---
 tags: ["lowcarb", "new"]
+date: 2016-08-10
 ---
+
+![](../uploads/avocado-schoko-pudding-1.jpg)
+![](../uploads/avocado-schoko-pudding-2.jpg)
 
 ## Zutaten
 - 1      Avocado
