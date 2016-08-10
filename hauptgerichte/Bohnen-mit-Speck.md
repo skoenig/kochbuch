@@ -3,6 +3,8 @@ tags: ["lowcarb", "breakfast"]
 date: 2014-01-20
 ---
 
+![](../uploads/bohnen-mit-speck.jpg)
+
 ## Zutaten
 - 1/2 Zwiebel
 - 1 Dose Chili-Bohnen oder ein halbes Glas Dicke Bohnen
