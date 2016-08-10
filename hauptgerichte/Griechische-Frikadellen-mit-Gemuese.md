@@ -1,3 +1,7 @@
+---
+tags: ["lowcarb", "new"]
+---
+
 ## Zutaten für 4 Portionen
 
 - 300 g Lammhack
