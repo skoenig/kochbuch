@@ -3,6 +3,8 @@ tags: ["lowcarb"]
 date: 2015-02-07
 ---
 
+![](../uploads/putenpfanne-mit-zucchini-und-pilzen.jpg)
+
 ## Zutaten
 - 500g Putenbrustfilet
 - 1 große Zwiebel
