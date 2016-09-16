@@ -18,4 +18,4 @@ date: 2015-04-18
 
 ## Zubereitung
 
-Zuerst Brokkoli, Grünkohl, Avokado  und Petersilie mit einem Pürierstab zerkleinern. Den Apfel entkernen, den Ingwer und die Zucchini schälen. Die Apfelsine auspressen und den Saft zusammen mit den anderen Zutaten in pürieren, bis eine konsistente Masse entsteht. Eventuell noch etwas Wasser nachkippen.
+Zuerst Brokkoli, Grünkohl, Avocado  und Petersilie mit einem Pürierstab zerkleinern. Den Apfel entkernen, den Ingwer und die Zucchini schälen. Die Apfelsine auspressen und den Saft zusammen mit den anderen Zutaten in pürieren, bis eine konsistente Masse entsteht. Eventuell noch etwas Wasser nachkippen.
