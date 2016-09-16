@@ -1,5 +1,5 @@
 ---
-tags: ["lchf", "veggie"]
+tags: ["lowcarb", "highfat", "veggie"]
 date: 2016-01-08
 ---
 

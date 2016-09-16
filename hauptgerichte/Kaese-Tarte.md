@@ -1,5 +1,5 @@
 ---
-tags: ["lchf"]
+tags: ["lowcarb", "highfat"]
 date: 2016-09-16
 ---
 

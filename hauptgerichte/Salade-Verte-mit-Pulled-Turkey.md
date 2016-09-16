@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "lchf", "paleo"]
+tags: ["lowcarb", "lowcarb", "highfat", "paleo"]
 date: 2016-01-10
 ---
 

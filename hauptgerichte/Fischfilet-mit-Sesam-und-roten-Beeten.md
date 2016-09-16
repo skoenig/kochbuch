@@ -1,6 +1,6 @@
 ---
 date: 2015-07-16
-tags: ["lchf"]
+tags: ["lowcarb", "highfat"]
 ---
 
 ## Zutaten für 4 Personen

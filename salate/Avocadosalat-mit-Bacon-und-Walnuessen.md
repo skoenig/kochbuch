@@ -1,5 +1,5 @@
 ---
-tags: ["lchf", "breakfast"]
+tags: ["lowcarb", "highfat", "breakfast"]
 date: 2015-05-17
 ---
 

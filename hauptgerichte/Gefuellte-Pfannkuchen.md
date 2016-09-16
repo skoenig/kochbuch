@@ -1,5 +1,5 @@
 ---
-tags: ["new", "lchf"]
+tags: ["new", "lowcarb", "highfat"]
 ---
 
 ## Zutaten für 4 Portionen

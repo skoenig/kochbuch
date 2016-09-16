@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "lchf", "new"]
+tags: ["lowcarb", "lowcarb", "highfat", "new"]
 ---
 
 ## Zutaten für 5 Stück

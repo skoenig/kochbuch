@@ -1,5 +1,5 @@
 ---
-tags: ["lchf", "new"]
+tags: ["lowcarb", "highfat", "new"]
 ---
 
 Oopsies sind kleine Fladenbrote, die vor allem aus Frischkäse und Eiern bestehen, ohne Mehl und Zucker auskommen und sich deshalb für Low-Carb-Rezepte als Beilage eignen.

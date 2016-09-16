@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "new", "lchf"]
+tags: ["lowcarb", "new", "lowcarb", "highfat"]
 ---
 
 ## Zutaten

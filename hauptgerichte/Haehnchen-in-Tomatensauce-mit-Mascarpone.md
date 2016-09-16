@@ -1,6 +1,6 @@
 ---
 date: 2016-03-23
-tags: ["lchf"]
+tags: ["lowcarb", "highfat"]
 ---
 
 ![](../uploads/haehnchen-in-tomatensauce-mit-mascarpone.jpg)
