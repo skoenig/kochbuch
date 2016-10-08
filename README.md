@@ -7,4 +7,4 @@ Das hier ist nur eine persönliche Sammlung leckerer Rezepte, die ich zuerst nur
 
 Die Rezepte sind entsprechend getagged, wenn sie bestimmten Ernährungsweisen wie z.B. Low Carb (["lowcarb"](tag/lowcarb/)), High Fat (["highfat"](tag/highfat/)), Paleo (["paleo"](tag/paleo/)) entsprechen order einfach Breakfast (["breakfast"](tag/breakfast/)), wenn sie relativ schnell zubereitet sind. Weiter Kategorien findet ihr [hier](tag/).
 
-Das Kochbuch ist [OpenSource](https://github.com/skoenig/kochbuch) und unter der [UNLICENSE](./LICENSE.txt) veröffentlicht.
+Das Kochbuch auf http://skoenig.regulus.uberspace.de/kochbuch & http://skoenig.github.io/kochbuch/ gehosted und den Quelltext findet ihr auf [github](https://github.com/skoenig/kochbuch). Es gilt die [UNLICENSE](./LICENSE.txt).
