@@ -3,9 +3,6 @@ tags: ["lowcarb", "highfat", "breakfast"]
 date: 2016-09-24
 ---
 
-![](../uploads/omlett-mit-tomate-und-basilikum-1.jpg)
-![](../uploads/omlett-mit-tomate-und-basilikum-2.jpg)
-
 ## Zutaten
 - 3     Eier
 - 1 EL  Sahne
