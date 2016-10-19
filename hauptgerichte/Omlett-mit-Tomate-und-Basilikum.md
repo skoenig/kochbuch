@@ -1,7 +1,9 @@
 ---
 tags: ["lowcarb", "highfat", "breakfast"]
-date: 2016-09-24
+date: 2016-10-19
 ---
+
+![](../uploads/omlett-mit-tomate-und-basilikum.jpg)
 
 ## Zutaten
 - 3     Eier
