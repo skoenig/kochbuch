@@ -1,5 +1,5 @@
 ---
-tags: ["new", "veggie", "vegan"]
+tags: ["new"]
 date: 2015-04-26
 ---
 
