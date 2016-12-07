@@ -9,7 +9,7 @@ date: 2015-02-08
 - 6     Eier
 - 500 g Magerquark
 - 100 g Zwiebeln
-- 70 g  Cornichons
+- 70 g  Gewürzgurken
 - 1     Knoblauchzehe
 - 6 g   Paprikapulver
 - 10 g  Senf
@@ -18,7 +18,7 @@ date: 2015-02-08
 - 2 g   Pfeffer, Schwarz
 
 ## Zubereitung
-Die Eier hartkochen, inzwischen die Zwiebeln und die Cornichons in sehr kleine Würfel schneiden. Den Magerquark mit Senf und den restlichen Gewürzen verrühren und abschmecken. Evtl. noch Chili hinzufügen.
-Die Eier schälen und in dünne Scheiben schneiden, zusammen mit den Zwiebel- und Cornichonwürfel und dem Magerquark verrühren.
+Die Eier hartkochen, inzwischen die Zwiebeln und die Gewürzgurken in sehr kleine Würfel schneiden. Den Magerquark mit Senf und den restlichen Gewürzen verrühren und abschmecken. Evtl. noch Chili hinzufügen.
+Die Eier schälen und in dünne Scheiben schneiden, zusammen mit den Zwiebel- und Gewürzgurkenwürfel und dem Magerquark verrühren.
 Bis zum Verzehr kühlstellen.
 
