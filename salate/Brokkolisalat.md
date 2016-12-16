@@ -1,19 +1,25 @@
 ---
-tags: [new, lowcarb]
+tags: ["lowcarb", "breakfast"]
+date: 2016-12-16
 ---
 
-
 ## Zutaten
+![](../uploads/brokkolisalat.jpg)
 
 - Brokkoli
-- Schinken oder Speck
+- Schinken oder Speckwürfel
 - Frühlingszwiebeln
 - Käse gerieben
-- ½         Tasse Joghurt
-- 1-2 EL    Mayonnaise
-- 2 EL      Essig
+- 1 Becher  Joghurt
+- 1 Becher  Saure Sahne
+- 1 EL      Essig
 - etwas     Süßstoff
+- evtl. Kräuter
+- Salz & Pfeffer
 
 ## Zubereitung
-Den Brokkoli in Salzwasser garen und gleichzeitig Schinkenwürfel oder speck in einer Pfanne rösten. Frühlingszwiebeln dazu und dann den Brokkoli abtopfen lassen und untermischen. Nach 1-2 Minuten vom Herd nehmen und etwas Käse drüber reiben.
-Die Marinade gut mit dem Brokkoli-Schinken-Misch vermengen und etwas abkühlen lassen.
+
+Den Brokkoli in waschen, schniden und kurz in Salzwasser garen und abrtopfen lassen.
+Jogurt, Sahne, Essig, Süßstoff und die Kräuter zu einer Marinade verrühren.
+Schinken- oder Speckwürfel in einer Pfanne rösten. Frühlingszwiebeln waschen, in Ringe schneiden und dazugeben. Den Brokkoli untermischen und nach 1-2 Minuten vom Herd nehmen und etwas Käse drüber reiben.
+Die gewünschte Menge Marinade über dem Brokkolisalat verteilen und servieren.
