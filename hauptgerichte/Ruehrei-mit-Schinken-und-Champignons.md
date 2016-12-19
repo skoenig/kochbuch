@@ -1,18 +1,21 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-04-26
+tags: ["breakfast", "lowcarb"]
+date: 2016-12-19
 ---
 
+![](../uploads/ruehrei-mit-schinken-und-champignons.jpg)
+
 ## Zutaten
-- 8 eiklar
-- 2 eigelb
-- 100g kochschinken, in streifen geschnitten
-- 1/4 zwiebel, klein gehackt
-- 2 große champignons, geschnitte
-- 50ml 1,5% milch
-- pfeffer
-- salz
+- 2     Vollei
+- 3     Eigelb
+- 100g  Kochschinken
+- ½     Zwiebel
+- 2     große Champignons
+- 50ml  Milch oder Sahne
+- Salz & Pfeffer
+- Fett für die Pfanne
 
 ## Zubereitung
-eiklar und eigelb mit der milch und den gewürzen vermischen. danach den schinken dazugeben. die pilze in einer anderen pfanne anbraten. diese könnt ihr mit kräuterbuttergewürz abschmecken. dann die zweibeln dazugeben und für 10 min. schwach anbraten.
-in einer anderen pfanne das ei mit dem schinken, in eine bereits warme pfanne geben. unter ständigem wenden und rühren warten, bis die gewünschte konsistenz erreicht ist.
+Eiklar und Eigelb mit der Milch vermischen und mit Salz und Pfeffer würzen.
+Die Zwiebel schälen und in Würfel schneiden, Pilze putzen und ebenfalls in Würfel schneiden. Beides mit dem Fett (am besten Butter oder Ghee) in einer Pfanne bei mittlerer Temperatur anbraten. Den Schinken in kleine Streifen schneiden und ebenfalls in die Pfanne geben, evtl. Hitze erhöhen.
+Alles ca. 10 Minuten braten bis der gewünschte Bräunungsgrad erreicht ist. Das Ei mit in die Pfanne geben und die Hitze reduzieren, alles kurz durchschwenken und aus der Pfanne nehmen, bevor es zu trocken ist.
