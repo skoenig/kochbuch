@@ -1,12 +1,12 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-05-01
+tags: ["lowcarb"]
+date: 2016-12-31
 ---
 
 ## Zutaten
-- 200gr Hüttenkäse
+- 200 g körniger Frischkäse (Cottage Cheese)
 - 3-4   Tomaten
-- 150gr Thunfisch in eigenem Saft (eine Dose)
+- 150 g Thunfisch in eigenem Saft (eine Dose)
 - etwas Olivenöl
 - etwas Balsamico Essig
 
