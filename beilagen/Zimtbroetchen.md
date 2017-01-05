@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat", "new"]
 ---
 
 ## Zutaten für 14 Brötchen

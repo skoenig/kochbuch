@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "highfat", "lowcarb"]
+tags: ["lowcarb", "highfat"]
 date: 2015-10-23
 ---
 

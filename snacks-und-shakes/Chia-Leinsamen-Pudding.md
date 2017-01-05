@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "highfat", "lowcarb", "paleo", "veggie"]
+tags: ["lowcarb", "highfat", "paleo", "veggie"]
 date: 2016-02-11
 ---
 
