@@ -1,6 +1,6 @@
 ---
 tags: ["lowcarb", "breakfast"]
-date: 2014-01-20
+date: 2017-01-04
 ---
 
 ![](../uploads/bohnen-mit-speck.jpg)
