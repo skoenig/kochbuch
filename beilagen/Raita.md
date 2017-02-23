@@ -1,6 +1,9 @@
 ---
-tags: ["lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat"]
+date: 2017-02-21
 ---
+
+![](../uploads/raita.jpg)
 
 ## Zutaten für 4 Personen
 - 300g      griechischer Jogurt
