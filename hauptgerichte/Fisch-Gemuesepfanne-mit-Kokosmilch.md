@@ -1,33 +1,33 @@
 ---
 tags: ["lowcarb"]
-date: 2015-04-08
+date: 2017-02-27
 ---
 
 ##Zutaten
-![](../uploads/Fisch-Gemuesepfanne-mit-Kokosmilch.jpg)
+![](../uploads/fisch-gemuesepfanne-mit-kokosmilch.jpg)
 
-- 500 g     Fischfilet(s), TK oder frisch (z. B. Pangasius, Seelachs)
-- 1      Zucchini
-- 1      Paprikaschote(n), gelbe
-- 1      Paprikaschote(n), orange
-- 1 m.-große     Zwiebel(n)
-- 100 g     Brokkoli, frisch oder TK
-- 2      Frühlingszwiebel(n)
-- 500 ml     Kokosmilch
-- 1 Prise     Ingwerpulver
-- 1 EL     Rapsöl
-- 1 EL     Sesamöl
--       Salz und Pfeffer
--       Knoblauch
--       Dill
+- 500 g     Fischfilet (z. B. Pangasius, Seelachs)
+- 1         Zucchini
+- 1         gelbe Paprikaschote
+- 1         rote Paprikaschote
+- 1         mittelgroße Zwiebel
+- 100 g     Brokkoli
+- 2         Frühlingszwiebeln
+- 500 ml    Kokosmilch
+- 1 EL      Rapsöl
+- 1 EL      Sesamöl
+-           Salz & Pfeffer
+-           Dill
+- 1 cm      Ingwer
+- 1         Knoblauchzehe
 
 ##Zubereitung
-Fisch auftauen, falls TK-Fisch verwendet wird. Gut abtropfen, trocken tupfen und in mundgerechte Stücke schneiden. Salzen und pfeffern. Beiseitestellen.
+Fisch auftauen, falls TK-Fisch verwendet wird. Abspülen, trocken tupfen und in mundgerechte Stücke schneiden. Salzen und pfeffern und beiseitestellen.
 
-Die beiden Ölsorten mischen. Sodann Gemüse putzen. Zucchini halbieren und in dünne Halbmonde schneiden. Zwiebel grob hacken, Paprikaschoten grob würfeln, Brokkoli in Röschen teilen, bzw. TK-Brokkoli abmessen. Frühlingszwiebeln - auch das Grün - in Ringe schneiden. Bis auf den Brokkoli alles in der Ölmischung gut anbraten und mit Salz, Pfeffer, Knofi und Dill nicht zu zaghaft würzen. Sesamöl hat einen starken Eigenschmack und ein intensives Aroma. Wer das nicht so mag, kann natürlich auch nur Rapsöl verwenden.
+Zucchini halbieren und in dünne Halbmonde schneiden. Zwiebel grob hacken, Paprikaschoten grob würfeln, Brokkoli in Röschen teilenm Frühlingszwiebeln - auch das Grün - in Ringe schneiden. Bis auf den Brokkoli alles zusammen mite dem Öl in einer großen Pfanne oder Wok gut anbraten und mit Salz, Pfeffer und Dill nicht zu zaghaft würzen.
 
-Wenn das Gemüse gut angebraten ist, die Kokosmilch dazu gießen und das Ganze einmal aufkochen lassen. Dann ca. 15 Minuten auf kleiner Flamme, am besten ohne Deckel, köcheln lassen, bis die Sauce etwas einreduziert ist. Dann den Brokkoli dazugeben (gerade TK-Brokkoli ist sehr schnell gar und hat dann keinen Biss mehr, daher erst an dieser Stelle einfügen!) Sodann eine Prise Ingwer zugeben aber Vorsicht beim Dosieren, der Geschmack sollte nicht zu dominant werden.
+Wenn das Gemüse scharf angebraten ist, die Kokosmilch dazugießen und das Ganze einmal aufkochen lassen und dann die Hitze reduzieren. Den Ingwer und Knoblauch schälen, kleinhacken und ebenfalls dazugeben.
 
-Zum Schluss den Fisch dazugeben und noch einmal alles aufkochen und ca. 5 Minuten köcheln lassen, dann ist der Fisch durch.
+10 Minuten auf kleiner Flamme ohne Deckel köcheln lassen. Dann den Brokkoli und Fisch dazugeben und weitere 10 Minuten auf dem Herd lassen. Öfter mal umrühren.
 
-Dazu passt jeder [Salat](/salate/)
+Dazu passt jeder [Salat](../salate/)
