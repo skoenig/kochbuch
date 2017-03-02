@@ -1,5 +1,6 @@
 ---
-tags: ["new", "lowcarb", "highfat"]
+tags: ["lowcarb", "highfat"]
+date: 2017-03-01
 ---
 
 ## Zutaten für 4 Portionen
@@ -21,7 +22,7 @@ tags: ["new", "lowcarb", "highfat"]
 ## Zubereitung
 
 Alle Zutaten von den Eiern bis Flohsamenschalen verrühren, Kokosöl in einer beschichteten Pfanne zerlassen und 4 Pfannkuchen braten.
-Das Schweinefleisch in dünne Streifen schneiden, die Karotten schälen und ebenfalls in dünne Streifen schneiden, Brokkoli und Champignons kleinschneiden, den Ingwer reiben oder kleinhacken.
+Das Schweinefleisch in dünne Streifen schneiden, die Karotten schälen und ebenfalls in dünne Streifen schneiden, Brokkoli und Champignons kleinschneiden, den Ingwer und Knoblauch schälen und reiben oder kleinhacken.
 Wieder etwas Kokosöl in einer Pfanne erhitzen und das Schweinefleisch 5-7 Minuten abraten, dann das Gemüse dazugeben. Evtl. etwas Sojasoße darüberträufeln und ca. 5 Minuten weiterbraten. Mit Salz & Pfeffer abschmecken.
 
 Die Mischung auf die Pfannkuchen geben und zusammenrollen.
