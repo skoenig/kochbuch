@@ -1,7 +1,10 @@
 ---
 tags: ["lowcarb", "highfat"]
-date: 2016-02-10
+date: 2017-03-06
 ---
+
+![](../uploads/scharfe-thaisuppe1.jpg)
+![](../uploads/scharfe-thaisuppe2.jpg)
 
 ## Zutaten für 4 Portionen
 - 3         große Karotten
@@ -22,7 +25,7 @@ date: 2016-02-10
 - Kokosöl zum Braten
 
 ## Zubereitung
-Karotten schälen, Paprika waschen und ausnehmen, Brokkoli waschen, Zwiebel schälen und dann alles kleinschneiden (muss nicht schön ausehen, später wird alles püriert). Den Ingwer und die Knoblauchzehen schälen und kleinhacken. Die Limette auspressen.
+Karotten, Paprika und Brokkoli waschen, Zwiebel schälen und dann alles kleinschneiden (muss nicht schön ausehen, später wird alles püriert). Den Ingwer und die Knoblauchzehen schälen und kleinhacken.
 
 Kokosöl in einem großen Topf erhizten und Knoblauch, Zwiebel, Ingwer, Karotten und Currypaste hineingeben und anschwitzen lassen, bis die Karotten weich sind. Paprika, Brokkoli, Zitronengras, Chili, Brühe, Kokosmilch, Weißwein, Fischsauce und Limettensaft hinzugeben. Kurkuma oder Safran hinzugeben. Alles zusammen mit Deckel ca. 25 Minuten bei mittlerer Hitze köcheln lassen.
 
