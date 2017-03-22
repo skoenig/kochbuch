@@ -1,6 +1,9 @@
 ---
-tags: ["lowcarb", "new"]
+tags: ["lowcarb", "veggie"]
+date: 2017-03-21
 ---
+
+![](../uploads/Tomatensalsa.jpg)
 
 ## Zutaten für 4 Portionen
 - 500 g     Tomaten
