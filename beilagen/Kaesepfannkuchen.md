@@ -1,6 +1,9 @@
 ---
-tags: ["lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat"]
+date: 2017-03-31
 ---
+
+![](../uploads/Kaesepfannkuchen.jpg)
 
 ## Zutaten für 5 Stück
 - 2     Eier
