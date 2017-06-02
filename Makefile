@@ -1,15 +1,16 @@
+SOURCES = $(shell find . -name '*.md')
 
-all: build
+all : _build
 
-build:
+_build : $(SOURCES)
 	python -m urubu build
 
-serve:
+serve : _build
 	tserve --prefix kochbuch _build
 
-publish: build
+publish : _build
 	rsync -acP --delete _build/ uberspace:/var/www/virtual/skoenig/html/kochbuch/
 
-publish-gh-pages: build
+publish-gh-pages : _build
 	./publish-gh-pages.sh
 
