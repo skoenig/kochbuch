@@ -1,6 +1,9 @@
 ---
-tags: ["lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat"]
+date: 2017-05-30
 ---
+
+![](../uploads/Indisches-Curry.jpg)
 
 ## Zutaten für 4 Personen
 - 600g      Lamm- oder Rinderhack
@@ -18,11 +21,10 @@ tags: ["lowcarb", "highfat", "new"]
 - Salz & Pfeffer
 - Kokosöl zum Braten
 - evtl. Kokosraspeln, geröstete Sonnenblumenkerne oder Erdnüsse als Topping
- evtl.
 
 ## Zubereitung
 Den Ingwer kleinreiben oder ganz fein hacken, Zwiebel und Knoblauch schälen und kleinhacken.
-Das Kokosöl in einem Topf erhitzen und das Hackfleisch darin anbraten. Ingwer, Zwibel und Knoblauch unterrühren. Dann das Tomatenmark und alle Gewürze dazugeben.
+Das Kokosöl in einem Topf erhitzen und das Hackfleisch darin anbraten. Ingwer, Zwiebel und Knoblauch unterrühren. Dann das Tomatenmark und alle Gewürze dazugeben.
 
 Mit Crème Fraîche und 150 ml Wasser ablöschen und 20-30 Minuten bei mittlerer Hitze köcheln lassen. Mit Salz & Pfeffer abschmecken.
 
