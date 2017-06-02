@@ -1,3 +1,7 @@
+#!/usr/bin/make
+
+.PHONY : all serve publish publish-gh-pages
+
 SOURCES = $(shell find . -name '*.md')
 
 all : _build
