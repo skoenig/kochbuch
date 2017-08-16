@@ -1,8 +1,12 @@
 ---
-tags: ["lowcarb", "new"]
+tags: ["lowcarb", "highfat"]
+date: 2017-08-16
 ---
 
-## Zutaten für 6 Eier
+![](../uploads/Teufelseier-mit-Avocado-1.jpg)
+![](../uploads/Teufelseier-mit-Avocado-2.jpg)
+
+## Zutaten für 3 Portionen
 - 6 hargekochte Eier
 - 2 mittelgrosse Avocados
 - Prise Paprika
@@ -16,3 +20,8 @@ tags: ["lowcarb", "new"]
 5. mit Paprika bestreuen
 
 ## Nährwerte pro Portion
+- kcal: 330
+- EW:   17g
+- Fett: 32g
+- KH:    8g
+
