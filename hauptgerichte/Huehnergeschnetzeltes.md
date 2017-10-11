@@ -1,23 +1,27 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-05-03
+tags: ["lowcarb"]
+date: 2017-10-10
 ---
 
-## Zutaten (für 3-4 Personen)
+![](../uploads/Huehnergeschnetzeltes.jpg)
+
+
+## Zutaten für 2 große Portionen
 - Hühnerbrust 900g
-- Sauerrahm 250g
+- Sauerrahm 300g
 - Schmelzkäse 200g
-- Olivenöl 50 ml
+- Sonnnenblumenöl 50 ml
+- Brokkoli 400g
 - Knoblauch
 - Salz
 - Pfeffer
 - Chilli
 
 ## Zubereitung
-Hühnerbrust kleinschneiden, mit Olivenöl und bisschen Knoblauch anbraten, mit Salz, Pfeffer und Chilli würzen, Sauerrahm (Saure Sahne) und Schmelzkäse dazu, alles rühren bis der Käse geschmolzen ist - fertig.
+Hühnerbrust kleinschneiden, mit Olivenöl und bisschen Knoblauch anbraten, mit Salz, Pfeffer und Chilli würzen, Sauerrahm (Saure Sahne), Brokkoliröschen und Schmelzkäse dazu, alles rühren bis der Käse geschmolzen ist - fertig.
 
-## Nährwerte
-- Kcal: 2100
-- Fett:  105 g
-- KH:     16 g
-- EW:    250 g
+## Nährwerte pro Portion
+- Kcal: 1232
+- Fett:   75 g
+- KH:     24 g
+- EW:    115 g
