@@ -1,13 +1,16 @@
 ---
-tags: ["lowcarb", "new"]
+tags: ["lowcarb", "veggie"]
+date: 2017-10-16
 ---
 
-## Zutaten für 2 Brote
+![](../uploads/Focaccia-Brot.jpg)
+
+## Zutaten
 - 300 g     Hüttenkäse 4% Fett
 - 6         Eier
 - 40 g      Butter
 - 160 g     Mandeln
-- 80 g      Sonnenblumenkerne
+- 80 g      geschälte Sonnenblumenkerne
 - 2 EL      Flohsamenschalen
 - 1 TL      Salz
 - 2 TL      Backpulver
@@ -17,7 +20,8 @@ tags: ["lowcarb", "new"]
 ## Zubereitung
 Den Backofen auf 200 ℃ vorheizen und 2 kleine Backformen (ca. 15x25 cm) mit Backpapier auslegen.
 
-Den Hüttenkäse mit einem Rührgerät durchmischen, bis er keine Krümel mehr hat. Die Butter schmelzen und zusammen mit den Eiern unterrühren. Nüsse und Sonnenblumenkerne in einer Küchenmaschine zu Mehl mahlen und Flohsamenschalen, Salz und Backpulver dazugeben. Das Ganze mit dem Hüttenkäse vermengen.
+Mandeln und die (sehr wichtig) geschälten Sonnenblumenkerne in einer Küchenmaschine zu Mehl mahlen. Die Butter schmelzen und zusammen mit den Eiern unterrühren.
+Den Hüttenkäse dazugeben und durchmischen, bis er keine Krümel mehr hat. Das Ganze mit den Flohsamenschalen, Salz und Backpulver vermengen.
 
 Den Teig teilen und in die beiden Backformen füllen. Die Brote im Backofen 10-15 min. backen und dann wieder herausnehmen.
 
@@ -25,4 +29,3 @@ Die sonnengetrockneten Tomaten kleinhacken und in den Teig drücken und mit grob
 
 Die Brote dann weitere 15-20 min. backen.
 
-## Nährwerte pro Portion
