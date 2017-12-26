@@ -1,5 +1,6 @@
 ---
-tags: ["lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat"]
+date: 2017-12-24
 ---
 
 ## Zutaten für 2 Portionen
