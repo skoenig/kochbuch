@@ -9,7 +9,7 @@ date: 2015-09-19
 - 3g        Salz
 - 1,5 TL    Stevia (~ 0,75g)
 - 50 ml     Milch
-- 40 g      Whey Proteinpulver
+- 40 g      Proteinpulver
 - 10 g      Flohsamenschalen
 - 8 g       Kokosöl
 

@@ -4,14 +4,14 @@ date: 2015-12-08
 ---
 
 ## Zutaten
-- 100g  Buko Sahnefrischkäse
+- 100g  Sahnefrischkäse
 - 3     Eiklar
-- 30g   Protipulver
+- 30g   Proteinpulver
 - Süßstoff nach Bedarf
 - Kokosöl zum Braten
 
 ## Zubereitung
-Alles gut durchmischen und bei mittlerer Hitze in der Pfanne mit Kokosöl braten. Das ergibt ca. 4 kleine Pfannkuchen. Bei diesem Rezept wird die Textur und Konsistenz sehr gut, vor allem durch den Frischkäse und die Eier. Allerdings schmeckt man das Ei (wie bei allen low carb Back- oder Pfannkuchenrezepten mit Ei) sehr deutlich durch.
+Kokosöl in einer beschichteten Pfanne zerlassen. Die restlichen Zutaten gut durchmischen und bei mittlerer Hitze in der Pfanne braten. Das ergibt ca. 4 kleine Pfannkuchen. Bei diesem Rezept wird die Textur und Konsistenz sehr gut, vor allem durch den Frischkäse und dem Eiklar. Allerdings schmeckt man das Ei (wie bei allen low carb Back- oder Pfannkuchenrezepten mit Ei) sehr deutlich durch.
 
 ## Nährwerte
 - kcal: 474
