@@ -13,8 +13,5 @@ serve : _build
 	tserve --prefix kochbuch _build
 
 publish : _build
-	rsync -acP --delete _build/ uberspace:/var/www/virtual/skoenig/html/$(projectname)/
-
-publish-gh-pages : _build
 	./publish-gh-pages.sh
 
