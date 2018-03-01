@@ -1,29 +1,34 @@
 ---
-tags: ["lowcarb", "new"]
+tags: ["veggie"]
+date: 2018-02-28
 ---
 
+![](../uploads/Avocado-Brownies.jpg)
+
 ## Zutaten
-- 1/2 cup cacao powder
-- 4 ounces 100% dark chocolate
-- 1 Tablespoon coconut oil
-- 1 cup avocado puree (about 2 large)
-- 1 Tablespoon coconut flour
-- 1 Tablespoon vanilla extract
-- 3 eggs
-- 1/2 cup honey
-- 1/2 teaspoon baking powder
-- 1/2 teaspoon baking soda
-- 1/2 teaspoon pink Himalayan salt
+- 200 g  		Zartbitter-Schokolade
+- 2   	 		mittelgroße reife Avocados (à 200–250 g)
+- 4   			Eier
+- 1 Päckchen  	Vanillin-Zucker
+- 100 g  		Kokosblütenzucker
+- 100 g  		gemahlene Mandelkerne
+- 60 g  		Kakaopulver
+- ½ TL  		Backpulver
 
 ## Zubereitung
-1. Preheat oven to 350 degrees Fahrenheit.
-2. Grease an 8x8 square baking pan.
-3. Melt coconut oil and chocolate on stovetop,
-stirring until melted.
-4. Mix melted chocolate and avocado puree in a
-large bowl using a hand blender.
-5. Add all remaining ingredients, mixing well with
-blender. I prefer my brownies a little lumpy, but
-it’s the chef’s choice.
-6. Add to prepared pan and bake for 35 - 45 minutes.
+Backofen auf 175 °C bzw. Umluft: 150 °C vorheizen.
+
+Schokolade grob hacken und in einer Schüssel über einem warmen Wasserbad schmelzen. Avocados halbieren, Stein entfernen und das Fruchtfleisch aus der Schale lösen. Fruchtfleisch, Eier, Vanillin-Zucker und Zucker pürieren.
+
+Geschmolzene Schokolade unterrühren. Mandeln, Kakao und Backpulver mischen und unterrühren.
+
+Boden einer Springform mit Backpapier auslegen. Teig einfüllen und glatt streichen.
+
+Kuchen im vorgeheizten Backofen 20 - 25 Minuten backen. Herausnehmen und auskühlen lassen. Kuchen aus der Form lösen, und auf Brownie-GRöße zurechtschneiden.
+
+## Nährwerte
+- kcal:	3160
+- KH:	 158g
+- Fett:  241g
+- EW:     91g
 
