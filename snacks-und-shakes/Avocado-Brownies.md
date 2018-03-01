@@ -24,7 +24,7 @@ Geschmolzene Schokolade unterrühren. Mandeln, Kakao und Backpulver mischen und 
 
 Boden einer Springform mit Backpapier auslegen. Teig einfüllen und glatt streichen.
 
-Kuchen im vorgeheizten Backofen 20 - 25 Minuten backen. Herausnehmen und auskühlen lassen. Kuchen aus der Form lösen, und auf Brownie-GRöße zurechtschneiden.
+Kuchen im vorgeheizten Backofen 20 - 25 Minuten backen. Herausnehmen und auskühlen lassen. Kuchen aus der Form lösen, und auf Brownie-Größe zurechtschneiden.
 
 ## Nährwerte
 - kcal:	3160
