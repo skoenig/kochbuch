@@ -1,5 +1,6 @@
 ---
-tags: ["lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat"]
+date: 2018-03-08
 ---
 
 ## Zutaten für 14 Brötchen
@@ -19,4 +20,3 @@ Die Butter schmelzen und zusammen mit der Sahne und den Eiern mit dem Kokosblüt
 
 Den Backofen auf 175 ℃ vorheizen. Ein Backblech mit Backpapier auslegen. Den Teig mit leicht angefeuchteten Händen vorsichtig zu Kugeln formen. Die Brötchen mit Ei bestreichen und für 20 Minuten im Backofen backen.
 
-## Nährwerte pro Portion
