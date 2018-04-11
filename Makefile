@@ -1,6 +1,6 @@
 #!/usr/bin/make
 
-.PHONY : all serve publish publish-gh-pages
+.PHONY : all serve publish 
 SOURCES = $(shell find . -name '*.md')
 projectname = $(notdir $(shell pwd))
 
@@ -13,5 +13,7 @@ serve : _build
 	tserve --prefix kochbuch _build
 
 publish : _build
-	./publish-gh-pages.sh
+	rm -rf docs
+	cp -a _build docs
+	git add docs
 
