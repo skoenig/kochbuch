@@ -11,7 +11,7 @@ content:
     - readme
 ---
 
-![](uploads/food.jpg)
+![](img/food.jpg)
 
 *"hier*
 

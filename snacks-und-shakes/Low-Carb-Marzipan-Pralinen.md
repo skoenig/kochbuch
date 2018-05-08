@@ -3,8 +3,8 @@ tags: ["lowcarb"]
 date: 2015-10-09
 ---
 
-![](../uploads/low-carb-marzipan-pralinen.jpg)
-![](../uploads/low-carb-marzipan-pralinen-2.jpg)
+![](../img/low-carb-marzipan-pralinen.jpg)
+![](../img/low-carb-marzipan-pralinen-2.jpg)
 
 ## Zutaten
 - 100 g           Mandelmehl

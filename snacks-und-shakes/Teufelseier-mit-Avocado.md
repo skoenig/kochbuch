@@ -3,8 +3,8 @@ tags: ["lowcarb", "highfat"]
 date: 2017-08-16
 ---
 
-![](../uploads/Teufelseier-mit-Avocado-1.jpg)
-![](../uploads/Teufelseier-mit-Avocado-2.jpg)
+![](../img/Teufelseier-mit-Avocado-1.jpg)
+![](../img/Teufelseier-mit-Avocado-2.jpg)
 
 ## Zutaten für 3 Portionen
 - 6 hargekochte Eier

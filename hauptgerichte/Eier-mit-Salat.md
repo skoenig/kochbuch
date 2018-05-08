@@ -4,7 +4,7 @@ date: 2015-04-09
 ---
 
 ## Zutaten
-![](../uploads/eier-mit-salat.jpg)
+![](../img/eier-mit-salat.jpg)
 
 - 3 Eier
 - 1 TL Olivenöl

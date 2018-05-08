@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2017-05-30
 ---
 
-![](../uploads/Indisches-Curry.jpg)
+![](../img/Indisches-Curry.jpg)
 
 ## Zutaten für 4 Personen
 - 600g      Lamm- oder Rinderhack

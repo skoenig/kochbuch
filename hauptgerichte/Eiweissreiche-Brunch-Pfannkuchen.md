@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2015-05-03
 ---
 
-![](../uploads/eiweissreiche-brunch-pfannkuchen.jpg)
+![](../img/eiweissreiche-brunch-pfannkuchen.jpg)
 
 ## Zutaten
 

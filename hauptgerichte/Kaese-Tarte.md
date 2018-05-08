@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2016-09-16
 ---
 
-![](../uploads/kaese-tarte.jpg)
+![](../img/kaese-tarte.jpg)
 
 ## Zutaten für 4 Portionen
 - 2 EL  Sesam

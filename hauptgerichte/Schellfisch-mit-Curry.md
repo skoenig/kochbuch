@@ -2,7 +2,7 @@
 date: 2016-02-24
 ---
 
-![](../uploads/schellfisch-mit-curry.jpg)
+![](../img/schellfisch-mit-curry.jpg)
 
 ## Zutaten für 4 Portionen
 - 600g  Schellfisch

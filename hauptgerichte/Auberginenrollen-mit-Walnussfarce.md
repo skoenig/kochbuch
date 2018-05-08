@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2015-10-18
 ---
 
-![](../uploads/auberginenrollen-mit-walnussfarce.jpg)
+![](../img/auberginenrollen-mit-walnussfarce.jpg)
 
 ## Zutaten für 4 Personen
 - 2-3   große Auberginen

@@ -3,7 +3,7 @@ tags: ["paleo"]
 date: 2016-04-09
 ---
 
-![](../uploads/chicoree-pasta.jpg)
+![](../img/chicoree-pasta.jpg)
 
 ## Zutaten für 4 Personen
 

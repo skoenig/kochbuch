@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "veggie"]
 date: 2016-01-08
 ---
 
-![](../uploads/erdbeer-cheesecake.jpg)
+![](../img/erdbeer-cheesecake.jpg)
 
 ## Zutaten für eine Torte
 - 150 g     Pekanüsse

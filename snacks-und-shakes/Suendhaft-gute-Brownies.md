@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "veggie"]
 date: 2015-10-11
 ---
 
-![](../uploads/suendhaft-gute-brownies.jpg)
+![](../img/suendhaft-gute-brownies.jpg)
 
 ## Zutaten für 10 Brownies
 - 175g  weiche, gesalzene Butter (oder eben ungesalzene Butter mit 2 TL Salz)

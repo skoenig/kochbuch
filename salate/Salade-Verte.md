@@ -4,7 +4,7 @@ date: 2017-05-22
 ---
 
 ## Zutaten für 4 Portionen
-![](../uploads/Salade-Verte.jpg)
+![](../img/Salade-Verte.jpg)
 
 ### Für den Salat:
 - 400 g Blattspinat

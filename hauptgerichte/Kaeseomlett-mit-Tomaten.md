@@ -3,8 +3,8 @@ tags: ["lowcarb"]
 date: 2015-04-25
 ---
 
-![](../uploads/kaeseomlett-mit-tomaten-1.jpg)
-![](../uploads/kaeseomlett-mit-tomaten-2.jpg)
+![](../img/kaeseomlett-mit-tomaten-1.jpg)
+![](../img/kaeseomlett-mit-tomaten-2.jpg)
 
 ## Zutaten
 - 4     Eier

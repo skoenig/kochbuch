@@ -3,8 +3,8 @@ tags: ["lowcarb", "paleo"]
 date: 2016-03-14
 ---
 
-![](../uploads/artischoken-haehnchen-pfanne-1.jpg)
-![](../uploads/artischoken-haehnchen-pfanne-2.jpg)
+![](../img/artischoken-haehnchen-pfanne-1.jpg)
+![](../img/artischoken-haehnchen-pfanne-2.jpg)
 
 ## Zutaten
 - 500g  eingelegte Artischocken

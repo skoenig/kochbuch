@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "paleo"]
 date: 2016-01-10
 ---
 
-![](../uploads/salade-verte-mit-pulled-turkey.jpg)
+![](../img/salade-verte-mit-pulled-turkey.jpg)
 
 ## Zutaten für 2 große Portionen
 - 500 g     Pulled Turkey (1 Packung)

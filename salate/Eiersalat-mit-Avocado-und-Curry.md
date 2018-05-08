@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "veggie"]
 date: 2016-02-17
 ---
 
-![](../uploads/eiersalat-mit-avocado-und-curry.jpg)
+![](../img/eiersalat-mit-avocado-und-curry.jpg)
 
 ## Zutaten für 2 Portionen
 - 4 EL  Mayonnaise

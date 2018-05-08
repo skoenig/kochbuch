@@ -3,7 +3,7 @@ tags: ["breakfast", "lowcarb"]
 date: 2016-12-19
 ---
 
-![](../uploads/ruehrei-mit-schinken-und-champignons.jpg)
+![](../img/ruehrei-mit-schinken-und-champignons.jpg)
 
 ## Zutaten
 - 2     Vollei

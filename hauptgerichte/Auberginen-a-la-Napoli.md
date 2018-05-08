@@ -4,7 +4,7 @@ date: 2015-02-20
 ---
 
 ## Zutaten für 2 Personen
-![](../uploads/auberginen-la-napoli.jpg)
+![](../img/auberginen-la-napoli.jpg)
 
 - 700 g     Aubergine (2 Stück)
 - 140 g     Zwiebel (1 mittelgroße)

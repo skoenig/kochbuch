@@ -3,7 +3,7 @@ tags: ["veggie"]
 date: 2018-02-28
 ---
 
-![](../uploads/Avocado-Brownies.jpg)
+![](../img/Avocado-Brownies.jpg)
 
 ## Zutaten
 - 200 g  		Zartbitter-Schokolade

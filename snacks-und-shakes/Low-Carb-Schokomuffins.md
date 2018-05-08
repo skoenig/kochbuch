@@ -4,7 +4,7 @@ date: 2015-05-21
 ---
 
 ## Zutaten
-![](../uploads/low-carb-schokomuffins.jpg)
+![](../img/low-carb-schokomuffins.jpg)
 
 - 3         Eier
 - 100 g     Mandelmehl

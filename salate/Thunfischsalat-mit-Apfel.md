@@ -4,7 +4,7 @@ date: 2015-09-26
 ---
 
 ## Zutaten
-![](../uploads/thunfischsalat-mit-apfel.jpg)
+![](../img/thunfischsalat-mit-apfel.jpg)
 
 - 1     Dose Thunfisch
 - 100 g körniger Frischkäse (Cottage Cheese)

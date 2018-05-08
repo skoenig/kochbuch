@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2017-07-10
 ---
 <!--
-![](../uploads/Deftige-Pilzpfanne.jpg)
+![](../img/Deftige-Pilzpfanne.jpg)
 -->
 
 ## Zutaten

@@ -4,7 +4,7 @@ date: 2017-01-11
 ---
 
 ## Zutaten für 2 Portionen
-![](../uploads/avocadosalat-mit-bacon-und-walnuessen.jpg)
+![](../img/avocadosalat-mit-bacon-und-walnuessen.jpg)
 
 - 200 g Bacon
 - 50 g  Rucola

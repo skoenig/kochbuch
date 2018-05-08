@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2017-07-08
 ---
 
-![](../uploads/Gebackene-Aubergine.jpg)
+![](../img/Gebackene-Aubergine.jpg)
 
 ## Zutaten für 2 Portionen
 - 1     Aubergine

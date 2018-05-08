@@ -3,7 +3,7 @@ tags: ["lowcarb", "breakfast"]
 date: 2017-01-04
 ---
 
-![](../uploads/bohnen-mit-speck.jpg)
+![](../img/bohnen-mit-speck.jpg)
 
 ## Zutaten
 - 1/2 Zwiebel

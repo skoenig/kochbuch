@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2018-03-05
 ---
 
-![](../uploads/Gefluegelsalat.jpg)
+![](../img/Gefluegelsalat.jpg)
 
 ## Zutaten für 2 Portionen
 - 100g                  Bacon / Frühstücksspeck

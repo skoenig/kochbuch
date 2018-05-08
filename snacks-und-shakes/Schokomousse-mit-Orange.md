@@ -3,7 +3,7 @@ tags: ["veggie", "lowcarb", "highfat"]
 date: 2015-08-15
 ---
 
-![](../uploads/schokomousse-mit-orange.jpg)
+![](../img/schokomousse-mit-orange.jpg)
 
 ## Zutaten für 6 kleine Gläser
 - 150g dunkle Schokolade (~ 85% Kakaoanteil)

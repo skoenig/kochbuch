@@ -4,7 +4,7 @@ date: 2015-09-26
 ---
 
 ## Zutaten für 4 Portionen
-![](../uploads/magerquark-mit-mandeln.jpg)
+![](../img/magerquark-mit-mandeln.jpg)
 
 - 500 g     Magerquark
 - 250 g     Jogurt

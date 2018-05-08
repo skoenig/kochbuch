@@ -4,7 +4,7 @@ date: 2014-02-18
 ---
 
 ## Zutaten
-![](../uploads/spargelauflauf-small.jpg)
+![](../img/spargelauflauf-small.jpg)
 
 - 300g Spargelstücke aus der Dose
 - 100g Frischkäse 0,8% Fett

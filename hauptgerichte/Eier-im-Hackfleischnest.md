@@ -4,7 +4,7 @@ date: 2015-09-27
 ---
 
 ## Zutaten für 2 Portionen
-![](../uploads/eier-im-hackfleischnest.jpg)
+![](../img/eier-im-hackfleischnest.jpg)
 
 - 400 g    Hackfleisch
 - 2        Ei(er)

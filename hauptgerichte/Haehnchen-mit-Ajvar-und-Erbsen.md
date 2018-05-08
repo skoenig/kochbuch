@@ -3,7 +3,7 @@ tags: ["lowcarb"]
 date: 2017-03-25
 ---
 
-![](../uploads/Haehnchen-mit-Ajvar-und-Erbsen.jpg)
+![](../img/Haehnchen-mit-Ajvar-und-Erbsen.jpg)
 
 ## Zutaten
 - 500g Hänchenschnitzel oder Hänchenbrust

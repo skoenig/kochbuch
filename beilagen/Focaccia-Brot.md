@@ -3,7 +3,7 @@ tags: ["lowcarb", "veggie"]
 date: 2017-10-16
 ---
 
-![](../uploads/Focaccia-Brot.jpg)
+![](../img/Focaccia-Brot.jpg)
 
 ## Zutaten
 - 300 g     Hüttenkäse 4% Fett

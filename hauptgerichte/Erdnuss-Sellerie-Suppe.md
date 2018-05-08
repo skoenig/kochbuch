@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2016-01-04
 ---
 
-![](../uploads/erdnuss-sellerie-suppe.jpg)
+![](../img/erdnuss-sellerie-suppe.jpg)
 
 ## Zutaten für 4 Portionen
 - 150g      Erdnussmus

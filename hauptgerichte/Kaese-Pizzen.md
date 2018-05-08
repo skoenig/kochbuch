@@ -3,9 +3,9 @@ tags: ["lowcarb", "highfat"]
 date: 2017-08-27
 ---
 
-![](../uploads/Kaese-Pizzen-1.jpg)
-![](../uploads/Kaese-Pizzen-2.jpg)
-![](../uploads/Kaese-Pizzen-3.jpg)
+![](../img/Kaese-Pizzen-1.jpg)
+![](../img/Kaese-Pizzen-2.jpg)
+![](../img/Kaese-Pizzen-3.jpg)
 
 ## Zutaten für 4 kleine Pizzen
 - 400g  Reibekäse

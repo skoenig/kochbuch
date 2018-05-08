@@ -3,7 +3,7 @@ date: 2016-03-16
 tags: ["lowcarb", "highfat"]
 ---
 
-![](../uploads/fischauflauf-mit-spinat.jpg)
+![](../img/fischauflauf-mit-spinat.jpg)
 
 ## Zutaten
 - 500 g Fisch (nach Wahl Tipp: Seelachs oder Rotbarsch)

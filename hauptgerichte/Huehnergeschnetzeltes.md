@@ -3,7 +3,7 @@ tags: ["lowcarb"]
 date: 2017-10-10
 ---
 
-![](../uploads/Huehnergeschnetzeltes.jpg)
+![](../img/Huehnergeschnetzeltes.jpg)
 
 
 ## Zutaten für 2 große Portionen

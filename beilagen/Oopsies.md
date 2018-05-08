@@ -5,7 +5,7 @@ date: 2017-05-30
 
 Oopsies sind kleine Fladenbrote, die vor allem aus Frischkäse und Eiern bestehen, ohne Mehl und Zucker auskommen und sich deshalb für Low-Carb-Rezepte als Beilage eignen.
 
-![](../uploads/Oopsies.jpg)
+![](../img/Oopsies.jpg)
 
 ## Zutaten für ~ 5-6 kleine Brote
 - 3     Eier

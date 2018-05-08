@@ -4,7 +4,7 @@ date: 2015-05-18
 ---
 
 ## Zutaten
-![](../uploads/griechischer-salat.jpg)
+![](../img/griechischer-salat.jpg)
 
 - 130 g Eisbergsalat (~ ½ Salatkopf)
 - 130 g Tomaten

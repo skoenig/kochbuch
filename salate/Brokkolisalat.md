@@ -4,7 +4,7 @@ date: 2016-12-16
 ---
 
 ## Zutaten
-![](../uploads/brokkolisalat.jpg)
+![](../img/brokkolisalat.jpg)
 
 - Brokkoli
 - Schinken oder Speckwürfel

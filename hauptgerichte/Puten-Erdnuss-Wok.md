@@ -4,7 +4,7 @@ date: 2015-10-05
 ---
 
 ## Zutaten für 2 Portionen
-![](../uploads/puten-erdnuss-wok.jpg)
+![](../img/puten-erdnuss-wok.jpg)
 
 - 400 g     Putenbrust
 - 2         Paprika

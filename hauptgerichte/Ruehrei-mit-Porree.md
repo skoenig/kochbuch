@@ -3,7 +3,7 @@ tags: ["lowcarb", "paleo", "veggie"]
 date: 2016-05-21
 ---
 
-![](../uploads/ruehrei-mit-porree.jpg)
+![](../img/ruehrei-mit-porree.jpg)
 
 ## Zutaten
 - 5     Eier

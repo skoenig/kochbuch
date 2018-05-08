@@ -3,9 +3,9 @@ tags: ["lowcarb", "highfat"]
 date: 2016-06-11
 ---
 
-![](../uploads/himbeeromlett-1.jpg)
-![](../uploads/himbeeromlett-2.jpg)
-![](../uploads/himbeeromlett-3.jpg)
+![](../img/himbeeromlett-1.jpg)
+![](../img/himbeeromlett-2.jpg)
+![](../img/himbeeromlett-3.jpg)
 
 ## Zutaten für 1 Omlett
 - 3     Eier

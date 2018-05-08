@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "veggie"]
 date: 2016-02-21
 ---
 
-![](../uploads/low-carb-knaeckebrot.jpg)
+![](../img/low-carb-knaeckebrot.jpg)
 
 ## Zutaten für 1 Blech
 - 160g  Leinsamen

@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "veggie"]
 date: 2015-10-14
 ---
 
-![](../uploads/dessertpizza.jpg)
+![](../img/dessertpizza.jpg)
 
 ## Zutaten
 - 3         Eier

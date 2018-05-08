@@ -3,7 +3,7 @@ tags: ["slowcarb"]
 date: 2016-10-26
 ---
 
-![](../uploads/chili-con-tuna.jpg)
+![](../img/chili-con-tuna.jpg)
 
 ## Zutaten
 - 500g passierte Tomaten

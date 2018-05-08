@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "paleo"]
 date: 2016-01-13
 ---
 
-![](../uploads/hackbraten-mit-magerquark-und-sellerie.jpg)
+![](../img/hackbraten-mit-magerquark-und-sellerie.jpg)
 
 ## Zutaten für 2 Portionen
 - 500 g     Staudensellerie

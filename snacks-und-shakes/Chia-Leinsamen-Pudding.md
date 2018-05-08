@@ -3,9 +3,9 @@ tags: ["lowcarb", "highfat", "paleo", "veggie"]
 date: 2016-02-11
 ---
 
-![](../uploads/chia-leinsamen-pudding.jpg)
-![](../uploads/chia-leinsamen-pudding01.jpg)
-![](../uploads/chia-leinsamen-pudding03.jpg)
+![](../img/chia-leinsamen-pudding.jpg)
+![](../img/chia-leinsamen-pudding01.jpg)
+![](../img/chia-leinsamen-pudding03.jpg)
 
 ## Zutaten
 - 3 EL      Leinsamen (~ 30 g)

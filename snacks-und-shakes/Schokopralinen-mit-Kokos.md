@@ -3,8 +3,8 @@ tags: ["lowcarb", "highfat"]
 date: 2016-06-29
 ---
 
-![](../uploads/schokopralinen-mit-kokos-1.jpg)
-![](../uploads/schokopralinen-mit-kokos-2.jpg)
+![](../img/schokopralinen-mit-kokos-1.jpg)
+![](../img/schokopralinen-mit-kokos-2.jpg)
 
 ## Zutaten für etwa 12 Stück
 - 100 g     dunkle Schokolade (> 80% Kakaoanteil)
