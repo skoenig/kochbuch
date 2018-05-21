@@ -526,11 +526,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Ungarische-Zucchini.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Chicken-n-Chips.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>

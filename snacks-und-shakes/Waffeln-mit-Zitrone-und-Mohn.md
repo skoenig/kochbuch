@@ -1,7 +1,9 @@
 ---
-tags: ["new", "lowcarb", "highfat"]
-date: 2015-06-08
+tags: ["lowcarb", "highfat"]
+date: 2018-05-20
 ---
+
+![](../img/Waffeln-mit-Zitrone-und-Mohn.jpg)
 
 ## Zutaten für 8 Waffeln
 - 4         Eier
@@ -15,4 +17,10 @@ date: 2015-06-08
 - 1         Zitrone
 
 ## Zubereitung
-Die Schalte der (möglichst unbehandelten) Zitrone mit einer Küchenreibe abreiben. Die Eier schaumig schlagen, Kokosblütenzucker und Creme Fraiche unterrühren bis ein glatter Teig entsteht. Die restlichen Zutaten unterrühren. Den Teig etwas ruhen lassen und inswischen das Waffeleisen aufwärmen lassen. Nacheinander 8 Waffeln aus dem Teig backen.
+Die Schale der (möglichst unbehandelten) Zitrone mit einer Küchenreibe abreiben.
+
+Die Eier schaumig schlagen, Kokosblütenzucker und Creme Fraiche unterrühren bis ein glatter Teig entsteht. Die restlichen Zutaten unterrühren.
+
+Den Teig etwas ruhen lassen und inswischen das Waffeleisen aufwärmen lassen.  Nacheinander 8 Waffeln aus dem Teig backen.
+
+Aus dem Teig können problemlos auch Pfannkuchen gebacken werden.
