@@ -1,20 +1,27 @@
 ---
-tags: ["lowcarb", "new"]
+tags: ["lowcarb"]
+date: 2018-05-22
 ---
 
-## Zutaten
-- 100g  Putenbrust
-- Zwiebeln
-- Champignons
-- etwas Sauerkraut
-- etwas Spargel
-- 50g Rinderhack
-- 80 g gehackte Tomaten
-- italienische Kräuter
-- Salz und Pfeffer
-- Edamer
+![](../img/Pute-Milano.jpg)
+
+## Zutaten für 2 Portionen
+- 2 Putenschnitzel
+- 1 Zwiebel
+- 3 Zehen Knoblauch
+- 1 große Zucchini
+- 4 große Tomaten
+- 250 g Champignons
+- 125 g Schinkenwürfel
+- 1 Becher Sahne
+- Salz, Pfeffer, Oregano
+- evtl. etwas Instant-Gemüsebrühe
 
 ## Zubereitung
-Die Pute dünn klopfen und mit Salz und Pfeffer würzen.
-Die Zwiebeln und Champignons, etwas Sauerkraut und Spargel dazu, mit den gehackten Tomaten ablöschen und mit italienischen Kräutern abschmecken. Alles etwas einkochen lassen.
-Dann habe ich das dünne Putenfleisch auf einer Seite scharf angebraten, umdrehen, den Käse und die Soße darauf geben. Die Pfanne mit einem Deckel abdecken und noch einmal für 5 min. garen lassen.
+ Zwiebel und Knoblauchzehen abziehen, hacken, in eine Pfanne geben und in etwas Öl anbraten.
+
+Die Putenschnitzel von beiden Seiten mit Salz, Pfeffer und Oregano würzen, mit in die Pfanne geben und von jeder Seite 2 min. anbraten. Die Schnitzel mit den Zwiebeln und dem Knoblauch ohne Bratsud aus der Pfanne nehmen und beiseite stellen.
+
+Zucchini, Tomaten und Champignons in nicht zu kleine Stücke schneiden und in die Pfanne geben. Schinkenwürfel in die Pfanne geben und mit dem Gemüse kurz anschmoren. Sahne dazugeben und mit etwas Gemüsebrühe abschmecken.
+
+Die Schnitzel mit den Zwiebeln in die Pfanne geben und unter das Gemüse heben. Hitze reduzieren und köcheln lassen, bis die Schnitzel durch sind.
