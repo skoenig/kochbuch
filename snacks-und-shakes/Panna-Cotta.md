@@ -16,4 +16,3 @@ Für das Mango-Gelee das letzte Blatt Gelantine in kaltes Wasser legen. Die Mang
 
 Die Gläser mit der Sahne aus dem Kühlschrank nehmen und das Mango-Gelee daraufgeben. Dann wieder einige Stunden bis zum Servieren in den Kühlschrank stellen.
 
-## Nährwerte pro Portion

@@ -20,4 +20,3 @@ Danach vorsichtig aus der Kastenform nehmen und mit einem scharfen Messer in Rie
 
 Die Schokolade mit dem verbliebenen EL Kokosöl im Wasserbad schmelzen und die Kokosriegel mithilfe von zwei Gabeln vorsichtig in die geschmolzene Schokolade tauchen und auf einen großen Teller mit Backpapier legen und anschließend im Kühlschrank abkühlen lassen.
 
-## Nährwerte pro Portion

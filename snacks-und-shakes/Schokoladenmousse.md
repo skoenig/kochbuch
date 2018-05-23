@@ -15,4 +15,3 @@ Die Schokolade im Wasserbad schmelzen lassen. Die Eier trennen und das Eiweiß s
 Die Sahne fast steif schlagen. Die Orangenschale abreiben und zusammen mit dem Eigelb, Kokosblütenzucker und Vanillepulver vermischen und zu der geschmolzenen Schokolade geben.
 Dann die Schokoladenmasse vorsichtig unter die Sahne heben und alles zu einer gleichmäßigen Masse verrühren. Anschließend das Eiweiß vorsichtig unterheben. Die Mousse in 6 kleine Gläser füllen und in den Kühlschrank stellen.
 
-## Nährwerte pro Portion

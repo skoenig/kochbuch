@@ -15,4 +15,3 @@ date: 2016-08-10
 ## Zubereitung
 Alles mit einer Gabel in einer Schüssel verkneten.
 
-## Nährwerte pro Portion

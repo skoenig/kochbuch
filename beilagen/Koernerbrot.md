@@ -21,4 +21,3 @@ Körner, Samen und gehackte Nüsse in einer Schüssel mit Öl und Salz vermische
 
 Den Teig in die Kastenform füllen und ca. 1 Stunde backen.
 
-## Nährwerte pro Portion

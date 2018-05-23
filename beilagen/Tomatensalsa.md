@@ -20,4 +20,3 @@ Die Tomaten waschen und in Würfel schneiden. Zwiebel und Knoblauchzehe schälen
 
 Mit Salz & Pfeffer abschmecken und ca. 1 Stunde ziehen lassen.
 
-## Nährwerte pro Portion

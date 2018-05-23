@@ -22,4 +22,3 @@ Blumenkohl und Karotte waschen und abtropfen lassen, beides kleinreiben. Die Nü
 
 In der Küchenmaschine zu einem Teig verarbeiten und daraus 8 kleine, dicke Fladenbrote formen. Die Teigbatzen auf das Backpapier legen und im Ofen ca. 20 Minuten backen.
 
-## Nährwerte pro Fladenbrot

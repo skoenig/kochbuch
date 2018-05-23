@@ -29,4 +29,3 @@ Die Sahne in einem Topf aufkochen und 50 g geriebenen Käse darin schmelzen. Mit
 
 Den Backofen auf 200 ℃ anheizen. Die Lasaneplatten in eine feuerfeste Form schichten. Mit etwas Hackfleischsauce beginnen. Darauf Lagen von Sahnesauce, Lasagneplatten und wieder Hackfleischsauce schichten. Mit einer Schicht Fleischsauce abschließen. Die übrigen 200 g geriebenen Käse darüberstreuen und im Backofen noch mal 15-20 Minuten überbacken.
 
-## Nährwerte pro Portion
