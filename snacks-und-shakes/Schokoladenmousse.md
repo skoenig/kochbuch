@@ -1,6 +1,9 @@
 ---
-tags: ["lowcarb", "new", "highfat"]
+tags: ["lowcarb", "highfat"]
+date: 2018-05-26
 ---
+
+![](../img/Schokoladenmousse.jpg)
 
 ## Zutaten für 6 kleine Gläser
 - 150g      dunkle Schokolade (> 80% Kakaoanteil)
