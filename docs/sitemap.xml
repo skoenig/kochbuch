@@ -46,11 +46,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Puten-Gyros-mit-Bratensosse.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Himbeeromlett.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -526,7 +521,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Chicken-n-Chips.html</loc>
+        <loc>/kochbuch/hauptgerichte/Chili-Con-Tuna.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -881,11 +876,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Chili-Con-Tuna.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Haehnchen-mit-Ajvar-und-Erbsen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -1017,11 +1007,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Putenschnitzel-mit-Salami-ueberbacken.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Auflauf-deutsche-Art.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
