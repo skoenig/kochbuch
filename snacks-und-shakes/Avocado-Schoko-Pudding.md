@@ -1,6 +1,6 @@
 ---
-tags: ["lowcarb", "new"]
-date: 2016-08-10
+tags: ["lowcarb", "veggie"]
+date: 2018-07-05
 ---
 
 ![](../img/avocado-schoko-pudding-1.jpg)
