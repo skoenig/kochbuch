@@ -1,5 +1,6 @@
 ---
-tags: ["lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat"]
+date: 2018-07-25
 ---
 
 ## Zutaten für 4 Personen
@@ -9,4 +10,4 @@ tags: ["lowcarb", "highfat", "new"]
 - Öl
 
 ## Zubereitung
-Den Backofen auf 180 ℃ vorheizen. Eine Auflaufform mit etwas Öl einfetten. Die Lachsfilets abspülen und trockentupfen, in die Form legen und mit Salz & Pfeffer würzen. Für 25 Minuten backen. Die Schale der Zitrone mit einer Küchenreibe abreiben. Die Lachsfilets zusammen mit [Zucchini-Spaghetti](../beilagen/Zucchini-Spaghetti.html) und [Petersilienpesto](../beilagen/Petersilienpesto.html) anrichten und mit dem Zitronenabrieb bestreuen.
+Den Backofen auf 180 ℃ vorheizen. Eine Auflaufform mit etwas Öl einfetten. Die Lachsfilets abspülen und trockentupfen, in die Form legen und mit Salz & Pfeffer würzen. Für 25 Minuten backen. Die Schale der Zitrone mit einer Küchenreibe abreiben. Die Lachsfilets zusammen mit [Zucchini-Spaghetti](../beilagen/Zucchini-Spaghetti.html) und Petersilienpesto anrichten und mit dem Zitronenabrieb bestreuen.
