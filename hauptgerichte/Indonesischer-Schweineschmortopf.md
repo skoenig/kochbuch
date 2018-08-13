@@ -1,5 +1,6 @@
 ---
 tags: ["lowcarb", "favourites"]
+date: 2015-07-27
 ---
 
 ## Zutaten fuer 4 Personen
