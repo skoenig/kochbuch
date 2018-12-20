@@ -1,6 +1,6 @@
 ---
-tags: ["new", "lowcarb", "breakfast"]
-date: 2015-05-19
+tags: ["lowcarb", "breakfast"]
+date: 2018-12-05
 ---
 
 ## Zutaten
@@ -18,6 +18,6 @@ date: 2015-05-19
 - Salz & Pfeffer
 
 ## Zubreitung
-Olivenöl in einem Topf langsam erhitzen. 2 Knoblauchzehen, 1 Zwiebel und 1 Chilischote klein schneiden und würfeln. Ab in den Topf damit! Je 1 TL Koriandersamen und Kreuzkümmel in einem Mörser bearbeiten und zu den anderen Zutaten geben. Die Schinkenwürfel ebenfalls in den Topf geben.
-Die Zutaten auf mittlere Hitze schön vorsichtig für ca. 5 Minuten anschwitzen. Die Dose geschälte Tomaten und Bohnen hinzugeben. Das Ganze nochmal für 10 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken. Vielleicht noch ein wenig Tabasco hinzugeben, mit einem Spritzer Zitrone ergänzen und nach Belieben noch mit frischen Kräutern abrunden. Dazu passen natürlich hervorragend Eier!
+Olivenöl in einem Topf langsam erhitzen. 2 Knoblauchzehen, 1 Zwiebel und 1 Chilischote klein schneiden und würfeln und in den Topf geben. Je 1 TL Koriandersamen und Kreuzkümmel in einem Mörser bearbeiten und zu den anderen Zutaten geben. Die Schinkenwürfel ebenfalls in den Topf geben.
+Die Zutaten auf mittlere Hitze vorsichtig für ca. 5 Minuten anschwitzen. Die Dose geschälte Tomaten und Bohnen hinzugeben. Das Ganze nochmal für 10 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken. Vielleicht noch ein wenig Tabasco hinzugeben, mit einem Spritzer Zitrone ergänzen und nach Belieben noch mit frischen Kräutern abrunden. Dazu passen natürlich hervorragend Eier!
 
