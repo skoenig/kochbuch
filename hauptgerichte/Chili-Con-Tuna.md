@@ -6,9 +6,9 @@ date: 2016-10-26
 ![](../img/chili-con-tuna.jpg)
 
 ## Zutaten
-- 500g passierte Tomaten
-- 500g Kidneybohnen
-- 300g Thunfisch in eigenem Saft (2 Dosen)
+- 2 Dosen (300g) Thunfisch in eigenem Saft
+- 1 Pkg (500g) passierte Tomaten
+- 2 Dosen (500g) Kidneybohnen
 - 300g Champignons
 - 1 mittelgroße Zwiebel
 - 1 Knoblauchzehe
@@ -24,7 +24,7 @@ date: 2016-10-26
 1. währendessen die Chilis und den Knoblauch kleinhacken
 1. mit den Tomaten ablöschen
 1. Kidneybohnen und alle Gewürze dazugeben
-1. die Hitze reduzieren und das Ganze noch 10-20 Minuten köcheln lassen
+1. die Hitze reduzieren und das Ganze noch 30-45 Minuten köcheln lassen
 
 ## Nährwerte
 - kcal: 990

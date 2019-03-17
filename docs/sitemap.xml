@@ -11,7 +11,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Mexikanische-Quesadilla.html</loc>
+        <loc>/kochbuch/hauptgerichte/Chili-Con-Carne-Spezial.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -26,7 +26,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Hackbraten-mit-Magerquark-und-Sellerie.html</loc>
+        <loc>/kochbuch/salate/Thunfischsalat-mit-Brokkoli.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/Haehnchen-in-Tomatensauce-mit-Mascarpone.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -76,7 +81,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/beilagen/Avocado-Mousse.html</loc>
+        <loc>/kochbuch/hauptgerichte/Griechische-Frikadellen-mit-Gemuese.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -86,7 +91,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/index.html</loc>
+        <loc>/kochbuch/hauptgerichte/Zucchinigratin.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -97,11 +102,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Ruehrei-mit-Porree.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Zucchinigratin.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -136,7 +136,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Kaese-Pizzen.html</loc>
+        <loc>/kochbuch/hauptgerichte/Huehnerfrikassee.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -146,7 +146,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Chili-Con-Something.html</loc>
+        <loc>/kochbuch/hauptgerichte/Hackbraten-mit-Magerquark-und-Sellerie.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -191,7 +191,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Thunfisch-Calamari-Auflauf.html</loc>
+        <loc>/kochbuch/beilagen/Avocado-Mousse.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -206,7 +206,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Spinat-mit-Bohnen-und-Ei.html</loc>
+        <loc>/kochbuch/hauptgerichte/Blumenkohlpizza.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -226,7 +226,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Eiersalat.html</loc>
+        <loc>/kochbuch/hauptgerichte/Chicoree-Pasta.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -271,7 +271,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Haehnchen-in-Tomatensauce-mit-Mascarpone.html</loc>
+        <loc>/kochbuch/hauptgerichte/Wraps-mit-Walnussfarce.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -296,7 +296,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Chili-Con-Carne-Spezial.html</loc>
+        <loc>/kochbuch/tag/favourites/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -311,7 +311,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Spargelauflauf.html</loc>
+        <loc>/kochbuch/hauptgerichte/Spinat-Blumenkohl-Curry.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/salate/Eiersalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -351,17 +356,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Kaeseomlett-mit-Tomaten.html</loc>
+        <loc>/kochbuch/hauptgerichte/Indisches-Curry.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Indonesischer-Schweineschmortopf.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/tag/favourites/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -411,12 +411,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Huehnerfrikassee.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/tag/</loc>
+        <loc>/kochbuch/hauptgerichte/Kaese-Pizzen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -436,12 +431,17 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Spinat-Blumenkohl-Curry.html</loc>
+        <loc>/kochbuch/hauptgerichte/Spargelauflauf.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Thunfischteig-Pizza.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/tag/new/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -501,7 +501,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Chicoree-Pasta.html</loc>
+        <loc>/kochbuch/hauptgerichte/Thunfisch-Calamari-Auflauf.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -556,7 +556,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Thunfischsalat-mit-Brokkoli.html</loc>
+        <loc>/kochbuch/salate/Brokkolisalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -576,17 +576,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Wraps-mit-Walnussfarce.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/snacks-und-shakes/Low-Carb-Schokomuffins.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Blumenkohlpizza.html</loc>
+        <loc>/kochbuch/hauptgerichte/Spinat-mit-Bohnen-und-Ei.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -611,7 +606,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Indisches-Curry.html</loc>
+        <loc>/kochbuch/hauptgerichte/Kaeseomlett-mit-Tomaten.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -627,6 +622,11 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Gebackene-Aubergine.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/index.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -816,7 +816,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/tag/new/</loc>
+        <loc>/kochbuch/hauptgerichte/Mexikanische-Quesadilla.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -831,7 +831,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Snack.html</loc>
+        <loc>/kochbuch/snacks-und-shakes/Schokopralinen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -877,11 +877,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Puten-Erdnuss-Wok.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/salate/Brokkolisalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -1011,7 +1006,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Schokopralinen.html</loc>
+        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Snack.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -1031,7 +1026,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Griechische-Frikadellen-mit-Gemuese.html</loc>
+        <loc>/kochbuch/tag/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
