@@ -4,8 +4,8 @@ date: 2016-02-11
 ---
 
 ![](../img/chia-leinsamen-pudding.jpg)
-![](../img/chia-leinsamen-pudding01.jpg)
 ![](../img/chia-leinsamen-pudding03.jpg)
+![](../img/chia-leinsamen-pudding04.jpg)
 
 ## Zutaten
 - 3 EL      Leinsamen (~ 30 g)
@@ -15,6 +15,7 @@ date: 2016-02-11
 - evtl.     etwas Stevia oder Kokosblütenzucker zum Süßen
 
 als Topping:
+
 - Himbeeren (oder andere Waldbeeren)
 - Walnuss-,  Paranuss- oder Chashewkerne
 
