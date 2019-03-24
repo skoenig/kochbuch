@@ -1,6 +1,6 @@
 ---
-tags: ["new", "lowcarb", "breakfast"]
-date: 2015-05-28
+tags: ["lowcarb", "breakfast"]
+date: 2019-03-23
 ---
 
 ## Zutaten
