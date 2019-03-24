@@ -1,4 +1,4 @@
 ---
-title: Categories
+title: Kategorien
 layout: index
 ---

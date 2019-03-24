@@ -1,7 +1,7 @@
 brand: Kochbuch
+baseurl: kochbuch
 navbar_right_items: 2
-bootswatch: journal
 navbar_inverse: true
+bootswatch: journal
 bootstrap: 3.3.4
 ignore_patterns: ['drafts', '*~', 'Notes.markdown', 'docs']
-baseurl: kochbuch

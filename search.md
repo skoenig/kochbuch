@@ -1,5 +1,5 @@
 ---
-title: Search results
+title: Rezeptsuche
 layout: search
 ---
 
