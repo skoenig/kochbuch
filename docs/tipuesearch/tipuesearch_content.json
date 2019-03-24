@@ -3,13 +3,13 @@
         {
             "tags": "", 
             "text": "", 
-            "title": "Search results", 
+            "title": "Rezeptsuche", 
             "url": "/kochbuch/search.html"
         }, 
         {
             "tags": "", 
-            "text": "Das hier ist nur eine persönliche Sammlung leckerer Rezepte, die ich zuerst nur in einem zim wiki für mich angelegt hatte. Später wurde wurde es in zum kollaborativen Bearbeiten in ein gollum wiki auf dem Fileserver der WG gepackt. Nachdem mein Mitbewohner ausgezogen war, hab ich wieder nur alleine mit vim bearbeitet und mit mdwiki per Dropbox gehosted. Jetzt werden die Seiten statisch mit urubu generiert und auf GitHub Pages gehostet. Die Rezepte sind entsprechend getagged, wenn sie bestimmten Ernährungsweisen wie z.B. Low Carb ( \"lowcarb\" ), High Fat ( \"highfat\" ), Paleo ( \"paleo\" ) entsprechen oder einfach Breakfast ( \"breakfast\" ), wenn sie relativ schnell zubereitet sind. Weiter Kategorien findet ihr hier . Das Kochbuch ist auf http://skoenig.github.io/kochbuch/ gehosted und den Quelltext findet ihr im GitHub repo . Es gilt die UNLICENSE .", 
-            "title": "About", 
+            "text": "Das hier ist nur eine persönliche Sammlung leckerer Rezepte, die ich zuerst nur in einem zim wiki für mich angelegt hatte. Später wurde wurde es in zum kollaborativen Bearbeiten in ein gollum wiki auf dem Fileserver der WG gepackt. Nachdem mein Mitbewohner ausgezogen war, hab ich wieder nur alleine mit vim bearbeitet und mit mdwiki per Dropbox gehosted. Jetzt werden die Seiten statisch mit urubu generiert und auf GitHub Pages gehostet. Die Rezepte sind entsprechend kategorisiert, wenn sie bestimmten Ernährungsweisen wie z.B. Low Carb ( \"lowcarb\" ), High Fat ( \"highfat\" ), Paleo ( \"paleo\" ) entsprechen oder einfach Breakfast ( \"breakfast\" ), wenn sie relativ schnell zubereitet sind. Alle Kategorien findet ihr hier . Das Kochbuch ist auf http://skoenig.github.io/kochbuch/ gehosted und den Quelltext findet ihr im GitHub repo . Es gilt die UNLICENSE .", 
+            "title": "Über", 
             "url": "/kochbuch/README.html"
         }, 
         {
@@ -27,7 +27,7 @@
         {
             "tags": "", 
             "text": "lowcarb highfat new veggie breakfast paleo vegan slowcarb favourites", 
-            "title": "Categories", 
+            "title": "Kategorien", 
             "url": "/kochbuch/tag/index.html"
         }, 
         {

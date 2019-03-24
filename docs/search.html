@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Search results</title>
+    <title>Rezeptsuche</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="favicon.ico">
     <meta charset="utf-8">
@@ -56,12 +56,12 @@
           </ul>
           <form class="navbar-form navbar-left" action="/kochbuch/search.html" role="search">
             <div class="form-group">
-                <input type="text" required name="q" id="tipue_search_input" class="form-control" placeholder="Search">
+                <input type="text" required name="q" id="tipue_search_input" class="form-control" placeholder="Suche">
             </div>
           </form>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="/kochbuch/tag/">Categories</a></li>
-            <li><a href="/kochbuch/README.html">About</a></li>
+            <li><a href="/kochbuch/tag/">Kategorien</a></li>
+            <li><a href="/kochbuch/README.html">Über</a></li>
           </ul>
 
         </div><!--/.nav-collapse -->
@@ -73,11 +73,11 @@
 
   <ol class="breadcrumb">
     <li><a href="/kochbuch/">Home</a></li>
-      <li class="active">Search results</li>
+      <li class="active">Rezeptsuche</li>
   </ol>
 
   <div class="page-header">
-    <h1>Search results</h1>
+    <h1>Rezeptsuche</h1>
 
   </div>
 
@@ -115,6 +115,7 @@
 $(document).ready(function() {
      $('#tipue_search_input').tipuesearch({
           'mode': 'json',
+          'show': 10,
           'contentLocation': 'tipuesearch/tipuesearch_content.json'
      });
 });
