@@ -4,14 +4,14 @@ date: 2016-03-24
 ---
 
 ## Zutaten für 4 Personen
-- 600 g     Hähmchenbrustfilet
+- 600 g     Hähnchenbrustfilet
 - 1-2 TL    Currypaste
 - 200 ml    Kokosmilch
 - 200 g     Schlagsahne
 - ½         Limette
-- 2 EL      Tamari
+- 2 EL      Tamari (glutenfreie Sojasauße)
 - 4 EL      Erdnussbutter, cremig
-- 1         Stägel Koriander
+- 1         Stängel Koriander
 - 2         Frühlingszwiebeln
 - ½         Apfel
 - 1         handvoll Erdnüsse
