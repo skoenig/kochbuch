@@ -1,6 +1,6 @@
 ---
 tags: ["lowcarb"]
-date: 2015-05-21
+date: 2019-03-28
 ---
 
 ## Zutaten
@@ -12,10 +12,10 @@ date: 2015-05-21
 - 10 g      Backkakao, ungesüßt
 - 1 Pck.    Backpulver
 - 1 Prise   Salz
-- Süßstoff, (Flüssigsüße), nach Geschmack
+- Süßstoff nach Geschmack
 
 ## Zubereitung
-Die Eier trennen, und das Eiweiß mit einer Prise Salz steif schlagen.
+Die Eier trennen, und das Eiweiß mit einer Prise (wirklich nur eine Prise!) Salz steif schlagen.
 
 Eigelb, Mandelmehl, Magerquark, Backpulver, Kakao und die Flüssigsüße mit dem Mixer verrühren. Den Eischnee unterheben.
 
