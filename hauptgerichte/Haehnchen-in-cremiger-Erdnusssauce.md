@@ -1,7 +1,9 @@
 ---
 tags: ["lowcarb", "highfat"]
-date: 2016-03-24
+date: 2019-04-04
 ---
+
+![](../img/Haehnchen-in-cremiger-Erdnusssauce.jpg)
 
 ## Zutaten für 4 Personen
 - 600 g     Hähnchenbrustfilet
@@ -11,10 +13,10 @@ date: 2016-03-24
 - ½         Limette
 - 2 EL      Tamari (glutenfreie Sojasauße)
 - 4 EL      Erdnussbutter, cremig
+- 1         handvoll Erdnüsse
 - 1         Stängel Koriander
 - 2         Frühlingszwiebeln
 - ½         Apfel
-- 1         handvoll Erdnüsse
 - Salz & Pfeffer
 - Butter oder Kokosöl zum Braten
 
