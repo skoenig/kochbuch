@@ -1,28 +1,22 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-07-02
+tags: ["lowcarb"]
+date: 2019-04-09
 ---
 
 ## Zutaten
-- 2 Dosen   Thunfisch in Wasser
-- 1         Vollei
-- 4         Eiklar
+- 2 Dosen   Thunfisch in eigenem Saft
+- 2 EL      Magerquark
+- 1-2       Eier
 - 40gr      Leinsamen geschrotet
-- 1         Zwiebel
-- Roter Pfeffer
+- ½         Zwiebel
+- Salz, Pfeffer, weitere Gewürze wie Paprika oder Kräuter nach Belieben
 
 ## Zubereitung
-Den Thunfisch auspressen und in ein Gefäß reingeben.
-jetzt das ein und das Eiklar dazugeben.
-die Zwiebel in fein Würfel schneiden und auch dazumengen.
-40gr Leinsamen abwägen und ebenfalls dazu und dann die Gewürze.
+Den Thunfisch gut auspressen und in eine Schüssel geben. Die Zwiebel in feine Würfel schneiden, die Leinsamen schroten und zusammen mit den Magerquark, Eiern und Gewürzen zum Thunfisch geben.
 
-Durchkneten bis eine homogene Masse entsteht.  D ie Masse 2 Stunden in den Kühlschrank stellen.
-Die Leinsamen quellen in dieser Zeit auf und binden das Ei.das macht die Masse form bar.
+Durchkneten bis eine homogene Masse entsteht, diese dann ca. 20 Minuten im Kühlschrank ruhen lassen. Die Leinsamen quellen in dieser Zeit auf und binden das Ei.
 
-nach 2 Stunden das Gemisch aus dem Kühlschrank nehmen und mit den Händen Frikadellen-grosse Bällchen formen und auf einen Teller legen
+Danach Frikadellen aus der Masse formen und entweder 8 Minuten von jeder Seite in der Pfanne braten oder im Backofen bei 200 C ca. 20 Minuten backen.
 
-das ganze wird nun 8-10 Minuten gebacken
-
-Die Bällchen enthalten Omegafettsäuren, Ballaststoffe und reichlich Eiweiß und eignen sich vorzüglich als Fleischbeilage zu [Blumenkohlreis](../beilagen/Blumenkohlreis.html).
+Die Frikadellen eignen sich sehr gut als Beilage zu [Blumenkohlreis](../beilagen/Blumenkohlreis.html).
 
