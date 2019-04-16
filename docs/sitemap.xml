@@ -226,7 +226,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Fischauflauf-mit-Spinat.html</loc>
+        <loc>/kochbuch/hauptgerichte/Scharfe-Thaisuppe.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -246,11 +246,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Thunfischsalat-mit-Apfel.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/snacks-und-shakes/index.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -262,6 +257,11 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Linsen-Tomaten-Teller.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Schokomuffins.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -541,7 +541,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Omegabaellchen.html</loc>
+        <loc>/kochbuch/snacks-und-shakes/Suendhaft-gute-Brownies.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -571,7 +571,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Schokomuffins.html</loc>
+        <loc>/kochbuch/beilagen/Lachsroellchen-mit-Frischkaese.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -861,11 +861,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Lachsroellchen-mit-Frischkaese.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Haehnchen-mit-Ajvar-und-Erbsen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -931,7 +926,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Scharfe-Thaisuppe.html</loc>
+        <loc>/kochbuch/beilagen/Thunfischfrikadellen.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/Fischauflauf-mit-Spinat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -1011,7 +1011,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Suendhaft-gute-Brownies.html</loc>
+        <loc>/kochbuch/salate/Thunfischsalat-mit-Apfel.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
