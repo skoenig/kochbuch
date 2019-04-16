@@ -1,13 +1,13 @@
 ---
-tags: ["new", "lowcarb", "highfat"]
-date: 2015-07-02
+tags: ["lowcarb", "highfat"]
+date: 2019-04-16
 ---
 
-## Zutaten für 1 Portion
-- 30g   Frischkäse
-- 1 EL  Sahne
+## Zutaten für 2 Portion
+- 100g   Frischkäse
+- 2 EL  Sahne
 - 1     Handvoll Kräuter z.B. Petersilie, Basilikum, Koriander
-- 100g  Räucherlachs in Scheiben
+- 200g  Räucherlachs in Scheiben
 - Salz & Pfeffer
 
 ## Zubereitung
