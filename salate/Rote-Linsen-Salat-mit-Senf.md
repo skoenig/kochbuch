@@ -1,12 +1,14 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2014-06-15
+tags: ["slowcarb", "veggie"]
+date: 2019-04-22
 ---
 
+![](../img/Rote-Linsen-Salat-mit-Senf.jpg)
+
 ## Zutaten
+- 100 g    rote Linsen
+- ½ kleine Zwiebel
 - 1 EL     Senf
-- 100 g    Linsen, rote
-- ½ kleine Zwiebel(n)
 - 2 EL     Öl
 - ½ EL     Sojasauce
 - Paprikapulver
