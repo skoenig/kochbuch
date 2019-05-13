@@ -1,7 +1,9 @@
 ---
 tags: ["lowcarb"]
-date: 2015-01-25
+date: 2019-05-12
 ---
+
+![](../img/Schichtkohl-mit-Hackfleisch.jpg )
 
 ## Zutaten
 
