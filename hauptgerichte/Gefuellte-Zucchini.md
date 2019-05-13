@@ -1,19 +1,18 @@
 ---
-tags: ["new", "lowcarb", "veggie"]
-date: 2015-04-26
+tags: ["lowcarb"]
+date: 2019-05-10
 ---
 
-## Zutaten (ausreichend für 2 Portionen)
-3 Zucchinis mittelgroß
-1 Packung Tomatenmark (alternativ Low-Carb-Chili-Sauce)
-200g Schinken (in Würfel geschnitten)
-10 Cherrytomaten
-200g geriebener Gouda Käse
+![](../img/Gefuellte-Zucchini.jpg)
+
+## Zutaten für 3 Portionen
+- 3 Zucchinis mittelgroß
+- 1 Dose gehackte Tomaten
+- 10 Cherrytomaten
+- 200g Schinken (in Würfel geschnitten)
+- 200g geriebener Gouda Käse
 
 ## Zubereitung
-Die Zucchini längs in zwei Teile schneiden und aushöhlen. Das Tomatenmark
-mit den Schinkenwürfeln und den klein geschnittenen Cherrytomaten vermischen
-und in die Aushöhlung geben. Käse darauf verteilen und für mind. 30 Minuten bei
-180° in den Ofen bis sich der Käse goldgelb färbt.
+Die Zucchini längs in zwei Teile schneiden und mit einem Löffel aushöhlen. Das Cherrytomaten klein schneiden und mit den Dosentomaten und Schinkenwürfeln vermischen. Das Ganze nach belieben würzen und in die Aushöhlung geben. Den Käse darauf verteilen und für mind. 30 Minuten bei 180° im Ofen backen bis sich der Käse goldgelb färbt.
 
 
