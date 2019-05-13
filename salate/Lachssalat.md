@@ -1,22 +1,24 @@
 ---
 tags: ["lowcarb", "highfat", "new"]
+date: 2019-05-07
 ---
+
+![](../img/Lachssalat.jpg)
 
 ## Zutaten für 2 Portionen
 - 2 EL          Mayonanaise
 - 2 EL          Creme Fraice
 - etwas         Meerrettich
 - 1 EL          Zitronensaft
-- 100g          Räucherlachs
-- 1             Lachsfilet
-- Salz & Pfeffer
+- 200g          Räucherlachs
 - ½             Spitzkohl
-- 1-2 Stangen   Sellerie
+- 2 Stangen     Sellerie
 - ½             Apfel
 - ½             rote Zwiebel
 - 1 Stängel     Dill
 - 3 EL          Olivenöl
 - 3 TL          Apfelessig
+- Salz & Pfeffer
 
 ## Zubereitung
 Mayonanaise, Creme Fraice, Meerrettich und Zitronensaft in einer Schüssel verrühren. Den Lachs in Würfel schneiden und unter die Masse heben, mit Salz und Pfeffer abschmecken.
