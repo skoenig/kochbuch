@@ -1,31 +1,23 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-04-26
+tags: ["lowcarb"]
+date: 2019-05-26
 ---
 
+![](../img/Garnelen-in-Petersiliensauce.jpg)
+
 ## Zutaten für 1 Portion
-- 24 Riesengarnelen(ohne Kopf,ca.750g)
+- 225g Garnelen Natur oder Provence
 - 3 Bund glatte Petersilie
 - 1 El Butter
 - 1 El Öl
 - 2-3 Knoblauchzehen
 - Salz
 - Cayennepfeffer
-- 1/4 l Kalbsfond
-- 1/8 l Schlagsahne
+- 1/8 l Schlagsahne oder Saure Sahne
 
 ## Zubereitung
-Riesengarnelen waschen und aus den Schalen lösen, Schwanzflossen dranlassen!  Garnelen den Rücken lang aufschlitzen und die Därme herauslösen.
+Wenn nötig, die Garnelen waschen, schälen und entdarmen. Schwanzflossen dranlassen!
 
-Petersilie fein hacken. Butter und Öl zusammen in einer großen Pfanne erhitzen. Knoblauch pellen und dazupressen. Riesengarnelen in die Pfanne geben und von jeder Seite etwa 1 bis 1 1/2 Minuten braten.  Mit Salz und Cayenne würzen, herausnehmen.
+Butter und Öl zusammen in einer großen Pfanne erhitzen. Knoblauch pellen und dazupressen. Garnelen in die Pfanne geben und von jeder Seite etwa 1 bis 1 1/2 Minuten braten. Mit Salz und Cayenne würzen.
 
-Kalbsfond und Sahne in die Pfanne geben.  Bei starker Hitze 7-10 Minuten cremig einkochen lassen.
-
-Riesengarnelen und Petersilie in die Sauce geben und darin erwärmen.
-Baguette passt gut dazu aber auch Schwarzbrot.
-
-## Nährwerte
-- kcal: 1324
-- EW:  132g
-- Fett: 76g
-- KH:    8g
+Petersilie fein hacken und zusammen mit der Sahne in die Pfanne geben. 7-10 Minuten cremig einkochen lassen.
