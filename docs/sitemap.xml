@@ -136,7 +136,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Thunfischsalat-mit-Tomate.html</loc>
+        <loc>/kochbuch/hauptgerichte/Fischfrikadellen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -351,7 +351,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Indisches-Curry.html</loc>
+        <loc>/kochbuch/hauptgerichte/Kaeseomlett-mit-Tomaten.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -601,7 +601,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Kaeseomlett-mit-Tomaten.html</loc>
+        <loc>/kochbuch/hauptgerichte/Indisches-Curry.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -712,11 +712,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Auberginen-alla-Parmagiana.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Thai-Fischfrikadellen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -916,17 +911,17 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/salate/Thunfischsalat-mit-Tomate.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/beilagen/Guacamole.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Bohnen-mit-Salsa-und-Avocado.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/beilagen/Thunfischfrikadellen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
