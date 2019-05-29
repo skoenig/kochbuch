@@ -3,8 +3,8 @@ tags: ["lowcarb", "highfat"]
 date: 2015-05-16
 ---
 
-## Zutaten
 ![](../img/blumenkohlreis.jpg)
+## Zutaten
 - Blumenkohl frisch (ca. 150 g für eine Portion)
 
 ## Zubereitung
