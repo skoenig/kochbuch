@@ -1,19 +1,24 @@
 ---
-tags: ["new", "lowcarb"]
-date: 2015-04-26
+tags: ["lowcarb"]
+date: 2019-05-31
 ---
 
-## Zutaten:
-- eine größere Paprikaschote
-- 1-2 Zwiebeln (je nach Größe)
+![](../img/Gefuellte-Paprika.jpg)
+
+## Zutaten für 2 Portionen
+- 1 größere Paprika
+- 2 Zwiebel
 - 1-2 Möhren (je nach Größe)
-- 150-200g Tartar
+- Tomatenmark
+- 200g Tartar
 - Salz & Pfeffer
 - fettarmer Tzatziki (evtl. selbstgemacht aus Magerquark)
-- Tomatenmark
 
 ## Zubereitung
-Gemüse putzen und schälen, die Paprika dabei in zwei Hälften schneiden, Inneres entfernen usw, damit schön viel Platz ist.
+Gemüse putzen und schälen, die Paprika dabei in zwei Hälften schneiden, Kerne  entfernen damit schön viel Platz ist.
 
-Möhren und Ziebeln kleinschneiden (würfeln) und bei mittlerer Hitze anschwitzen. Bei fast glasigen Zwiebeln das Tartar hinzu und scharf anbraten. Abschliessend ablöschen mit einem kräftigen Stoß Tomatenmark. Nachträglich salzen und pfeffern.
-Den ganzen Schwups in die beiden rohen Paprika-Hälften, einen Schlag Tzatziki drüber. Wer jetzt die Paprika etwas weich will, 1:30 bis 2:00 bei 800 Watt Mikrowelle. -> Hier würde sich alternativ auch Light-Käse zum Überbacken eignen.
+Möhren und Ziebel in kleine Würfel schneiden und bei mittlerer Hitze anschwitzen. Bei fast glasigen Zwiebeln das Tartar hinzu und scharf anbraten. Abschliessend mit einem kräftigen Stoß Tomatenmark ablöschen. Nachträglich salzen und pfeffern.
+
+Das Tartar dann in die Paprika-Hälften geben diese wieder in die Pfanne legen, Deckel drauf und bei geringer Hitze 5-10 Minuten garen, damit die Paprika etwas weicher wird.
+
+Zum Servieren den Tzatziki darauf geben.
