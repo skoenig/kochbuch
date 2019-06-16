@@ -20,7 +20,7 @@ date: 2017-07-08
 ## Zubereitung
 Backofen auf 250 ℃  vorheizen und ein Blech mit Backpapier auslegen.
 
-Die Aubergine in Scheiben schneiden und auf das Backblech legen. Mit Olivenöl bestreichen und Salz bestreuen. Das ganze 10 Minuten backen.
+Die Aubergine in Scheiben schneiden und auf das Backblech legen. Mit ein wenig Olivenöl bestreichen und mit Salz bestreuen. Das ganze 10 Minuten backen.
 
 Den Käse in Scheiben schneiden, auf die Auberginen legen und für ca. 5 Minuten mitbacken.
 
