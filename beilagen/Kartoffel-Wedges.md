@@ -21,4 +21,4 @@ für die Gewürzmischung:
 - Knoblauchsalz
 
 ## Zubereitung
-Kartoffeln waschen und in Rechtecke oder Spalten schneiden. Schale natürlich dranlassen (enthält die meisten Vitamine). Gewürzmischung anrühren und soviel Öl dazugeben, das sie die Viskosität von Pesto hat, vielleicht etwas flüssiger. Schön gleichmäßig über die Kartoffelspalten verteilen. Zu Schluß etwas Salz über die rohen Kartoffeln streuen und ab in den Ofen bei 240 °C Umluft ca. 30 Minuten bis sie schön knusprig sind.
+Kartoffeln waschen und in Rechtecke oder Spalten schneiden. Schale natürlich dranlassen (enthält die meisten Vitamine). Gewürzmischung anrühren und soviel Öl dazugeben, das sie die Viskosität von Pesto hat, vielleicht etwas flüssiger. Schön gleichmäßig über die Kartoffelspalten verteilen. Zu Schluß etwas Salz über die rohen Kartoffeln streuen und im Ofen bei 200 °C (Umluft 180 ℃ ) ca. 20-25 Minuten bis sie schön knusprig sind.
