@@ -111,11 +111,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/beilagen/Marinierter-Lachs.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/search.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -401,7 +396,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Low-Carb-Hotdogs.html</loc>
+        <loc>/kochbuch/beilagen/Marinierter-Lachs.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -942,11 +937,6 @@
     </url>
     <url>
         <loc>/kochbuch/snacks-und-shakes/Low-Carb-Nutella.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/snacks-und-shakes/Krabbencocktail.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>

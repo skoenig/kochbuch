@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "highfat", "new"]
+tags: ["lowcarb", "highfat"]
 date: 2019-05-07
 ---
 

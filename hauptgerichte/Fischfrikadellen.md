@@ -26,4 +26,4 @@ Für den Dip die Sahne mit 2 TL Currypaste verrühren.
 
 Dann Frikadellen aus der Masse formen und entweder 8 Minuten von jeder Seite in der Pfanne braten oder im Backofen bei 200 C ca. 20 Minuten backen.
 
-Die Frikadellen eignen sich sehr gut als Beilage zu [Blumenkohlreis](../beilagen/Blumenkohlreis.html) und [/salate/gurkensalat].
+Die Frikadellen eignen sich sehr gut als Beilage zu [/beilagen/Blumenkohlreis] und [/salate/gurkensalat].
