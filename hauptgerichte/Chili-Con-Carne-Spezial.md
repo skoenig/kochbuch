@@ -8,18 +8,18 @@ Das "Spezial" an dieser Chili Con Carne Variante ist das Kakaopulver bzw. die He
 ## Zutaten für 4 Portionen
 ![](../img/chili-con-carne-spezial.jpg)
 
-- 500 g     Hackfleisch gemischt
-- 2         Gemüsezwiebeln fein gehackt
+- 500 g     Hackfleisch
+- 2         mittelgroße Zwiebeln gewürfelt
 - 2         Knoblauchzehen gehackt
+- 4 EL      Tomatenmark
 - 1 Dose    geschälte Tomaten a 400 gramm
 - 1 Pkg     passierte Tomaten a 500 gramm
-- 4 EL      Tomatenmark
-- 4 Dosen   Kidney Bohnen a 255 gramm
+- 4 Dosen   Kidneybohnen a 255 gramm
 - 1 Dose    Kichererbsen a 265 gramm oder Mais a 150 gramm
 - 3         Chilischoten gehackt
-- 2 EL      Körnige Gemüsebrühe
 - 150 ml    Rotwein trocken
 - 2 EL      Kakaopulver oder Herrenschokolade
+- Paprika rosenscharf
 - 1 TL      Salz
 - 1 TL      Pfeffer aus der Mühle
 - 1 TL      Kreuzkümmel gemahlen
@@ -28,4 +28,4 @@ Das "Spezial" an dieser Chili Con Carne Variante ist das Kakaopulver bzw. die He
 
 ## Zubereitung
 Die Zwiebeln kleinschneiden und zusammen mit dem Hack in einem großen Topf anbraten. Die Bohnen und die Kichererbsen / Mais durch ein Sieb abtropfen lassen und mit in den Topf geben. Nach und nach die anderen Zutaten unterrühren.
-Das ganze jetzt noch 45 min auf kleiner Flamme köcheln lassen, damit alles schön duchziehen kann.
+Das Ganze jetzt noch mindestens 45 Minuten auf kleiner Flamme köcheln lassen, damit alles schön duchziehen kann.
