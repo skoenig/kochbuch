@@ -731,11 +731,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Cordon-Bleu.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Auberginen-a-la-Napoli.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
