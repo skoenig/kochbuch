@@ -236,7 +236,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Schichtkohl-mit-Hackfleisch.html</loc>
+        <loc>/kochbuch/beilagen/Lachsroellchen-mit-Frischkaese.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -252,11 +252,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Linsen-Tomaten-Teller.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Schokomuffins.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -416,7 +411,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Putenbrust-Tomaten-Auflauf.html</loc>
+        <loc>/kochbuch/hauptgerichte/Schichtkohl-mit-Hackfleisch.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -566,7 +561,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/beilagen/Lachsroellchen-mit-Frischkaese.html</loc>
+        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Schokomuffins.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
