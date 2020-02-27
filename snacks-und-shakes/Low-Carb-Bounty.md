@@ -1,6 +1,9 @@
 ---
-tags: ["lowcarb", "new", "highfat"]
+tags: ["lowcarb", "highfat"]
+date: 2020-02-27
 ---
+
+![](../img/Low-Carb-Bounty.jpg)
 
 ## Zutaten
 - 1 Dose    Kokosmilch (400 ml)
