@@ -341,7 +341,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Kaeseomlett-mit-Tomaten.html</loc>
+        <loc>/kochbuch/hauptgerichte/Indisches-Curry.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -591,12 +591,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Indisches-Curry.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Fischfilet-Auflauf.html</loc>
+        <loc>/kochbuch/hauptgerichte/Kaeseomlett-mit-Tomaten.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -772,11 +767,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Gemueseauflauf-mit-Feta-und-Schmand.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Backfisch.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
