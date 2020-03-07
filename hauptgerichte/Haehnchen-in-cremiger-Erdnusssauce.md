@@ -11,7 +11,7 @@ date: 2019-04-04
 - 200 ml    Kokosmilch
 - 200 g     Schlagsahne
 - ½         Limette
-- 2 EL      Tamari (glutenfreie Sojasauße)
+- 2 EL      Tamari (glutenfreie Sojasauce)
 - 4 EL      Erdnussbutter, cremig
 - 1         handvoll Erdnüsse
 - 1         Stängel Koriander
