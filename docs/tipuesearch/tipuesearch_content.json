@@ -223,6 +223,12 @@
             "url": "/kochbuch/hauptgerichte/Artischoken-Haehnchen-Pfanne.html"
         }, 
         {
+            "tags": "lowcarb", 
+            "text": "Zutaten für 2 Portionen 500g  Putenbrust 1     Zwiebel 2 TL  Currypaste 125 g Magerquark 2     Knoblauchzehen Pfeffer Gemüsebrühe Öl für die Pfanne Zubereitung Das Geflügel in kleine, dünne Stücke schneiden. Die Zwiebel pellen und kleinschneiden nge schneiden. Die Zwiebelwürfel zusammen mit dem Geflügel in einer Pfanne im Öl anbraten. Währenddessen Knoblauchzehen klein hacken und zusammen mit dem Magerquark, Curry, Pfeffer und den Brühwürfel zu einer Soße verarbeiten. Wenn das Geflügel durchgebraten ist, Herdplatte ausmachen und die Soße in die Pfanne geben und alles nochmal durchschwenken. Dazu passt ein Gurkensalat sehr gut.", 
+            "title": "Putenpfanne Indische Art", 
+            "url": "/kochbuch/hauptgerichte/Putenpfanne-Indische-Art.html"
+        }, 
+        {
             "tags": "lowcarb new", 
             "text": "Zutaten für 4 Personen 600 Gramm hähnchenbrustfilet 20 Holzspieße 2 EL Ketchup 2 EL Tamari (glutenfreie Sojasauce) 1 knoblauchzehe 1 EL Erdnussöl 1 EL Zitronensaft 2 TL frischer Ingwer 2 TL Kokosblütenzucker 1 großer Stängel Petersilie 1 großer Stängel frische Minze 1 große handvoll Rucolasalat 8 kleine Tomaten 1 halbe Gurke 1 rote Zwiebel 2 EL kaltgepresstes Olivenöl 2 EL frischer Zitronensaft Salz und Pfeffer Zubereitung Die Hähnchenfilets abspülen, trockentupfen, in Streifen schneiden und in eine Schüssel legen. Alle Zutaten für die Marinade verrühren und diese auf dem hähnchenfleisch verteilen. Einige Stunden im Kühlschrank ziehen lassen. Man kann die Marinade auch am Vorabend anrühren und das Hähnchenfleisch bis zum nächsten Tag ziehen lassen. Dann dringt der Geschmack noch tiefer rein. Für das Tabule die Kräuter und Rucola waschen, trockenschütteln und fein hacken. Tomate und Gurke waschen und klein würfeln. Die Zwiebel abziehen und fein hacken. Alles in einer Schüssel mit einem Dressing aus Olivenöl, Zitronensaft, Salz und Pfeffer vermischen. Den Backofen auf 200 Grad Celsius vorheizen. Ein Backblech mit Backpapier auslegen und die Hähnchenfilets auf die Spieße ziehen und auf das Backpapier legen. Im Backofen 20 bis 25 Minuten backen, bis sie durchgegart sind. Die Hähnchen Kebaps mit Tabule und Chilli servieren.", 
             "title": "Haehnchen Kebab mit Tabule", 
@@ -311,12 +317,6 @@
             "text": "Zutaten für 4 Personen 4     Lachsfilets 1     Zitrone (unbehandelt) Salz & Pfeffer Öl Zubereitung Den Backofen auf 180 ℃ vorheizen. Eine Auflaufform mit etwas Öl einfetten. Die Lachsfilets abspülen und trockentupfen, in die Form legen und mit Salz & Pfeffer würzen. Für 25 Minuten backen. Die Schale der Zitrone mit einer Küchenreibe abreiben. Die Lachsfilets zusammen mit Zucchini-Spaghetti und Petersilienpesto anrichten und mit dem Zitronenabrieb bestreuen.", 
             "title": "Gebackener Lachs", 
             "url": "/kochbuch/hauptgerichte/Gebackener-Lachs.html"
-        }, 
-        {
-            "tags": "new lowcarb", 
-            "text": "Zutaten 1kg   Putenbrust 2     Zwiebeln 1 EL  Rapsöl Currypulver 250 g Magerquark 10 ml Milch 1/2   Salatgurke 1     Tomate Knoblauch Pfeffer Gemüsebrühe Zubereitung Das Geflügel in kleine, dünne Stücke schneiden. Die erste Zwiebel in kleine Würfel, die zweite in Ringe schneiden. Die Zwiebelwürfel zusammen mit dem Geflügel in einer beschichteten Pfann mit dem Rapsöl bei geringer Hitze kross braten.\nWährend alles brät den Magerquark, die Milch, Knoblauch, Curry, Pfeffer und den Brühwürfel zu einer Sauß verarbeiten. Tomate und Gurke in Scheiben schneiden.\nDas inzwischen durchgebratene Geflügel zusammen mit dem kleingeschnittenen Gemüse auf einem Teller anrichten und mit der Sauße übergießen.", 
-            "title": "Indischer Doener", 
-            "url": "/kochbuch/hauptgerichte/Indischer-Doener.html"
         }, 
         {
             "tags": "lowcarb highfat new", 
@@ -470,7 +470,7 @@
         }, 
         {
             "tags": "", 
-            "text": "Eiergratin mit Garnelen 27-Feb-2020", 
+            "text": "Putenpfanne Indische Art 07-Mar-2020", 
             "title": "Hauptgerichte", 
             "url": "/kochbuch/hauptgerichte/index.html"
         }, 

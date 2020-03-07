@@ -651,6 +651,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Putenpfanne-Indische-Art.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/snacks-und-shakes/Gruner-Ballaststoff-Smoothie.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -747,11 +752,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Garnelen-mit-Frischkaese.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Indischer-Doener.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
