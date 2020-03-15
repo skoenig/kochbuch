@@ -216,7 +216,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Chicoree-Pasta.html</loc>
+        <loc>/kochbuch/salate/Eiersalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -286,6 +286,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Blumenkohlpizza.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/beilagen/Gemuese-Fladenbrot.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -297,11 +302,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Spinat-Blumenkohl-Curry.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/salate/Eiersalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -327,6 +327,11 @@
     </url>
     <url>
         <loc>/kochbuch/salate/Salade-Verte.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/beilagen/Tomatensugo.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -486,7 +491,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Thunfisch-Calamari-Auflauf.html</loc>
+        <loc>/kochbuch/hauptgerichte/Chicoree-Pasta.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -986,11 +991,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Teutonenpfanne.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/salate/Gurkensalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -1001,7 +1001,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Blumenkohlpizza.html</loc>
+        <loc>/kochbuch/hauptgerichte/Teutonenpfanne.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>

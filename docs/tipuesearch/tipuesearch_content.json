@@ -211,12 +211,6 @@
             "url": "/kochbuch/hauptgerichte/Auberginen-alla-Parmagiana.html"
         }, 
         {
-            "tags": "new lowcarb", 
-            "text": "Zutaten 2 dosen thunfisch (in wasser) 300 g calamari tuben (TK) 1 dose (500g) sugo (aldi/hofer - die grossen glasdosen mit oliven oder knoblauch) 2 packungen mozarella light 1 löffel olivenöl chilli, oregano, salz usw Zubereitung Thunfisch abtropfen, in einer pfanne mit dem öl und den geschnittenen calamari geben, paar min dünsten, sugo dazu geben und bei kleiner hitze 20 min dünsten, dann deckel weg und reduzieren sodass das ganze dicker wird. Mit salz, pfeffer, chilli, oregano und evtl bissl süssstoff würzen. Wenns so teigkonsistenz hat, in eine auflaufform geben, mit mozarella scheiben belegen und bei 200 grad backen bis der käse goldbraun wird.\nErgibt 3-4 portionen. Nährwerte pro Portion kcal: 460 EW:   51g KH:    7g Fett: 25g", 
-            "title": "Thunfisch Calamari Auflauf", 
-            "url": "/kochbuch/hauptgerichte/Thunfisch-Calamari-Auflauf.html"
-        }, 
-        {
             "tags": "lowcarb paleo", 
             "text": "Zutaten 500g  eingelegte Artischocken 400g  Hänchenfleisch 1     kleine Zwiebel 2     Chilischoten 2     Knoblauchzehen evtl. Sojasauce Schnittlauch etwas Kokosöl zum Braten Zubereitung Artischocken aus der Dose holen (ohne Wasser) und klein schneiden Zwiebel klein schneiden und mit den Artischocken vermischen Beides zusammen etwas ziehen lassen, damit sich die Aromen entfallten Fleisch grillen (sofern Kontaktgrill vorhangen) bzw. in der Pfanne anbraten Wenn das Fleisch halbwegs durch ist geben wir die Artischocken dazu Das ganze wird gewürzt mit etwas Knoblauch, Chili, Worcester Sauce und/oder Soja Alles zusammen nochmal durchbraten und zum Schluss noch mit etwas Schnittlauch beträufeln Als Beilage bietet sich z.b. Blumenkohlreis an. Nährwerte kcal:     741 KH:        15g Fett:      30g EW:        95g", 
             "title": "Artischoken Haehnchen Pfanne", 
@@ -679,6 +673,12 @@
             "url": "/kochbuch/beilagen/Zucchini-Spaghetti.html"
         }, 
         {
+            "tags": "veggie", 
+            "text": "Einfaches Grundrezept für die Tomatensoße. Zutaten für 2 Portionen 2 Dosen gehackte Tomaten ⅛ Tube Tomatenmark 1 Zwiebel 2 Knoblauchzehen 4 EL Olivenöl 1 Bündel Basilikum 2 TL Oregano 1 TL Zucker 2 TL Salz optional: Petersilie und Pfeffer Zubereitung Knoblauch und Zwiebel schälen, würfeln und im Olivenöl in einem Topf glasig andünsten. Gehackte Tomaten hinzugeben und bei geschlossenem Deckel 10 Minuten köcheln lassen. Mit Salz, Tomatenmark und den anderen Gewürzen abschmecken und 2 Stunden köcheln lassen. Die Garzeit kann bis zu 7 Stunden ausgedehnt werden.", 
+            "title": "Tomatensugo", 
+            "url": "/kochbuch/beilagen/Tomatensugo.html"
+        }, 
+        {
             "tags": "lowcarb", 
             "text": "Zutaten 250 g  Kichererbsen, getrocknete oder aus dem Glas 2 Zehe/n       Knoblauch oder Knoblauchpaste 1 Prise        Kreuzkümmel 1 TL   Paprikapulver, süßer 1 Bund         Petersilie 5 EL   Olivenöl Salz 4 EL   Sesampaste (Tahin) 1/2    Zitrone Zubereitung Die Kichererbsen 12 Stunden einweichen - kann man sich bei den Kichererbsen aus dem Glas sparen. Etwa 1 Stunde weich kochen, Wasser abgießen und beiseite stellen.\nAlle Zutaten von Kichererbsen bis Salz im Mixer pürieren oder mit dem Pürierstab zerkleinern. Es muss eine geschmeidige Masse entstehen. Falls die Masse zu trocken ist, etwas vom Kochwasser hinzufügen. Am Schluss Tahin und Zitronensaft unterrühren. Die Masse in den Kühlschrank stellen. Alternative Zubereitung - ausprobiert von dima http://www.chefkoch.de/rezepte/1445571249478297/Hummus-Israeli.html Hauptunterschied: mehr wasser und oel.", 
             "title": "Humus", 
@@ -740,7 +740,7 @@
         }, 
         {
             "tags": "", 
-            "text": "Lachsroellchen mit Frischkaese 16-Apr-2019", 
+            "text": "Tomatensugo 12-Mar-2020", 
             "title": "Beilagen", 
             "url": "/kochbuch/beilagen/index.html"
         }, 
