@@ -296,6 +296,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Karibische-Linsensuppe-mit-Chinakohl.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/snacks-und-shakes/Schokoladenmousse.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -967,6 +972,11 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Omlett-mit-Tomate-und-Basilikum.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/Chinakohl-Hackpfanne.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
