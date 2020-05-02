@@ -286,11 +286,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Blumenkohlpizza.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/beilagen/Gemuese-Fladenbrot.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -527,6 +522,11 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Eiweissreiche-Brunch-Pfannkuchen.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/Kokos-Porridge.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -1001,6 +1001,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Teutonenpfanne.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/salate/Gurkensalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -1011,7 +1016,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Teutonenpfanne.html</loc>
+        <loc>/kochbuch/hauptgerichte/Blumenkohlpizza.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>

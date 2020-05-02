@@ -133,6 +133,12 @@
             "url": "/kochbuch/hauptgerichte/Huehnergeschnetzeltes.html"
         }, 
         {
+            "tags": "breakfast", 
+            "text": "Zutaten 30g          (1 handvoll) Nüsse 200 ml       Kokosmilch 100 g        zarte Haferflocken 2 EL         Leinsamen 1 EL         Kakaopulver 2 EL         Kokosflocken 1 handvoll   Himbeeren Zubereitung Für das Kokos-Porridge röstest du zunächst die Nüsse bei mittlerer Temparatur in einem kleinen Topf etwas an. Danach fügst du nach und nach die anderen Zutaten hinzu. Nach belieben kann das Porridge mit Kardamom oder Vanillepulver abgeschmeckt werden.", 
+            "title": "Kokos Porridge", 
+            "url": "/kochbuch/hauptgerichte/Kokos-Porridge.html"
+        }, 
+        {
             "tags": "lowcarb breakfast", 
             "text": "Zutaten 3 Eier 1 TL Olivenöl 1 TL Essig 1/4 rote Zwiebel 3-4 Cherry Tomaten Salatblätter Zubereitung Die Eier kochen (nicht zu hart), währenddessen den Salat waschen und schneiden. Die Zwiebel würfeln, die Tomaten kleinschneiden und zum Salat geben, mit Öl, Essig, Salz und Peffer abschmeken, dann die Eier in Scheiben schneiden und dazugeben.", 
             "title": "Eier mit Salat", 
@@ -464,7 +470,7 @@
         }, 
         {
             "tags": "", 
-            "text": "Haehnchen Kebab mit Tabule 02-May-2020", 
+            "text": "Kokos Porridge 02-May-2020", 
             "title": "Hauptgerichte", 
             "url": "/kochbuch/hauptgerichte/index.html"
         }, 
