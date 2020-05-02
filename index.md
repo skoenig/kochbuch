@@ -1,7 +1,7 @@
 ---
 title: Kochbuch
 layout: page_nobreadcrumbs
-abstract: "hier sind ein paar leckere Sachen für die speckigen Backentaschen"
+abstract: "Simple Rezepte für Leute, die sich gesund, aber einfach und lecker ernähren wollen."
 content:
     - hauptgerichte
     - snacks-und-shakes
@@ -13,20 +13,6 @@ content:
 
 ![](img/food.jpg)
 
-*"hier*
+Diese Seite ist eine Sammlung von simplen Rezepten für Menschen, die sich gesund, aber trotzdem einfach und lecker ernähren wollen.
 
-*sind ein*
-
-*paar leckere Sachen*
-
-*für die speckigen Backentaschen"*
-
-[hauptgerichte]
-
-[salate]
-
-[snacks-und-shakes]
-
-[beilagen]
-
-
+Die Rezepte sind entsprechend kategorisiert, wenn sie bestimmten Ernährungsweisen wie z.B. Low Carb (["lowcarb"](tag/lowcarb/)), High Fat (["highfat"](tag/highfat/)), Paleo (["paleo"](tag/paleo/)) entsprechen oder z.B. Breakfast (["breakfast"](tag/breakfast/)), wenn sie relativ schnell zubereitet sind. Alle Kategorien findest du [hier](tag/).
