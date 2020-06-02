@@ -1,5 +1,6 @@
 ---
 tags: ["lowcarb", "new", "highfat"]
+date: 2020-05-02
 ---
 
 ## Zutaten für 6 kleine Gläser
