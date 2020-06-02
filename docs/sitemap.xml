@@ -471,7 +471,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Rote-Linsen-Salat-mit-Tomaten.html</loc>
+        <loc>/kochbuch/hauptgerichte/Pak-Choi-mit-Cashewkernen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -567,6 +567,11 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Protein-Pfannkuchen-mit-Frischkaese.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/salate/Rote-Linsen-Salat-mit-Tomaten.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>

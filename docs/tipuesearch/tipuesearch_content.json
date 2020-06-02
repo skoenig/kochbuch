@@ -319,6 +319,12 @@
             "url": "/kochbuch/hauptgerichte/Knoblauch-Haehnchen.html"
         }, 
         {
+            "tags": "lowcarb", 
+            "text": "Zutaten für 2 Portionen 400g  Pak Choi 1     Zwiebel 1 EL  Sesamöl 250ml Wasser 3 EL  Sojasauce 1 EL  Pilzsauce 100 g  Cashewkerne, ungesalzen ½Bund frischer Koriander 1 EL  Sesam Zubereitung Den Pak Choi waschen und das untere, helle Stück in kleine Stücke schneiden, die Blätter teilen. Die Zwiebel in kleine Würfel schneiden. Zwiebelwürfel und helle Pak Choi Anteiel mit etwas Öl bei mittlerer Hitze im Wok anbraten. Nach wenigen Minuten die Pak Choi Blätter hinzugeben. Nach ca. 10 Minuten mit Wasser, Sojasauce und Pilzsauße ablöschen und weitere 10 Minuten bei geringer Hitze köcheln lassen. Inzwischen die Cashewkerne in einer Pfanne ohne Fett kurz rösten und dann alles zusammen mit dem gehackten Koriander und Sesam servieren. Dazu passt Blumenkohlreis sehr gut.", 
+            "title": "Pak Choi mit Cashewkernen", 
+            "url": "/kochbuch/hauptgerichte/Pak-Choi-mit-Cashewkernen.html"
+        }, 
+        {
             "tags": "lowcarb highfat", 
             "text": "Zutaten für 4 Personen 4     Lachsfilets 1     Zitrone (unbehandelt) Salz & Pfeffer Öl Zubereitung Den Backofen auf 180 ℃ vorheizen. Eine Auflaufform mit etwas Öl einfetten. Die Lachsfilets abspülen und trockentupfen, in die Form legen und mit Salz & Pfeffer würzen. Für 25 Minuten backen. Die Schale der Zitrone mit einer Küchenreibe abreiben. Die Lachsfilets zusammen mit Zucchini-Spaghetti und Petersilienpesto anrichten und mit dem Zitronenabrieb bestreuen.", 
             "title": "Gebackener Lachs", 
@@ -476,7 +482,7 @@
         }, 
         {
             "tags": "", 
-            "text": "Schweinehack mit gebratenem Reis 20-May-2020", 
+            "text": "Pak Choi mit Cashewkernen 31-May-2020", 
             "title": "Hauptgerichte", 
             "url": "/kochbuch/hauptgerichte/index.html"
         }, 
