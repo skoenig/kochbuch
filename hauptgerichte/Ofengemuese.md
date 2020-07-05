@@ -3,7 +3,7 @@ tags: ["veggie"]
 date: 2020-06-24
 ---
 
-![](/img/Ofengemuese-1.jpg)
+![](../img/Ofengemuese-1.jpg)
 
 ## Zutaten
 So ziemlich alle möglichen Gemüsesorten eignen sich. Obligatorisch sind neben dem Gemüse eigentlich nur Öl, Salz & Pfeffer.
