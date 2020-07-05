@@ -221,7 +221,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Scharfe-Thaisuppe.html</loc>
+        <loc>/kochbuch/hauptgerichte/Fischauflauf-mit-Spinat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -891,6 +891,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Ofengemuese.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/hauptgerichte/Mexican-Breakfast.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -931,7 +936,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Fischauflauf-mit-Spinat.html</loc>
+        <loc>/kochbuch/hauptgerichte/Scharfe-Thaisuppe.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
