@@ -33,4 +33,8 @@ Die Garzeiten in einem auf ~200℃ vorgeheizten Ofen sind wie folgt:
     - Paprika
     - Tomaten
 
+Als Extra kann 200 g Feta abgegossen, trockengetupft und über das Blech gebröselt werden.
+
 Ofengemüse kann zu Fleisch- oder Geflügel serviert werden oder zusammen mit einem frischen Salat aus einer halben Gurke, einer halben Avocado, einer handvoll Tomaten, Zitronensaft oder Balsamico und etwas Basilikum oder Petersilie als Hauptgericht gereicht werden.
+
+
