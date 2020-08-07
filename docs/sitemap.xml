@@ -6,6 +6,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/tag/paleo/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/hauptgerichte/Haehnchen-Kebab-mit-Tabule.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -376,7 +381,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/tag/paleo/</loc>
+        <loc>/kochbuch/hauptgerichte/Crispy-Coconut-Chicken.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -946,7 +951,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Crispy-Coconut-Chicken.html</loc>
+        <loc>/kochbuch/hauptgerichte/Shakshuka.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
