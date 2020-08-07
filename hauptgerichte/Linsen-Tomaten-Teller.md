@@ -1,5 +1,5 @@
 ---
-tags: ["breakfast"]
+tags: ["simple"]
 date: 2013-01-10
 ---
 

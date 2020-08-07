@@ -20,13 +20,13 @@
         }, 
         {
             "tags": "", 
-            "text": "Diese Seite ist eine Sammlung von simplen Rezepten für Menschen, die sich gesund, aber trotzdem einfach und lecker ernähren wollen. Die Rezepte sind entsprechend kategorisiert, wenn sie bestimmten Ernährungsweisen wie z.B. Low Carb ( \"lowcarb\" ), High Fat ( \"highfat\" ), Paleo ( \"paleo\" ) entsprechen oder z.B. Breakfast ( \"breakfast\" ), wenn sie relativ schnell zubereitet sind. Alle Kategorien findest du hier .", 
+            "text": "Diese Seite ist eine Sammlung von simplen Rezepten für Menschen, die sich gesund, aber trotzdem einfach und lecker ernähren wollen. Die Rezepte sind entsprechend kategorisiert, wenn sie bestimmten Ernährungsweisen wie z.B. \"lowcarb\" , \"highfat\" , \"paleo\" entsprechen oder \"simple\" , wenn sie relativ schnell und einfach zubereitet sind. Alle Kategorien findest du hier .", 
             "title": "Kochbuch", 
             "url": "/kochbuch/index.html"
         }, 
         {
             "tags": "", 
-            "text": "lowcarb highfat veggie breakfast new paleo vegan slowcarb favourites", 
+            "text": "lowcarb highfat veggie simple new paleo vegan slowcarb favourites", 
             "title": "Kategorien", 
             "url": "/kochbuch/tag/index.html"
         }, 
@@ -55,7 +55,7 @@
             "url": "/kochbuch/hauptgerichte/Lachs-mit-Fetahaube.html"
         }, 
         {
-            "tags": "lowcarb highfat breakfast", 
+            "tags": "lowcarb highfat simple", 
             "text": "Zutaten 3     Eier 1 EL  Sahne 2     Tomaten 10    Basilikumblätter Butter oder Kokosöl zum Braten Salz & Pfeffer Zubereitung Eier und Sahne in einer Schale verrühren und mit Salz und Pfeffer würzen. Tomaten und Basilikum waschen, in kleine Stücke hacken und vermischen.\nButter oder Kokosöl in einer Pfanne bei mittlerer Temperatur erhitzen und die Eiermasse hineingeben. Die Ränder des Omletts hin und wieder mit einem Bratenwender vom Pfannenrand lösen. Wenn die Mitte des Omletts anfängt sich zuverfestigen, die Tomaten auf eine Hälfte geben und das Omlett zusammenklappen. Dann von beiden Seiten fertig braten.", 
             "title": "Omlett mit Tomate und Basilikum", 
             "url": "/kochbuch/hauptgerichte/Omlett-mit-Tomate-und-Basilikum.html"
@@ -115,7 +115,7 @@
             "url": "/kochbuch/hauptgerichte/Gebackene-Aubergine.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten 2 Eiklar, 1 Vollei 2 Handvoll TK-Spinat 1 Dose schwarze Bohnen Salz & Pfeffer Zubereitung Den Spinat in der Mikrowelle erhitzen, die Bohnen in einer Pfanne anbraten, währenddessen die Eier trennen. Die Eier mit Salz und Pfeffer würzen und zu den Bohnen in die Pfanne geben. Mittlerweile sollte der Spinat fertig sein, das Ganze auf einem Teller anrichten.", 
             "title": "Spinat mit Bohnen und Ei", 
             "url": "/kochbuch/hauptgerichte/Spinat-mit-Bohnen-und-Ei.html"
@@ -133,13 +133,13 @@
             "url": "/kochbuch/hauptgerichte/Huehnergeschnetzeltes.html"
         }, 
         {
-            "tags": "breakfast", 
+            "tags": "simple", 
             "text": "Zutaten 30g          (1 handvoll) Nüsse 200 ml       Kokosmilch 100 g        zarte Haferflocken 2 EL         Leinsamen 1 EL         Kakaopulver 2 EL         Kokosflocken 1 handvoll   Himbeeren Zubereitung Für das Kokos-Porridge röstest du zunächst die Nüsse bei mittlerer Temparatur in einem kleinen Topf etwas an. Danach fügst du nach und nach die anderen Zutaten hinzu. Nach belieben kann das Porridge mit Kardamom oder Vanillepulver abgeschmeckt werden.", 
             "title": "Kokos Porridge", 
             "url": "/kochbuch/hauptgerichte/Kokos-Porridge.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten 3 Eier 1 TL Olivenöl 1 TL Essig 1/4 rote Zwiebel 3-4 Cherry Tomaten Salatblätter Zubereitung Die Eier kochen (nicht zu hart), währenddessen den Salat waschen und schneiden. Die Zwiebel würfeln, die Tomaten kleinschneiden und zum Salat geben, mit Öl, Essig, Salz und Peffer abschmeken, dann die Eier in Scheiben schneiden und dazugeben.", 
             "title": "Eier mit Salat", 
             "url": "/kochbuch/hauptgerichte/Eier-mit-Salat.html"
@@ -247,7 +247,7 @@
             "url": "/kochbuch/hauptgerichte/Berliner-Allee-Fisch-Tomaten-Auflauf.html"
         }, 
         {
-            "tags": "breakfast", 
+            "tags": "simple", 
             "text": "Zutaten 1 Dose grüne Linsen (400g) 3-4 Cherrytomaten oder 1 Fleischtomate Apfelessig TK Kräuter Zubereitung Die Dose Linsen auf in einen tiefen Teller geben, reichlich TK Kräuter dazugeben und für 1-2 min. bei 600 Watt in die Microwelle, währenddessen die Tomaten kleinschneiden (Cherrytomaten vierteln). Die Tomaten auf den erwärmten Teller mit Linsen geben und etwas Apfelessig dazugeben.", 
             "title": "Linsen Tomaten Teller", 
             "url": "/kochbuch/hauptgerichte/Linsen-Tomaten-Teller.html"
@@ -265,7 +265,7 @@
             "url": "/kochbuch/hauptgerichte/Crispy-Coconut-Chicken.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten 2 EL Olivenöl 2 Knoblauchzehen 1 Zwiebel 1 Chilischote Koriander Kreuzkümmel 200g Schinkenwürfel 1 Dose geschälte Tomaten 2 Dosen Bohnen (insgesamt ca. 500 g) Zitronensaft TK Kräuter Salz & Pfeffer Zubreitung Olivenöl in einem Topf langsam erhitzen. 2 Knoblauchzehen, 1 Zwiebel und 1 Chilischote klein schneiden und würfeln und in den Topf geben. Je 1 TL Koriandersamen und Kreuzkümmel in einem Mörser bearbeiten und zu den anderen Zutaten geben. Die Schinkenwürfel ebenfalls in den Topf geben.\nDie Zutaten auf mittlere Hitze vorsichtig für ca. 5 Minuten anschwitzen. Die Dose geschälte Tomaten und Bohnen hinzugeben. Das Ganze nochmal für 10 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken. Vielleicht noch ein wenig Tabasco hinzugeben, mit einem Spritzer Zitrone ergänzen und nach Belieben noch mit frischen Kräutern abrunden. Dazu passen natürlich hervorragend Eier!", 
             "title": "Bohnen mit Schinken und Tomaten", 
             "url": "/kochbuch/hauptgerichte/Bohnen-mit-Schinken-und-Tomaten.html"
@@ -385,7 +385,7 @@
             "url": "/kochbuch/hauptgerichte/Gemueseauflauf-mit-Mozarella.html"
         }, 
         {
-            "tags": "slowcarb breakfast", 
+            "tags": "slowcarb simple", 
             "text": "Zutaten 1 Dose schwarze Bohnen 1/4 Avocado Tomatensalsa Zubereitung Die Bohnen abgießen und zusammen mit der Salsa auf einem Teller anrichten. Das Ganze mit den Bohnen in der Mikrowelle erhitzen, währenddessen die Avocado in Scheiben schneiden und anschließend auf den Bohnen anrichten.", 
             "title": "Bohnen mit Salsa und Avocado", 
             "url": "/kochbuch/hauptgerichte/Bohnen-mit-Salsa-und-Avocado.html"
@@ -421,7 +421,7 @@
             "url": "/kochbuch/hauptgerichte/Putenpfanne-mit-Zucchini-und-Pilzen.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten 1/2 Zwiebel 1 Dose Chili-Bohnen oder ein halbes Glas Dicke Bohnen Speckwürfel oder Bacon-Streifen Zubereitung Die Zwiebel in Halbringe schneiden und zusammen mit den Speckwürfeln in einer Pfanne anbraten, bis die Zwiebeln glasig sind. Dann die Bohnen dazugeben und kurz durchbraten.", 
             "title": "Bohnen mit Speck", 
             "url": "/kochbuch/hauptgerichte/Bohnen-mit-Speck.html"
@@ -451,7 +451,7 @@
             "url": "/kochbuch/hauptgerichte/Gefluegelsalat.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten 2 Eier 2 Scheiben Käse Tomatensalsa Zubereitung Etwas Fett in einer Pfanne bei mittlerer Hitze zum Schmelzen bringen, die Eier darin zerschlagen und etwas stocken lassen. Den Käse auf die Spiegeleier legen bzw. streuen und schmelzen lassen.\nDie Eier zusammen mit der Tomatensalsa servieren.", 
             "title": "Spiegelei mit Kaese und Tomatensalsa", 
             "url": "/kochbuch/hauptgerichte/Spiegelei-mit-Kaese-und-Tomatensalsa.html"
@@ -463,7 +463,7 @@
             "url": "/kochbuch/hauptgerichte/Chili-Con-Carne-Spezial.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten 3 Eiklar, 1 Vollei 1/2 Packung mexikanisches TK Mischgemüse 1 Dose schwarze Bohnen Zubereitung Die Eier Trennen und das Eiweiß in einer Pfanne anbraten, das Mischgemüse und die Bohnen in der Mikrowelle erhitzen und danach kurz zum Eiweiß in die Pfanne geben.", 
             "title": "Mexican Breakfast", 
             "url": "/kochbuch/hauptgerichte/Mexican-Breakfast.html"
@@ -523,7 +523,7 @@
             "url": "/kochbuch/hauptgerichte/Teutonenpfanne.html"
         }, 
         {
-            "tags": "breakfast lowcarb", 
+            "tags": "simple lowcarb", 
             "text": "Zutaten 2     Vollei 3     Eigelb 100g  Kochschinken ½     Zwiebel 2     große Champignons 50ml  Milch oder Sahne Salz & Pfeffer Fett für die Pfanne Zubereitung Eiklar und Eigelb mit der Milch vermischen und mit Salz und Pfeffer würzen.\nDie Zwiebel schälen und in Würfel schneiden, Pilze putzen und ebenfalls in Würfel schneiden. Beides mit dem Fett (am besten Butter oder Ghee) in einer Pfanne bei mittlerer Temperatur anbraten. Den Schinken in kleine Streifen schneiden und ebenfalls in die Pfanne geben, evtl. Hitze erhöhen.\nAlles ca. 10 Minuten braten bis der gewünschte Bräunungsgrad erreicht ist. Das Ei mit in die Pfanne geben und die Hitze reduzieren, alles kurz durchschwenken und aus der Pfanne nehmen, bevor es zu trocken ist.", 
             "title": "Ruehrei mit Schinken und Champignons", 
             "url": "/kochbuch/hauptgerichte/Ruehrei-mit-Schinken-und-Champignons.html"
@@ -535,7 +535,7 @@
             "url": "/kochbuch/hauptgerichte/Griechische-Frikadellen-mit-Gemuese.html"
         }, 
         {
-            "tags": "breakfast", 
+            "tags": "simple", 
             "text": "Zutaten für 2 Portionen 3     Paprika; z.B. rot, gelb und grün 1/2   Zwiebel 4     Würstchen 1 Dose gehackte Tomaten 1 EL  Öl Paprikapulver, Kräuter nach Belieben, Salz & Pfeffer Zubereitung Paprika in Streifen schneiden. Zwiebel fein würfeln. Würstchen in Scheiben schneiden. Öl in einer beschichteten Pfanne erhitzen. Wurst darin goldbraun braten. Zwiebel und Paprika zugeben, andünsten. Gehackte Tomaten dazugeben, alles aufkochen und ca. 5 Minuten köcheln lassen. Mit den Gewürzen abschmecken.", 
             "title": "Zigeuner Wurstpfanne", 
             "url": "/kochbuch/hauptgerichte/Zigeuner-Wurstpfanne.html"
@@ -913,7 +913,7 @@
             "url": "/kochbuch/snacks-und-shakes/Quarkkuchen-I.html"
         }, 
         {
-            "tags": "lowcarb highfat breakfast", 
+            "tags": "lowcarb highfat simple", 
             "text": "Zutaten 200 g         gemischte Nüsse (z.b. Clarky's feinste Nussvariationen ) 100 g         Mandeln, gestiftet 100 g         Mandeln, blanchiert 30 g          Kokosraspel 2 EL (28g)    Leinsamen 50 g          Sonnenblumenkerne 2 EL          Kokosblütenzucker Zubereitung Backofen auf 100 ℃ vorheizen, Nüsse grob hacken und alle Zutaten bis Sonnenblumenkerne auf einem Backblech mit Backpapier ausbreiten. Das Müsli ca 30 Minuten backen, ab und zu umrühren. Dann den Kokosblütenzucker, Vanillepulver und Zimt hinzufügen und in ein Einweckglas füllen. Dazu passen gut griechischer Jogurt und Waldbeeren.", 
             "title": "Nussmuesli", 
             "url": "/kochbuch/snacks-und-shakes/Nussmuesli.html"
@@ -943,7 +943,7 @@
             "url": "/kochbuch/snacks-und-shakes/Gruner-Ballaststoff-Smoothie.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten 3         Eiklar 40 g      Eiweißpulver 250 g     Speisequark 20% Fett etwas Süßstoff Zubereitung Backofen auf 170 Grad vorheizen und ein Blech mit Backpapier auslegen. Alle Zutaten zusammenmischen, gut verrühren in 9 Klecksen auf dem Backpapier verteilen.\nDas ganze dann für ca. 20 Minuten im Ofen backen lassen.", 
             "title": "Proteinkekse", 
             "url": "/kochbuch/snacks-und-shakes/Proteinkekse.html"
@@ -955,7 +955,7 @@
             "url": "/kochbuch/snacks-und-shakes/Gruener-Eistee.html"
         }, 
         {
-            "tags": "lowcarb highfat breakfast", 
+            "tags": "lowcarb highfat simple", 
             "text": "Zutaten für 2 Portionen 4     Eier hart gekocht 2     EL Mayonnaise 4     EL Thunfisch in eigenem Saft Salz & Pfeffer Zubereitung Die Eier 7 Minuten kochen, abschrecken, pellen und längs aufschneiden. Das Eigelb vorsichtig herauslösen und mit der Mayonnaise und dem Thunfisch vermischen und mit Salz und Pfeffer abschmecken. Es können auch noch Kräuter untergemischt werden.\nDann die Masse wieder in die Eihälften als Füllung geben.\nDie Fette aus dem Thunfisch schaffen ein ideales Gegengewicht zu den Fetten aus dem Ei.", 
             "title": "Teufelseier mit Thunfischfuellung", 
             "url": "/kochbuch/snacks-und-shakes/Teufelseier-mit-Thunfischfuellung.html"
@@ -979,7 +979,7 @@
             "url": "/kochbuch/snacks-und-shakes/Apfelkuchen.html"
         }, 
         {
-            "tags": "lowcarb highfat breakfast", 
+            "tags": "lowcarb highfat simple", 
             "text": "Zutaten 75 g      gefrorene Erdbeeren 75 g      gefrorene Himbeeren 150 ml    Kokosmilch oder Sahne 1         Ei 1 TL      Kokosblütenzucker ¼ TL      Vanillepulver ½         Zitrone Minze, Petersilie oder Basilikum ~ 10 Blätter Zubereitung Die Zitronenschale abreiben, die Kräuterblätter waschen und trockenschütteln. Alles mit einem Pürierstab oder in einem Mixer pürieren. Zum Servieren in ein Glas gießen.", 
             "title": "Beerensmoothie", 
             "url": "/kochbuch/snacks-und-shakes/Beerensmoothie.html"
@@ -1051,7 +1051,7 @@
             "url": "/kochbuch/snacks-und-shakes/Quark-Tiramisu.html"
         }, 
         {
-            "tags": "lowcarb breakfast", 
+            "tags": "lowcarb simple", 
             "text": "Zutaten Brokkoli Schinken oder Speckwürfel Frühlingszwiebeln Käse gerieben 1 Becher  Joghurt 1 Becher  Saure Sahne 1 EL      Essig etwas     Süßstoff evtl. Kräuter Salz & Pfeffer Zubereitung Den Brokkoli in waschen, schniden und kurz in Salzwasser garen und abrtopfen lassen.\nJogurt, Sahne, Essig, Süßstoff und die Kräuter zu einer Marinade verrühren.\nSchinken- oder Speckwürfel in einer Pfanne rösten. Frühlingszwiebeln waschen, in Ringe schneiden und dazugeben. Den Brokkoli untermischen und nach 1-2 Minuten vom Herd nehmen und etwas Käse drüber reiben.\nDie gewünschte Menge Marinade über dem Brokkolisalat verteilen und servieren.", 
             "title": "Brokkolisalat", 
             "url": "/kochbuch/salate/Brokkolisalat.html"
@@ -1081,7 +1081,7 @@
             "url": "/kochbuch/salate/Sauerkraut-Rote-Beete-Salat.html"
         }, 
         {
-            "tags": "lowcarb highfat breakfast", 
+            "tags": "lowcarb highfat simple", 
             "text": "Zutaten für 2 Portionen 200 g Bacon 50 g  Rucola 2     Tomaten 1     rote Zwiebel 1     Avocado 60 g  Walnüsse 2 EL  Zitronensaft Zubereitung Den Bacon auf einem mit Backpapier ausgelegtem Blech ausbreiten und für 10 Minuten bei 190 Grad in den Ofen schieben.\nWährenddessen den Rucola und die Tomaten waschen und die Tomaten achteln. Die Zwiebel häuten und in kleine Würfel schneiden. Die Avocado aufschneiden und entkernen, das Fruchtfleich in längliche Streifen schneiden. Die Walnusskerne zerdrücken oder kleinhacken und zusammen mit dem Bacon unter die restlichen Zutaten mischen.\nDen Zitronensaft darüber geben und servieren.", 
             "title": "Avocadosalat mit Bacon und Walnuessen", 
             "url": "/kochbuch/salate/Avocadosalat-mit-Bacon-und-Walnuessen.html"
@@ -1185,8 +1185,8 @@
         {
             "tags": "", 
             "text": "", 
-            "title": "breakfast", 
-            "url": "/kochbuch/tag/breakfast/"
+            "title": "simple", 
+            "url": "/kochbuch/tag/simple/"
         }, 
         {
             "tags": "", 

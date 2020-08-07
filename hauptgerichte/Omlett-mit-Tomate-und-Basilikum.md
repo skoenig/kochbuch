@@ -1,5 +1,5 @@
 ---
-tags: ["lowcarb", "highfat", "breakfast"]
+tags: ["lowcarb", "highfat", "simple"]
 date: 2016-10-19
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: ["breakfast"]
+tags: ["simple"]
 date: 2019-05-07
 ---
 ![](../img/Zigeuner-Wurstpfanne.jpg)

@@ -1,5 +1,5 @@
 ---
-tags: ["breakfast"]
+tags: ["simple"]
 date: 2020-05-02
 ---
 

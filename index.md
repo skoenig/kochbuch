@@ -15,4 +15,4 @@ content:
 
 Diese Seite ist eine Sammlung von simplen Rezepten für Menschen, die sich gesund, aber trotzdem einfach und lecker ernähren wollen.
 
-Die Rezepte sind entsprechend kategorisiert, wenn sie bestimmten Ernährungsweisen wie z.B. Low Carb (["lowcarb"](tag/lowcarb/)), High Fat (["highfat"](tag/highfat/)), Paleo (["paleo"](tag/paleo/)) entsprechen oder z.B. Breakfast (["breakfast"](tag/breakfast/)), wenn sie relativ schnell zubereitet sind. Alle Kategorien findest du [hier](tag/).
+Die Rezepte sind entsprechend kategorisiert, wenn sie bestimmten Ernährungsweisen wie z.B. ["lowcarb"](tag/lowcarb/), ["highfat"](tag/highfat/), ["paleo"](tag/paleo/) entsprechen oder ["simple"](tag/simple/), wenn sie relativ schnell und einfach zubereitet sind. Alle Kategorien findest du [hier](tag/).
