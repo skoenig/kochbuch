@@ -761,6 +761,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Weisskohl-mit-Blutwurst.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/hauptgerichte/Schweinenuss-Schmorbraten.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
