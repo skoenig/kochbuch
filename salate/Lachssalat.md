@@ -1,6 +1,6 @@
 ---
 tags: ["lowcarb", "highfat"]
-date: 2019-05-07
+date: 2020-09-04
 ---
 
 ![](../img/Lachssalat.jpg)
@@ -11,7 +11,7 @@ date: 2019-05-07
 - etwas         Meerrettich
 - 1 EL          Zitronensaft
 - 200g          Räucherlachs
-- ½             Spitzkohl
+- ¼             Spitzkohl
 - 2 Stangen     Sellerie
 - ½             Apfel
 - ½             rote Zwiebel
@@ -21,7 +21,9 @@ date: 2019-05-07
 - Salz & Pfeffer
 
 ## Zubereitung
-Mayonnaise, Creme fraiche, Meerrettich und Zitronensaft in einer Schüssel verrühren. Den Lachs in Würfel schneiden und unter die Masse heben, mit Salz und Pfeffer abschmecken.
-Den Strunk und die äußeren Blätter vom Spitzkohl entfernen. Sellerie waschen, putzen und zusammen mit dem Spitzkohl in sehr feine Streifen schneiden. Den Apfel waschen, entkernen und in Scheiben schneiden. Die Zwiebel ebenfalls in Scheiben schneiden. Alles zusammen mit dem Dill in eine Schüssel geben. Zusammen mit dem Lachssalat anrichten.
-Aus dem Öl, Essig, Salz und Pfeffer ein Dressing mischen und über den Salat geben.
+1. Mayonnaise, Creme fraiche, Meerrettich und Zitronensaft in einer Schüssel verrühren. Den Lachs in Würfel schneiden und unter die Masse heben, mit Salz und Pfeffer abschmecken.
+2. Den Strunk und die äußeren Blätter vom Spitzkohl entfernen und in feine Streifen schneiden.
+3. Sellerie und Apfel waschen, entkernen und in Scheiben schneiden. Die Zwiebel ebenfalls in Scheiben schneiden. Alles zusammen mit dem Dill in eine Schüssel geben.
+4. Zusammen mit dem Lachssalat anrichten.
+5. Aus dem Öl, Essig, Salz und Pfeffer ein Dressing mischen und über den Salat geben.
 
