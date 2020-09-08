@@ -5,7 +5,7 @@ date: 2017-02-21
 
 ![](../img/raita.jpg)
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 300g      griechischer Jogurt
 - 1         Knoblauchzehe
 - ½         Chilischote

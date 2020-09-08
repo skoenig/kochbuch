@@ -3,7 +3,7 @@ tags: ["lowcarb"]
 date: 2015-02-20
 ---
 
-## Zutaten für 2 Personen
+## Zutaten für 2 Portionen
 ![](../img/auberginen-la-napoli.jpg)
 
 - 700 g     Aubergine (2 Stück)

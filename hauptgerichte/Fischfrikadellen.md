@@ -5,7 +5,7 @@ date: 2019-05-28
 
 ![](../img/Fischfrikadellen.jpg)
 
-## Zutaten für 2 Personen
+## Zutaten für 2 Portionen
 
 - 2 Dosen   Thunfisch in eigenem Saft ODER
 - 300g      Fisch (Scholle, Kabeljau, Schellfisch, Lachs ...nur kein Pangasius)

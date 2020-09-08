@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2015-10-08
 ---
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 600 g Rindfleisch
 - ~ 10  Holzspieße
 - 3     rote Zwiebeln

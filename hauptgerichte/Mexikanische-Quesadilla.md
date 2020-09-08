@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "new"]
 date: 2020-05-02
 ---
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 500 g Blumenkohl
 - 2     Eier
 - 200 g geriebener Käse

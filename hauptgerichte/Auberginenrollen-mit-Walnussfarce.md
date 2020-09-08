@@ -5,7 +5,7 @@ date: 2015-10-18
 
 ![](../img/auberginenrollen-mit-walnussfarce.jpg)
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 2-3   große Auberginen
 - Salz
 - Olivenöl

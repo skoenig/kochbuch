@@ -3,7 +3,7 @@ date: 2015-07-16
 tags: ["lowcarb", "highfat"]
 ---
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 650 g Schollenfilets
 - Zwei eier
 - 150 g sesam

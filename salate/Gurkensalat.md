@@ -5,7 +5,7 @@ date: 2019-05-28
 
 ![](../img/Gurkensalat.jpg)
 
-## Zutaten für 2 Personen
+## Zutaten für 2 Portionen
 - 1     Salatgurke
 - 2     Chilischoten
 - 1 handvoll Koriander

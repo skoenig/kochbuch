@@ -5,7 +5,7 @@ date: 2016-04-09
 
 ![](../img/chicoree-pasta.jpg)
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 
 - 2 Chicorée
 - 1 Birne

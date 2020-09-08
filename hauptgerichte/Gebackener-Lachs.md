@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2018-07-25
 ---
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 4     Lachsfilets
 - 1     Zitrone (unbehandelt)
 - Salz & Pfeffer

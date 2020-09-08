@@ -3,7 +3,7 @@ tags: ["lowcarb", "new"]
 date: 2020-05-02
 ---
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 600 Gramm hähnchenbrustfilet
 - 20 Holzspieße
 

@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2017-03-24
 ---
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 3         große Auberginen
 - 3         Eier
 - 250 g     Parmesan gerieben

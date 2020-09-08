@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat"]
 date: 2015-05-16
 ---
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 ![](../img/low-carbonara.jpg)
 
 - 3     Karotten

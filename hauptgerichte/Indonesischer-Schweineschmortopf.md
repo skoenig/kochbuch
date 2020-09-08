@@ -3,7 +3,7 @@ tags: ["lowcarb", "favourites"]
 date: 2015-07-27
 ---
 
-## Zutaten fuer 4 Personen
+## Zutaten fuer 4 Portionen
 
 - 2 EL      Oel
 - 8         Schalotten

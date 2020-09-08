@@ -5,7 +5,7 @@ date: 2017-05-30
 
 ![](../img/Indisches-Curry.jpg)
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 600g      Lamm- oder Rinderhack
 - 1 TL      Ingwer
 - 1         Knoblauchzehe

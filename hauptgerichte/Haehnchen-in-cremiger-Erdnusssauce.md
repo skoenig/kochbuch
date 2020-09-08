@@ -5,7 +5,7 @@ date: 2019-04-04
 
 ![](../img/Haehnchen-in-cremiger-Erdnusssauce.jpg)
 
-## Zutaten für 4 Personen
+## Zutaten für 4 Portionen
 - 600 g     Hähnchenbrustfilet
 - 1-2 TL    Currypaste
 - 200 ml    Kokosmilch
