@@ -6,7 +6,7 @@ date: 2020-08-30
 Ein ähnlich einfaches und leckeres Rezept wie [schichtkohl-mit-hackfleisch], allerdings wird hier Blutwurst verwendet.
 
 ## Zutaten für 4 Portionen
-- 850 g     (1/2 Kopf) Weißkohl
+- 850 g     (½ Kopf) Weißkohl (alternativ: Wirsingkohl)
 - 200 g     Blutwurst
 - 125 ml    Gemüsebrühe
 - 250 g     Kartoffeln

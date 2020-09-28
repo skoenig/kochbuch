@@ -11,7 +11,7 @@ date: 2020-05-06
 - 35 g Blaumohn
 - 65 g Erythrit oder 50 g Xylit
 - 1 TL Backpulver
-- 1 TL Guarkernmehl
+- 1 TL Guarkernmehl / Reismehl / Johannisbrotkernmehl
 - 150 g Himbeeren (frisch oder gefroren)
 
 ## Zubereitung
