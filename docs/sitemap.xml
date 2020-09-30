@@ -216,6 +216,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Muffins-mit-Proteinpulver.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/salate/Eiersalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
