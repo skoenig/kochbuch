@@ -1,6 +1,6 @@
 ---
-tags: ["lowcarb"]
-date: 2019-03-28
+tags: ["lowcarb", "simple"]
+date: 2020-09-30
 ---
 
 ## Zutaten für 6 Muffins

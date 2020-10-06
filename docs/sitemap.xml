@@ -556,6 +556,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Deftige-Pilzpfanne.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/hauptgerichte/Risotto-mit-Bacon-und-Pilzen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -627,11 +632,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Putenpfanne-Indische-Art.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/snacks-und-shakes/Gruner-Ballaststoff-Smoothie.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -926,7 +926,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Deftige-Pilzpfanne.html</loc>
+        <loc>/kochbuch/snacks-und-shakes/Gruener-Ballaststoff-Smoothie.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
