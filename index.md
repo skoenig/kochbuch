@@ -4,8 +4,9 @@ layout: page_nobreadcrumbs
 abstract: "Simple Rezepte für Leute, die sich gesund, aber einfach und lecker ernähren wollen."
 content:
     - hauptgerichte
-    - snacks-und-shakes
     - beilagen
+    - desserts
+    - snacks-und-shakes
     - salate
     - tag
     - readme

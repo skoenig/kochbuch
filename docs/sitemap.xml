@@ -6,11 +6,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/tag/paleo/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Chinakohl-Hackpfanne.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -41,12 +36,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Avocadosalat-mit-Bacon-und-Walnuessen.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/snacks-und-shakes/Schokomousse-mit-Orange.html</loc>
+        <loc>/kochbuch/desserts/Schokopralinen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -66,17 +56,22 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/desserts/Waffeln-mit-Zitrone-und-Mohn.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/snacks-und-shakes/Avocado-Schoko-Pudding.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/hauptgerichte/Erdnuss-Sellerie-Suppe.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Quarkkuchen-I.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Bohnen-mit-Speck.html</loc>
+        <loc>/kochbuch/tag/paleo/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -101,12 +96,12 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Snickers.html</loc>
+        <loc>/kochbuch/hauptgerichte/Ruehrei-mit-Porree.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Falscher-Kartoffelsalat.html</loc>
+        <loc>/kochbuch/desserts/Schokopralinen-mit-Kokos.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -121,11 +116,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/tag/vegan/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Eiergratin-mit-Garnelen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -136,17 +126,17 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Hackbraten-mit-Magerquark-und-Sellerie.html</loc>
+        <loc>/kochbuch/desserts/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Schokopralinen-mit-Kokos.html</loc>
+        <loc>/kochbuch/desserts/Quarkkuchen-I.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Blumenkohlsalat-mit-Ei.html</loc>
+        <loc>/kochbuch/desserts/Dessertpizza.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -166,17 +156,27 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/salate/Blumenkohlsalat-mit-Ei.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/hauptgerichte/Lachs-mit-Fetahaube.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Avocado-Schoko-Pudding.html</loc>
+        <loc>/kochbuch/desserts/Apfelkuchen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Bounty.html</loc>
+        <loc>/kochbuch/snacks-und-shakes/index.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/Bohnen-mit-Speck.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -191,11 +191,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Waffeln-mit-Zitrone-und-Mohn.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Spinat-mit-Bohnen-und-Ei.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -206,17 +201,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Garnelen-mit-Frischkaese.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/snacks-und-shakes/Teufelseier-mit-Thunfischfuellung.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Muffins-mit-Proteinpulver.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -246,12 +231,17 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/index.html</loc>
+        <loc>/kochbuch/desserts/Proteinkekse.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Gebackener-Lachs.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/desserts/Low-Carb-Bounty.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -286,7 +276,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Schokoladenmousse.html</loc>
+        <loc>/kochbuch/desserts/Low-Carb-Nutella.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -307,6 +297,11 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Gebratenes-Fischfilet-mit-Stangensellerie.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/desserts/Low-Carb-Cheesecake.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -401,7 +396,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Marzipan-Pralinen.html</loc>
+        <loc>/kochbuch/desserts/Low-Carb-Nutella-alternative.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -411,7 +406,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Bananenbrot.html</loc>
+        <loc>/kochbuch/desserts/Low-Carb-Marzipan-Pralinen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -432,6 +427,11 @@
     </url>
     <url>
         <loc>/kochbuch/snacks-und-shakes/Nussmuesli.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/beilagen/Humus.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -471,7 +471,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Gemueseauflauf-mit-Mozarella.html</loc>
+        <loc>/kochbuch/desserts/Low-Carb-Muffins-mit-Proteinpulver.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -506,7 +506,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Suendhaft-gute-Brownies.html</loc>
+        <loc>/kochbuch/tag/vegan/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -526,7 +526,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Erdbeer-Cheesecake.html</loc>
+        <loc>/kochbuch/salate/Falscher-Kartoffelsalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -542,11 +542,6 @@
     </url>
     <url>
         <loc>/kochbuch/hauptgerichte/Matcha-Minz-Erbsensuppe-mit-Garnelen.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Schokomuffins.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -576,7 +571,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/beilagen/Zimtbroetchen.html</loc>
+        <loc>/kochbuch/beilagen/Kartoffel-Erbsen-Stampf.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -626,17 +621,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Dessertpizza.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Putenpfanne-Indische-Art.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Ruehrei-mit-Porree.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -676,7 +661,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Zucchini-Gemuesepfanne-mit-Hackfleisch.html</loc>
+        <loc>/kochbuch/desserts/index.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -701,11 +686,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Apfelkuchen.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Putenauflauf.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -716,17 +696,17 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/desserts/Suendhaft-gute-Brownies.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/salate/Sauerkraut-Rote-Beete-Salat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Cheesecake.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/snacks-und-shakes/Avocado-Brownies.html</loc>
+        <loc>/kochbuch/hauptgerichte/Garnelen-mit-Frischkaese.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -741,7 +721,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Himbeer-Mohn-Muffins.html</loc>
+        <loc>/kochbuch/desserts/Schokomousse-mit-Orange.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -751,17 +731,22 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/salate/Avocadosalat-mit-Bacon-und-Walnuessen.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/index.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/beilagen/Oopsies.html</loc>
+        <loc>/kochbuch/desserts/Low-Carb-Schokomuffins.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Schokopralinen.html</loc>
+        <loc>/kochbuch/beilagen/Oopsies.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -781,7 +766,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/beilagen/Kartoffel-Erbsen-Stampf.html</loc>
+        <loc>/kochbuch/desserts/Avocado-Brownies.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -796,7 +781,17 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/beilagen/Zimtbroetchen.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/hauptgerichte/Haehnchen-mit-Ajvar-und-Erbsen.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/Gemueseauflauf-mit-Mozarella.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -811,17 +806,22 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Nutella-alternative.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Rotkohlsalat-mit-Speck.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Quarkkuchen-II.html</loc>
+        <loc>/kochbuch/desserts/Himbeer-Mohn-Muffins.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/desserts/Schokoladenmousse.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/desserts/Quarkkuchen-II.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -876,6 +876,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Hackbraten-mit-Magerquark-und-Sellerie.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/tag/simple/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -896,11 +901,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Low-Carb-Nutella.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Auberginenrollen-mit-Walnussfarce.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -916,7 +916,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/beilagen/Humus.html</loc>
+        <loc>/kochbuch/desserts/Low-Carb-Snickers.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -927,6 +927,11 @@
     </url>
     <url>
         <loc>/kochbuch/snacks-und-shakes/Gruener-Ballaststoff-Smoothie.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/desserts/Bananenbrot.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -951,17 +956,22 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/snacks-und-shakes/Proteinkekse.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Schweinehack-mit-gebratenem-Reis.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/desserts/Erdbeer-Cheesecake.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/salate/Gurkensalat.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/kochbuch/hauptgerichte/Zucchini-Gemuesepfanne-mit-Hackfleisch.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
