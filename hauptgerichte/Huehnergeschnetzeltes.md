@@ -15,10 +15,10 @@ date: 2017-10-10
 - Knoblauch
 - Salz
 - Pfeffer
-- Chilli
+- Chili
 
 ## Zubereitung
-Hühnerbrust kleinschneiden, mit Olivenöl und bisschen Knoblauch anbraten, mit Salz, Pfeffer und Chilli würzen, Sauerrahm (Saure Sahne), Brokkoliröschen und Schmelzkäse dazu, alles rühren bis der Käse geschmolzen ist - fertig.
+Hühnerbrust kleinschneiden, mit Olivenöl und bisschen Knoblauch anbraten, mit Salz, Pfeffer und Chili würzen, Sauerrahm (Saure Sahne), Brokkoliröschen und Schmelzkäse dazu, alles rühren bis der Käse geschmolzen ist - fertig.
 
 ## Nährwerte pro Portion
 - Kcal: 1232

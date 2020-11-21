@@ -19,9 +19,8 @@ date: 2020-06-20
 - gehobelte Mandeln für das Topping
 
 ## Zubereitung
-- Butter, Mehl, gemahlene Mandeln, Eier, Xylit, Backpulver und Zimt in eine Rührschüssel geben und zu einem cremigen Teig verrühren
-- den Teig in eine gefettete Springform geben
-- den Backofen auf 180°C vorheizen
-- inzwischen Äpfel waschen und entkernen, in einem Mixer zerkleinern, Magerquark und Puddingpulver hinzugeben und verrühren
-- anschließend die Apfel-Quark-Masse auf dem Teig verteilen, die gehobelten Mandeln darauf verteilen und für etwa 60 Minuten in den Ofen geben
-
+1. Butter, Mehl, gemahlene Mandeln, Eier, Xylit, Backpulver und Zimt in eine Rührschüssel geben und zu einem cremigen Teig verrühren
+1. den Teig in eine gefettete Springform geben
+1. den Backofen auf 180°C vorheizen
+1. inzwischen Äpfel waschen und entkernen, in einem Mixer zerkleinern, Magerquark und Puddingpulver hinzugeben und verrühren
+1. anschließend die Apfel-Quark-Masse auf dem Teig verteilen, die gehobelten Mandeln darauf verteilen und für etwa 60 Minuten in den Ofen geben

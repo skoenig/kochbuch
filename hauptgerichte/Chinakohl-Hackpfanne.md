@@ -12,7 +12,7 @@ date: 2020-03-15
 - 3 Esslöffel Cashewkerne
 - Salz & Pfeffer
 - Currypaste
-- Chillipuler
+- Chilipuler
 - etwas Schmand
 - Öl für die Pfanne
 
@@ -22,5 +22,5 @@ Möhren schälen in dünne Scheiben schneiden, den Chinakohl in Streifen schneid
 Nun in einer Pfanne etwas Öl erhitzen und darin das Hackfleisch anbraten, mit Salz und Pfeffer würzen.
 Die Möhren zugeben, mit anbraten und dann mit der Brühe ablöschen und alles bei mittlerer Hitze köcheln lassen bis die Flüssigkeit fast verdampft ist.
 Den Chinakohl und die Cashewkerne zugeben und ca. 5 Minuten mitkochen lassen.
-Zum Schluß noch den abgetropften Reis, Currypaste und das Chillipulver zugeben und mit Salz und Pfeffer abschmecken.
+Zum Schluß noch den abgetropften Reis, Currypaste und das Chilipulver zugeben und mit Salz und Pfeffer abschmecken.
 Auf einem Teller anrichten und den Schmand dazu reichen.

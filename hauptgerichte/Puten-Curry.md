@@ -11,7 +11,7 @@ date: 2016-12-19
 - 50ml Gemüse oder Geflügelbrühe
 - 150ml Sahne
 - 3-4 TL Curry
-- evtl. Kurkuma oder Chilli (Geschmackssache)
+- evtl. Kurkuma oder Chili (Geschmackssache)
 - Fett für fie Pfanne
 - Pfeffer & Salz
 

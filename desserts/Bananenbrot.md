@@ -21,11 +21,11 @@ date: 2016-12-08
 - 1 TL      Backpulver
 
 ## Zubereitung
-- Butter bei niedriger Temperatur in einem Topf zum Schmelzen bringen.
-- Bananen, Kokosmilch, Eier und Kokosblütenzucker in der Küchenmaschine oder mit dem Pürierstab mixen und in eine Schüssel geben.
-- Die geschmolzene Butter, den Zimt, Kardamom, Vanillepulver, Flohsamenschalen, Kokosraspel und Backpulver hinzufügen und gut verrühren.
-- Die Walnüsse und die Schokolade grob hacken und unterheben.
-- Den Teig für 10 Minuten ruhen lassen.
-- Inzwischen den Backofen auf 200 ℃  vorheizen und eine Kastenform mit Backpapier auslegen.
-- Den Teig dann in die Kastenform füllen und 30 Minuten backen.
+1. Butter bei niedriger Temperatur in einem Topf zum Schmelzen bringen.
+1. Bananen, Kokosmilch, Eier und Kokosblütenzucker in der Küchenmaschine oder mit dem Pürierstab mixen und in eine Schüssel geben.
+1. Die geschmolzene Butter, den Zimt, Kardamom, Vanillepulver, Flohsamenschalen, Kokosraspel und Backpulver hinzufügen und gut verrühren.
+1. Die Walnüsse und die Schokolade grob hacken und unterheben.
+1. Den Teig für 10 Minuten ruhen lassen.
+1. Inzwischen den Backofen auf 200 ℃  vorheizen und eine Kastenform mit Backpapier auslegen.
+1. Den Teig dann in die Kastenform füllen und 30 Minuten backen.
 

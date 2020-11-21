@@ -17,13 +17,13 @@ date: 2016-03-14
 - etwas Kokosöl zum Braten
 
 ## Zubereitung
-- Artischocken aus der Dose holen (ohne Wasser) und klein schneiden
-- Zwiebel klein schneiden und mit den Artischocken vermischen
-- Beides zusammen etwas ziehen lassen, damit sich die Aromen entfallten
-- Fleisch grillen (sofern Kontaktgrill vorhangen) bzw. in der Pfanne anbraten
-- Wenn das Fleisch halbwegs durch ist geben wir die Artischocken dazu
-- Das ganze wird gewürzt mit etwas Knoblauch, Chili, Worcester Sauce und/oder Soja
-- Alles zusammen nochmal durchbraten und zum Schluss noch mit etwas Schnittlauch beträufeln
+1. Artischocken abgießen und klein schneiden
+1. Zwiebel klein schneiden und mit den Artischocken vermischen
+1. Beides zusammen etwas ziehen lassen, damit sich die Aromen entfalten
+1. Fleisch grillen (sofern Kontaktgrill vorhanden) oder in der Pfanne anbraten
+1. Wenn das Fleisch halbwegs durch ist geben wir die Artischocken dazu
+1. Das Ganze mit dem Knoblauch, Chili und eventuell Sojasauce würzen
+1. Alles zusammen nochmal durchbraten und zum Schluss noch mit etwas Schnittlauch garnieren
 
 Als Beilage bietet sich z.b. [Blumenkohlreis](../beilagen/Blumenkohlreis.html) an.
 
