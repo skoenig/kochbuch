@@ -751,6 +751,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Linsen-Curry-mit-Joghurt-Dip.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/beilagen/Focaccia-Brot.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
