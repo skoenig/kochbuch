@@ -201,6 +201,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/salate/Ingwer-Huehnchen-Salat.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/snacks-und-shakes/Teufelseier-mit-Thunfischfuellung.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
