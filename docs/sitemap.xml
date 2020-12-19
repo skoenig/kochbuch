@@ -791,6 +791,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/hauptgerichte/Quinoa-mit-Tomaten-Spinat-Paprika-Pfanne.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/beilagen/Zimtbroetchen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
