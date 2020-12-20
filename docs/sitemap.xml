@@ -156,11 +156,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Blumenkohlsalat-mit-Ei.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
         <loc>/kochbuch/hauptgerichte/Lachs-mit-Fetahaube.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -247,11 +242,6 @@
     </url>
     <url>
         <loc>/kochbuch/desserts/Low-Carb-Bounty.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Linsen-Tomaten-Teller.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -851,7 +841,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Mexican-Breakfast.html</loc>
+        <loc>/kochbuch/salate/Blumenkohlsalat-mit-Ei.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -877,11 +867,6 @@
     </url>
     <url>
         <loc>/kochbuch/beilagen/Guacamole.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/kochbuch/hauptgerichte/Bohnen-mit-Salsa-und-Avocado.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
