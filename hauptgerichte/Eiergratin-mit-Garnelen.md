@@ -1,28 +1,25 @@
 ---
 tags: ["lowcarb"]
-date: 2020-02-27
+date: 2020-12-20
 ---
 
 ## Zutaten für 2 Portionen
-- 1 TL Majoran
+- 150g  Garnelen
+- 5     Eier
+- 1     Schalotte oder ½ Zwiebel
+- 1 TL  Majoran
+- 1 EL  Butter
+- 50g   Schlagsahne
 - geriebene Muskatnuss
-- 1 EL Butter
-- 1 Schalotte oder ½ Zwiebel
-- 150g Garnelen
-- 50g Schlagsahne
-- 100g Fetakäse
-- 5 Eier
+- 100g  Fetakäse
+- Salz & Pfeffer
 
 ## Zubereitung
-Die Garnelen auftauen, abspülen und ggf. schälen.
-
-Zuerst 4 Eier 10 Minuten hart kochen, pellen, in Scheiben schneiden und in zwei Schalen schichten.
-
-Die Butter in einer Pfanne zerlassen. Die Zwiebel oder Schalotte putzen, kleinschneiden und mit dem Majoran in die Pfanne geben. Etwas andünsten lassen.
-
-Die Garnelen ebenfalls in die Pfanne geben und bei starker Hitze kurz anbraten,  mit etwas Pfeffer und Salz würzen und dann zu den Eiern in die Schalen geben.
-
-Das übrige Ei mit der Sahne verrühren, mit dem Muskat würzen und das Ganze dann über die Garnelen und Eier geben.
-
-Den Feta würfeln und in den Schalen verteilen und im vorgeheizten Backofen bei 250℃ für ca. 7 Minuten backen, bis die Oberfläche leicht gebräunt ist.
+1. Die Garnelen auftauen, abspülen und ggf. schälen.
+2. Backofen auf 250℃  vorheizen.
+2. 4 Eier 10 Minuten hart kochen, pellen, in Scheiben schneiden und in zwei Schalen schichten.
+3. Währenddessen die Zwiebel oder Schalotte putzen, kleinschneiden und mit dem Majoran in der Pfanne mit der Butter etwas andünsten.
+4.  Die Garnelen ebenfalls in die Pfanne geben und bei starker Hitze kurz anbraten, mit etwas Pfeffer und Salz würzen und dann zu den Eiern in die Schalen geben.
+5.  Das übrige Ei mit der Sahne verrühren, mit dem Muskat würzen und das Ganze dann über die Garnelen und Eier geben.
+6.  Den Feta würfeln und in den Schalen verteilen und im Backofen für ca. 7 Minuten backen, bis die Oberfläche leicht gebräunt ist.
 
