@@ -11,7 +11,7 @@ date: 2020-09-21
 - 1 Prise Salz
 - 20 ml flüssige Butter
 - 100g Erythrit mit Stevia oder Xylit
-- 4 EL Eiweißpulver
+- 4 EL Proteinpulver
 - Mark einer Vanilleschote
 - Abrieb von 1 Zitronenschale
 

@@ -5,7 +5,7 @@ date: 2015-06-05
 
 ## Zutaten
 - 3         Eiklar
-- 40 g      Eiweißpulver
+- 40 g      Proteinpulver
 - 250 g     Speisequark 20% Fett
 - etwas Süßstoff
 

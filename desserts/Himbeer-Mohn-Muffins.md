@@ -7,7 +7,7 @@ date: 2020-05-06
 - 2     Eier
 - 250 g Quark 20% Fett
 - 60 g  Kokosmehl
-- 50 g  Eiweißpulver Vanille
+- 50 g  Proteinpulver Vanille
 - 35 g  Blaumohn
 - 65 g  Erythrit oder 50 g Xylit
 - 1 TL  Backpulver

@@ -6,7 +6,7 @@ date: 2015-08-04
 ## Zutaten
 - 100g   Butter
 - 4      Eier
-- 100g   Eiweisspulver
+- 100g   Proteinpulver
 - 250g   Quark 40% Fett
 - 250 ml Sahne
 - 2 EL   Süßstoff
