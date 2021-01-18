@@ -1,11 +1,11 @@
 ---
-tags: ["lowcarb", "simple"]
+tags: ["lowcarb", "simple", "veggie"]
 date: 2020-09-30
 ---
 
 ## Zutaten für 6 Muffins
-- 250 g     Schmand, 20% Fett
 - 1         Ei
+- 250 g     Schmand, 20% Fett
 - 25 g      Kokosmehl
 - 35 g      Eiweißpulver
 - 30 g      Erythrit

@@ -4,14 +4,14 @@ date: 2020-05-06
 ---
 
 ## Zutaten für 6 Muffins
+- 2     Eier
 - 250 g Quark 20% Fett
-- 2 Eier Größe M
-- 50 g Eiweißpulver Vanille
-- 60 g Kokosmehl
-- 35 g Blaumohn
-- 65 g Erythrit oder 50 g Xylit
-- 1 TL Backpulver
-- 1 TL Guarkernmehl / Reismehl / Johannisbrotkernmehl
+- 60 g  Kokosmehl
+- 50 g  Eiweißpulver Vanille
+- 35 g  Blaumohn
+- 65 g  Erythrit oder 50 g Xylit
+- 1 TL  Backpulver
+- 1 TL  Guarkernmehl / Reismehl / Johannisbrotkernmehl
 - 150 g Himbeeren (frisch oder gefroren)
 
 ## Zubereitung
