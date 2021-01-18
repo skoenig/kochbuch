@@ -9,7 +9,7 @@ date: 2020-05-06
 - 60 g  Kokosmehl
 - 50 g  Proteinpulver Vanille
 - 35 g  Blaumohn
-- 65 g  Erythrit oder 50 g Xylit
+- 65 g  Erythrit oder 50 g Xylit / Birkenzucker
 - 1 TL  Backpulver
 - 1 TL  Guarkernmehl / Reismehl / Johannisbrotkernmehl
 - 150 g Himbeeren (frisch oder gefroren)

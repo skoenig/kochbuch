@@ -12,7 +12,7 @@ date: 2020-06-20
 - 80 g      Butter weich
 - 100 g     gemahlene Mandeln
 - 3         Eier
-- 1-3 EL    Xylit Birkenzucker
+- 1-3 EL    Xylit / Birkenzucker
 - 1 TL      Backpulver
 - 2 TL      Zimt
 - 0,5       Päckchen Vanillepuddingpulver
