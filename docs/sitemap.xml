@@ -436,7 +436,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/hauptgerichte/Pak-Choi-mit-Cashewkernen.html</loc>
+        <loc>/kochbuch/desserts/Apfel-Quark-Kuchen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -526,6 +526,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/kochbuch/salate/Rote-Linsen-Salat-mit-Tomaten.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/kochbuch/salate/Falscher-Kartoffelsalat.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -536,7 +541,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/kochbuch/salate/Rote-Linsen-Salat-mit-Tomaten.html</loc>
+        <loc>/kochbuch/hauptgerichte/Pak-Choi-mit-Cashewkernen.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>

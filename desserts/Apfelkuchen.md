@@ -1,26 +1,28 @@
 ---
-tags: ["lowcarb", "veggie"]
-date: 2020-06-20
+tags: ["lowcarb", "simple", "veggie"]
+date: 2021-01-04
 ---
 
-![](../img/Apfelkuchen-1.jpg)
-![](../img/Apfelkuchen-2.jpg)
-
 ## Zutaten
-- 200 g     Magerquark
-- 3         Äpfel
-- 80 g      Butter weich
-- 100 g     gemahlene Mandeln
-- 3         Eier
-- 1-3 EL    Xylit / Birkenzucker
-- 1 TL      Backpulver
-- 2 TL      Zimt
-- 0,5       Päckchen Vanillepuddingpulver
-- gehobelte Mandeln für das Topping
+- 6             Eier
+- 150 g         weiche Butter
+- 130 g         Erythrit
+- 6 Einheiten   Stevia
+- 250 g         Mandelmehl
+- 2 TL          Guarkernmehl
+- 2 TL          Backpulver
+- 1/2 TL        Bourbon-Vanille
+- 300 g         säuerlicher Apfel
+- 50 g          Mandelblättchen
 
 ## Zubereitung
-1. Butter, Mehl, gemahlene Mandeln, Eier, Xylit, Backpulver und Zimt in eine Rührschüssel geben und zu einem cremigen Teig verrühren
-1. den Teig in eine gefettete Springform geben
-1. den Backofen auf 180°C vorheizen
-1. inzwischen Äpfel waschen und entkernen, in einem Mixer zerkleinern, Magerquark und Puddingpulver hinzugeben und verrühren
-1. anschließend die Apfel-Quark-Masse auf dem Teig verteilen, die gehobelten Mandeln darauf verteilen und für etwa 60 Minuten in den Ofen geben
+1. Den Backofen auf 175 Grad Umluft vorheizen.
+1. Butter und Eier in einer Rührschüssel gut vermengen.
+1. Nach und nach die trockenen Zutaten untermischen.
+1. Die Springform fetten, den Boden mit Backpapier bedecken und dann Teig hineingeben.
+1. Äpfel schälen, entkernen und in feine Scheiben schneiden.
+1. Äpfel gleichmäßig verteilt leicht in den Teig drücken.
+1. Die Mandelblättchen darüber streuen.
+1. Für 45 Minuten in den Backofen. Wenn der Apfelkuchen zu dunkel wird, dann nach 30 Minuten mit etwas Alufolie schützen.
+
+Alternativ kann der Kuchen statt mit Äpfeln auch mit Brombeeren oder Himbeeren zubereitet werden.
