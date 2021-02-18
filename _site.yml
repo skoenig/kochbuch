@@ -4,4 +4,4 @@ navbar_right_items: 2
 navbar_inverse: true
 bootswatch: journal
 bootstrap: 3.4.1
-ignore_patterns: ['*~', 'drafts', 'docs']
+ignore_patterns: ['*~', 'drafts', 'docs', 'requirements.txt']

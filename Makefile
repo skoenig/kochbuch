@@ -1,10 +1,13 @@
 #!/usr/bin/make
 
-.PHONY : all serve publish
+.PHONY : all serve publish install
 SOURCES = $(shell find . -name '*.md')
 projectname = $(notdir $(shell pwd))
 
 all : _build
+
+install:
+	pip install -r requirements.txt
 
 _build : $(SOURCES)
 	python2 -m urubu build
