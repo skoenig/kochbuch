@@ -1,29 +1,27 @@
 ---
 tags: ["lowcarb"]
-date: 2015-02-20
+date: 2021-02-10
 ---
 
-## Zutaten für 2 Portionen
 ![](../img/auberginen-la-napoli.jpg)
 
-- 700 g     Aubergine (2 Stück)
-- 140 g     Zwiebel (1 mittelgroße)
+## Zutaten für 2 Portionen
+- 600 g     Aubergine (2 Stück)
+- 1         Zwiebel
 - 400 g     gehackte Tomate (1 Dose)
 - 2 EL      Tomatenmark
 - 250 g     Mozzarella (2 Stück)
-- 80 g      saure Sahne
 - 80 g      Parmesan
 - 4 EL      Olivenöl
-- 40 g      Kokosfett (oder Backmargerine)
 - 50 g      Schinkenwürfel
 - Basilikum
 - Salz und Pfeffer
+- Fett für die Form
 
 ## Zubereitung
-Die Auberginen putzen und in ca. 1 cm-dicke Scheiben schneiden, salzen und 20 Minuten stehen lassen. Inzwischen die Zwiebeln in grobe Würfel schneiden in Öl andünsten, die Tomaten und das Tomatenmark dazu, mit Basilikum, Salz und Pfeffer abschmecken. Alles ca. 15 Minuten durchkochen.
-
-Die Auberginenscheiben abtrocknen und von beiden Seiten kurz in Öl anbräunen.
-
-Eine Auflaufform einfetten und Auberginen, Tomatensoße und Mozzarella hineinschichten, Schinkenwürfel hinzugeben und oben drüber den Parmesankäse streuen. Mit Alufolie abdecken und bei 250°C ca. 20 Minuten backen.
-
-Anschließen die Alufolie abnehmen und nochmals 10 - 15 Minuten gratinieren lassen.
+1. Die Auberginen putzen und in ca. 1 cm-dicke Scheiben schneiden, salzen und 20 Minuten stehen lassen.
+2. Inzwischen die Zwiebeln in grobe Würfel schneiden und in Öl andünsten.
+3. Die Tomaten und das Tomatenmark dazugeben, mit Basilikum, Salz und Pfeffer abschmecken, alles ca. 15 Minuten durchkochen.
+4. Die Auberginenscheiben abtrocknen und von beiden Seiten kurz in Öl anbräunen.
+5. Eine Auflaufform einfetten und Auberginen, Tomatensoße und Mozzarella hineinschichten, Schinkenwürfel hinzugeben und mit Parmesankäse bestreuen. Mit Alufolie abdecken und bei 250°C ca. 20 Minuten backen.
+6. Anschließen die Alufolie abnehmen und nochmals 10 - 15 Minuten gratinieren lassen.
