@@ -1,5 +1,6 @@
 brand: Kochbuch
 baseurl: kochbuch
+hostname: skoenig.github.io
 navbar_right_items: 2
 navbar_inverse: true
 bootswatch: journal

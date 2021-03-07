@@ -3,9 +3,12 @@
 {% for t in site.reflinks %}
     {% if site.reflinks[t].fn and not site.reflinks[t].hidden %}
     <url>
-        <loc>{{ site.hostname }}{{ site.reflinks[t].url }}</loc>
+        <loc>https://{{ site.hostname }}{{ site.reflinks[t].url }}</loc>
         <changefreq>{{ this.changefreq }}</changefreq>
         <priority>{{ this.priority }}</priority>
+        {% if site.reflinks[t].date %}
+        <lastmod>{{ site.reflinks[t].date }}</lastmod>
+        {% endif %}
     </url>
     {% endif %}
 {% endfor %}
