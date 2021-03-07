@@ -7,13 +7,13 @@ projectname = $(notdir $(shell pwd))
 all : _build
 
 install:
-	pip install -r requirements.txt
+	pip3 install -r requirements.txt
 
 _build : $(SOURCES)
-	python2 -m urubu build
+	python3 -m urubu build
 
 serve : _build
-	python2 -m urubu serve
+	python3 -m urubu serveany
 
 publish : _build
 	rm -rf docs
