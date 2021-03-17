@@ -6,3 +6,4 @@ navbar_inverse: true
 bootswatch: journal
 bootstrap: 3.4.1
 ignore_patterns: ['*~', 'drafts', 'docs', 'requirements.txt']
+google_analytics: G-SD0TGLWYNV
