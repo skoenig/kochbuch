@@ -1,6 +1,6 @@
 #!/usr/bin/make
 
-.PHONY : all serve publish install
+.PHONY : all serve publish install clean
 SOURCES = $(shell find . -name '*.md')
 projectname = $(notdir $(shell pwd))
 
@@ -20,3 +20,6 @@ publish : _build
 	cp -a _build docs
 	git add docs
 
+clean:
+	rm -fr _build
+	find . -name '*.bak' -delete
