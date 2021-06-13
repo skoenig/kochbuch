@@ -26,6 +26,13 @@
         {% endfor %}
       {% endif %}
     {% endblock %}
+
+    {% block date %}
+      {% if this.date|d %}
+        <span class="pull-right">{{this.date|dateformat}}</span>
+      {% endif %}
+    {% endblock %}
+     <div class="clearfix"></div>
   </div>
 
   <div class="row">
