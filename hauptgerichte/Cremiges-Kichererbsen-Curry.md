@@ -23,10 +23,6 @@ date: 2021-04-03
 - Garnierung: frischer Koriander
 
 ## Zubereitung
-1. Backofen auf 175 ℃  vorheizen.
-2. Alle Zutaten vermischen.
-3. 30 Minuten backen.
-
 1. Zwiebeln abziehen und würfeln. Knoblauch abziehen, Ingwer schälen und beides klein hacken.
 1. Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Zwiebeln darin 1 Minute anbraten.
 1. Knoblauch und Ingwer dazugeben und eine weitere Minute anbraten.
