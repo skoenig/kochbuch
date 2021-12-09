@@ -3,6 +3,8 @@ tags: ["lowcarb", "highfat"]
 date: 2015-09-05
 ---
 
+![](../img/sonnenblumenfisch.jpg)
+
 ## Zutaten für 4 Portionen
 - 650 g Pollak oder Schellfisch
 - 100 g Parmesan

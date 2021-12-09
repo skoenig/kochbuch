@@ -5,7 +5,7 @@ date: 2015-12-02
 
 Ein Kartoffelsalat-Ersatz mit wenig Kohlenhydraten (knapp 4 %), lässt sich aus der Steckrübe zaubern. Er schmeckt zwar minimal süsser als die klassische Variante, ist ihr in der Konsistenz aber sehr ähnlich.
 
-![]../img/falscher-kartoffelsalat.jpg)
+![](../img/falscher-kartoffelsalat.jpg)
 
 ## Zutaten für 2 Portionen
 - 1     Steckrübe (~ 550g)
