@@ -1,14 +1,16 @@
 ---
-tags: ["lowcarb", "highfat"]
+tags: ["lowcarb", "highfat", "simple", "veggie"]
 date: 2017-08-16
 ---
+
+Ideal als Partysnack oder Fingerfood, kann man auch [/snacks-und-shakes/Teufelseier-mit-Thunfischfuellung] zubereiten.
 
 ![](../img/Teufelseier-mit-Avocado-1.jpg)
 ![](../img/Teufelseier-mit-Avocado-2.jpg)
 
 ## Zutaten für 3 Portionen
-- 6 hargekochte Eier
-- 2 mittelgrosse Avocados
+- 6 hart gekochte Eier
+- 2 mittelgroße Avocados
 - Prise Paprika
 - 1 EL Salz
 
