@@ -8,7 +8,7 @@ date: 2020-10-31
 ## Zutaten für 2 Personen
 - 150g Blattsalat
 - 1 gelbe Paprikaschote
-- 1 Möhre
+- 1 Karotte
 - 150 g Champignons
 - 1 großer Apfel
 - 400 g Hühnchenbrust
@@ -24,8 +24,8 @@ date: 2020-10-31
 ## Zubereitung
 1. Salat zerpflücken, waschen, trockenschleudern und in mundgerechte Stücke zupfen
 2. Paprikaschote entkernen und in feine Streifen schneiden
-3. Möhre schälen und in dünne Scheiben schneiden
-4. den Salat auf Tellern anrichten
+3. Karotte schälen und in dünne Scheiben schneiden
+4. Salat, Paprika und Karottenscheiben auf Tellern anrichten
 5. Champignons putzen und vierteln
 7. Apfel waschen, vierteln, entkernen und in feine Spalten schneiden
 6. Fleisch in dünne Scheiben schneiden

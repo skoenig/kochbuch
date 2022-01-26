@@ -4,7 +4,7 @@ date: 2017-03-15
 ---
 
 ## Zutaten für 3 Portionen
-- 2     mittelgroße Möhren
+- 2     mittelgroße Karotten
 - 1     große Zwiebel
 - 1     Kohlrabi
 - 1     rote Paprikaschote
@@ -18,7 +18,7 @@ date: 2017-03-15
 - Salz & Pfeffer
 
 ## Zubereitung
-Die Möhren, den Kohlrabi und die Zwiebel schälen. Die Möhren und den Kohlrabi in sehr feine Scheiben hobeln, die Zwiebel halbieren und der Länge nach in Streifen schneiden. Möhren, Kohlrabi und Zwiebel in eine Schüssel geben, gut vermengen und vorerst zur Seite stellen.
+Die Karotten, den Kohlrabi und die Zwiebel schälen. Die Karotten und den Kohlrabi in sehr feine Scheiben hobeln, die Zwiebel halbieren und der Länge nach in Streifen schneiden. Karotten, Kohlrabi und Zwiebel in eine Schüssel geben, gut vermengen und vorerst zur Seite stellen.
 
 Nun die Paprikaschote, die Tomaten und die Zucchini waschen. Paprika vierteln, dann die Viertel quer in ca. 0,5 cm breite Streifen schneiden. Tomaten und Zucchini in ca. 0,5 cm breite Scheiben schneiden und auch erst mal zur Seite stellen.
 
@@ -27,7 +27,7 @@ Das Öl in ein Glas oder eine Tasse geben, die Knoblauchzehe schälen und durch 
 Eine Auflaufform gut einfetten und den Backofen auf 225°C vorheizen.
 
 ![](../img/Gemueseauflauf-mit-Mozarella-1.jpg)
-Nun das vorbereitete Gemüse in die Auflaufform geben. Den Boden mit der Mischung aus Möhren, Kohlrabi und Zwiebeln bedecken, kräftig mit Salz und frisch gemahlenem Pfeffer würzen und mit etwas Basilikum-Knoblauch-Öl beträufeln.
+Nun das vorbereitete Gemüse in die Auflaufform geben. Den Boden mit der Mischung aus Karotten, Kohlrabi und Zwiebeln bedecken, kräftig mit Salz und frisch gemahlenem Pfeffer würzen und mit etwas Basilikum-Knoblauch-Öl beträufeln.
 
 ![](../img/Gemueseauflauf-mit-Mozarella-2.jpg)
 Dann Paprika, Zucchini und Tomaten gleichmäßig darüber verteilen, noch mal mit Pfeffer würzen und mit dem restlichen Basilikum-Knoblauch-Öl beträufeln.

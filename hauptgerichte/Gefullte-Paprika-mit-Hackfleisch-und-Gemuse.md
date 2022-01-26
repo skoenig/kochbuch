@@ -8,7 +8,7 @@ date: 2015-03-15
 
 - 2 große   Zwiebeln
 - 4 große   Paprikaschoten, rote oder gelbe
-- 260 g     Möhren
+- 260 g     Karotten
 - 1 Stange  Lauch (Poree)
 - 1 Stange  Staudensellerie
 - 450 g     Brokkoli
@@ -21,9 +21,9 @@ date: 2015-03-15
 
 ## Zubereitung
 Zwiebeln schälen und eine würfeln, die andere in Scheiben schneiden.
-Möhren schälen, Lauch und Sellerie putzen und alles in dünne Scheiben schneiden. Den Brokkoli in Röschen teilen und waschen.
+Karotten schälen, Lauch und Sellerie putzen und alles in dünne Scheiben schneiden. Den Brokkoli in Röschen teilen und waschen.
 
-Butter in einem Topf erhitzen und die Zwiebeln darin glasig dünsten. Möhren, Lauch und den Sellerie dazugeben, das Ganze 3 Minuten mit dünsten.
+Butter in einem Topf erhitzen und die Zwiebeln darin glasig dünsten. Karotten, Lauch und den Sellerie dazugeben, das Ganze 3 Minuten mit dünsten.
 Anschließend den Brokkoli und 2/3 der Brühe zufügen und weitere 3 Minuten ziehen lassen. Gemüse mit Salz, Pfeffer und Zucker abschmecken!
 
 Ofen auf 175°C vorheizen und Aufflaufform fetten.
