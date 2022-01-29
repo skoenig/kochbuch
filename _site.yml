@@ -5,5 +5,5 @@ navbar_right_items: 2
 navbar_inverse: true
 bootswatch: journal
 bootstrap: 3.4.1
-ignore_patterns: ['*~', 'drafts', 'docs', 'requirements.txt', 'Dockerfile']
+ignore_patterns: ['*~', 'docs', 'requirements.txt']
 google_analytics: G-SD0TGLWYNV
