@@ -14,4 +14,4 @@ date: 2015-05-07
 ## Zubereitung
 Avocados halbieren und entkernen, Fruchtfleisch herauslösen. Mit dem Orangensaft/-abrieb/-Aroma mit einem Pürierstab oder Mixer pürieren. Darauf achten, dass eine gleichmäßige Masse ohne Stücken entsteht.
 Die Schokolade im Wasserbad schmelzen und das Kokosöl und Vanillepulver hinzufügen.
-Die geschmolzene Schokoladenmasse und das Süßungsmittel unter die Avocadomasse rühren. Die noch flüssige Nutella in ein Einmachglas füllen udn in den Kühlschrank stellen.
+Die geschmolzene Schokoladenmasse und das Süßungsmittel unter die Avocadomasse rühren. Die noch flüssige Nutella in ein Einmachglas füllen und in den Kühlschrank stellen.

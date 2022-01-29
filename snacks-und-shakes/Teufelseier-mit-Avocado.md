@@ -3,7 +3,7 @@ tags: ["lowcarb", "highfat", "simple", "veggie"]
 date: 2017-08-16
 ---
 
-Ideal als Partysnack oder Fingerfood, kann man auch [/snacks-und-shakes/Teufelseier-mit-Thunfischfuellung] zubereiten.
+Ideal als Partysnack oder Fingerfood, kann man auch [/snacks-und-shakes/Teufelseier-mit-Thunfischfüllung] zubereiten.
 
 ![](../img/Teufelseier-mit-Avocado-1.jpg)
 ![](../img/Teufelseier-mit-Avocado-2.jpg)
