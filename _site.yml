@@ -1,6 +1,7 @@
-brand: Kochbuch
-baseurl: kochbuch
-hostname: skoenig.github.io
+brand: EinfachSatt
+hostname: einfachsatt.de
+baseurl:
+keep_files: CNAME
 navbar_right_items: 2
 navbar_inverse: true
 bootswatch: journal

@@ -1,5 +1,5 @@
 ---
-title: Kochbuch
+title: Einfachsatt
 layout: page_nobreadcrumbs
 abstract: "Simple Rezepte für Leute, die sich gesund, aber einfach und lecker ernähren wollen."
 content:
