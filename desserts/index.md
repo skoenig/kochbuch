@@ -1,6 +1,0 @@
----
-title: Desserts
-layout: index
-order: date
-reverse: true
----

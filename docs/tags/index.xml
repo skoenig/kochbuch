@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Einfach Satt</title>
+    <link>https://einfachsatt.de/tags.html</link>
+    <description>Recent content in Tags on Einfach Satt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>https://github.com/skoenig/kochbuch</copyright>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://einfachsatt.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>simple</title>
+      <link>https://einfachsatt.de/tags/simple.html</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://einfachsatt.de/tags/simple.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>veggie</title>
+      <link>https://einfachsatt.de/tags/veggie.html</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://einfachsatt.de/tags/veggie.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highfat</title>
+      <link>https://einfachsatt.de/tags/highfat.html</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://einfachsatt.de/tags/highfat.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lowcarb</title>
+      <link>https://einfachsatt.de/tags/lowcarb.html</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://einfachsatt.de/tags/lowcarb.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paleo</title>
+      <link>https://einfachsatt.de/tags/paleo.html</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://einfachsatt.de/tags/paleo.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegan</title>
+      <link>https://einfachsatt.de/tags/vegan.html</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://einfachsatt.de/tags/vegan.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slowcarb</title>
+      <link>https://einfachsatt.de/tags/slowcarb.html</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://einfachsatt.de/tags/slowcarb.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

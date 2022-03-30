@@ -1,26 +1,28 @@
 #!/usr/bin/make
 
 .PHONY : all serve publish install clean
-SOURCES = $(shell find . -name '*.md')
-IMAGES = $(shell find ./img -name '*.jpg')
+SOURCES = $(shell find ./content -name '*.md')
+IMAGES = $(shell find ./static/img -name '*.jpg')
 projectname = $(notdir $(shell pwd))
 
-all: _build
+all: docs
 
 install:
-	pip3 install -r requirements.txt
+	wget https://github.com/gohugoio/hugo/releases/download/v0.96.0/hugo_0.96.0_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
+	mkdir -p ~/bin
+	tar xf /tmp/hugo.tar.gz -C ~/bin hugo
 
-_build: $(SOURCES) $(IMAGES)
-	python3 -m urubu build
+docs: $(SOURCES) $(IMAGES)
+	HUGO_PUBLISHDIR=docs hugo
 
-serve: _build
-	python3 -m urubu serveany
+serve:
+	hugo server --disableFastRender
 
-publish: _build
-	rm -rf docs
-	cp -a _build docs
+publish: docs
 	git add docs
 
 clean:
-	rm -fr _build
 	find . -name '*.bak' -delete
+
+update-theme:
+	git submodule update --remote --merge --depth 1
