@@ -1,5 +1,5 @@
 ---
-title: Willkommen in meiner Rezeptesammlung!
+title: Willkommen auf CookHack!
 abstract: "Simple Rezepte für Leute, die sich gesund, aber einfach und lecker ernähren wollen."
 ---
 
