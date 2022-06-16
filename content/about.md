@@ -10,6 +10,6 @@ Statisch generierte Webseiten sind für die meisten Suchmaschinen und Browser be
 
 Weil [urubu](https://github.com/jandecaluwe/urubu) scheinbar nicht mehr aktiv weiterentwickelt wird, hab ich das Kochbuch Anfang 2022 auf [Hugo](https://gohugo.io/) migriert und ihm eine eigene Domain verpasst: <https://cookhack.net>.
 
-Den Quelltext findet ihr auf [GitHub](https://github.com/skoenig/cookhack). Wenn ihr Fehler findet oder Verbesserungsvorschläge habt, reicht gerne ein [Issue](https://github.com/skoenig/cookhack/issues) ein. Es gilt die [UNLICENSE](https://unlicense.org/).
+Den Quelltext findet ihr auf [GitHub](https://github.com/skoenig/cookhack). Wenn ihr Fehler findet oder Verbesserungsvorschläge habt, reicht gerne ein [Issue](https://github.com/skoenig/cookhack/issues) ein. Es gilt die [UNLICENSE](/LICENSE.txt).
 
 Um die Seite lokal zu bauen, checkt einfach das [GitHub repo](https://github.com/skoenig/cookhack) aus, installiert die Abhängigkeiten mit `make install` und startet einen lokalen Server mit `make serve`. Die Seite ist dann unter <http://localhost:1313/> zu erreichen.

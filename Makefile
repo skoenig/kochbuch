@@ -1,25 +1,28 @@
 #!/usr/bin/make
 
-.PHONY : all serve publish install clean
-SOURCES = $(shell find ./content -name '*.md')
-IMAGES = $(shell find ./static/img -name '*.jpg')
-projectname = $(notdir $(shell pwd))
+.PHONY : all serve publish clean
 
 all: serve
 
-install:
-	wget https://github.com/gohugoio/hugo/releases/download/v0.96.0/hugo_0.96.0_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
-	mkdir -p ~/bin
-	tar xf /tmp/hugo.tar.gz -C ~/bin hugo
+install: hugo
 
-serve:
+hugo: /tmp/hugo.tar.gz
+	tar xf /tmp/hugo.tar.gz hugo
+	touch hugo
+	mkdir -p ~/bin
+	ln -sfr hugo ~/bin/
+
+/tmp/hugo.tar.gz:
+	wget https://github.com/gohugoio/hugo/releases/download/v0.96.0/hugo_0.96.0_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
+
+serve: hugo
 	hugo server --disableFastRender
 
 publish: clean
 	git add -u
 
 clean:
-	find . -name '*.bak' -delete
+	find . -name '*~' -o -name '*.bak' -delete
 
 update-theme:
 	git submodule update --remote --merge --depth 1
