@@ -21,4 +21,4 @@ Zwiebel und Paprika putzen und kleinschneiden. Die Zwiebeln zusammen mit dem Hac
 Währenddessen die passierten Tomaten würzen. Harzer Käse mit in die Pfanne geben, leicht schmelzen lassen und dann mit der Tomatensauce ablöschen. Die Eier in die Pfanne Schlagen und unterrühren.
 Hitze reduzieren und das Ganze noch ein paar Minuten köcheln lassen.
 
-Dazu passt [Blumenkohlreis](../beilagen/Blumenkohlreis.html)
+Dazu passt [Blumenkohlreis]({{< ref "Blumenkohlreis" >}})

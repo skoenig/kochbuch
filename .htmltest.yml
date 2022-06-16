@@ -1,0 +1,4 @@
+DirectoryPath: public
+IgnoreAltMissing: true
+IgnoreURLs:
+  - http://localhost:1313/

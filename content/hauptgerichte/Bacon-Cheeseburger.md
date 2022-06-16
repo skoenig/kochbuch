@@ -7,8 +7,8 @@ title: Bacon Cheeseburger
 ---
 
 ## Zutaten für 4 Burger
-- 8 Stück   [Gemüse-Fladenbrot](../beilagen/Gemuese-Fladenbrot.html)
-- 3 EL      selbstgemachter [Ketchup](../beilagen/Ketchup.html)
+- 8 Stück   [Gemüse-Fladenbrot]({{< ref "Gemüse-Fladenbrot" >}})
+- 3 EL      selbstgemachter [Ketchup]({{< ref "Ketchup" >}})
 - 250 g     Mayonnaise
 - 3         Knoblauchzehen
 - 150g Bacon

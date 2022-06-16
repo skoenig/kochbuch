@@ -28,7 +28,7 @@ title: Artischoken Hähnchen Pfanne
 1. Das Ganze mit dem Knoblauch, Chili und eventuell Sojasauce würzen
 1. Alles zusammen nochmal durchbraten und zum Schluss noch mit etwas Schnittlauch garnieren
 
-Als Beilage bietet sich z.b. [Blumenkohlreis](../beilagen/Blumenkohlreis.html) an.
+Als Beilage bietet sich z.b. [Blumenkohlreis]({{< ref "Blumenkohlreis" >}}) an.
 
 ## Nährwerte
 - kcal:     741

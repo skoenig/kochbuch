@@ -12,7 +12,8 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -25,6 +26,11 @@ jobs:
 
       - name: Build
         run: hugo --minify
+
+      - name: Test
+        uses: wjdp/htmltest-action@master
+        with:
+          config: .htmltest.yml
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

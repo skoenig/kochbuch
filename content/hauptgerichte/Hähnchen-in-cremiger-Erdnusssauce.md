@@ -32,4 +32,4 @@ Die Hähnchenwürfel hinzufügen und alles etwas köcheln lassen. Mit Salz & Pfe
 
 Den Koriander und die Frühlingszwiebeln feinhacken, den Apfel in feine Scheiben schneiden und alles zusammen mit dem Limettenabrieb und den Erdnüssen vermischen und beim Anrichten über das Gericht streuen.
 
-Dazu passt [Blumenkohlreis](../beilagen/Blumenkohlreis.html) sehr gut.
+Dazu passt [Blumenkohlreis]({{< ref "Blumenkohlreis" >}}) sehr gut.

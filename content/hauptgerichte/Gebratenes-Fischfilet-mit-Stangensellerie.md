@@ -5,7 +5,7 @@ tags:
 title: Gebratenes Fischfilet mit Stangensellerie
 ---
 
-Das hier ist ein einfaches Gericht für Fischfiletes mit Strangensellerie (Pad Plah Keun Chai) - dazu passt [Blumenkohlreis](../beilagen/Blumenkohlreis.html) sehr gut.
+Das hier ist ein einfaches Gericht für Fischfiletes mit Strangensellerie (Pad Plah Keun Chai) - dazu passt [Blumenkohlreis]({{< ref "Blumenkohlreis" >}}) sehr gut.
 
 ![](/img/gebratenes-fischfilet-mit-stangensellerie.jpg)
 
