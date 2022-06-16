@@ -5,7 +5,6 @@ theme: congo
 baseURL: https://cookhack.net/
 defaultContentLanguage: de
 enableRobotsTXT: true
-uglyurls: true
 paginate: 10
 summaryLength: 0
 googleAnalytics: "G-SD0TGLWYNV"
