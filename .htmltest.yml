@@ -1,4 +1,5 @@
 DirectoryPath: public
 IgnoreAltMissing: true
+CheckMetaRefresh: false
 IgnoreURLs:
   - http://localhost:1313/
