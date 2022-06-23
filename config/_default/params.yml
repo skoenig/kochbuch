@@ -17,7 +17,7 @@ homepage:
   showRecent: false
 article:
   showDate: true
-  showDateUpdated: false
+  showDateUpdated: true
   showAuthor: false
   showBreadcrumbs: true
   showDraftLabel: true

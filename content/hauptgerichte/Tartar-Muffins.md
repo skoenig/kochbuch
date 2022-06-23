@@ -1,6 +1,6 @@
 ---
 date: 2019-03-22
-updated: 2022-06-19
+lastmod: 2022-06-19
 tags:
 - lowcarb
 - protein
