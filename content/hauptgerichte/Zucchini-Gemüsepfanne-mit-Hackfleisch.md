@@ -1,24 +1,29 @@
 ---
 date: 2014-09-19
+lastmod: 2022-06-22
 tags:
 - lowcarb
+- simple
 title: Zucchini Gemüsepfanne mit Hackfleisch
 ---
 
-## Zutaten für 4 Portionen
-- 500 g Hackfleisch, gemischt
-- 1 Zwiebeln
+![](/img/Zucchini-Gemüsepfanne-mit-Hackfleisch.jpg)
+
+## Zutaten für 2 Portionen
+- 1 Zwiebel
 - 2 Zehen Knoblauch
+- 1 EL Olivenöl
+- 500 g Hackfleisch, gemischt
 - 1 Zucchini
 - 3 Tomaten
-- 125 ml Brühe
-- 1 EL Olivenöl
 - 1 EL Tomatenmark
 - Salz und Pfeffer
 - Paprikapulver
-- evtl. Schafskäse
+- 75g Schafskäse
 
 ## Zubereitung
-Zwiebel würfeln, Knoblauch zerdrücken. Olivenöl in einer Pfanne erhitzen und das Hackfleisch zusammen mit Zwiebel und Knoblauch darin anbraten.
-
-Zucchini waschen, würfeln. Tomaten waschen, den Stielansatz entfernen und ebenfalls würfeln. Beides zu dem Hack geben und ca. 10 Minuten mitdünsten lassen. Dann Tomatenmark und Brühe hinzugeben. Nach Geschmack würzen und zum Schluss zerbröselten Schafskäse hinzugeben.
+1. Zwiebel und Knoblauch abziehen, Zwiebel würfeln, Knoblauch zerdrücken.
+1. Olivenöl in einer Pfanne erhitzen und das Hackfleisch zusammen mit Zwiebel und Knoblauch darin anbraten.
+1. Zucchini waschen, würfeln. Tomaten waschen, den Stielansatz entfernen und ebenfalls würfeln. 1. Gemüse zum Hack geben, Hitze reduzieren und ca. 10 Minuten mitdünsten lassen.
+1. Tomatenmark hinzugeben und nach Geschmack würzen.
+1. Zum Schluss den zerbröselten Schafskäse hinzugeben.
