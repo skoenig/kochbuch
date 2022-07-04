@@ -2,7 +2,7 @@
 date: 2014-02-19
 tags:
 - lowcarb
-title: Rotkohlsalat mit Speck
+title: Rotkohl mit Speck
 ---
 
 ## Zutaten

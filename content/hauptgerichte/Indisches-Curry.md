@@ -31,4 +31,4 @@ Das Kokosöl in einem Topf erhitzen und das Hackfleisch darin anbraten. Ingwer, 
 
 Mit Crème Fraîche und 150 ml Wasser ablöschen und 20-30 Minuten bei mittlerer Hitze köcheln lassen. Mit Salz & Pfeffer abschmecken.
 
-Dazu passt gut [Raita]({{< ref "Raita" >}}) und [Naan-Brot]({{< ref "Oopsies" >}})
+Dazu passt [Raita]({{< ref "Raita" >}}) und Naan-Brot sehr gut.
