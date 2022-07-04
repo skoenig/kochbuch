@@ -1,16 +1,19 @@
 ---
 date: 2015-11-16
+lastmod: 2022-06-02
 tags:
 - lowcarb
 - highfat
 title: Gemüse Fladenbrot
 ---
 
+![](/img/Gemüse-Fladenbrot.jpg)
+
 ## Zutaten für 8 Stück
+- 80 g  Haselnüsse oder Walnüsse
+- 50 g  Sonnenblumenkerne
 - ½     Blumenkohl
 - 1     Karotte
-- 80 g  Haselnüsse oder Haselnussmehl
-- 50 g  Sonnenblumenkerne
 - 1½ EL Flohsamenschalen
 - 2 EL  Petersilie
 - 60 g  geriebener Käse
@@ -19,8 +22,8 @@ title: Gemüse Fladenbrot
 - 1 TL  Salz
 
 ## Zubereitung
-Den Backofen auf 200 ℃ vorheizen und ein Blech mit Backpapier auslegen.
-
-Blumenkohl und Karotte waschen und abtropfen lassen, beides kleinreiben. Die Nüsse und Sonnenblumenkerne in einer Küchenmaschine zu Mehl (oder besser gleich Haselnussmehl benutzen) verarbeiten und die restlichen Zutaten dazugeben.
-
-In der Küchenmaschine zu einem Teig verarbeiten und daraus 8 kleine, dicke Fladenbrote formen. Die Teigbatzen auf das Backpapier legen und im Ofen ca. 20 Minuten backen.
+1. Den Backofen auf 200 ℃ vorheizen und ein Blech mit Backpapier auslegen.
+1. Die Nüsse und Sonnenblumenkerne in einer Küchenmaschine zu Mehl verarbeiten.
+1. Blumenkohl und Karotte waschen und abtropfen lassen, beides in kleine Stücke schneiden und Portionsweise in der Küchenmaschine kleinhacken.
+1. Nach und nach die restlichen Zutaten in die Küchenmaschine geben, und alles zu einem Teig verarbeiten und daraus 8 kleine, dicke Fladenbrote formen.
+1. Die Teigbatzen auf das Backpapier legen und im Ofen ca. 20 Minuten backen.
