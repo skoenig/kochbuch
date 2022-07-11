@@ -8,10 +8,8 @@
 colorScheme: fire
 defaultAppearance: light
 autoSwitchAppearance: true
-showAppearanceSwitcher: false
 enableSearch: true
 enableCodeCopy: false
-showScrollToTop: true
 homepage:
   layout: page
   showRecent: false
@@ -35,6 +33,11 @@ list:
   showSummary: false
   showTableOfContents: false
   groupByYear: false
+header:
+  layout: hamburger
+footer:
+  showAppearanceSwitcher: false
+  showScrollToTop: true
 sitemap:
   excludedKinds:
     - taxonomy
