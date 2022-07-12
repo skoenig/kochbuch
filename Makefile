@@ -4,7 +4,7 @@
 all: serve
 
 .PHONY: serve
-serve: bin/hugo
+serve: bin/hugo themes/congo/theme.toml
 	bin/hugo server --disableFastRender
 
 .PHONY: test
@@ -30,5 +30,5 @@ bin/hugo: /tmp/hugo.tar.gz
 /tmp/hugo.tar.gz:
 	wget https://github.com/gohugoio/hugo/releases/download/v0.96.0/hugo_0.96.0_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
 
-update-theme:
-	git submodule update --remote --merge --depth 1
+themes/congo/theme.toml:
+	git submodule update --remote --init
