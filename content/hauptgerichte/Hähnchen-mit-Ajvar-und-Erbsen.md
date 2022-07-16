@@ -8,7 +8,7 @@ title: Hähnchen mit Ajvar und Erbsen
 ![](/img/Haehnchen-mit-Ajvar-und-Erbsen.jpg)
 
 ## Zutaten
-- 500g Hänchenschnitzel oder Hähnchenbrust
+- 500g Hähnchenschnitzel oder Hähnchenbrust
 - 1 EL Ajvar, möglichst dickflüssig
 - 1 grosse Zwiebel
 - 1 Dose Erbsen (375g)

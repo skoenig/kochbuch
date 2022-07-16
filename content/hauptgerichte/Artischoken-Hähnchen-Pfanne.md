@@ -11,7 +11,7 @@ title: Artischoken Hähnchen Pfanne
 
 ## Zutaten
 - 500g  eingelegte Artischocken
-- 400g  Hänchenfleisch
+- 400g  Hähnchenfleisch
 - 1     kleine Zwiebel
 - 2     Chilischoten
 - 2     Knoblauchzehen
