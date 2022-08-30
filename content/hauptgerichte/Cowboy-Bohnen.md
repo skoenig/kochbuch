@@ -1,6 +1,6 @@
 ---
 date: 2017-01-04
-lastmod: 2022-07-06
+lastmod: 2022-08-30
 tags:
 - lowcarb
 - simple
@@ -22,9 +22,9 @@ time required: 28 minutes
 - Paprikapulver
 - Salz & Pfeffer
 
-## Zubreitung
-1. Knoblauchzehen und Zwiebel abziehen, Zwiebel in Halbringe schneiden, Knoblauch zerdrücken.
-2. Chilischote klein hacken und mit Zwiebeln, Knoblauch und dem Öl in Topf langsam erhitzen.
+## Zubereitung
+1. Zwiebel und Knoblauchzehen abziehen, Zwiebel in Halbringe schneiden, Knoblauch zerdrücken.
+2. Chilischote klein hacken und mit Zwiebeln, Knoblauch und dem Öl in einem Topf langsam erhitzen.
 3. Speck oder Bacon hinzugeben und anbraten.
 4. Auf mittlere Hitze reduzieren, Bohnen mit in den Topf geben und ebenfalls leicht anbraten.
 5. Mit den Tomaten ablöschen und das Ganze nochmal für 10 Minuten köcheln lassen.
