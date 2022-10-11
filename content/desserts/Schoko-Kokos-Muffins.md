@@ -4,6 +4,7 @@ tags:
 - lowcarb
 - simple
 - veggie
+- protein
 title: Schoko Kokos Muffins
 ---
 

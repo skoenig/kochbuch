@@ -7,6 +7,7 @@ calories: '2040'
 carbohydrate: '184'
 protein: '116'
 time required: 25 minutes
+tags: protein
 
 ---
 
