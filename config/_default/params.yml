@@ -19,8 +19,9 @@ article:
   showAuthor: false
   showBreadcrumbs: true
   showDraftLabel: true
-  showEdit: false
+  showEdit: true
   editAppendPath: true
+  editURL: https://github.com/skoenig/cookhack/tree/master/content
   showHeadingAnchors: true
   showPagination: false
   invertPagination: false
