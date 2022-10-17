@@ -1,27 +1,30 @@
 ---
 date: 2020-03-15
-tags: []
+lastmod: 2022-10-17
+time required: 35 minutes
 title: Chinakohl Hackpfanne
 ---
 
 ## Zutaten für 2 Portionen
+
 - 125 g Langkornreis
-- 2 grosse Karotten
+- 2 große Karotten
 - ½ Chinakohl
 - 250 g Hackfleisch
 - 150 ml Gemüsebrühe
 - 3 Esslöffel Cashewkerne
 - Salz & Pfeffer
 - Currypaste
-- Chilipuler
+- Chilipulver
 - etwas Schmand
 - Öl für die Pfanne
 
 ## Zubereitung
-Den Reis im kochenden Salzwasser garen.
-Karotten schälen in dünne Scheiben schneiden, den Chinakohl in Streifen schneiden.
-Nun in einer Pfanne etwas Öl erhitzen und darin das Hackfleisch anbraten, mit Salz und Pfeffer würzen.
-Die Karotten zugeben, mit anbraten und dann mit der Brühe ablöschen und alles bei mittlerer Hitze köcheln lassen bis die Flüssigkeit fast verdampft ist.
-Den Chinakohl und die Cashewkerne zugeben und ca. 5 Minuten mitkochen lassen.
-Zum Schluß noch den abgetropften Reis, Currypaste und das Chilipulver zugeben und mit Salz und Pfeffer abschmecken.
-Auf einem Teller anrichten und den Schmand dazu reichen.
+
+1. Den Reis im kochenden Salzwasser garen.
+1. Karotten schälen und in dünne Scheiben schneiden, den Chinakohl in Streifen schneiden.
+1. In einer großen Pfanne oder Wok etwas Öl erhitzen und darin das Hackfleisch anbraten, mit Salz und Pfeffer würzen.
+1. Die Karotten zugeben mit anbraten.
+1. Den Chinakohl hinzugeben und mit Gemüsebrühe ablöschen und alles bei mittlerer Hitze köcheln lassen bis die Flüssigkeit fast verdampft ist.
+1. Zum Schluss noch den abgetropften Reis, Cashewkerne, Currypaste und das Chilipulver zugeben und mit Salz und Pfeffer abschmecken.
+1. Auf einem Teller anrichten und den Schmand dazu reichen.
