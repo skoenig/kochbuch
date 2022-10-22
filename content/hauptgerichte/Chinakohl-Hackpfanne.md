@@ -5,6 +5,8 @@ time required: 35 minutes
 title: Chinakohl Hackpfanne
 ---
 
+![](/img/chinakohl-hackpfanne.webp)
+
 ## Zutaten für 2 Portionen
 
 - 125 g Langkornreis
