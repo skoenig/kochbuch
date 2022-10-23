@@ -11,7 +11,7 @@ autoSwitchAppearance: true
 enableSearch: true
 enableCodeCopy: false
 homepage:
-  layout: page
+  layout: custom
   showRecent: false
 article:
   showDate: true
