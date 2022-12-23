@@ -1,5 +1,6 @@
 ---
-date: 2020-07-11
+date: 2016-01-10
+lastmod: 2022-12-18
 tags:
 - lowcarb
 - veggie
@@ -8,20 +9,21 @@ title: Salade Verte
 ---
 
 ## Zutaten für 4 Portionen
+![](/img/salade-verte-3.webp)
 ![](/img/salade-verte-2.jpg)
 ![](/img/salade-verte.jpg)
 ![](/img/salade-verte-mit-pulled-turkey.jpg)
 
-### Für den Salat:
+### Für den Salat
 - 300 g     Blattspinat
 - 150 g     Feldsalat
-- 3         grüne Paprikaschoten
+- 2         grüne Paprikaschoten
 
-### Dressing:
+### Dressing
 - 100 ml    Olivenöl
 - 50 ml     Wasser
 - 10        Mandeln (gestiftet oder gehobelt)
-- 1         Knoblauchzehe
+- ½         Knoblauchzehe
 - 12        Stengel Koriander
 - 6         Stengel breitblättrige Petersilie
 - 6         Stengel Minze
@@ -31,10 +33,8 @@ title: Salade Verte
 - 1 TL      Zucker
 
 ## Zubereitung
-Spinat und Salat abspülen und gut abtropfen lassen.
-
-Die Zutaten für das Dressing mit einem Pürierstab zu einer Marinade verrühren.
-
-Die grünen Paprikaschoten entkernen, in lange dünne Stäbchen schneiden und mit dem Salat und dem Dressing vermengen.
+1. Spinat und Salat abspülen und gut abtropfen lassen.
+2. Die grünen Paprikaschoten entkernen, in dünne Stäbchen schneiden und zum Salat geben.
+3. Die Zutaten für das Dressing mit einem Pürierstab vermengen und unterheben.
 
 Passt sehr gut zu Pulled Turkey.
