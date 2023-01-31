@@ -1,8 +1,8 @@
 ---
+title: Rotkohl mit Speck
 date: 2014-02-19
 tags:
 - lowcarb
-title: Rotkohl mit Speck
 ---
 
 ## Zutaten

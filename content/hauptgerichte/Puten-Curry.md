@@ -1,8 +1,8 @@
 ---
+title: Puten Curry
 date: 2016-12-19
 tags:
 - lowcarb
-title: Puten Curry
 ---
 
 ![](/img/puten-curry.jpg)

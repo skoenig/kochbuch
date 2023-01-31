@@ -1,9 +1,9 @@
 ---
+title: Schichtkohl mit Hackfleisch
 date: 2019-05-12
 tags:
 - lowcarb
 - simple
-title: Schichtkohl mit Hackfleisch
 ---
 
 Schichtkohl Rezepte sind simpel und schnell zubereitet und können beliebig variiert werden. Eine Variation von diesem Rezept ist zum Beispiel [schichtkohl-mit-blutwurst].

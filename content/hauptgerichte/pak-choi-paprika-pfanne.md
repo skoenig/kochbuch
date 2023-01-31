@@ -1,10 +1,9 @@
 ---
-date: '2022-02-19'
-servings: '2'
-tags: simple
-time requireed: 15 minutes
 title: Pak Choi Paprika Pfanne
-
+date: '2022-02-19'
+servings: 2
+tags: simple
+cookTime: PT15M
 ---
 
 ## Zutaten

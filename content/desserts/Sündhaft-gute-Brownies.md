@@ -1,10 +1,10 @@
 ---
+title: Sündhaft gute Brownies
 date: 2015-10-11
 tags:
 - lowcarb
 - highfat
 - veggie
-title: Sündhaft gute Brownies
 ---
 
 ![](/img/suendhaft-gute-brownies.jpg)

@@ -1,10 +1,10 @@
 ---
+title: Zucchini Gemüsepfanne mit Hackfleisch
 date: 2014-09-19
 lastmod: 2022-06-22
 tags:
 - lowcarb
 - simple
-title: Zucchini Gemüsepfanne mit Hackfleisch
 ---
 
 ![](/img/Zucchini-Gemüsepfanne-mit-Hackfleisch.jpg)

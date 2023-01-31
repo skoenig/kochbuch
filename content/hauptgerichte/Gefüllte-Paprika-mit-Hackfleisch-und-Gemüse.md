@@ -1,8 +1,8 @@
 ---
+title: Gefüllte Paprika mit Hackfleisch und Gemüse
 date: 2015-03-15
 tags:
 - lowcarb
-title: Gefüllte Paprika mit Hackfleisch und Gemüse
 ---
 
 ## Zutaten für 4 Portionen

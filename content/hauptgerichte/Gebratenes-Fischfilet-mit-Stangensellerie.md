@@ -1,8 +1,8 @@
 ---
+title: Gebratenes Fischfilet mit Stangensellerie
 date: 2017-02-14
 tags:
 - lowcarb
-title: Gebratenes Fischfilet mit Stangensellerie
 ---
 
 Das hier ist ein einfaches Gericht für Fischfiletes mit Strangensellerie (Pad Plah Keun Chai) - dazu passt [Blumenkohlreis]({{< ref "Blumenkohlreis" >}}) sehr gut.

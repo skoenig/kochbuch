@@ -1,11 +1,11 @@
 ---
+title: Teufelseier mit Avocado
 date: 2017-08-16
 tags:
 - lowcarb
 - highfat
 - simple
 - veggie
-title: Teufelseier mit Avocado
 ---
 
 Ideal als Partysnack oder Fingerfood, kann man auch [/snacks-und-shakes/Teufelseier-mit-Thunfischfüllung] zubereiten.

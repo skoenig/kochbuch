@@ -1,9 +1,9 @@
 ---
+title: Zimtpfannkuchen mit Kokos
 date: 2015-06-23
 tags:
 - lowcarb
 - highfat
-title: Zimtpfannkuchen mit Kokos
 ---
 
 ## Zutaten für 1 Portion

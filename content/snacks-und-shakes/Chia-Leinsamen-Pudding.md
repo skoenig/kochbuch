@@ -1,11 +1,11 @@
 ---
+title: Chia Leinsamen Pudding
 date: 2016-02-11
 tags:
 - lowcarb
 - highfat
 - paleo
 - veggie
-title: Chia Leinsamen Pudding
 ---
 
 ![](/img/chia-leinsamen-pudding.jpg)

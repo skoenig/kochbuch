@@ -1,8 +1,8 @@
 ---
+title: Putenschnitzel mit Salami überbacken
 date: 2016-06-30
 tags:
 - lowcarb
-title: Putenschnitzel mit Salami überbacken
 ---
 
 ![](/img/putenschnitzel-mit-salami-ueberbacken.jpg)

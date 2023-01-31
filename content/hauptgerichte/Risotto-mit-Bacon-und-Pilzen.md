@@ -1,9 +1,9 @@
 ---
+title: Risotto mit Bacon und Pilzen
 date: 2015-10-23
 tags:
 - lowcarb
 - highfat
-title: Risotto mit Bacon und Pilzen
 ---
 
 ![](/img/risotto-mit-bacon-und-pilzen.jpg)

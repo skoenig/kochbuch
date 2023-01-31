@@ -1,8 +1,8 @@
 ---
+title: Puten Erdnuss Wok
 date: 2015-10-05
 tags:
 - lowcarb
-title: Puten Erdnuss Wok
 ---
 
 ## Zutaten für 2 Portionen

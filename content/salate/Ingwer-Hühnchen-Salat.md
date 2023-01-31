@@ -1,9 +1,9 @@
 ---
+title: Ingwer Hühnchen Salat
 date: 2020-10-31
 tags:
 - lowcarb
 - simple
-title: Ingwer Hühnchen Salat
 ---
 
 ![](/img/Ingwer-Huehnchen-Salat.jpg)

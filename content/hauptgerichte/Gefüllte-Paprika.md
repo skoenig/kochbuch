@@ -1,8 +1,8 @@
 ---
+title: Gefüllte Paprika
 date: 2019-05-31
 tags:
 - lowcarb
-title: Gefüllte Paprika
 ---
 
 ![](/img/Gefuellte-Paprika.jpg)

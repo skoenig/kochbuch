@@ -1,13 +1,12 @@
 ---
 title: Schnelle Linsensuppe
-time required: 25 minutes
-image: https://images.lecker.de/,id=a60d8763,b=lecker,w=610,cg=c.jpg
-carbohydrate: '204'
-calories: '2640'
+cookTime: PT25M
 date: '2022-02-15'
-fat: '132'
-protein: '140'
-servings: '4'
+carbohydrate: 204
+calories: 2640
+fat: 132
+protein: 140
+servings: 4
 
 ---
 

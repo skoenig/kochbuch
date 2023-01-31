@@ -1,9 +1,9 @@
 ---
+title: Auberginenrollen mit Walnussfarce
 date: 2015-10-18
 tags:
 - lowcarb
 - highfat
-title: Auberginenrollen mit Walnussfarce
 ---
 
 ![](/img/auberginenrollen-mit-walnussfarce.jpg)

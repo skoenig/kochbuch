@@ -1,9 +1,9 @@
 ---
+title: Auberginen a la Napoli
 date: 2021-02-10
 lastmod: 2022-07-21
 tags:
 - lowcarb
-title: Auberginen a la Napoli
 ---
 
 ![](/img/auberginen-la-napoli.jpg)

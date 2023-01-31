@@ -1,13 +1,13 @@
 ---
-title: "Blumenkohlpüree mit Hackfleisch Topping"
+title: 'Blumenkohlpüree mit Hackfleisch Topping'
 date: '2022-04-03'
 lastmod: '2022-11-25'
-servings: '4'
-calories: '1920'
-fat: '128'
-carbohydrate: '56'
-protein: '116'
-time required: 30 minutes
+servings: 4
+calories: 1920
+fat: 128
+carbohydrate: 56
+protein: 116
+cookTime: PT30M
 ---
 
 ![](/img/blumenkohlpueree-mit-hackfleisch-topping.webp)

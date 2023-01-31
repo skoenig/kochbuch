@@ -1,9 +1,9 @@
 ---
+title: Hähnchen in cremiger Erdnusssauce
 date: 2019-04-04
 tags:
 - lowcarb
 - highfat
-title: Hähnchen in cremiger Erdnusssauce
 ---
 
 ![](/img/Haehnchen-in-cremiger-Erdnusssauce.jpg)

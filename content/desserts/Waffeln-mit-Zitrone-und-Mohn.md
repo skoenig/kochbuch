@@ -1,9 +1,9 @@
 ---
+title: Waffeln mit Zitrone und Mohn
 date: 2018-05-20
 tags:
 - lowcarb
 - highfat
-title: Waffeln mit Zitrone und Mohn
 ---
 
 ![](/img/Waffeln-mit-Zitrone-und-Mohn.jpg)

@@ -1,8 +1,8 @@
 ---
+title: Weißkohl Kartoffel Eintopf
 date: 2022-01-30
 tags:
 - simple
-title: Weißkohl Kartoffel Eintopf
 ---
 
 ## Zutaten für 4 Portionen

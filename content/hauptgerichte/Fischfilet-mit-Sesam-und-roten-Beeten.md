@@ -1,9 +1,9 @@
 ---
+title: Fischfilet mit Sesam und roten Beeten
 date: 2021-02-28
 tags:
 - lowcarb
 - highfat
-title: Fischfilet mit Sesam und roten Beeten
 ---
 
 ## Zutaten für 4 Portionen

@@ -1,9 +1,9 @@
 ---
+title: Eiweissreiche Brunch Pfannkuchen
 date: 2015-05-03
 tags:
 - lowcarb
 - highfat
-title: Eiweissreiche Brunch Pfannkuchen
 ---
 
 ![](/img/eiweissreiche-brunch-pfannkuchen.jpg)

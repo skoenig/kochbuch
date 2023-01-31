@@ -1,9 +1,9 @@
 ---
+title: Cremiges Kichererbsen Curry
 date: 2021-04-03
 tags:
 - lowcarb
 - simple
-title: Cremiges Kichererbsen Curry
 ---
 
 ## Zutaten für 2 Portionen

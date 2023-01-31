@@ -1,10 +1,10 @@
 ---
+title: Rührei Variationen
 date: 2015-05-03
 lastmod: 2022-08-13
 tags:
 - simple
 - lowcarb
-title: Rührei Variationen
 ---
 
 Rührei ist so simpel, wie nur irgend ein Rezept sein kann. Trotzdem ist es super kombinierbar und kann beliebig variiert werden.

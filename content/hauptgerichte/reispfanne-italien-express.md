@@ -1,10 +1,8 @@
 ---
-tags: simple
 title: Reispfanne Italien Express
+tags: simple
 date: '2022-05-05'
-servings: '2'
-source: https://www.lecker.de/reispfanne-italien-express-77597.html
-
+servings: 2
 ---
 
 ## Zutaten

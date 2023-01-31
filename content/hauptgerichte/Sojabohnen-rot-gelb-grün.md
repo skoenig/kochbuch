@@ -1,9 +1,9 @@
 ---
+title: Sojabohnen rot gelb grün
 date: 2014-03-02
 tags:
 - lowcarb
 - vegan
-title: Sojabohnen rot gelb grün
 ---
 
 ## Zutaten

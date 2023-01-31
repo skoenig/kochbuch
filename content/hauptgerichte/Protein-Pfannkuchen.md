@@ -1,8 +1,8 @@
 ---
+title: Protein Pfannkuchen
 date: 2015-09-19
 tags:
 - lowcarb
-title: Protein Pfannkuchen
 ---
 
 ## Zutaten für 2 Pfannkuchen

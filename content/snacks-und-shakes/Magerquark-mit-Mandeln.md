@@ -1,9 +1,9 @@
 ---
+title: Magerquark mit Mandeln
 date: 2015-09-26
 tags:
 - lowcarb
 - highfat
-title: Magerquark mit Mandeln
 ---
 
 ## Zutaten für 4 Portionen

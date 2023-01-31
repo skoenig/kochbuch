@@ -1,9 +1,9 @@
 ---
+title: Spinat mit Bohnen und Ei
 date: 2015-05-02
 tags:
 - lowcarb
 - simple
-title: Spinat mit Bohnen und Ei
 ---
 
 ## Zutaten

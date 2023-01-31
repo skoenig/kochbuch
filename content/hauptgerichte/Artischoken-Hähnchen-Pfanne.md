@@ -1,9 +1,9 @@
 ---
+title: Artischoken Hähnchen Pfanne
 date: 2016-03-14
 tags:
 - lowcarb
 - paleo
-title: Artischoken Hähnchen Pfanne
 ---
 
 ![](/img/artischoken-haehnchen-pfanne-1.jpg)

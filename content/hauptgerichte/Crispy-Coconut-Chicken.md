@@ -1,9 +1,9 @@
 ---
+title: Crispy Coconut Chicken
 date: 2020-07-08
 tags:
 - lowcarb
 - paleo
-title: Crispy Coconut Chicken
 ---
 
 ![](/img/crispy-coconut-chicken.jpg)

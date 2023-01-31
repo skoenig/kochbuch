@@ -1,9 +1,9 @@
 ---
+title: Mandel Kakao Muffins
 date: 2019-03-28
 tags:
 - lowcarb
 - veggie
-title: Mandel Kakao Muffins
 ---
 
 ## Zutaten für 8 Muffins

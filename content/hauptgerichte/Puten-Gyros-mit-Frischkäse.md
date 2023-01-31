@@ -1,6 +1,6 @@
 ---
-date: 2018-05-06
 title: Puten Gyros mit Frischkäse
+date: 2018-05-06
 ---
 
 ## Zutaten für 1 Portion

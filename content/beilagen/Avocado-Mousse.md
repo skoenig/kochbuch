@@ -1,10 +1,10 @@
 ---
+title: Avocado Mousse
 date: 2015-04-25
 tags:
 - lowcarb
 - veggie
 - vegan
-title: Avocado Mousse
 ---
 
 ## Zutaten

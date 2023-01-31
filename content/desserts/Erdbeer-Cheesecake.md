@@ -1,11 +1,11 @@
 ---
+title: Erdbeer Cheesecake
 date: 2016-01-08
 lastmod: 2022-05-21
 tags:
 - lowcarb
 - highfat
 - veggie
-title: Erdbeer Cheesecake
 ---
 
 ![](/img/erdbeer-cheesecake.jpg)

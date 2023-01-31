@@ -1,8 +1,8 @@
 ---
+title: Khlav Kalash
 date: 2016-03-03
 tags:
 - lowcarb
-title: Khlav Kalash
 ---
 
 ![](/img/khlav-kalash-1.jpg)

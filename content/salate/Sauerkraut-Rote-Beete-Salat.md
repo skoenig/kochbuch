@@ -1,10 +1,10 @@
 ---
+title: Sauerkraut Rote Beete Salat
 date: 2016-12-07
 tags:
 - lowcarb
 - veggie
 - vegan
-title: Sauerkraut Rote Beete Salat
 ---
 
 ## Zutaten für 4 Portionen

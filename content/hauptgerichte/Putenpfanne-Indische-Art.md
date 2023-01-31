@@ -1,8 +1,8 @@
 ---
+title: Putenpfanne Indische Art
 date: 2020-03-07
 tags:
 - lowcarb
-title: Putenpfanne Indische Art
 ---
 
 ![](/img/Putenpfanne-Indische-Art.jpg)

@@ -1,10 +1,10 @@
 ---
+title: Avocadosalat mit Bacon und Walnüssen
 date: 2017-01-11
 tags:
 - lowcarb
 - highfat
 - simple
-title: Avocadosalat mit Bacon und Walnüssen
 ---
 
 ## Zutaten für 2 Portionen

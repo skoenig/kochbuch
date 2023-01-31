@@ -1,9 +1,9 @@
 ---
+title: Gemüseauflauf mit Feta und Schmand
 date: 2015-04-25
 tags:
 - veggie
 - lowcarb
-title: Gemüseauflauf mit Feta und Schmand
 ---
 
 ## Zutaten

@@ -1,8 +1,8 @@
 ---
+title: Karibische Linsensuppe mit Chinakohl
 date: 2020-03-17
 tags:
 - veggie
-title: Karibische Linsensuppe mit Chinakohl
 ---
 
 ## Zutaten für 4 Portionen

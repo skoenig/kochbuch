@@ -1,8 +1,8 @@
 ---
-servings: '6'
-time required: 35 minutes
-date: '2022-02-18'
 title: Low Carb Muffins
+servings: 6
+cookTime: PT35M
+date: '2022-02-18'
 
 ---
 

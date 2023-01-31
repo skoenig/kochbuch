@@ -1,9 +1,9 @@
 ---
+title: Eier en Cocotte
 date: 2018-07-23
 tags:
 - lowcarb
 - highfat
-title: Eier en Cocotte
 ---
 
 ![](/img/eier-en-cocotte.jpg)

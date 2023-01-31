@@ -1,11 +1,11 @@
 ---
+title: Protein Pudding
 date: '2022-01-29'
-time required: 5 minutes
-servings: '1'
+cookTime: PT5M
+servings: 1
 tags:
 - simple
 - protein
-title: Protein Pudding
 
 ---
 

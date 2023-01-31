@@ -1,10 +1,10 @@
 ---
+title: Shakshuka
 date: 2020-08-04
 tags:
 - lowcarb
 - simple
 - veggie
-title: Shakshuka
 ---
 
 Ein klassisches und einfaches Eiergericht mit vielen Variationsmöglichkeiten.

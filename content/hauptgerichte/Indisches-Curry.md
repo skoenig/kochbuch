@@ -1,9 +1,9 @@
 ---
+title: Indisches Curry
 date: 2017-05-30
 tags:
 - lowcarb
 - highfat
-title: Indisches Curry
 ---
 
 ![](/img/Indisches-Curry.jpg)

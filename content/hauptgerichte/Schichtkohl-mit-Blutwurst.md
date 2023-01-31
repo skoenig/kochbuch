@@ -1,9 +1,9 @@
 ---
+title: Schichtkohl mit Blutwurst
 date: 2020-08-30
 tags:
 - lowcarb
 - simple
-title: Schichtkohl mit Blutwurst
 ---
 
 Ein ähnlich einfaches und leckeres Rezept wie [schichtkohl-mit-hackfleisch], allerdings wird hier Blutwurst verwendet.

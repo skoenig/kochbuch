@@ -1,12 +1,12 @@
 ---
+title: Teutonenpfanne
 date: 2018-06-02
 lastmod: 2023-01-02
-time required: 17 minutes
+cookTime: PT17M
 tags:
 - lowcarb
 - eier
 - simple
-title: Teutonenpfanne
 ---
 
 ![](/img/Teutonenpfanne.webp)

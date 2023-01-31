@@ -1,10 +1,10 @@
 ---
+title: Eiersalat mit Avocado und Curry
 date: 2016-02-17
 tags:
 - lowcarb
 - highfat
 - veggie
-title: Eiersalat mit Avocado und Curry
 ---
 
 ![](/img/eiersalat-mit-avocado-und-curry.jpg)

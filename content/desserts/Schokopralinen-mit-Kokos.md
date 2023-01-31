@@ -1,9 +1,9 @@
 ---
+title: Schokopralinen mit Kokos
 date: 2016-06-29
 tags:
 - lowcarb
 - highfat
-title: Schokopralinen mit Kokos
 ---
 
 ![](/img/schokopralinen-mit-kokos-1.jpg)

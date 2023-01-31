@@ -1,9 +1,9 @@
 ---
+title: Rote Linsen Salat mit Tomaten
 date: 2014-02-23
 tags:
 - veggie
 - vegan
-title: Rote Linsen Salat mit Tomaten
 ---
 
 ## Zutaten

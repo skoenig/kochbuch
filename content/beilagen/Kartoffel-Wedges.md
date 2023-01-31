@@ -1,8 +1,8 @@
 ---
+title: Kartoffel Wedges
 date: 2019-03-19
 tags:
 - veggie
-title: Kartoffel Wedges
 ---
 
 ## Zutaten

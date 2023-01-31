@@ -1,9 +1,9 @@
 ---
+title: Linsen Aglio, Olio e Peperoncino
 date: 2014-06-15
 lastmod: 2023-01-05
 tags:
 - lowcarb
-title: Linsen Aglio, Olio e Peperoncino
 ---
 
 Das hier ist eine Kohlehydrat-reduzierte Variante des italienischen Pasta-Klassikers, der nach Belieben mit einer Vielzahl von weiteren Zutaten wie Gambas, Pilzen, und Salsiccia variiert werden kann. Hier ist das puristische Grundrezept.

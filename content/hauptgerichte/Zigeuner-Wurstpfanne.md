@@ -1,8 +1,8 @@
 ---
+title: Zigeuner Wurstpfanne
 date: 2019-05-07
 tags:
 - simple
-title: Zigeuner Wurstpfanne
 ---
 
 ![](/img/Zigeuner-Wurstpfanne.jpg)

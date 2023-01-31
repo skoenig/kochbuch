@@ -1,9 +1,9 @@
 ---
+title: Blumenkohlpüree
 date: 2016-06-19
 tags:
 - lowcarb
 - highfat
-title: Blumenkohlpüree
 ---
 
 ## Zutaten für 4 Portionen

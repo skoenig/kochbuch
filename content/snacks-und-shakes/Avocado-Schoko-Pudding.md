@@ -1,9 +1,9 @@
 ---
+title: Avocado Schoko Pudding
 date: 2018-07-05
 tags:
 - lowcarb
 - veggie
-title: Avocado Schoko Pudding
 ---
 
 ![](/img/avocado-schoko-pudding-1.jpg)

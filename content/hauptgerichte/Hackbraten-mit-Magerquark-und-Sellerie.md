@@ -1,10 +1,10 @@
 ---
+title: Hackbraten mit Magerquark und Sellerie
 date: 2016-01-13
 tags:
 - lowcarb
 - highfat
 - paleo
-title: Hackbraten mit Magerquark und Sellerie
 ---
 
 ![](/img/hackbraten-mit-magerquark-und-sellerie.jpg)

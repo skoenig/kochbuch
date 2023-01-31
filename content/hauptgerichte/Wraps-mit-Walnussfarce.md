@@ -1,9 +1,9 @@
 ---
+title: Wraps mit Walnussfarce
 date: 2015-06-30
 tags:
 - lowcarb
 - highfat
-title: Wraps mit Walnussfarce
 ---
 
 ## Zutaten für 2 Portionen

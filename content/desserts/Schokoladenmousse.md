@@ -1,9 +1,9 @@
 ---
+title: Schokoladenmousse
 date: 2018-05-26
 tags:
 - lowcarb
 - highfat
-title: Schokoladenmousse
 ---
 
 ![](/img/Schokoladenmousse.jpg)

@@ -1,9 +1,9 @@
 ---
+title: Mayonnaise Varianten
 date: 2015-11-19
 tags:
 - lowcarb
 - highfat
-title: Mayonnaise Varianten
 ---
 
 Hier sind einige Mayonnaise-Varianten vorgestellt, die Grundzutat ist immer 250 g Mayonnaise.

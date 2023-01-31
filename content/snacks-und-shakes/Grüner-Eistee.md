@@ -1,6 +1,6 @@
 ---
-date: 2015-04-15
 title: Grüner Eistee
+date: 2015-04-15
 ---
 
 ## Zutaten

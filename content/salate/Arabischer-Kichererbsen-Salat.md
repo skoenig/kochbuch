@@ -1,10 +1,10 @@
 ---
+title: Arabischer Kichererbsen Salat
 date: 2021-05-26
 tags:
 - lowcarb
 - simple
 - veggie
-title: Arabischer Kichererbsen Salat
 ---
 
 ![](/img/Arabischer-Kichererbsen-Salat.jpg)

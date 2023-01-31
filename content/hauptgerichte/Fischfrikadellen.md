@@ -1,9 +1,9 @@
 ---
+title: Fischfrikadellen
 date: 2019-05-28
 tags:
 - lowcarb
 - highfat
-title: Fischfrikadellen
 ---
 
 ![](/img/Fischfrikadellen.jpg)

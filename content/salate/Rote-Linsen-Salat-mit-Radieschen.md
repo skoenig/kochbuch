@@ -1,6 +1,6 @@
 ---
-date: 2015-02-03
 title: Rote Linsen Salat mit Radieschen
+date: 2015-02-03
 ---
 
 ## Zutaten

@@ -1,11 +1,11 @@
 ---
+title: Salade Verte
 date: 2016-01-10
 lastmod: 2022-12-18
 tags:
 - lowcarb
 - veggie
 - paleo
-title: Salade Verte
 ---
 
 ## Zutaten für 4 Portionen

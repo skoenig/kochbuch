@@ -1,10 +1,10 @@
 ---
+title: Hähnchenpfanne mit Erbsen und Ajvar
 date: 2017-03-25
 lastmod: 2022-07-16
 tags:
 - lowcarb
 - simple
-title: Hähnchenpfanne mit Erbsen und Ajvar
 ---
 
 Dieses Rezept ist nicht nur lecker, sondern auch super-simpel: es besteht nur aus einer handvoll Zutaten, die einfach nacheinander in die Pfanne gegeben werden. Statt Hähnchen kann hier auch Hackfleisch oder Schweinegeschnetzeltes verwendet werden.

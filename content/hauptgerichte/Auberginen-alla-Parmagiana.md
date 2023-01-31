@@ -1,9 +1,9 @@
 ---
+title: Auberginen alla Parmagiana
 date: 2017-03-24
 tags:
 - lowcarb
 - highfat
-title: Auberginen alla Parmagiana
 ---
 
 ## Zutaten für 4 Portionen

@@ -1,9 +1,9 @@
 ---
+title: Bullet Proof Coffee Extended
 date: 2015-05-21
 tags:
 - lowcarb
 - highfat
-title: Bullet Proof Coffee Extended
 ---
 
 ## Zutaten

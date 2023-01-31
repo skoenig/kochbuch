@@ -1,11 +1,11 @@
 ---
+title: Cowboy Bohnen
 date: 2017-01-04
 lastmod: 2022-08-30
 tags:
 - lowcarb
 - simple
-title: Cowboy Bohnen
-time required: 28 minutes
+cookTime: PT28M
 ---
 
 ![](/img/bohnen-mit-speck.jpg)

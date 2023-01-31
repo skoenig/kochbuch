@@ -1,9 +1,9 @@
 ---
+title: Erdnuss Sellerie Suppe
 date: 2021-11-17
 tags:
 - lowcarb
 - highfat
-title: Erdnuss Sellerie Suppe
 ---
 
 ![](/img/erdnuss-sellerie-suppe.jpg)

@@ -1,8 +1,8 @@
 ---
+title: Chinakohl Hackpfanne
 date: 2020-03-15
 lastmod: 2022-10-17
-time required: 35 minutes
-title: Chinakohl Hackpfanne
+cookTime: PT35M
 ---
 
 ![](/img/chinakohl-hackpfanne.webp)

@@ -1,8 +1,8 @@
 ---
+title: Chicoree Pasta
 date: 2016-04-09
 tags:
 - paleo
-title: Chicoree Pasta
 ---
 
 ![](/img/chicoree-pasta.jpg)

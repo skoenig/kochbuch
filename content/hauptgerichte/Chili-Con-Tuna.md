@@ -1,8 +1,8 @@
 ---
+title: Chili Con Tuna
 date: 2016-10-26
 tags:
 - slowcarb
-title: Chili Con Tuna
 ---
 
 ## Zutaten für 2 Portionen

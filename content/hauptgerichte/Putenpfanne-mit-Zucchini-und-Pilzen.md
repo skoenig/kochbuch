@@ -1,8 +1,8 @@
 ---
+title: Putenpfanne mit Zucchini und Pilzen
 date: 2015-02-07
 tags:
 - lowcarb
-title: Putenpfanne mit Zucchini und Pilzen
 ---
 
 ![](/img/putenpfanne-mit-zucchini-und-pilzen.jpg)

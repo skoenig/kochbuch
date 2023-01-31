@@ -1,9 +1,9 @@
 ---
+title: Hähnchen in Tomatensauce mit Mascarpone
 date: 2016-03-23
 tags:
 - lowcarb
 - highfat
-title: Hähnchen in Tomatensauce mit Mascarpone
 ---
 
 ![](/img/haehnchen-in-tomatensauce-mit-mascarpone.jpg)

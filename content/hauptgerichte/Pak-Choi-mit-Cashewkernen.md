@@ -1,8 +1,8 @@
 ---
+title: Pak Choi mit Cashewkernen
 date: 2020-05-31
 tags:
 - lowcarb
-title: Pak Choi mit Cashewkernen
 ---
 
 ![](/img/Pak-Choi-mit-Cashewkernen.jpg)

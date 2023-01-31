@@ -1,9 +1,9 @@
 ---
+title: Geflügelsalat
 date: 2018-03-05
 tags:
 - lowcarb
 - highfat
-title: Geflügelsalat
 ---
 
 ![](/img/Gefluegelsalat.jpg)

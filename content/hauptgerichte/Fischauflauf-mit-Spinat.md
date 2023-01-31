@@ -1,9 +1,9 @@
 ---
+title: Fischauflauf mit Spinat
 date: 2016-03-16
 tags:
 - lowcarb
 - highfat
-title: Fischauflauf mit Spinat
 ---
 
 ![](/img/fischauflauf-mit-spinat.jpg)

@@ -1,9 +1,9 @@
 ---
+title: Grüner Ballaststoff Smoothie
 date: 2015-04-18
 tags:
 - lowcarb
 - highfat
-title: Grüner Ballaststoff Smoothie
 ---
 
 ## Zutaten

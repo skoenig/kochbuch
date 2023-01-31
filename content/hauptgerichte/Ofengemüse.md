@@ -1,8 +1,8 @@
 ---
+title: Ofengemüse
 date: 2020-06-24
 tags:
 - veggie
-title: Ofengemüse
 ---
 
 ![](/img/Ofengemuese-1.jpg)

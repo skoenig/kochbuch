@@ -1,8 +1,8 @@
 ---
+title: Gemischter Gemüsesalat mit Hähnchenbruststreifen
 date: 2015-09-23
 tags:
 - lowcarb
-title: Gemischter Gemüsesalat mit Hähnchenbruststreifen
 ---
 
 ## Zutaten für 2 Portionen

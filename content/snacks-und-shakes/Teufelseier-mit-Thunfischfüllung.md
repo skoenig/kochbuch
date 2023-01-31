@@ -1,10 +1,10 @@
 ---
+title: Teufelseier mit Thunfischfüllung
 date: 2015-04-29
 tags:
 - lowcarb
 - highfat
 - simple
-title: Teufelseier mit Thunfischfüllung
 ---
 
 Ideal als Partysnack oder Fingerfood, kann man auch [/snacks-und-shakes/Teufelseier-mit-Avocado] zubereiten.

@@ -1,8 +1,8 @@
 ---
+title: Blumenkohlsalat mit Ei
 date: 2015-09-22
 tags:
 - veggie
-title: Blumenkohlsalat mit Ei
 ---
 
 ## Zutaten für 2 Portionen

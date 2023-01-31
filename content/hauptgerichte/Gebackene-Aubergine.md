@@ -1,9 +1,9 @@
 ---
+title: Gebackene Aubergine
 date: 2017-07-08
 tags:
 - lowcarb
 - highfat
-title: Gebackene Aubergine
 ---
 
 ![](/img/Gebackene-Aubergine.jpg)

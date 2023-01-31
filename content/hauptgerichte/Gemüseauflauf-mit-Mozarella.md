@@ -1,9 +1,9 @@
 ---
+title: Gemüseauflauf mit Mozarella
 date: 2017-03-15
 tags:
 - veggie
 - lowcarb
-title: Gemüseauflauf mit Mozarella
 ---
 
 ## Zutaten für 3 Portionen

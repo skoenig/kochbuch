@@ -1,9 +1,9 @@
 ---
+title: Spinat Blumenkohl Curry
 date: 2020-02-12
 tags:
 - veggie
 - vegan
-title: Spinat Blumenkohl Curry
 ---
 
 ![](/img/Spinat-Blumenkohl-Curry.jpg)

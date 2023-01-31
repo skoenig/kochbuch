@@ -1,9 +1,9 @@
 ---
+title: Gefüllte Pfannkuchen
 date: 2017-03-01
 tags:
 - lowcarb
 - highfat
-title: Gefüllte Pfannkuchen
 ---
 
 ## Zutaten für 4 Portionen

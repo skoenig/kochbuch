@@ -1,7 +1,7 @@
 ---
+title: Schweinehack mit gebratenem Reis
 date: 2020-05-20
 tags: []
-title: Schweinehack mit gebratenem Reis
 ---
 
 ## Zutaten für 3 Portionen

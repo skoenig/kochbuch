@@ -1,13 +1,14 @@
 ---
-date: '2022-03-22'
-fat: '84'
 title: Chili Garnelen auf Quinoa Salat
-servings: '4'
-calories: '2040'
-carbohydrate: '184'
-protein: '116'
-time required: 25 minutes
-tags: protein
+date: '2022-03-22'
+fat: 84
+servings: 4
+calories: 2040
+carbohydrate: 184
+protein: 116
+cookTime: PT25M
+tags:
+- protein
 
 ---
 

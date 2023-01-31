@@ -1,6 +1,6 @@
 ---
-date: 2016-02-24
 title: Schellfisch mit Curry
+date: 2016-02-24
 ---
 
 ![](/img/schellfisch-mit-curry.jpg)

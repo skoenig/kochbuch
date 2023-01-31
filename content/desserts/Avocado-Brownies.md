@@ -1,8 +1,8 @@
 ---
+title: Avocado Brownies
 date: 2018-02-28
 tags:
 - veggie
-title: Avocado Brownies
 ---
 
 ![](/img/Avocado-Brownies.jpg)

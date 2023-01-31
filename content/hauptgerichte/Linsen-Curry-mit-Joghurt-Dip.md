@@ -1,9 +1,9 @@
 ---
+title: Linsen Curry mit Joghurt Dip
 date: 2020-10-28
 tags:
 - simple
 - veggie
-title: Linsen Curry mit Joghurt Dip
 ---
 
 ## Zutaten für 4 Portionen

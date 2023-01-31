@@ -1,8 +1,8 @@
 ---
+title: Rote Beete Walnuss Crumble
 date: 2022-01-02
 tags:
 - veggie
-title: Rote Beete Walnuss Crumble
 ---
 
 Dieses Crumble aus Walnüssen und Roter Beete passt super als Beilage zu Eiern, Salaten oder als Brotaufstrich.

@@ -1,10 +1,10 @@
 ---
+title: Bananenbrot
 date: 2016-12-08
 tags:
 - lowcarb
 - highfat
 - veggie
-title: Bananenbrot
 ---
 
 ![](/img/bananenbrot.jpg)

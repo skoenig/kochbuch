@@ -1,9 +1,9 @@
 ---
+title: Gebratener Thai Blumenkohlreis mit Schweinefleisch
 date: 2015-11-30
 tags:
 - lowcarb
 - highfat
-title: Gebratener Thai Blumenkohlreis mit Schweinefleisch
 ---
 
 ![](/img/gebratener-thai-blumenkohlreis-mit-schweinefleisch-1.jpg)

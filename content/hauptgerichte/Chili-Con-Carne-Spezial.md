@@ -1,8 +1,8 @@
 ---
+title: Chili Con Carne Spezial
 date: 2019-03-17
 tags:
 - slowcarb
-title: Chili Con Carne Spezial
 ---
 
 Das "Spezial" an dieser Chili Con Carne Variante ist das Kakaopulver bzw. die Herrenschokolade. Das scheint erst mal seltsam zu sein und nicht zu einem Fleischgericht zu passen, aber die Schoko-Note verbreitert zusammen mit dem Rotwein das Geschmacksspektrum.

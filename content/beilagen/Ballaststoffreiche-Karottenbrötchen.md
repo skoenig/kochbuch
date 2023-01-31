@@ -1,9 +1,9 @@
 ---
+title: Ballaststoffreiche Karottenbrötchen
 date: 2015-10-21
 tags:
 - lowcarb
 - highfat
-title: Ballaststoffreiche Karottenbrötchen
 ---
 
 ## Zutaten für 6 Stück

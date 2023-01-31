@@ -1,7 +1,7 @@
 ---
-time required: 10 minutes
 title: Spitzkohl-Apfel Salat
-servings: '6'
+cookTime: PT10M
+servings: 6
 date: '2022-02-27'
 
 ---

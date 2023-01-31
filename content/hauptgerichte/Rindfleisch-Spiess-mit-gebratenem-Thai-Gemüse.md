@@ -1,9 +1,9 @@
 ---
+title: Rindfleisch Spiess mit gebratenem Thai Gemüse
 date: 2015-10-08
 tags:
 - lowcarb
 - highfat
-title: Rindfleisch Spiess mit gebratenem Thai Gemüse
 ---
 
 ## Zutaten für 4 Portionen

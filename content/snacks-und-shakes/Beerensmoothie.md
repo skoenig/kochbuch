@@ -1,10 +1,10 @@
 ---
+title: Beerensmoothie
 date: 2015-06-22
 tags:
 - lowcarb
 - highfat
 - simple
-title: Beerensmoothie
 ---
 
 ## Zutaten

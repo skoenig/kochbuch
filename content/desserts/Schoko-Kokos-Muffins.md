@@ -1,11 +1,11 @@
 ---
+title: Schoko Kokos Muffins
 date: 2020-09-30
 tags:
 - lowcarb
 - simple
 - veggie
 - protein
-title: Schoko Kokos Muffins
 ---
 
 ## Zutaten für 6 Muffins

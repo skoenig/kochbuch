@@ -1,9 +1,9 @@
 ---
+title: Rote Linsen Salat mit Senf
 date: 2019-04-22
 tags:
 - slowcarb
 - veggie
-title: Rote Linsen Salat mit Senf
 ---
 
 ![](/img/Rote-Linsen-Salat-mit-Senf.jpg)

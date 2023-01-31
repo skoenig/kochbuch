@@ -1,9 +1,9 @@
 ---
+title: Quinoa mit Tomaten Spinat Paprika Pfanne
 date: 2020-12-19
 tags:
 - lowcarb
 - simple
-title: Quinoa mit Tomaten Spinat Paprika Pfanne
 ---
 
 ## Zutaten für 2 Portionen

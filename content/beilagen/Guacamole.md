@@ -1,11 +1,11 @@
 ---
+title: Guacamole
 date: 2015-05-03
 tags:
 - lowcarb
 - highfat
 - veggie
 - vegan
-title: Guacamole
 ---
 
 ## Zutaten für 4 Portionen
