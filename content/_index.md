@@ -3,7 +3,7 @@ title: Willkommen auf CookHack!
 abstract: "Simple Rezepte für Leute, die sich gesund, aber einfach und lecker ernähren wollen."
 ---
 
-![](img/food.jpg)
+![](img/food.webp)
 
 Diese Seite ist eine Sammlung von simplen Rezepten für Menschen, die sich gesund, aber trotzdem einfach und lecker ernähren wollen.
 

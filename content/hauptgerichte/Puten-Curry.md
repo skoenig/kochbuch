@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/puten-curry.jpg)
+![](/img/puten-curry.webp)
 
 ## Zutaten für 2 Portionen
 - 500g Pute oder Hühnchen

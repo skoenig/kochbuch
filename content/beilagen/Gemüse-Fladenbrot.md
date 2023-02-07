@@ -7,7 +7,7 @@ tags:
 - highfat
 ---
 
-![](/img/Gemüse-Fladenbrot.jpg)
+![](/img/gemüse-fladenbrot.webp)
 
 ## Zutaten für 8 Stück
 - 80 g  Haselnüsse oder Walnüsse

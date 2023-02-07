@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Haehnchen-in-cremiger-Erdnusssauce.jpg)
+![](/img/haehnchen-in-cremiger-erdnusssauce.webp)
 
 ## Zutaten für 4 Portionen
 - 600 g     Hähnchenbrustfilet

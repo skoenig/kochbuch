@@ -6,7 +6,7 @@ tags:
 - protein
 ---
 
-![](/img/Low-Carb-Cheesecake.jpg)
+![](/img/low-carb-cheesecake.webp)
 
 ## Zutaten
 - 1000g Quark

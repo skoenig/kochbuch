@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/eier-en-cocotte.jpg)
+![](/img/eier-en-cocotte.webp)
 
 ## Zutaten für 4 Stück
 - 200g  Frühstücksspeck

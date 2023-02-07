@@ -7,7 +7,7 @@ tags:
 ---
 
 <!--
-![](/img/Deftige-Pilzpfanne.jpg)
+![](/img/deftige-pilzpfanne.webp)
 -->
 
 ## Zutaten

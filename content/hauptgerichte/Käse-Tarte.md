@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/kaese-tarte.jpg)
+![](/img/kaese-tarte.webp)
 
 ## Zutaten für 4 Portionen
 - 2 EL  Sesam

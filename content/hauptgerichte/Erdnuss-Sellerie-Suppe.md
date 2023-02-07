@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/erdnuss-sellerie-suppe.jpg)
+![](/img/erdnuss-sellerie-suppe.webp)
 
 ## Zutaten für 4 Portionen
 - 1         Rote Zwiebel (ca. 120 g)

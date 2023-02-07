@@ -8,9 +8,9 @@ tags:
 - veggie
 ---
 
-![](/img/chia-leinsamen-pudding.jpg)
-![](/img/chia-leinsamen-pudding03.jpg)
-![](/img/chia-leinsamen-pudding04.jpg)
+![](/img/chia-leinsamen-pudding.webp)
+![](/img/chia-leinsamen-pudding03.webp)
+![](/img/chia-leinsamen-pudding04.webp)
 
 ## Zutaten
 - 3 EL      Leinsamen (~ 30 g)

@@ -9,7 +9,7 @@ tags:
 
 Dieses Rezept ist nicht nur lecker, sondern auch super-simpel: es besteht nur aus einer handvoll Zutaten, die einfach nacheinander in die Pfanne gegeben werden. Statt Hähnchen kann hier auch Hackfleisch oder Schweinegeschnetzeltes verwendet werden.
 
-![](/img/Haehnchen-mit-Ajvar-und-Erbsen.jpg)
+![](/img/haehnchen-mit-ajvar-und-erbsen.webp)
 
 ## Zutaten für 2 Portionen
 

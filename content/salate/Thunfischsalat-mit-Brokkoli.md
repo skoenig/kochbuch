@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/thunfischsalat-mit-brokkoli.jpg)
+![](/img/thunfischsalat-mit-brokkoli.webp)
 
 ## Zutaten
 - 350g  Brokkoli

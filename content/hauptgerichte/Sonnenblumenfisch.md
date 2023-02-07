@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/sonnenblumenfisch.jpg)
+![](/img/sonnenblumenfisch.webp)
 
 ## Zutaten für 4 Portionen
 - 650 g Pollak oder Schellfisch

@@ -21,7 +21,7 @@ tags:
 - 50 ml Balsamico
 - glattblättrige Petersilie
 
-![](/img/fischfilet-mit-sesam-und-roten-beeten.jpg)
+![](/img/fischfilet-mit-sesam-und-roten-beeten.webp)
 
 ## Zubereitung
 1. Backofen auf 200 Grad vorheizen und ein Backblech mit Backpapier auslegen

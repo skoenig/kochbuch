@@ -29,11 +29,11 @@ Das Öl in ein Glas oder eine Tasse geben, die Knoblauchzehe schälen und durch 
 
 Eine Auflaufform gut einfetten und den Backofen auf 225°C vorheizen.
 
-![](/img/Gemueseauflauf-mit-Mozarella-1.jpg)
+![](/img/gemueseauflauf-mit-mozarella-1.webp)
 Nun das vorbereitete Gemüse in die Auflaufform geben. Den Boden mit der Mischung aus Karotten, Kohlrabi und Zwiebeln bedecken, kräftig mit Salz und frisch gemahlenem Pfeffer würzen und mit etwas Basilikum-Knoblauch-Öl beträufeln.
 
-![](/img/Gemueseauflauf-mit-Mozarella-2.jpg)
+![](/img/gemueseauflauf-mit-mozarella-2.webp)
 Dann Paprika, Zucchini und Tomaten gleichmäßig darüber verteilen, noch mal mit Pfeffer würzen und mit dem restlichen Basilikum-Knoblauch-Öl beträufeln.
 
 Zum Schluss den in Scheiben geschnittenen Mozzarella auf dem Auflauf verteilen und alles für 30-35 Minuten auf der mittleren Schiene backen.
-![](/img/Gemueseauflauf-mit-Mozarella-3.jpg)
+![](/img/gemueseauflauf-mit-mozarella-3.webp)

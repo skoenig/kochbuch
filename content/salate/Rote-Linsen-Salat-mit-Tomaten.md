@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Zutaten
-![](/img/rote-linsen-salat.jpg)
+![](/img/rote-linsen-salat.webp)
 
 - 150 g         Linsen, rote
 - 500 ml        Gemüsebrühe

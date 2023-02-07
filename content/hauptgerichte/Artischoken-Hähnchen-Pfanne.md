@@ -6,8 +6,8 @@ tags:
 - paleo
 ---
 
-![](/img/artischoken-haehnchen-pfanne-1.jpg)
-![](/img/artischoken-haehnchen-pfanne-2.jpg)
+![](/img/artischoken-haehnchen-pfanne-1.webp)
+![](/img/artischoken-haehnchen-pfanne-2.webp)
 
 ## Zutaten
 - 500g  eingelegte Artischocken

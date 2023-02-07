@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Gefuellte-Paprika.jpg)
+![](/img/gefuellte-paprika.webp)
 
 ## Zutaten für 2 Portionen
 - 1 größere Paprika

@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Putenpfanne-Indische-Art.jpg)
+![](/img/putenpfanne-indische-art.webp)
 
 ## Zutaten für 2 Portionen
 - 500g  Putenbrust

@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/raita.jpg)
+![](/img/raita.webp)
 
 ## Zutaten für 4 Portionen
 - 300g      griechischer Jogurt

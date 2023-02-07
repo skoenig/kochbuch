@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Zutaten für 3 Portionen
-![](/img/eiersalat.jpg)
+![](/img/eiersalat.webp)
 
 - 6     Eier
 - 500 g Magerquark

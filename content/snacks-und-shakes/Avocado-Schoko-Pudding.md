@@ -6,8 +6,8 @@ tags:
 - veggie
 ---
 
-![](/img/avocado-schoko-pudding-1.jpg)
-![](/img/avocado-schoko-pudding-2.jpg)
+![](/img/avocado-schoko-pudding-1.webp)
+![](/img/avocado-schoko-pudding-2.webp)
 
 ## Zutaten
 - 1      Avocado

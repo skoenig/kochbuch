@@ -6,8 +6,8 @@ tags:
 - highfat
 ---
 
-![](/img/gebratener-thai-blumenkohlreis-mit-schweinefleisch-1.jpg)
-![](/img/gebratener-thai-blumenkohlreis-mit-schweinefleisch-2.jpg)
+![](/img/gebratener-thai-blumenkohlreis-mit-schweinefleisch-1.webp)
+![](/img/gebratener-thai-blumenkohlreis-mit-schweinefleisch-2.webp)
 
 ## Zutaten für 2 Portionen
 - 600 g     Schweinefleisch

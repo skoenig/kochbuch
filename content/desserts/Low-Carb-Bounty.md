@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Low-Carb-Bounty.jpg)
+![](/img/low-carb-bounty.webp)
 
 ## Zutaten
 - 1 Dose    Kokosmilch (400 ml)

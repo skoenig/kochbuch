@@ -5,7 +5,7 @@ tags:
 - veggie
 ---
 
-![](/img/Ofengemuese-1.jpg)
+![](/img/ofengemuese-1.webp)
 
 ## Zutaten
 So ziemlich alle möglichen Gemüsesorten eignen sich. Obligatorisch sind neben dem Gemüse eigentlich nur Öl, Salz & Pfeffer.

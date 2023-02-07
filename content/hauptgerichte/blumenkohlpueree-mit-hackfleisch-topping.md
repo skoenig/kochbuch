@@ -1,7 +1,7 @@
 ---
 title: 'Blumenkohlpüree mit Hackfleisch Topping'
 date: '2022-04-03'
-lastmod: '2022-11-25'
+lastmod: '2023-01-18'
 servings: 4
 calories: 1920
 fat: 128

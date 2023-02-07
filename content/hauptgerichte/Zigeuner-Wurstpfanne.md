@@ -5,7 +5,7 @@ tags:
 - simple
 ---
 
-![](/img/Zigeuner-Wurstpfanne.jpg)
+![](/img/zigeuner-wurstpfanne.webp)
 
 ## Zutaten für 2 Portionen
 - 3     Paprika; z.B. rot, gelb und grün

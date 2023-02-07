@@ -6,8 +6,8 @@ tags:
 - highfat
 ---
 
-![](/img/schokopralinen-mit-kokos-1.jpg)
-![](/img/schokopralinen-mit-kokos-2.jpg)
+![](/img/schokopralinen-mit-kokos-1.webp)
+![](/img/schokopralinen-mit-kokos-2.webp)
 
 ## Zutaten für etwa 12 Stück
 - 100 g     dunkle Schokolade (> 80% Kakaoanteil)

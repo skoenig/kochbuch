@@ -1,12 +1,14 @@
 ---
 title: Spitzkohl-Apfel Salat
+date: 2022-02-27
 cookTime: PT10M
 servings: 6
-date: '2022-02-27'
-
+tags:
+- schnell
+- veggie
 ---
 
-## Zutaten
+## Zutaten für 6 Portionen
 - 1 EL Honig
 - 1 TL Zucker
 - 1 TL Salz

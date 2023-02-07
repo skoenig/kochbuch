@@ -7,7 +7,7 @@ tags:
 - veggie
 ---
 
-![](/img/eiersalat-mit-avocado-und-curry.jpg)
+![](/img/eiersalat-mit-avocado-und-curry.webp)
 
 ## Zutaten für 2 Portionen
 - 4 EL  Mayonnaise

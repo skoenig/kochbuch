@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Waffeln-mit-Zitrone-und-Mohn.jpg)
+![](/img/waffeln-mit-zitrone-und-mohn.webp)
 
 ## Zutaten für 8 Waffeln
 - 4         Eier

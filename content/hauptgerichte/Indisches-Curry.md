@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Indisches-Curry.jpg)
+![](/img/indisches-curry.webp)
 
 ## Zutaten für 4 Portionen
 - 600g      Lamm- oder Rinderhack

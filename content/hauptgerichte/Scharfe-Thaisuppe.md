@@ -6,8 +6,8 @@ tags:
 - highfat
 ---
 
-![](/img/scharfe-thaisuppe1.jpg)
-![](/img/scharfe-thaisuppe2.jpg)
+![](/img/scharfe-thaisuppe1.webp)
+![](/img/scharfe-thaisuppe2.webp)
 
 ## Zutaten für 4 Portionen
 - 3         große Karotten

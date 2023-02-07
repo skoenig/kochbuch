@@ -6,7 +6,7 @@ tags:
 - veggie
 ---
 
-![](/img/Gurkensalat.jpg)
+![](/img/gurkensalat.webp)
 
 ## Zutaten für 2 Portionen
 - 1     Salatgurke

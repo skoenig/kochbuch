@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/eiweissreiche-brunch-pfannkuchen.jpg)
+![](/img/eiweissreiche-brunch-pfannkuchen.webp)
 
 ## Zutaten
 

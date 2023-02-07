@@ -4,6 +4,7 @@ date: 2021-04-03
 tags:
 - lowcarb
 - simple
+- schnell
 ---
 
 ## Zutaten für 2 Portionen

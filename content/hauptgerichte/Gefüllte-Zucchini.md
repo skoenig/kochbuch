@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Gefuellte-Zucchini.jpg)
+![](/img/gefuellte-zucchini.webp)
 
 ## Zutaten für 3 Portionen
 - 3 Zucchinis mittelgroß

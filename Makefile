@@ -35,3 +35,7 @@ bin/hugo: /tmp/hugo.tar.gz
 
 themes/congo/theme.toml:
 	git submodule update --remote --init
+
+static/img/%.webp: assets/%.jpg
+	exiftran -ai $<
+	cwebp -alpha_cleanup on -quiet -q 85 $< -o $@

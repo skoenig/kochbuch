@@ -15,8 +15,8 @@ Weitere Kombinationen: Tomaten, Paprika, Zucchini, Speck, Schinken, Avocado, Spi
 
 Kräuter und Gewürze: Schnittlauch, Petersilie, Basilikum.
 
-![](/img/ruehrei-mit-porree.jpg)
-![](/img/ruehrei-mit-schinken-und-champignons.jpg)
+![](/img/ruehrei-mit-porree.webp)
+![](/img/ruehrei-mit-schinken-und-champignons.webp)
 
 ## Zutaten
 - 3-4   Eier

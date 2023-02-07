@@ -5,7 +5,7 @@ tags:
 - paleo
 ---
 
-![](/img/chicoree-pasta.jpg)
+![](/img/chicoree-pasta.webp)
 
 ## Zutaten für 4 Portionen
 

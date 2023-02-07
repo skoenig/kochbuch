@@ -3,11 +3,12 @@ title: Arabischer Kichererbsen Salat
 date: 2021-05-26
 tags:
 - lowcarb
+- schnell
 - simple
 - veggie
 ---
 
-![](/img/Arabischer-Kichererbsen-Salat.jpg)
+![](/img/arabischer-kichererbsen-salat.webp)
 
 ## Zutaten für 2 Portionen
 - 1 Dose Kichererbsen (400 g)

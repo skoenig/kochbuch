@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Zutaten
-![](/img/spinat-mit-bohnen-und-ei.jpg)
+![](/img/spinat-mit-bohnen-und-ei.webp)
 
 - 2 Eiklar, 1 Vollei
 - 2 Handvoll TK-Spinat

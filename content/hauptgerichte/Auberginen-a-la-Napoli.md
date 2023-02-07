@@ -6,7 +6,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/auberginen-la-napoli.jpg)
+![](/img/auberginen-la-napoli.webp)
 
 ## Zutaten für 2 Portionen
 - 600 g     Aubergine (2 Stück)

@@ -6,7 +6,7 @@ tags:
 - simple
 ---
 
-![](/img/Ingwer-Huehnchen-Salat.jpg)
+![](/img/ingwer-huehnchen-salat.webp)
 
 ## Zutaten für 2 Personen
 - 150g Blattsalat

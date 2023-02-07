@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Fischfrikadellen.jpg)
+![](/img/fischfrikadellen.webp)
 
 ## Zutaten für 2 Portionen
 

@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Zutaten für 2 Portionen
-![](/img/chili-con-tuna.jpg)
+![](/img/chili-con-tuna.webp)
 
 - 2 Dosen   Thunfisch in eigenem Saft a 150g
 - 1         mittelgroße Zwiebel gewürfelt

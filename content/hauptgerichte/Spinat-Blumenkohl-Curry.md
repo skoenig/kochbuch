@@ -6,7 +6,7 @@ tags:
 - vegan
 ---
 
-![](/img/Spinat-Blumenkohl-Curry.jpg)
+![](/img/spinat-blumenkohl-curry.webp)
 
 ## Zutaten für 4 Portionen
 - 2 Zwiebeln

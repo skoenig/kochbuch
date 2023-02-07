@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/blumenkohlpizza.jpg)
+![](/img/blumenkohlpizza.webp)
 
 ## Zutaten für 4 Portionen
 - 400 g     Blumenkohl

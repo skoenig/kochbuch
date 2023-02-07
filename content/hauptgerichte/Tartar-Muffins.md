@@ -9,7 +9,7 @@ tags:
 
 Diese Muffins sind eine einfache Alternative zu Frikadellen aus der Pfanne, dafür sollte auf jeden Fall Tartar bzw. Rinderhack genommen werden, Schweinehack verliert zuviel Flüssigkeit, was im Ofen eine Sauerei gibt. Zur Sicherheit am besten ein tiefes Backblech auf die unterste Schiene mit in den Ofen geben.
 
-![](/img/Tartar-Muffins.jpg)
+![](/img/tartar-muffins.webp)
 
 ## Zutaten
 - 350g Rinderhackfleisch / Tartar

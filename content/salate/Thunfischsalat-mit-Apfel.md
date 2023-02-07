@@ -4,10 +4,11 @@ date: 2015-09-26
 draft: false
 tags:
 - lowcarb
+- salat
 ---
 
 ## Zutaten
-![](/img/thunfischsalat-mit-apfel.jpg)
+![](/img/thunfischsalat-mit-apfel.webp)
 
 - 1     Dose Thunfisch
 - 100 g körniger Frischkäse (Cottage Cheese)

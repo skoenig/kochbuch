@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/risotto-mit-bacon-und-pilzen.jpg)
+![](/img/risotto-mit-bacon-und-pilzen.webp)
 
 ## Zutaten für 4 Portionen
 - 300 g     Bacon (Frühstücksspeck)

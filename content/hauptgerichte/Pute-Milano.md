@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Pute-Milano.jpg)
+![](/img/pute-milano.webp)
 
 ## Zutaten für 2 Portionen
 - 2 Putenschnitzel

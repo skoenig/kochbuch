@@ -10,9 +10,9 @@ tags:
 
 ## Zutaten für 4 Portionen
 ![](/img/salade-verte-3.webp)
-![](/img/salade-verte-2.jpg)
-![](/img/salade-verte.jpg)
-![](/img/salade-verte-mit-pulled-turkey.jpg)
+![](/img/salade-verte-2.webp)
+![](/img/salade-verte.webp)
+![](/img/salade-verte-mit-pulled-turkey.webp)
 
 ### Für den Salat
 - 300 g     Blattspinat

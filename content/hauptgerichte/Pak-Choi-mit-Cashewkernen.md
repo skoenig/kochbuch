@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Pak-Choi-mit-Cashewkernen.jpg)
+![](/img/pak-choi-mit-cashewkernen.webp)
 
 ## Zutaten für 2 Portionen
 - 400g  Pak Choi

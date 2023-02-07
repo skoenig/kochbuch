@@ -6,7 +6,7 @@ tags:
 - veggie
 ---
 
-![](/img/Tomatensalsa.jpg)
+![](/img/tomatensalsa.webp)
 
 ## Zutaten für 4 Portionen
 - 500 g     Tomaten

@@ -8,7 +8,7 @@ tags:
 cookTime: PT28M
 ---
 
-![](/img/bohnen-mit-speck.jpg)
+![](/img/bohnen-mit-speck.webp)
 
 ## Zutaten für 2 Portionen
 - 2 Knoblauchzehen

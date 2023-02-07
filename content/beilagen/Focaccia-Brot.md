@@ -6,7 +6,7 @@ tags:
 - veggie
 ---
 
-![](/img/Focaccia-Brot.jpg)
+![](/img/focaccia-brot.webp)
 
 ## Zutaten
 - 300 g     Hüttenkäse 4% Fett

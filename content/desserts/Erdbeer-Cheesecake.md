@@ -8,7 +8,7 @@ tags:
 - veggie
 ---
 
-![](/img/erdbeer-cheesecake.jpg)
+![](/img/erdbeer-cheesecake.webp)
 
 ## Zutaten für eine Torte
 - 300 g     Erdbeeren

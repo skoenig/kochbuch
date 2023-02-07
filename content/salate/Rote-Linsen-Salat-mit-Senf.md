@@ -6,7 +6,7 @@ tags:
 - veggie
 ---
 
-![](/img/Rote-Linsen-Salat-mit-Senf.jpg)
+![](/img/rote-linsen-salat-mit-senf.webp)
 
 ## Zutaten
 - 100 g    rote Linsen

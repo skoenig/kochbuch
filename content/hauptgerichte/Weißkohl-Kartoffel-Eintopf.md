@@ -1,6 +1,7 @@
 ---
 title: Weißkohl Kartoffel Eintopf
 date: 2022-01-30
+lastmod: 2022-09-06
 tags:
 - simple
 ---

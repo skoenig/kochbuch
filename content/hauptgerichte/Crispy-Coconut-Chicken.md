@@ -6,7 +6,7 @@ tags:
 - paleo
 ---
 
-![](/img/crispy-coconut-chicken.jpg)
+![](/img/crispy-coconut-chicken.webp)
 
 ## Zutaten
 - 500g Hähnchenbrust

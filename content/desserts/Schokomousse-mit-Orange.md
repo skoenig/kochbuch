@@ -7,7 +7,7 @@ tags:
 - highfat
 ---
 
-![](/img/schokomousse-mit-orange.jpg)
+![](/img/schokomousse-mit-orange.webp)
 
 ## Zutaten für 6 kleine Gläser
 - 150g dunkle Schokolade (~ 85% Kakaoanteil)

@@ -7,7 +7,7 @@ tags:
 - simple
 ---
 
-![](/img/Zucchini-Gemüsepfanne-mit-Hackfleisch.jpg)
+![](/img/zucchini-gemüsepfanne-mit-hackfleisch.webp)
 
 ## Zutaten für 2 Portionen
 - 1 Zwiebel

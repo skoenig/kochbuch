@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Zutaten
-![](/img/brokkolisalat.jpg)
+![](/img/brokkolisalat.webp)
 
 - Brokkoli
 - Schinken oder Speckwürfel

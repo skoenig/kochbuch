@@ -12,7 +12,7 @@ tags:
 
 Schichtkohl Rezepte sind simpel und schnell zubereitet und können beliebig variiert werden. Eine Variation von diesem Rezept ist zum Beispiel [Schichtkohl mit Blutwurst](/hauptgerichte/schichtkohl-mit-blutwurst/).
 
-![Schichtkohl mit Hackfleisch](/img/Schichtkohl-mit-Hackfleisch.jpg)
+![Schichtkohl mit Hackfleisch](/img/schichtkohl-mit-hackfleisch.webp)
 
 ## Zutaten für 4 Portionen
 - 1         große Zwiebel

@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/auberginenrollen-mit-walnussfarce.jpg)
+![](/img/auberginenrollen-mit-walnussfarce.webp)
 
 ## Zutaten für 4 Portionen
 - 2-3   große Auberginen

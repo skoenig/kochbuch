@@ -7,7 +7,7 @@ tags:
 - veggie
 ---
 
-![](/img/bananenbrot.jpg)
+![](/img/bananenbrot.webp)
 
 ## Zutaten
 - 100 g     Walnüsse

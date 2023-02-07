@@ -9,7 +9,7 @@ tags:
 - simple
 ---
 
-![](/img/Teutonenpfanne.webp)
+![](/img/teutonenpfanne.webp)
 
 ## Zutaten
 - 1-2 Paprikaschoten

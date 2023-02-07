@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Zutaten
-![](/img/rotkohlsalat.jpg)
+![](/img/rotkohlsalat.webp)
 
 - 1 Kopf    Rotkohl oder 1 Glas fertigen Rotkohl (550g)
 - 200 g     Schinkenspeck

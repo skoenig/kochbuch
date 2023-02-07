@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Garnelen-in-Petersiliensauce.jpg)
+![](/img/garnelen-in-petersiliensauce.webp)
 
 ## Zutaten für 1 Portion
 - 225g Garnelen Natur oder Provence

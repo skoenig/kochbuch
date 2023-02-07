@@ -5,8 +5,8 @@ tags:
 - lowcarb
 ---
 
-![](/img/khlav-kalash-1.jpg)
-![](/img/khlav-kalash-2.jpg)
+![](/img/khlav-kalash-1.webp)
+![](/img/khlav-kalash-2.webp)
 
 ## Zutaten für 2 Portionen
 - 3 rote Zwiebeln

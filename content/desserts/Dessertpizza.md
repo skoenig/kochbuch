@@ -7,7 +7,7 @@ tags:
 - veggie
 ---
 
-![](/img/dessertpizza.jpg)
+![](/img/dessertpizza.webp)
 
 ## Zutaten
 - 3         Eier

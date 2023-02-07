@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Lachssalat.jpg)
+![](/img/lachssalat.webp)
 
 ## Zutaten für 2 Portionen
 - 2 EL          Mayonnaise

@@ -3,6 +3,7 @@ title: Shakshuka
 date: 2020-08-04
 tags:
 - lowcarb
+- schnell
 - simple
 - veggie
 ---

@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Zutaten für 8 Muffins
-![](/img/low-carb-schokomuffins.jpg)
+![](/img/low-carb-schokomuffins.webp)
 
 - 3         Eier
 - 130 g     Magerquark

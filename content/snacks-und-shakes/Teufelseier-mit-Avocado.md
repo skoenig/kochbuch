@@ -10,8 +10,8 @@ tags:
 
 Ideal als Partysnack oder Fingerfood, kann man auch [/snacks-und-shakes/Teufelseier-mit-Thunfischfüllung] zubereiten.
 
-![](/img/Teufelseier-mit-Avocado-1.jpg)
-![](/img/Teufelseier-mit-Avocado-2.jpg)
+![](/img/teufelseier-mit-avocado-1.webp)
+![](/img/teufelseier-mit-avocado-2.webp)
 
 ## Zutaten für 3 Portionen
 - 6 hart gekochte Eier

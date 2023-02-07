@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Gebackene-Aubergine.jpg)
+![](/img/gebackene-aubergine.webp)
 
 ## Zutaten für 2 Portionen
 - 1     Aubergine

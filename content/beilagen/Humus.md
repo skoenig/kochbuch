@@ -6,7 +6,7 @@ tags:
 ---
 
 # Zutaten
-![](/img/humus.jpg)
+![](/img/humus.webp)
 
 - 250 g     Kichererbsen, getrocknete oder aus dem Glas
 - 2 Zehen   Knoblauch oder Knoblauchpaste

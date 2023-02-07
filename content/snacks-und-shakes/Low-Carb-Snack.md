@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Zutaten
-![](/img/Low-Carb-Snack.jpg)
+![](/img/low-carb-snack.webp)
 
 - 3 EL    Mandel(n), gemahlen
 - 1       Eier

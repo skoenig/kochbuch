@@ -7,7 +7,7 @@ tags:
 - paleo
 ---
 
-![](/img/hackbraten-mit-magerquark-und-sellerie.jpg)
+![](/img/hackbraten-mit-magerquark-und-sellerie.webp)
 
 ## Zutaten für 2 Portionen
 - 500 g     Staudensellerie

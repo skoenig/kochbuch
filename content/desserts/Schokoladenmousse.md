@@ -6,7 +6,7 @@ tags:
 - highfat
 ---
 
-![](/img/Schokoladenmousse.jpg)
+![](/img/schokoladenmousse.webp)
 
 ## Zutaten für 6 kleine Gläser
 - 150g      dunkle Schokolade (> 80% Kakaoanteil)

@@ -8,6 +8,7 @@ tags:
 - lowcarb
 - pfanne
 - simple
+- schnell
 cookTime: PT15M
 recipeYield: 1
 ---

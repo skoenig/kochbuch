@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Italienische-Fleischbaellchen-in-Tomatensauce-mit-Rosmarin.jpg)
+![](/img/italienische-fleischbaellchen-in-tomatensauce-mit-rosmarin.webp)
 
 ## Zutaten für 4 Portionen
 - 600 g Rinderhack

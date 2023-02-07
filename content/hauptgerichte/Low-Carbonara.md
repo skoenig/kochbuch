@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Zutaten für 4 Portionen
-![](/img/low-carbonara.jpg)
+![](/img/low-carbonara.webp)
 
 - 3     Karotten
 - 1     Zucchini

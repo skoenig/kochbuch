@@ -6,8 +6,8 @@ tags:
 - veggie
 ---
 
-![](/img/Apfelkuchen-1.jpg)
-![](/img/Apfelkuchen-2.jpg)
+![](/img/apfelkuchen-1.webp)
+![](/img/apfelkuchen-2.webp)
 
 ## Zutaten
 - 200 g     Magerquark

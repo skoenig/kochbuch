@@ -5,7 +5,7 @@ tags:
 - lowcarb
 ---
 
-![](/img/Huehnergeschnetzeltes.jpg)
+![](/img/huehnergeschnetzeltes.webp)
 
 
 ## Zutaten für 2 große Portionen

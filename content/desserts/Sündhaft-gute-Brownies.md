@@ -7,7 +7,7 @@ tags:
 - veggie
 ---
 
-![](/img/suendhaft-gute-brownies.jpg)
+![](/img/suendhaft-gute-brownies.webp)
 
 ## Zutaten für 10 Brownies
 - 175g  weiche, gesalzene Butter (oder eben ungesalzene Butter mit 2 TL Salz)

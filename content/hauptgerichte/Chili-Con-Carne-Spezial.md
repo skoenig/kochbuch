@@ -8,7 +8,7 @@ tags:
 Das "Spezial" an dieser Chili Con Carne Variante ist das Kakaopulver bzw. die Herrenschokolade. Das scheint erst mal seltsam zu sein und nicht zu einem Fleischgericht zu passen, aber die Schoko-Note verbreitert zusammen mit dem Rotwein das Geschmacksspektrum.
 
 ## Zutaten für 4 Portionen
-![](/img/chili-con-carne-spezial.jpg)
+![](/img/chili-con-carne-spezial.webp)
 
 - 2         mittelgroße Zwiebeln gewürfelt
 - 500 g     Hackfleisch
