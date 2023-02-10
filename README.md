@@ -1,7 +1,11 @@
 ## Motivation
-Why just another recipe collection? There are already like a bazillion recipe sites and all sorts of online services and apps that let you manage your favorite recipes.
+Why yet another recipe collection? There are already like a bazillion recipe sites and all sorts of online services and apps that let you manage your favorite recipes.
 
-I just wanted to collect the recipes I saw somewhere in one place, without ads, without push notifications, without newsletter sign-up pop-ups, and all that other annoying stuff. Simple step-by-step instructions in plain Markdown which can be easily searched and edited, garnished with a bit of metadata and just a touch of additional content pointing out specifics and variations of the recipe.
+I just wanted to collect the recipes I saw somewhere in one place, without ads, without push notifications, without registration, without newsletter sign-up pop-ups, and all that other annoying stuff.
+
+Also, most popular recipe blogs always have to tell you their whole life story before they can finally get to the point – present a "simple" recipe.
+
+I wanted the recipes to be simple step-by-step instructions in plain Markdown which can be easily searched and edited, garnished with a bit of metadata and just a touch of additional content pointing out specifics and variations of the recipe.
 
 A bit more about the background and history can be found on the [About page](content/about.md).
 
