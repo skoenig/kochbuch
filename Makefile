@@ -1,6 +1,6 @@
 #!/usr/bin/make
 
-HUGO_VERSION=0.96.0
+HUGO_VERSION=0.110.0
 
 .PHONY: all
 all: serve
@@ -31,7 +31,7 @@ bin/hugo: /tmp/hugo.tar.gz
 	tar xf /tmp/hugo.tar.gz -C bin/ hugo && touch bin/hugo
 
 /tmp/hugo.tar.gz:
-	wget https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_$(HUGO_VERSION)_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
+	wget https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_extended_$(HUGO_VERSION)_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
 
 themes/congo/theme.toml:
 	git submodule update --remote --init
