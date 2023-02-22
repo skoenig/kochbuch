@@ -1,13 +1,11 @@
 ## Motivation
 Why yet another recipe collection? There are already like a bazillion recipe sites and all sorts of online services and apps that let you manage your favorite recipes.
 
-I just wanted to collect the recipes I saw somewhere in one place, without ads, without push notifications, without registration, without newsletter sign-up pop-ups, and all that other annoying stuff.
+I want recipes without ads, without push notifications, without registration, without newsletter sign-up pop-ups, and all that other annoying stuff.
 
 Also, most popular recipe blogs always have to tell you their whole life story before they can finally get to the point – present a "simple" recipe.
 
-I wanted the recipes to be simple step-by-step instructions in plain Markdown which can be easily searched and edited, garnished with a bit of metadata and just a touch of additional content pointing out specifics and variations of the recipe.
-
-A bit more about the background and history can be found on the [About page](content/about.md).
+I just wanted recipes as a collection of simple step-by-step instructions in plain Markdown which can be easily searched and edited, garnished with a bit of metadata and just a touch of additional content pointing out specifics and variations.
 
 ## Installation
 This repo is pretty self-contained, you only need `make`, `git`, `wget`, and `tar` which should be available for every Linux distribution. The targets `make serve` and `make test` will download the necessary dependencies for basic functionality.
@@ -22,5 +20,5 @@ This repo is pretty self-contained, you only need `make`, `git`, `wget`, and `ta
 Images for recipes should be placed in `static/img`. For converting an image from JPG to the modern WebP format, place it in `assets/${imagename}` and run the make target `static/img/${imagename}.webp`.
 You will need to have [`exiftran`](https://www.kraxel.org/blog/linux/fbida/) and [`cwebp`](https://developers.google.com/speed/webp/docs/precompiled) installed for this to work.
 
-## License
-The [UNLICENSE](LICENSE.txt) applies.
+## Contributing
+If you find bugs or have suggestions for improvement, feel free to submit an [issue](https://github.com/skoenig/cookhack/issues/new). The [UNLICENSE](LICENSE.txt) applies.
