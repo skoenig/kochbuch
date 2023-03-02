@@ -1,6 +1,5 @@
 ---
 title: Hey, schön dass Du da bist!
-description: "Einfache, gesunde und leckere Rezepte für Gerichte mit wenigen Zutaten. Entdecke eine abwechslungsreiche Ernährung mit proteinreichen Gerichten. Kochen für ein gesundes Leben!"
 ---
 
 ![](img/food.webp)

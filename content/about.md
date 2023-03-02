@@ -1,6 +1,5 @@
 ---
 title: "Über diese Seite"
-description: "Warum also noch eine weitere Rezeptsammlung?"
 layout: simple
 ---
 
