@@ -15,6 +15,6 @@ Ich will Rezepte als eine Sammlung von simplen Schritt-für-Schritt-Anleitungen 
 ## Technischer Hintergrund
 Ich bin überzeugt von der Idee von Open Source und der Verbreitung von Wissen für die Öffentlichkeit. Ich denke, dass Rezepte keine Ausnahme sind und für alle zugänglich sein sollten. Deswegen ist der Quelltext für diese Rezeptsammlung Open Source.
 
-Ihr findet den Quelltext und die Installationsleitung auf [GitHub](https://github.com/skoenig/cookhack).
+Ihr findet den Quelltext und die Installationsleitung auf [GitHub](https://github.com/skoenig/kochbuch).
 
-Wenn ihr Fehler findet oder Verbesserungsvorschläge habt, reicht gerne ein [Issue](https://github.com/skoenig/cookhack/issues/new) ein. Es gilt die [UNLICENSE](/LICENSE.txt).
+Wenn ihr Fehler findet oder Verbesserungsvorschläge habt, reicht gerne ein [Issue](https://github.com/skoenig/kochbuch/issues/new) ein. Es gilt die [UNLICENSE](/LICENSE.txt).

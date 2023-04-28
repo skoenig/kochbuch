@@ -21,7 +21,7 @@ article:
   showDraftLabel: true
   showEdit: true
   editAppendPath: true
-  editURL: https://github.com/skoenig/cookhack/tree/master/content
+  editURL: https://github.com/skoenig/kochbuch/tree/master/content
   showHeadingAnchors: true
   showPagination: false
   invertPagination: false
@@ -39,6 +39,7 @@ header:
 footer:
   showAppearanceSwitcher: false
   showScrollToTop: true
+  showCopyright: false
 sitemap:
   excludedKinds:
     - taxonomy
