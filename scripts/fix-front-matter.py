@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+# python3 -m pip install pathlib python-frontmatter
 
 import sys
 from pathlib import Path
@@ -26,4 +27,4 @@ if "title" not in info:
             title = title.replace(c, " ")
     info["title"] = title
 
-path.write_text(frontmatter.dumps(info) + "\n")
+path.write_text(frontmatter.dumps(info, sort_keys=False) + "\n")
