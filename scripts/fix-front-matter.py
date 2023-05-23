@@ -27,4 +27,8 @@ if "title" not in info:
             title = title.replace(c, " ")
     info["title"] = title
 
+if "aliases" not in info:
+    old_path = "../../{}/{}".format(path.parent.name, path.stem.lower())
+    info["aliases"] = [old_path]
+
 path.write_text(frontmatter.dumps(info, sort_keys=False) + "\n")
