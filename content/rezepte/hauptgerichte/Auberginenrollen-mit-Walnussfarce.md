@@ -19,7 +19,7 @@ aliases:
 - 1EL   Kapern
 - 75g   Feta
 - 400g  gestückelte Tomaten
-- 300g  [Walnussfarce]({{< ref "Walnussfarce" >}})
+- 300g  [Walnussfarce]({{< relref "Walnussfarce" >}})
 
 ## Zubereitung
 Die Auberginen waschen, abtrocknen und längs in dünne Scheiben schneiden. Ein Blech mit Backpapier auslegen, die Auberginen darauflegen und mit reichlich Salz bestreuen und etwa 1 Stunde liegen lassen.

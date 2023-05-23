@@ -35,7 +35,7 @@ Für die Tomatensoße in einen Topf Kokosöl zu lassen und zwiebeln, Knoblauch u
 
 Die soße eine weile zugedeckt köcheln lassen, dann die mascarpone darunterrühren, bis die Sauce eine cremige konsistenz hat. Die fertig gebratene Hähnchenbrustfilets hinzufügen und alles noch einmal aufkochen. Mit Salz und Pfeffer abschmecken.
 
-Auf einer Platte anrichten mit Basilikumblättern bestreuen und eventuell [Blumenkohlreis]({{< ref "Blumenkohlreis" >}}) dazu reichen.
+Auf einer Platte anrichten mit Basilikumblättern bestreuen und eventuell [Blumenkohlreis]({{< relref "Blumenkohlreis" >}}) dazu reichen.
 
 ## Nährwerte pro Portion
 - kcal:     581

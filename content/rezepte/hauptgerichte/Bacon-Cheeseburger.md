@@ -9,8 +9,8 @@ aliases:
 ---
 
 ## Zutaten für 4 Burger
-- 8 Stück   [Gemüse-Fladenbrot]({{< ref "Gemüse-Fladenbrot" >}})
-- 3 EL      selbstgemachter [Ketchup]({{< ref "Ketchup" >}})
+- 8 Stück   [Gemüse-Fladenbrot]({{< relref "Gemüse-Fladenbrot" >}})
+- 3 EL      selbstgemachter [Ketchup]({{< relref "Ketchup" >}})
 - 250 g     Mayonnaise
 - 3         Knoblauchzehen
 - 150g Bacon

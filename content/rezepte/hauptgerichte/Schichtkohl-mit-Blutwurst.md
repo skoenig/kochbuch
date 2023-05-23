@@ -1,7 +1,7 @@
 ---
 title: Schichtkohl mit Blutwurst
 date: 2020-08-30
-lastmod: 2023-01-25
+lastmod: 2023-05-23 17:00:58
 tags:
 - lowcarb
 - pfanne
@@ -11,7 +11,7 @@ aliases:
 - ../../hauptgerichte/schichtkohl-mit-blutwurst
 ---
 
-Ein ähnlich einfaches und leckeres Rezept wie [Schichtkohl mit Hackfleisch](/hauptgerichte/schichtkohl-mit-hackfleisch/), allerdings wird hier Blutwurst verwendet.
+Ein ähnlich einfaches und leckeres Rezept wie [Schichtkohl mit Hackfleisch]({{< relref schichtkohl-mit-hackfleisch >}}), allerdings wird hier Blutwurst verwendet.
 
 ## Zutaten für 4 Portionen
 - 1         große Zwiebel

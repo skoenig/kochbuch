@@ -23,4 +23,4 @@ Den Backofen auf 180 Grad vorheizen. Eine Auflaufform mit dem Öl einfetten. Die
 Den Feta in einer Schale zerdrücken, Creme Fraiche und den Knoblauch hinzufügen und alles gut verrühren. Bei Bedarf mit etwas Sahne verdünnen. Die Minzeblätter waschen und abtropfen lassen, feinhacken und in den Fetamus rühren. Mit Salz und Pfeffer abschmecken.
 Das Fetamus auf den Lachsfilets verteilen und auf mittlerer Schiene im Backofen ca. 25 Minuten backen.
 Vor dem Servieren mit ein paar weiteren Minzeblätter garnieren.
-Dazu passt [Griechischer Salat]({{< ref "Griechischer-Salat" >}})
+Dazu passt [Griechischer Salat]({{< relref "Griechischer-Salat" >}})

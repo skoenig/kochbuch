@@ -21,7 +21,7 @@ Backofen auf 200 ℃ vorheizen und eine ofenfeste Form mit Backpapier auslegen. 
 
 Für die Sauce die Zwiebel schälen und zusammen mit dem Apfel in kleine Würfel schneiden. Kokosöl in einem Topf zerlassen, und die Zwiebelwürfel, den Apfel und das Currypulver hinzugeben. Etwas anschwitzen lassen und dann die Sahne hinzufügen. Kurz aufkochen und dann köcheln lassen, bis die Sauce dicker geworden ist. Mit Salz & Pfeffer abschmecken und ab und zu umrühren.
 
-Dazu passt [Blumenkohlreis]({{< ref "Blumenkohlreis" >}})
+Dazu passt [Blumenkohlreis]({{< relref "Blumenkohlreis" >}})
 
 ## Nährwerte pro Portion
 - kcal: 455

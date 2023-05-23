@@ -1,7 +1,7 @@
 ---
 title: Schichtkohl mit Hackfleisch
 date: 2019-05-12
-lastmod: 2023-01-25
+lastmod: 2023-05-23 17:00:30
 tags:
 - hack
 - lowcarb
@@ -12,7 +12,7 @@ aliases:
 - ../../hauptgerichte/schichtkohl-mit-hackfleisch
 ---
 
-Schichtkohl Rezepte sind simpel und schnell zubereitet und können beliebig variiert werden. Eine Variation von diesem Rezept ist zum Beispiel [Schichtkohl mit Blutwurst](/hauptgerichte/schichtkohl-mit-blutwurst/).
+Schichtkohl Rezepte sind simpel und schnell zubereitet und können beliebig variiert werden. Eine Variation von diesem Rezept ist zum Beispiel [Schichtkohl mit Blutwurst]({{< relref schichtkohl-mit-blutwurst >}}).
 
 ![Schichtkohl mit Hackfleisch](/img/schichtkohl-mit-hackfleisch.webp)
 

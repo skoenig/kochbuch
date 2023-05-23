@@ -34,4 +34,4 @@ Wenn das Gemüse scharf angebraten ist, die Kokosmilch dazugießen und das Ganze
 
 10 Minuten auf kleiner Flamme ohne Deckel köcheln lassen. Dann den Brokkoli und Fisch dazugeben und weitere 10 Minuten auf dem Herd lassen. Öfter mal umrühren.
 
-Dazu passt jeder [Salat]({{< ref "salate" >}})
+Dazu passt jeder [Salat]({{< relref "salate" >}})

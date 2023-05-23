@@ -25,7 +25,7 @@ aliases:
 - 1 Stange  Staudensellerie
 - 2 cm      Ingwer
 - 2         Eier
-- 500 g     [Blumenkohlreis]({{< ref "Blumenkohlreis" >}})
+- 500 g     [Blumenkohlreis]({{< relref "Blumenkohlreis" >}})
 - Kokosöl zum Braten
 
 ## Zubereitung
@@ -33,7 +33,7 @@ Das Schweinefleisch in Würfel schneiden, den Knoblauch pellen und klein hacken.
 
 Die Chilischote fein hacken, die Frülingszwiebeln und den Staudensellerie wachen und kleinschneiden, den Ingwer kleinreiben. Kokosöl in einer Pfanne oder Wok erhitzen und den restlichen Knoblauch, Chili und Ingwer kurz anbraten. Das Schweinefleisch und die Marinade hinzufügen und ca. 10 Minuten braten. Dann die Frülingszwiebeln und Sellerie unterrühren, 1 EL Tamari hinzugeben und das Ganze einige Minuten köcheln lassen.
 
-Kokosöl in einer weiteren Pfanne erhitzen, die Eier hineinschlagen, den [Blumenkohlreis]({{< ref "Blumenkohlreis" >}}) hinzugeben und alles gut umrühren. Dann den Blumenkohlreis zu dem Fleisch geben und alles noch mal durchmischen.
+Kokosöl in einer weiteren Pfanne erhitzen, die Eier hineinschlagen, den [Blumenkohlreis]({{< relref "Blumenkohlreis" >}}) hinzugeben und alles gut umrühren. Dann den Blumenkohlreis zu dem Fleisch geben und alles noch mal durchmischen.
 
 ## Nährwerte pro Portion
 - kcal:  1137

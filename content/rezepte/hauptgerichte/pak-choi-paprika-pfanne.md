@@ -29,7 +29,7 @@ aliases:
 ## Zubereitung
  1. Die rote und gelbe Paprika putzen, waschen und in Streifen schneiden. Zwiebel schälen und in Streifen schneiden. Knoblauchzehe schälen und hacken. Alles in einer Pfanne mit Öl anbraten.
     [Knoblauchzehe: 1; Zwiebel: 1; rote und gelbe Paprika: 2; Öl: etwas]
- 2. Inzwischen Blumenkohl zu [Blumenkohlreis]({{< ref "Blumenkohlreis" >}}) verarbeiten.
+ 2. Inzwischen Blumenkohl zu [Blumenkohlreis]({{< relref "Blumenkohlreis" >}}) verarbeiten.
     [Blumenkohl: 0.5]
  3. Das Gemüse in der Pfanne mit Salz und Chiliflocken würzen und den Pak Choi hinzugeben und ein bisschen zusammenfallen lassen.
     [Chiliflocken: some; Pak Choi: some; Salz: some]

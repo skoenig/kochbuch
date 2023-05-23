@@ -1,7 +1,7 @@
 ---
 title: Teutonenpfanne
 date: 2018-06-02
-lastmod: 2023-01-02
+lastmod: 2023-05-23 16:45:47
 cookTime: PT17M
 tags:
 - lowcarb
@@ -29,4 +29,4 @@ aliases:
 4. Die Eier in die Pfanne Schlagen und unterrühren.
 5. Hitze reduzieren und das Ganze noch ein paar Minuten köcheln lassen.
 
-Dazu passt [Blumenkohlreis]({{< ref "Blumenkohlreis" >}})
+Dazu passt [Blumenkohlreis]({{< relref "Blumenkohlreis" >}})
