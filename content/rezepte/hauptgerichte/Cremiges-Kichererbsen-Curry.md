@@ -1,13 +1,19 @@
 ---
 title: Cremiges Kichererbsen Curry
 date: 2021-04-03
+lastmod: 2023-07-28
 tags:
 - lowcarb
 - simple
 - schnell
+- curry
+- vegan
+- veggie
 aliases:
 - ../../hauptgerichte/cremiges-kichererbsen-curry
 ---
+
+![](/img/Cremiges-Kichererbsen-Curry.webp)
 
 ## Zutaten für 2 Portionen
 - ½  Tasse (117 ml) gewürfelte rote Zwiebeln
