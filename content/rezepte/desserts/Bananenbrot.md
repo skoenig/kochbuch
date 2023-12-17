@@ -1,30 +1,35 @@
 ---
 title: Bananenbrot
 date: 2016-12-08
+lastmod: 2023-12-16
 tags:
 - lowcarb
 - highfat
 - veggie
+- kuchen
+- schokolade
 aliases:
 - ../../desserts/bananenbrot
 ---
 
-![](/img/bananenbrot.webp)
+Bananenbrot ist saftiges und aromatisches Gebäck, das mit Kokosmilch, Walnüssen und dunkler Schokolade zubereitet wird. Dieses lowcarb Rezept ist perfekt für eine schnelle, einfache Backsession.
+
+![Bananenbrot](/img/bananenbrot.webp)
 
 ## Zutaten
-- 100 g     Walnüsse
-- 50 g      dunkle Schokolade
+- 100 g     Butter
 - 2         Bananen
 - 100 ml    Kokosmilch
 - 4         Eier
 - 120 g     Kokosblütenzucker
-- 100 g     Butter
 - 1 EL      gemahlener Zimt
 - 1 TL      gemahlener Kardamom
 - 1 TL      Vanillepulver
 - 6 TL      Flohsamenschalen
 - 100 g     Kokosraspel
 - 1 TL      Backpulver
+- 100 g     Walnüsse
+- 50 g      dunkle Schokolade
 
 ## Zubereitung
 1. Butter bei niedriger Temperatur in einem Topf zum Schmelzen bringen.
