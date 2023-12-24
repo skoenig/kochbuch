@@ -1,28 +1,34 @@
 ---
 title: Low Carb Muffins
+date: 2020-05-06
+lastmod: 2023-12-24
+prepTime: PT15M
+cookTime: PT25M
 servings: 6
-cookTime: PT35M
-date: '2022-02-18'
+tags:
+- lowcarb
+- veggie
+- proteinreich
 aliases:
+- ../../desserts/himbeer-mohn-muffins
 - ../../desserts/low-carb-muffins
+- ../../desserts/mandel-kakao-muffins
 ---
 
 ## Zutaten
-- 55 g Xylit
-- 40 g Kokosmehl
-- 0.5 TLs Backpulver
-- 0.5 Prises Salz
-- 3 Eier
-- 40 g Butter
-- 40 g Mandelmehl
-
-## Zubehör
-- Muffin-Förmchen
+- 2     Eier
+- 60 g  Kokosmehl
+- 65 g  Erythrit oder 50 g Xylit / Birkenzucker
+- 250 g Quark 20% Fett
+- 50 g  Proteinpulver Vanille
+- 1 TL  Backpulver
+- 35 g  Blaumohn
+- 1 TL  Guarkernmehl / Reismehl / Johannisbrotkernmehl / Flohsamenschalen
+- 120 g Himbeeren (frisch oder gefroren)
 
 ## Zubereitung
- 1. Backofen auf 175 Grad Ober- und Unterhitze vorheizen. Die weiche Butter mit dem Xylit schaumig schlagen, nach und nach die Eier einzeln sehr gut unterrühren.
-    [Butter: 40 g; Eier: 3; Xylit: 55 g]
- 2. Kokosmehl, Mandelmehl, Salz und Backpulver mischen; kurz unter die Butter-Eier-Masse rühren. Teig sofort in Muffin-Förmchen füllen.
-    [Backpulver: 0.5 TLs; Kokosmehl: 40 g; Mandelmehl: 40 g; Salz: 0.5 Prises]
- 3. Muffins 18 Minuten backen. Eventuell gegen Ende abdecken, damit sie nicht zu braun werden.
-    [–]
+1. Backofen auf 175 °C vorheizen.
+2. Alle Zutaten außer den Himbeeren in einer Rührschüssel mit Küchenmaschine oder Rührgerät durchmischen.
+3. Zum Schluss die Himbeeren ganz vorsichtig unterheben.
+4. Die cremige Masse in einer Muffinform verteilen.
+5. Für 25 Minuten backen und auskühlen lassen.
