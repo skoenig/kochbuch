@@ -13,9 +13,9 @@ aliases:
 - 1 Kopf    Rotkohl oder 1 Glas fertigen Rotkohl (550g)
 - 200 g     Schinkenspeck
 - 200 ml    Wasser
--  n. B.    Aceto Balsamico
--  n. B.    Schnittlauch, fein geschnitten
--  n. B.    Öl (Sonnenblumenöl)
+- n. B.    Aceto Balsamico
+- n. B.    Schnittlauch, fein geschnitten
+- n. B.    Öl (Sonnenblumenöl)
 - Salz & Pfeffer
 
 ## Zubereitung

@@ -13,17 +13,17 @@ Das hier ist ein einfaches Gericht für Fischfiletes mit Strangensellerie (Pad P
 ![](/img/gebratenes-fischfilet-mit-stangensellerie.webp)
 
 ## Zutaten für 2 Portionen
-- 2 		Stängel Sellerie
-- 3 EL 		Öl, (Erdnuss- oder Sojaöl)
-- 250 g 	Fischfilets: Rotbarsch, Wels, Kabeljau oder Seelachs
-- 1 		Knoblauchzehe
-- 2 EL 		Austernsauce
-- 2 EL 		Fischsauce
-- 2 EL 		Wasser
-- 1 TL 		Kokosblütenzucker
-- 2   		Stängel Frühlingszwiebeln
-- 1 		rote Chilischote oder getrocknete Chilisamen
--  etwas Pfeffer
+- 2   Stängel Sellerie
+- 3 EL   Öl, (Erdnuss- oder Sojaöl)
+- 250 g  Fischfilets: Rotbarsch, Wels, Kabeljau oder Seelachs
+- 1   Knoblauchzehe
+- 2 EL   Austernsauce
+- 2 EL   Fischsauce
+- 2 EL   Wasser
+- 1 TL   Kokosblütenzucker
+- 2     Stängel Frühlingszwiebeln
+- 1   rote Chilischote oder getrocknete Chilisamen
+- etwas Pfeffer
 
 ## Zubereitung
 1. Den Sellerie abwaschen, die Blätter abzupfen, grob hacken und beiseite stellen, die Stangen in Ringe schneiden.

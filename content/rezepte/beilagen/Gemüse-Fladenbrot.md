@@ -24,7 +24,7 @@ aliases:
 - 1 TL  Salz
 
 ## Zubereitung
-1. Den Backofen auf 200 ℃ vorheizen und ein Blech mit Backpapier auslegen.
+1. Den Backofen auf 200 °C vorheizen und ein Blech mit Backpapier auslegen.
 1. Die Nüsse und Sonnenblumenkerne in einer Küchenmaschine zu Mehl verarbeiten.
 1. Blumenkohl und Karotte waschen und abtropfen lassen, beides in kleine Stücke schneiden und Portionsweise in der Küchenmaschine kleinhacken.
 1. Nach und nach die restlichen Zutaten in die Küchenmaschine geben, und alles zu einem Teig verarbeiten und daraus 8 kleine, dicke Fladenbrote formen.

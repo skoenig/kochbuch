@@ -15,7 +15,7 @@ aliases:
 - 4 Knoblauchzehen
 - 4 kleine Tomaten (120 g)
 - 500 g Rinderhack (gemischtes Hack geht auch)
-- 3 EL Guarkernmehl / Reismehl / Johannisbrotkernmehl
+- 3 EL Guarkernmehl / Reismehl / Johannisbrotkernmehl / Flohsamenschalen
 - 2 Eigelb
 - 2 EL gehackte Petersilie
 - Chilipulver

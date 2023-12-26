@@ -24,7 +24,7 @@ Den Fisch mit kalten Wasser abspülen und trocken tupfen - dann von beiden Seite
 
 Den aufgetauten Spinat und die fein gewürfelten Zwiebeln vermengen, dann die Eier unterrühren und mit Meersalz, Pfeffer und Muskat nach Geschmack würzen.
 
-Die Spinat Masse gleichmäßig über den Fisch in der Auflaufform verteilen. Den geriebenen Käse darüber verteilen. Auflaufform im vorgeheizten Backofen bei ca. 190 Grad mindestens 30 Minuten backen.
+Die Spinat Masse gleichmäßig über den Fisch in der Auflaufform verteilen. Den geriebenen Käse darüber verteilen. Auflaufform im vorgeheizten Backofen bei ca. 190 °C mindestens 30 Minuten backen.
 
 ## Nährwerte
 - kcal: 1072

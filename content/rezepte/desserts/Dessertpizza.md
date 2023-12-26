@@ -28,7 +28,7 @@ aliases:
 ## Zubereitung
 Die Eier zusammen mit Kokosmilch, Kokosraspel, Backpulver, Kardamom und den Flohsamenschalen zu einem Teig verrühren und diesen 10 min. ruhen lassen.
 
-Inzwischen schon mal den Backofen auf 200℃  vorheizen und ein Blech mit Backpapier auslegen. Den Ricotta mit 1 TL Kokosblütenzucker und ½ TL Zimt verrühren, den Apfel waschen, entkernen und in dünne Scheiben schneiden.
+Inzwischen schon mal den Backofen auf 200°C  vorheizen und ein Blech mit Backpapier auslegen. Den Ricotta mit 1 TL Kokosblütenzucker und ½ TL Zimt verrühren, den Apfel waschen, entkernen und in dünne Scheiben schneiden.
 
 Den Teig jetzt pizzaartig auf dem Backpapier verteilen, 10 min. vorbacken und dann wieder aus dem Ofen nehmen.
 

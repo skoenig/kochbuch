@@ -16,5 +16,5 @@ aliases:
 - etwas Süßstoff
 
 ## Zubereitung
-Backofen auf 170 Grad vorheizen und ein Blech mit Backpapier auslegen. Alle Zutaten zusammenmischen, gut verrühren in 9 Klecksen auf dem Backpapier verteilen.
+Backofen auf 170 °C vorheizen und ein Blech mit Backpapier auslegen. Alle Zutaten zusammenmischen, gut verrühren in 9 Klecksen auf dem Backpapier verteilen.
 Das ganze dann für ca. 20 Minuten im Ofen backen lassen.

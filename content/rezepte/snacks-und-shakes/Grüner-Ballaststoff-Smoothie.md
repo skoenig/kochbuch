@@ -11,15 +11,15 @@ aliases:
 ## Zutaten
 ![](/img/gruener-ballaststoff-smoothie.webp)
 
--    50.00 g, Brokkoli (Roh)
--    50.00 g, Grünkohl
--    0.50 Avocado
--    10.00 g, Petersilie
--    1.00 mittelgroß (150g), Apfel Jonagold (Mittelgroß)
--    40.00 g, Staudensellerie
--    10.00 g, Ingwer
--    80.00 g, Apfelsine/orange
--    100.00 g, Zucchini
+- 50 g, Brokkoli (Roh)
+- 50 g, Grünkohl
+- ½ Avocado
+- 10 g Petersilie
+- 1 mittelgroße (150g), Apfel Jonagold
+- 40 g Staudensellerie
+- 10 g Ingwer
+- 80 g Apfelsine/orange
+- 100 g Zucchini
 
 ## Zubereitung
 

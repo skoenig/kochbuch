@@ -26,7 +26,7 @@ aliases:
 
 ## Zubereitung
 
-Den Backofen auf 225 ℃  vorheizen. Eine feuerfeste Form mit etwas Öl einfetten.
+Den Backofen auf 225 °C  vorheizen. Eine feuerfeste Form mit etwas Öl einfetten.
 Die Pollak Filets abspülen, trockentupfen, mit Salz und Pfeffer würzen und in die Form legen. Den Parmesan fein reiben und mit der Limettenschale mischen. Die Mischung auf dem Fisch verteilen und zuletzt eine Schicht Sonnenblumenkerne darauf geben. Den Fisch auf der oberen Schiene im Backofen etwa 20 Minuten backen.
 
 Den Salat waschen, trocken schleudern und klein schneiden. Die Avocado längs halbieren, den Kern entfernen das Fruchtfleisch aus der Schale lösen und in dünne Scheiben schneiden. Für das Dressing Creme Fraiche, Sahne, Knoblauch und Kräuter verquirlen und mit Salz und Pfeffer abschmecken.

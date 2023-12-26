@@ -15,4 +15,4 @@ aliases:
 - Öl
 
 ## Zubereitung
-Den Backofen auf 180 ℃ vorheizen. Eine Auflaufform mit etwas Öl einfetten. Die Lachsfilets abspülen und trockentupfen, in die Form legen und mit Salz & Pfeffer würzen. Für 25 Minuten backen. Die Schale der Zitrone mit einer Küchenreibe abreiben. Die Lachsfilets zusammen mit [Zucchini-Spaghetti]({{< relref "Zucchini-Spaghetti" >}}) und Petersilienpesto anrichten und mit dem Zitronenabrieb bestreuen.
+Den Backofen auf 180 °C vorheizen. Eine Auflaufform mit etwas Öl einfetten. Die Lachsfilets abspülen und trockentupfen, in die Form legen und mit Salz & Pfeffer würzen. Für 25 Minuten backen. Die Schale der Zitrone mit einer Küchenreibe abreiben. Die Lachsfilets zusammen mit [Zucchini-Spaghetti]({{< relref "Zucchini-Spaghetti" >}}) und Petersilienpesto anrichten und mit dem Zitronenabrieb bestreuen.

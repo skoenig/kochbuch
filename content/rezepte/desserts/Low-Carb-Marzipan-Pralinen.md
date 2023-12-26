@@ -13,7 +13,7 @@ aliases:
 ## Zutaten
 - 100 g           Mandelmehl
 - 2 EL, gehäuft   Mandelmus (~ 45g)
-- 1 EL, gehäuft   Süßstoff (Erythrit oder Stevia)
+- 1 EL, gehäuft   Xylit / Birkenzucker oder entsprechende Menge Erythrit
 - 3 EL            Wasser
 
 ## Zubereitung

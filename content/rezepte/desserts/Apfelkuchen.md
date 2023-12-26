@@ -12,17 +12,17 @@ aliases:
 ## Zutaten
 - 6             Eier
 - 150 g         weiche Butter
-- 130 g         Erythrit
+- 100 g         Xylit / Birkenzucker oder entsprechende Menge Erythrit
 - 6 Einheiten   Stevia
 - 250 g         Mandelmehl
-- 2 TL          Guarkernmehl
+- 2 TL          Guarkernmehl / Reismehl / Johannisbrotkernmehl / Flohsamenschalen
 - 2 TL          Backpulver
-- 1/2 TL        Bourbon-Vanille
+- ½ TL        Bourbon-Vanille
 - 300 g         säuerlicher Apfel
 - 50 g          Mandelblättchen
 
 ## Zubereitung
-1. Den Backofen auf 175 Grad Umluft vorheizen.
+1. Den Backofen auf 175 °C Umluft vorheizen.
 1. Butter und Eier in einer Rührschüssel gut vermengen.
 1. Nach und nach die trockenen Zutaten untermischen.
 1. Die Springform fetten, den Boden mit Backpapier bedecken und dann Teig hineingeben.

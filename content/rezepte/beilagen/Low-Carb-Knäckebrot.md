@@ -12,10 +12,10 @@ aliases:
 ![](/img/low-carb-knaeckebrot.webp)
 
 ## Zutaten für 1 Blech
-- 160g  Leinsamen
-- 120g  Kürbiskerne
--  80g  Sesam
--  80g  Sonnenblumenkerne
+- 160 g Leinsamen
+- 120 g Kürbiskerne
+- 80 g  Sesam
+- 80 g  Sonnenblumenkerne
 - 2     Eier
 - 2 TL  Salz
 
@@ -24,7 +24,7 @@ Körner und Samen in eine Schüssel geben und vermischen. Die Eier in einer zwei
 
 Alles gut umrühren und den Teig eine Stunde ruhen lassen. Der Teig wirkt zunächst noch sehr feucht, aber die Leinsamen saugen die Feutigkeit auf.
 
-Den Backofen auf 125 ℃ vorheizen. Ein Backblech mit Backpapier auslegen. Anschließend den Teig gleichmäßig auf das Backpapier gießen und im Backofen 90 Minuten backen.
+Den Backofen auf 125 °C vorheizen. Ein Backblech mit Backpapier auslegen. Anschließend den Teig gleichmäßig auf das Backpapier gießen und im Backofen 90 Minuten backen.
 
 Das ergibt eine große, feste Platte, die man nach belieben in kleinere Stücke brechen kann.
 

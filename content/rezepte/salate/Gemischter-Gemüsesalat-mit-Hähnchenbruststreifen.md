@@ -15,13 +15,13 @@ aliases:
 - 3       Eier
 - 250 g   Hähnchenfleisch (am besten TK, das ist schon mariniert)
 - 100 g   Feta-Käse
--         Olivenöl
--         Kräuter, (z. B. Kräuterlinge)
--         Currypulver
--         Paprikapulver, edelsüß
--         Chiliflocken
--         Sonnenblumenkerne
--         Salz und Pfeffer
+- Olivenöl
+- Kräuter, (z. B. Kräuterlinge)
+- Currypulver
+- Paprikapulver, edelsüß
+- Chiliflocken
+- Sonnenblumenkerne
+- Salz und Pfeffer
 
 ## Zubereitung
 Das Hähnchenfleisch auftauen und in kleine Würfel schneiden.

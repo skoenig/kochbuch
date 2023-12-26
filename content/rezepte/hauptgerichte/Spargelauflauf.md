@@ -10,9 +10,9 @@ aliases:
 ## Zutaten
 ![](/img/spargelauflauf-small.webp)
 
-- 300g Spargelstücke aus der Dose
-- 100g Frischkäse 0,8% Fett
-- 250g Putenbrust alternativ auch Lachs oder Schinken
+- 300 g Spargelstücke aus der Dose
+- 100 g Frischkäse 0,8% Fett
+- 250 g Putenbrust alternativ auch Lachs oder Schinken
 - 2 x Eiweiß
 - 2 x Eigelb
 

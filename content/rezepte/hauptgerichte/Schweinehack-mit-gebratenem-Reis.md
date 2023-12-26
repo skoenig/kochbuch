@@ -13,7 +13,7 @@ aliases:
 - 2 EL      fein gehackter frischer Ingwer
 - 500g      Schweinehack
 - 4 Tassen  gekochter weißer Reis (von 1-1/3 Tassen ungekochter Reis)
-- 1/2 Tasse tiefgefrorene Erbsen, aufgetaut
+- ½ Tasse tiefgefrorene Erbsen, aufgetaut
 - 1½ Tassen gekochte Brokkoliröschen (siehe Anmerkung)
 - 3 EL      Fischsauce
 - 2 EL      Austernsauce

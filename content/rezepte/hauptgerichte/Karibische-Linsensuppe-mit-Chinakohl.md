@@ -8,19 +8,19 @@ aliases:
 ---
 
 ## Zutaten für 4 Portionen
-- 150 g 	rote Linsen
-- 1l 		Gemüsebrühe
-- 400 g 	Chinakohl
-- 1 EL 		Currypulver
-- 2 		Bananen
-- etwas 	Cayennepfeffer
-- 1 Prise	Zimtpulver
-- 1 TL 		Honig
-- 2 EL 		Zitronensaft
-- 150 g 	saure Sahne
-- 2 EL 		Cashewnüsse (optional)
-- etwas 	Öl
-- etwas 	Salz
+- 150 g  rote Linsen
+- 1l   Gemüsebrühe
+- 400 g  Chinakohl
+- 1 EL   Currypulver
+- 2   Bananen
+- etwas  Cayennepfeffer
+- 1 Prise Zimtpulver
+- 1 TL   Honig
+- 2 EL   Zitronensaft
+- 150 g  saure Sahne
+- 2 EL   Cashewnüsse (optional)
+- etwas  Öl
+- etwas  Salz
 
 ## Zubereitung
 Den Chinakohl halbieren und die Blätter in Streifen schneiden. Diese im Suppentopf in wenig heißem Erdnuss- oder Sonnenblumenöl anschwitzen und das Currypulver darüberstreuen.

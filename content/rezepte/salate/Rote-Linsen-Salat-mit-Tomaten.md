@@ -20,7 +20,7 @@ aliases:
 - 1 kleine      Zwiebel(n)
 - 10 kleine     Cherrytomaten
 - n. B.         Kräuter, Petersilie
--               Salz und Pfeffer
+- Salz und Pfeffer
 
 ## Zubereitung
 

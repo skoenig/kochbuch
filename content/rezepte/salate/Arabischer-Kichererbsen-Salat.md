@@ -19,7 +19,7 @@ aliases:
 - 1 rote Paprika
 - 1 kleine rote Zwiebel
 - 1 Bund glatte Petersilie
-- 1/2 Bund Koriander
+- ½ Bund Koriander
 - 1 Bio-Zitrone
 - 1 Zehe Knoblauch
 - 1 TL Zucker oder Xylit / Birkenzucker

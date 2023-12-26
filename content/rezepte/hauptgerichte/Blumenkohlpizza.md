@@ -22,7 +22,7 @@ aliases:
 - grobes Salz
 
 ## Zubereitung
-Backofen auf 230 ℃ vorheizen und ein Backblech mit Backpapier auslegen. Blumenkohl waschen, abtropfen lassen und in der Küchenmaschine kleinhacken. Dann den Blumenkohl mit den Eiern, 150 g von dem Reibekäse, dem Oregano und den Flohsamenschalen zu einem Teig verrühren und diesen auf dem Backpapier ausbreiten. Den Teig dann ca. 12 Minuten im Ofen backen und wieder herausnehmen.
+Backofen auf 230 °C vorheizen und ein Backblech mit Backpapier auslegen. Blumenkohl waschen, abtropfen lassen und in der Küchenmaschine kleinhacken. Dann den Blumenkohl mit den Eiern, 150 g von dem Reibekäse, dem Oregano und den Flohsamenschalen zu einem Teig verrühren und diesen auf dem Backpapier ausbreiten. Den Teig dann ca. 12 Minuten im Ofen backen und wieder herausnehmen.
 
 Den Boden dann mit den passierten Tomaten bestreichen und mit dem restlichen Reibekäse bestreuen. Dann kann die Pizza mit dem Schinken, den getrockneten Tomaten und Oliven belegt werden. Das Ganze kommt dann noch mal für 5 - 10 Minuten in den Ofen, bis der Käse geschmolzen ist. Dann mit dem Thymian und Salz bestreuen.
 

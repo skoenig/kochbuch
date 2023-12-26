@@ -11,7 +11,7 @@ aliases:
 
 ## Zutaten für 2 Portionen
 - 3     Paprika; z.B. rot, gelb und grün
-- 1/2   Zwiebel
+- ½   Zwiebel
 - 4     Würstchen
 - 1 Dose gehackte Tomaten
 - 1 EL  Öl

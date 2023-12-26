@@ -10,12 +10,12 @@ aliases:
 ---
 
 ## Zutaten
-- 100g   Butter
-- 4      Eier
-- 100g   Proteinpulver
-- 250g   Quark 40% Fett
-- 250 ml Sahne
-- 2 EL   Süßstoff
+- 100 g   Butter
+- 4       Eier
+- 100 g   Proteinpulver
+- 250 g   Quark 40% Fett
+- 250 ml  Sahne
+- 2 EL    Süßstoff
 - etwas Salz
 - evtl dunkle Beeren (z.B. Himbeeren, Erdbeeren, Heidelbeeren)
 - etwas Kokosöl für die Form

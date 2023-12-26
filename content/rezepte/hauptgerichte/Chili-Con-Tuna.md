@@ -20,8 +20,8 @@ aliases:
 - 2         Chilischoten gehackt
 - Paprika rosenscharf
 - Salz & Pfeffer
--           Kreuzkümmel gemahlen
--           Oregano
+- Kreuzkümmel gemahlen
+- Oregano
 - 2 EL      Öl zum Braten
 
 ## Zubereitung

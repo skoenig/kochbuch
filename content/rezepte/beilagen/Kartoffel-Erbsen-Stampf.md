@@ -8,9 +8,9 @@ aliases:
 ---
 
 ## Zutaten
-- 400 g 	Kartoffeln oder Süßkartoffeln
-- 150 g     TK Erbsen
-- 50 ml 	Milch
+- 400 g  Kartoffeln oder Süßkartoffeln
+- 150 g  TK Erbsen
+- 50 ml  Milch
 - Salz
 
 ## Zubereitung

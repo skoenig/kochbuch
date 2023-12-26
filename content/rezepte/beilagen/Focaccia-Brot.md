@@ -23,7 +23,7 @@ aliases:
 - etwas grobes Salz
 
 ## Zubereitung
-Den Backofen auf 200 ℃ vorheizen und 2 kleine Backformen (ca. 15x25 cm) mit Backpapier auslegen.
+Den Backofen auf 200 °C vorheizen und 2 kleine Backformen (ca. 15x25 cm) mit Backpapier auslegen.
 
 Mandeln und die (sehr wichtig) geschälten Sonnenblumenkerne in einer Küchenmaschine zu Mehl mahlen. Die Butter schmelzen und zusammen mit den Eiern unterrühren.
 Den Hüttenkäse dazugeben und durchmischen, bis er keine Krümel mehr hat. Das Ganze mit den Flohsamenschalen, Salz und Backpulver vermengen.

@@ -14,16 +14,16 @@ Diese Muffins sind eine einfache Alternative zu Frikadellen aus der Pfanne, daf�
 ![](/img/tartar-muffins.webp)
 
 ## Zutaten
-- 350g Rinderhackfleisch / Tartar
+- 350 g Rinderhackfleisch / Tartar
 - 1 große Zwiebel
-- 150g Karotten
+- 150 g Karotten
 - 2 Eiklar
-- 200g Kräuterquark oder Magerquark
+- 200 g Kräuterquark oder Magerquark
 - Paprikapulver
 - Salz & Pfeffer
 
 ## Zubereitung
-1. Backofen auf 170 Grad vorheizen.
+1. Backofen auf 170 °C vorheizen.
 1. Zwiebel und Karotten schälen und in sehr kleine Würfel hacken (evtl. in der Küchenmaschine)
 1. Alle Zutaten in eine Schüssel geben, gut durchkneten und gleichmäßig auf eine 6er Muffinform verteilen, welche vorher bestenfalls eingefettet wird.
 1. Im Ofen ca. 20 Minuten backen.

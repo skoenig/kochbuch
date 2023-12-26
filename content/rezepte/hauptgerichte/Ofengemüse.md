@@ -13,7 +13,7 @@ aliases:
 So ziemlich alle möglichen Gemüsesorten eignen sich. Obligatorisch sind neben dem Gemüse eigentlich nur Öl, Salz & Pfeffer.
 
 ## Zubereitung
-1. Ofen auf 200℃  Umluft vorheizen
+1. Ofen auf 200°C Umluft vorheizen
 2. Gemüse putzen und in mundgerechte Stücke schneiden
 3. Gemüse in eine Schüssel geben, in Öl und Gewürzen schwenken
 4. ein flaches Blech mit Backpapier auslegen und Gemüse darauf geben

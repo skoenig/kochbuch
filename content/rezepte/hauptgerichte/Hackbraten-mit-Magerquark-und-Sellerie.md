@@ -28,7 +28,7 @@ Sellerie putzen und in Ringe schneiden. In heißem Öl 10 Minuten dünsten.
 
 Inzwischen die Zwiebel abziehen und in kleine Würfel schneiden. Das Hackfleisch mit Quark, Eiern, zerdrückter Knoblauchzehe und Zwiebelwürfeln verkneten. Mit Salz und Pfeffer würzen. Eine Auflaufform mit Butter oder Kokosöl einfetten. Den Hackteig zu einem länglichen Laib formen, in die Auflaufform legen und den Frischkäse darübergeben, leicht andrücken. Den Sellerie rundherum verteilen.
 
-In den kalten Backofen schieben und bei 225 ℃/Gas Stufe 4 etwa 25 Minuten backen.
+In den kalten Backofen schieben und bei 225 °C/Gas Stufe 4 etwa 25 Minuten backen.
 
 ## Nährwerte pro Portion
 - kcal: 871

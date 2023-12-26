@@ -13,7 +13,7 @@ aliases:
 ![](/img/kaese-pizzen-3.webp)
 
 ## Zutaten für 4 kleine Pizzen
-- 400g  Reibekäse
+- 400 g Reibekäse
 - 3     Eier
 - 2 EL  Flohsamenschalen
 
@@ -25,7 +25,7 @@ aliases:
 - Speckwürfel
 
 ## Zubereitung
-Backofen auf ~ 220 ℃ Umluft vorheizen und ein Blech mit Backpapier auslegen.
+Backofen auf ~ 220 °C Umluft vorheizen und ein Blech mit Backpapier auslegen.
 
 Käse, Eier und Flohsamenschalen in einer Schüssel verrühren und diesen "Teig" in 4 Kreisen auf dem Backblech verteilen. Im Ofen für ca. 10 Minuten backen, bis die Pizzen einen goldgelben Rand bekommen.
 

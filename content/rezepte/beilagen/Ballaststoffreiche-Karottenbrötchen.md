@@ -23,7 +23,7 @@ aliases:
 ## Zubereitung
 Die Karotte wachen und grob reiben. Einige von den Sonnenblumenkernen beiseite legen.
 
-Den Backofen auf 200 ℃ vorheizen und ein Blech mit Backpapier auslegen.
+Den Backofen auf 200 °C vorheizen und ein Blech mit Backpapier auslegen.
 
 Eier und Crème Fraîche verrühren und anschließend alle weiteren Zutaten dazugeben. Den Teig etwa 10 Minuten ruhen lassen.
 

@@ -22,6 +22,6 @@ aliases:
 ## Zubereitung
 Wenn nötig, die Garnelen waschen, schälen und entdarmen. Schwanzflossen dranlassen!
 
-Butter und Öl zusammen in einer großen Pfanne erhitzen. Knoblauch pellen und dazupressen. Garnelen in die Pfanne geben und von jeder Seite etwa 1 bis 1 1/2 Minuten braten. Mit Salz und Cayenne würzen.
+Butter und Öl zusammen in einer großen Pfanne erhitzen. Knoblauch pellen und dazupressen. Garnelen in die Pfanne geben und von jeder Seite etwa 1 bis 1 ½ Minuten braten. Mit Salz und Cayenne würzen.
 
 Petersilie fein hacken und zusammen mit der Sahne in die Pfanne geben. 7-10 Minuten cremig einkochen lassen.

@@ -10,14 +10,14 @@ aliases:
 ---
 
 ## Zutaten für 4 Portionen
-- 500 g 	Sauerkraut
-- 3 Kugel/n 	Rote Bete, gekochte (Rote Rüben)
-- 2 	Zwiebel(n)
-- ½ Bund 	Schnittlauch
-- etwas 	Muskat
-- 3 EL 	Öl
-- etwas 	Zucker
-- evtl. 	Kümmel
+- 500 g  Sauerkraut
+- 3 Kugel/n  Rote Bete, gekochte (Rote Rüben)
+- 2  Zwiebel(n)
+- ½ Bund  Schnittlauch
+- etwas  Muskat
+- 3 EL  Öl
+- etwas  Zucker
+- evtl.  Kümmel
 - Salz & Pfeffer
 
 ## Zubereitung

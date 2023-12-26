@@ -17,7 +17,7 @@ aliases:
 - 1 Bund    Petersilie
 - 4 EL      Olivenöl
 - 4 EL      Sesampaste (Tahin)
-- 1/2       Zitrone
+- ½       Zitrone
 - Salz & Pfeffer
 
 ## Zubereitung

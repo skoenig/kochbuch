@@ -20,17 +20,17 @@ aliases:
 - 3     Knoblauchzehen
 - 1     EL Ingwer
 - 2     Stangen Lauch (Porree)
-- 400g  grüner Spargel
+- 400 g grüner Spargel
 - 1     rote Chilischote
 - ½     Bund Koriander
-- 100g  Erdnüsse
+- 100 g Erdnüsse
 - Kokosöl zum Braten
 
 ## Zubereitung
 
 Das Fleisch abspülen, trocken tupfen und in Würfel schneiden. Die Knoblauchzehen abziehen und kleinhacken, die Limette entsaften, den Ingwer klein reiben. In einer Schüssel oder einem tiefen Teller das Sesamöl, 2 EL von dem Tamari, die Currypaste, den Ingwer und ⅓ von dem kleingehackten Knoblauch zusammen mit dem Limettensaft zu einer Marinade zusammenrühren. Das Fleisch in der Marinade wenden und gut damit bedecken, das Ganze einige Stunden ziehen lassen. Die Holzspiesse in kaltem Wasser einweichen.
 
-Den Backofen auf 220 ℃  vorheizen. Ein Grillrost mit Backpapier belegen, die Paprikaschote abwaschen, entkernen und in Stücke scheiden. Zwei von den roten Zwiebeln abziehen und achteln. Das Fleisch auf die Holzspieße ziehen, etwa 4 Stück auf jeden Spiess, dazwischen Zwiebeln und Paprika, und auf das Backpapier legen. Im Backofen auf der oberen Schiene etwa 15 Minuten backen, öfter wenden.
+Den Backofen auf 220 °C  vorheizen. Ein Grillrost mit Backpapier belegen, die Paprikaschote abwaschen, entkernen und in Stücke scheiden. Zwei von den roten Zwiebeln abziehen und achteln. Das Fleisch auf die Holzspieße ziehen, etwa 4 Stück auf jeden Spiess, dazwischen Zwiebeln und Paprika, und auf das Backpapier legen. Im Backofen auf der oberen Schiene etwa 15 Minuten backen, öfter wenden.
 
 Den Lauch waschen, putzen und klein schneiden. Vom Spargel die holzigen Enden entfernen und in kleine Stücke schneiden. Die letzte rote Zwiebel pellen und kleinhacken. Die Chilischote ebenfalls kleinhacken. Das Kokosöl in einer tiefen Pfanne oder einem Wok erhitzen und zuerst den restlichen Knoblauch und Chili anbraten und danach das restliche Gemüse dazugeben. Alles mit Tamari kurz braten, bis es weich ist. Mit Erdnüssen und frischen Koriander garnieren.
 

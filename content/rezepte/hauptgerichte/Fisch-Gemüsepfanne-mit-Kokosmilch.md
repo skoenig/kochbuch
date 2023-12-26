@@ -7,7 +7,7 @@ aliases:
 - ../../hauptgerichte/fisch-gemüsepfanne-mit-kokosmilch
 ---
 
-##Zutaten
+## Zutaten
 ![](/img/fisch-gemuesepfanne-mit-kokosmilch.webp)
 
 - 500 g     Fischfilet (z. B. Pangasius, Seelachs)
@@ -20,12 +20,12 @@ aliases:
 - 500 ml    Kokosmilch
 - 1 EL      Rapsöl
 - 1 EL      Sesamöl
--           Salz & Pfeffer
--           Dill
+- Salz & Pfeffer
+- Dill
 - 1 cm      Ingwer
 - 1         Knoblauchzehe
 
-##Zubereitung
+## Zubereitung
 Fisch auftauen, falls TK-Fisch verwendet wird. Abspülen, trocken tupfen und in mundgerechte Stücke schneiden. Salzen und pfeffern und beiseitestellen.
 
 Zucchini halbieren und in dünne Halbmonde schneiden. Zwiebel grob hacken, Paprikaschoten grob würfeln, Brokkoli in Röschen teilenm Frühlingszwiebeln - auch das Grün - in Ringe schneiden. Bis auf den Brokkoli alles zusammen mite dem Öl in einer großen Pfanne oder Wok gut anbraten und mit Salz, Pfeffer und Dill nicht zu zaghaft würzen.

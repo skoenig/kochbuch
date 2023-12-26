@@ -26,7 +26,7 @@ Das Geflügel in Würfel schneiden und in einer Pfanne durchbraten, die Tomaten 
 Den Salat in einzelne Blätter teilen, waschen und abtropen lassen. Den Geflügelsalat auf den Blättern verteilen und mit dem Spargel und Bacon servieren.
 
 ## Nährwerte pro Portion
-- kcal:	 623
-- KH:	   7g
+- kcal:  623
+- KH:    7g
 - Fett:   40g
 - EW:     57g

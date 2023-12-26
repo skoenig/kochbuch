@@ -11,7 +11,7 @@ aliases:
 - 800 g   Blumenkohl
 - 1       Zitrone
 - 150 g   Saure Sahne
--         frisch gemahlener Pfeffer
+- frisch gemahlener Pfeffer
 - 20  g   Petersilie (fein gehackt)
 - 4       Eier
 

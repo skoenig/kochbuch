@@ -19,6 +19,6 @@ aliases:
 - 2 EL          Kokosblütenzucker
 
 ## Zubereitung
-Backofen auf 100 ℃ vorheizen, Nüsse grob hacken und alle Zutaten bis Sonnenblumenkerne auf einem Backblech mit Backpapier ausbreiten. Das Müsli ca 30 Minuten backen, ab und zu umrühren. Dann den Kokosblütenzucker, Vanillepulver und Zimt hinzufügen und in ein Einweckglas füllen.
+Backofen auf 100 °C vorheizen, Nüsse grob hacken und alle Zutaten bis Sonnenblumenkerne auf einem Backblech mit Backpapier ausbreiten. Das Müsli ca 30 Minuten backen, ab und zu umrühren. Dann den Kokosblütenzucker, Vanillepulver und Zimt hinzufügen und in ein Einweckglas füllen.
 
 Dazu passen gut griechischer Jogurt und Waldbeeren.

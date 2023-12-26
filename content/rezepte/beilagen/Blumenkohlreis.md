@@ -9,6 +9,7 @@ aliases:
 ---
 
 ![](/img/blumenkohlreis.webp)
+
 ## Zutaten
 - Blumenkohl frisch (ca. 150 g für eine Portion)
 

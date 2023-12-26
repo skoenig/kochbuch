@@ -13,7 +13,7 @@ aliases:
 
 ## Zutaten für etwa 12 Stück
 - 100 g     dunkle Schokolade (> 80% Kakaoanteil)
--  50 g     Sahne
+- 50 g     Sahne
 - ½ TL      Vanillepulver
 - 2 TL      Kokosblütenzucker
 - 2 EL      Kokosraspel

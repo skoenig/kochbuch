@@ -9,7 +9,6 @@ aliases:
 
 ![](/img/huehnergeschnetzeltes.webp)
 
-
 ## Zutaten für 2 große Portionen
 - Hühnerbrust 900g
 - Sauerrahm 300g

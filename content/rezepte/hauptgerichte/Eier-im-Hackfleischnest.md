@@ -21,6 +21,6 @@ aliases:
 
 ## Zubereitung
 Das Fleisch mit allen Zutaten außer Ei und Paprika mischen und gut durchkneten.
-4 ovale Klößchen formen, in der Mitte eine Vertiefung eindrücken und jeweils ein rohes Ei hineingeben. Mit Paprikapulver bestreuen, in eine gefettete Auflaufform setzen und im Ofen bei 200 Grad ca. 30 min. backen.
+4 ovale Klößchen formen, in der Mitte eine Vertiefung eindrücken und jeweils ein rohes Ei hineingeben. Mit Paprikapulver bestreuen, in eine gefettete Auflaufform setzen und im Ofen bei 200 °C ca. 30 min. backen.
 
 Dazu passt Schmorgurke oder Brechbohnen.

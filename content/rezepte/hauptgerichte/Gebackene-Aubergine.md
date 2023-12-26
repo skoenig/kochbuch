@@ -12,7 +12,7 @@ aliases:
 
 ## Zutaten für 2 Portionen
 - 1     Aubergine
-- 250g  Halloumi, Feta oder Ziegenkäse
+- 250 g Halloumi, Feta oder Ziegenkäse
 - 1     Zucchini
 - 1     rote Paprika
 - 1     gelbe Paprika
@@ -23,7 +23,7 @@ aliases:
 - Salz & Pfeffer
 
 ## Zubereitung
-Backofen auf 250 ℃  vorheizen und ein Blech mit Backpapier auslegen.
+Backofen auf 250 °C  vorheizen und ein Blech mit Backpapier auslegen.
 
 Die Aubergine in Scheiben schneiden und auf das Backblech legen. Mit ein wenig Olivenöl bestreichen und mit Salz bestreuen. Das ganze 10 Minuten backen.
 

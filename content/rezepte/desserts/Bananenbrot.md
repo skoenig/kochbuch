@@ -37,5 +37,5 @@ Bananenbrot ist saftiges und aromatisches Gebäck, das mit Kokosmilch, Walnüsse
 1. Die geschmolzene Butter, den Zimt, Kardamom, Vanillepulver, Flohsamenschalen, Kokosraspel und Backpulver hinzufügen und gut verrühren.
 1. Die Walnüsse und die Schokolade grob hacken und unterheben.
 1. Den Teig für 10 Minuten ruhen lassen.
-1. Inzwischen den Backofen auf 200 ℃  vorheizen und eine Kastenform mit Backpapier auslegen.
+1. Inzwischen den Backofen auf 200 °C  vorheizen und eine Kastenform mit Backpapier auslegen.
 1. Den Teig dann in die Kastenform füllen und 30 Minuten backen.

@@ -15,8 +15,8 @@ aliases:
 - 2 TL  Currypaste
 - 125 g Magerquark
 - 2     Knoblauchzehen
--       Pfeffer
--       Gemüsebrühe
+- Pfeffer
+- Gemüsebrühe
 - Öl für die Pfanne
 
 ## Zubereitung

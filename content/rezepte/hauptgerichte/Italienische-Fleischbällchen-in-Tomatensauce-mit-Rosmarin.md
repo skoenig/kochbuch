@@ -23,13 +23,12 @@ aliases:
 - Salz & Pfeffer
 - Öl zum Braten
 
-
 ## Zubereitung
 Zwiebeln und Knoblauch abziehen, fein hacken und die Hälfte davon mit dem Fleisch in einer Schüssel verkneten. Paprikapulver sowie 1 EL Rosmarin untermengen und den Fleischteig etwa 10 Minuten ruhen lassen.
 
 Das Öl in einem Topf erhitzen und den Rest von den Zwiebeln und dem Knoblauch anschwitzen, bis sie glasig sind. Die übrigen Zutaten zugeben und alles 30 bis 40 Minuten zugedeckt köcheln lassen.
 
-Den Backofen auf 200 Grad Celsius vorheizen. Ein Backblech mit Backpapier auslegen.
+Den Backofen auf 200 °C Celsius vorheizen. Ein Backblech mit Backpapier auslegen.
 
 Dann mit einem Löffel kleine Fleischbällchen formen und diese auf Backpapier legen. Im Backofen 15 bis 20 Minuten braten. Dann herausnehmen aber den Backofen nicht ausschalten.
 

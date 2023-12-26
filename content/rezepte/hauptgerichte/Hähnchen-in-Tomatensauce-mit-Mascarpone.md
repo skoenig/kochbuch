@@ -29,7 +29,7 @@ aliases:
 ## Zubereitung
 Die Zwiebeln und Knoblauchzehen schälen und in kleine Würfel schneiden. Die Chilischote ebenfalls kleinhacken.
 
-Den Backofen auf 200 Grad vorheizen. Eine feuerfeste Form mit Butter einfetten. Die Hähnchenbrustfilets abspülen, trocken tupfen und in mundgerechte Stücke schneiden. In die Form legen und einige Butterflöckchen darauf verteilen. Im Backofen etwa 20 Minuten backen.
+Den Backofen auf 200 °C vorheizen. Eine feuerfeste Form mit Butter einfetten. Die Hähnchenbrustfilets abspülen, trocken tupfen und in mundgerechte Stücke schneiden. In die Form legen und einige Butterflöckchen darauf verteilen. Im Backofen etwa 20 Minuten backen.
 
 Für die Tomatensoße in einen Topf Kokosöl zu lassen und zwiebeln, Knoblauch und Chili Schote bei mittlerer Temperatur beraten, bis die Zwiebeln glasig sind. Die gehackten Tomaten und das TomatenMark zufügen. Basilikum und thymian waschen, trockenschütteln und fein hacken. Einige gehackte Basilikumblätter beiseite legen. Rosmarin und kokoszucker in die Sauce geben.
 

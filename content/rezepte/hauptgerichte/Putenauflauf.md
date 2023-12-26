@@ -24,4 +24,4 @@ Den Blumenkohl waschen in kleine Röschen zerteilen und im zugedeckten Topf kurz
 
 Inzwischen die Paprika waschen, kerne entfernen und in dünne Streifen schneiden. Dann zusammen mit dem Blumenkohl über die Putenschnitzel in die Auflaufform geben.
 
-Sahne, Frischkäse, Gewürzen und Kräutern vermischen und über dem Fleisch verteilen. Anschließend den geriebenen Käse darüber geben und bei 200 Grad im vorgeheizten Backofen ca. 30 Minuten backen. Wenn der Käse goldbraun aussieht ist der Auflauf fertig.
+Sahne, Frischkäse, Gewürzen und Kräutern vermischen und über dem Fleisch verteilen. Anschließend den geriebenen Käse darüber geben und bei 200 °C im vorgeheizten Backofen ca. 30 Minuten backen. Wenn der Käse goldbraun aussieht ist der Auflauf fertig.

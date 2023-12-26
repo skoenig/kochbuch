@@ -26,7 +26,7 @@ aliases:
 ![](/img/fischfilet-mit-sesam-und-roten-beeten.webp)
 
 ## Zubereitung
-1. Backofen auf 200 Grad vorheizen und ein Backblech mit Backpapier auslegen
+1. Backofen auf 200 °C vorheizen und ein Backblech mit Backpapier auslegen
 1. Die Zwiebel abziehen und fein würfeln
 1. Den Blumenkohlreis mit den Zwiebelwürfeln, 2 Eiern, geriebenen Käse und Flohsamenschalen verrühren
 1. Diesen Teig verkneten und in kleinen Portionen auf dem Backpapier zu Fladen pressen
