@@ -52,5 +52,5 @@ sharing:
   twitter: "Tweet on Twitter"
 
 shortcode:
-  recent_articles: "Recent"
-  updated_articles: "Updated"
+  updated_articles: ":bell: Updated"
+  favorites: ":rocket: Favorites"

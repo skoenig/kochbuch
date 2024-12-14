@@ -2,6 +2,7 @@
 title: Omlett mit Tomaten
 date: 2015-04-25
 lastmod: 2023-01-25
+favorite: true
 tags:
 - eier
 - highfat
@@ -15,9 +16,8 @@ aliases:
 - ../../hauptgerichte/omlett-mit-tomaten
 ---
 
-![Omlett mit Tomaten](/img/omlett-1.webp)
-![Omlett mit Tomaten](/img/omlett-2.webp)
-![Omlett mit Tomaten](/img/omlett-3.webp)
+-![Omlett mit Tomaten](omlett-2.webp)
+-![Omlett mit Tomaten](omlett-3.webp)
 
 ## Zutaten
 - 3 Eier

@@ -1,6 +1,7 @@
 ---
 title: Shakshuka
 date: 2020-08-04
+favorite: true
 tags:
 - lowcarb
 - schnell

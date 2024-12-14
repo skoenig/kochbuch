@@ -2,6 +2,7 @@
 title: Schichtkohl mit Blutwurst
 date: 2020-08-30
 lastmod: 2023-05-23 17:00:58
+favorite: true
 tags:
 - lowcarb
 - pfanne

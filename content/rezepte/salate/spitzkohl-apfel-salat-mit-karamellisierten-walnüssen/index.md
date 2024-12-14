@@ -3,6 +3,7 @@ title: Spitzkohl-Apfel Salat
 date: 2022-02-27
 cookTime: PT10M
 servings: 6
+favorite: true
 tags:
 - schnell
 - veggie

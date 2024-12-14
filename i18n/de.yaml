@@ -52,5 +52,5 @@ sharing:
   twitter: "Auf Twitter teilen"
 
 shortcode:
-  recent_articles: "Neue Rezepte"
-  updated_articles: "Aktualisierte Rezepte"
+  updated_articles: ":bell: Aktualisierte Rezepte"
+  favorites: ":rocket: Favoriten"

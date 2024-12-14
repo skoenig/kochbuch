@@ -2,6 +2,7 @@
 title: Blumenkohlpüree mit Hackfleisch Topping
 date: '2022-04-03'
 lastmod: '2023-01-18'
+favorite: true
 servings: 4
 calories: 1920
 fat: 128
@@ -12,7 +13,6 @@ aliases:
 - ../../hauptgerichte/blumenkohlpueree-mit-hackfleisch-topping
 ---
 
-![](/img/blumenkohlpueree-mit-hackfleisch-topping.webp)
 
 ## Zutaten
 - 2 Blumenkohl

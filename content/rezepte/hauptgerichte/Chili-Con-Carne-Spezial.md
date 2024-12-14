@@ -2,6 +2,7 @@
 title: Chili Con Carne Spezial
 date: 2019-03-17
 lastmod: 2023-03-15
+favorite: true
 tags:
 - slowcarb
 - einfach

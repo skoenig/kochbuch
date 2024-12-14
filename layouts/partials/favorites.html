@@ -1,0 +1,4 @@
+<h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.favorites" | emojify }}</h2>
+{{ range where .Site.RegularPages ".Params.favorite" "eq" true }}
+{{ partial "article-link.html" . }}
+{{ end }}
