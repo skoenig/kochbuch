@@ -10,10 +10,10 @@ tags:
 - schnell
 - simple
 aliases:
-- ../../schichtkohl-mit-hackfleisch/index
+- /hauptgerichte/schichtkohl-mit-hackfleisch
 ---
 
-Schichtkohl Rezepte sind simpel und schnell zubereitet und können beliebig variiert werden. Eine Variation von diesem Rezept ist zum Beispiel [Schichtkohl mit Blutwurst](/hauptgerichte/schichtkohl-mit-blutwurst/).
+Schichtkohl Rezepte sind simpel und schnell zubereitet und können beliebig variiert werden. Eine Variation von diesem Rezept ist zum Beispiel [Schichtkohl mit Blutwurst]({{< relref schichtkohl-mit-blutwurst >}}).
 
 ## Zutaten für 4 Portionen
 - 1         große Zwiebel
