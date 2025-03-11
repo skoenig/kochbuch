@@ -7,7 +7,6 @@ defaultContentLanguage: de
 enableRobotsTXT: true
 paginate: 10
 summaryLength: 0
-googleAnalytics: "G-SD0TGLWYNV"
 outputs:
   home:
     - HTML

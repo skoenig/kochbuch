@@ -1,7 +1,7 @@
 ## Motivation
 Why yet another recipe collection? There are already like a bazillion recipe sites and all sorts of online services and apps that let you manage your favorite recipes.
 
-I want recipes without ads, without push notifications, without registration, without newsletter sign-up pop-ups, and all that other annoying stuff.
+I want recipes without ads, without push notifications, without registration, without newsletter sign-up pop-ups, without tracking, and all that other annoying stuff.
 
 Also, most popular recipe blogs always have to tell you their whole life story before they can finally get to the point – present a "simple" recipe.
 
