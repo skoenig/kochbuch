@@ -20,5 +20,8 @@ This repo is pretty self-contained, you only need `make`, `git`, `wget`, and `ta
 Images for recipes should be placed in `static/img`. For converting an image from JPG to the modern WebP format, place it in `assets/${imagename}` and run the make target `static/img/${imagename}.webp`.
 You will need to have [`exiftran`](https://www.kraxel.org/blog/linux/fbida/) and [`cwebp`](https://developers.google.com/speed/webp/docs/precompiled) installed for this to work.
 
+## Infra
+DNS setup is managed with Terraform/OpenTofu in `terraform/`.
+
 ## Contributing
 If you find bugs or have suggestions for improvement, feel free to submit an [issue](https://github.com/skoenig/einfachsatt/issues/new). The [UNLICENSE](LICENSE.txt) applies.

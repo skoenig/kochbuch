@@ -4,3 +4,6 @@ public/
 .hugo_build.lock
 hugo
 htmltest
+terraform.tfvars
+terraform.tfstate
+.terraform
