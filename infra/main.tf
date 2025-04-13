@@ -30,6 +30,13 @@ resource "hetznerdns_record" "einfachsatt-de_NS" {
   value   = each.value
 }
 
+resource "hetznerdns_record" "einfachsatt-de_SOA" {
+  zone_id = hetznerdns_zone.dns_zone.id
+  type  = "SOA"
+  name  = "@"
+  value = "hydrogen.ns.hetzner.com. dns.hetzner.com. 2020042701 86400 10800 3600000 3600"
+}
+
 resource "hetznerdns_record" "hetzner_txt" {
   zone_id = hetznerdns_zone.dns_zone.id
   type    = "TXT"
