@@ -21,7 +21,7 @@ Images for recipes should be placed in `static/img`. For converting an image fro
 You will need to have [`exiftran`](https://www.kraxel.org/blog/linux/fbida/) and [`cwebp`](https://developers.google.com/speed/webp/docs/precompiled) installed for this to work.
 
 ## Infra
-DNS setup is managed with Terraform/OpenTofu in `terraform/`.
+DNS setup is managed with Terraform/OpenTofu in `infra/`.
 
 ## Contributing
 If you find bugs or have suggestions for improvement, feel free to submit an [issue](https://github.com/skoenig/einfachsatt/issues/new). The [UNLICENSE](LICENSE.txt) applies.
