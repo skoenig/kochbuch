@@ -19,6 +19,17 @@ resource "hetznerdns_zone" "dns_zone" {
   ttl  = 7200
 }
 
+data "hetznerdns_nameservers" "primary" {}
+
+resource "hetznerdns_record" "einfachsatt-de_NS" {
+  for_each = toset(data.hetznerdns_nameservers.primary.ns.*.name)
+
+  zone_id = hetznerdns_zone.dns_zone.id
+  type    = "NS"
+  name    = "@"
+  value   = each.value
+}
+
 resource "hetznerdns_record" "hetzner_txt" {
   zone_id = hetznerdns_zone.dns_zone.id
   type    = "TXT"
