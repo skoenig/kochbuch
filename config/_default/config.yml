@@ -1,11 +1,11 @@
 # -- Site Configuration --
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
-theme: congo
 baseURL: https://einfachsatt.de/
 defaultContentLanguage: de
 enableRobotsTXT: true
-paginate: 10
+pagination:
+  pagerSize: 10
 summaryLength: 0
 outputs:
   home:
