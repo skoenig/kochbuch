@@ -1,39 +1,36 @@
 ---
-title: Spitzkohl-Apfel Salat
+title: Spitzkohl-Apfel Salat mit Karamellisierten Walnüssen
 date: 2022-02-27
+lastmod: 2025-05-28
 cookTime: PT10M
 servings: 6
 favorite: true
 tags:
-- schnell
-- veggie
+  - salat
+  - apfel
+  - kohl
+  - veggie
+  - einfach
+  - schnell
 aliases:
 - ../../salate/spitzkohl-apfel-salat-mit-karamellisierten-walnüssen
 ---
 
 ## Zutaten für 6 Portionen
-- 1 EL Honig
-- 1 TL Zucker
-- 1 TL Salz
-- 1 Prise Pfeffer
-- 2 ELs Olivenöl
-- 2 Äpfel
 - 500 g Spitzkohl
+- 1 TL Salz
+- 1 TL Zucker
 - 4 ELs hellem Balsamico-Essig oder Weißweinessig
+- 1 Prise Pfeffer
+- 2 EL Olivenöl
+- 1 Apfel
 - 50 g Walnüsse
-
-## Zubehör
-- groben Raspel
-- kleinen Pfanne
+- 1 EL Honig
 
 ## Zubereitung
- 1. Die äußeren Blätter vom Spitzkohl entfernen, vierteln und den Strunk rausschneiden. Dann in dünne Streifen schneiden.
-    [Spitzkohl: 500 g]
- 2. Mit den Händen den Spitzkohl mit Salz und Zucker vermengen und gut durchkneten. Anschließend mit hellem Balsamico-Essig oder Weißweinessig und Olivenöl sowie Pfeffer würzen.
-    [Olivenöl: 2 ELs; Pfeffer: 1 Prise; Salz: 1 TL; Zucker: 1 TL; hellem Balsamico-Essig oder Weißweinessig: 4 ELs]
- 3. Äpfel waschen und mit einer groben Raspel in kleine Stücke raspeln. Anschließend mit dem Spitzkohlsalat vermischen.
-    [Äpfel: 2]
- 4. In einer kleinen Pfanne Walnüsse anrösten, den Honig hinzugen und kurz karamellisieren lassen. Dann vom Ofen nehmen, abkühlen lassen und über den Salat geben.
-    [Honig: 1 EL; Walnüsse: 50 g]
- 5. Salat mit Salz und Pfeffer abschmecken.
-    [–]
+ 1. Die äußeren Blätter vom Spitzkohl entfernen, vierteln und den Strunk rausschneiden, dann in dünne Streifen schneiden.
+ 2. Den Spitzkohl mit den Händen mit Salz und Zucker vermengen und gut durchkneten.
+ 3. Anschließend mit hellem Balsamico-Essig oder Weißweinessig und Olivenöl sowie Pfeffer würzen.
+ 4. Apfel waschen und mit einer groben Raspel in kleine Stücke raspeln. Anschließend mit dem Spitzkohlsalat vermischen.
+ 5. In einer kleinen Pfanne Walnüsse anrösten, den Honig hinzugen und kurz karamellisieren lassen. Dann vom Ofen nehmen, abkühlen lassen und über den Salat geben.
+ 6. Salat mit Salz und Pfeffer abschmecken.
