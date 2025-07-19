@@ -10,6 +10,12 @@ I just wanted recipes as a collection of simple step-by-step instructions in pla
 ## Installation
 This repo is pretty self-contained, you only need `make`, `git`, `wget`, and `tar` which should be available for every Linux distribution. The targets `make serve` and `make test` will download the necessary dependencies for basic functionality.
 
+To automatically ensure some code quality and formatting with `make lint`, you will need https://pre-commit.com and setup the hooks:
+
+```bash
+make install
+```
+
 ## Usage
 1. Edit your recipes in the fitting category in `content/`
 2. Run `make serve` to take a look at the rendered result at <http://localhost:1313/>

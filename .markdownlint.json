@@ -1,0 +1,24 @@
+{
+  "default": true,
+  "no-bare-urls": false,
+  "blanks-around-lists": false,
+  "blanks-around-fences": false,
+  "blanks-around-headings": {
+    "lines_above": 1,
+    "lines_below": 0
+  },
+  "fenced-code-language": false,
+  "ul-style": {
+    "style": "dash"
+  },
+  "ul-indent": {
+    "indent": 4
+  },
+  "line-length": {
+    "line_length": 1000
+  },
+  "no-duplicate-heading": {
+    "siblings_only": true
+  },
+  "no-alt-text": false
+}

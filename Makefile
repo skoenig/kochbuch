@@ -4,7 +4,11 @@ HUGO_VERSION=0.145.0
 
 .DEFAULT_GOAL := help
 
-install: bin/hugo bin/htmltest ## Install dependencies
+install: bin/hugo bin/htmltest  ## Install dependencies
+	pre-commit install
+
+lint: ## Run linters, checks, formatters
+	pre-commit run --all-files
 
 test: install  ## Run tests
 	rm -fr public/
