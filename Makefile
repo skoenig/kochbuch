@@ -1,6 +1,6 @@
 .PHONY: install lint test all serve clean help
 
-HUGO_VERSION=0.145.0
+HUGO_VERSION=0.152.2
 
 .DEFAULT_GOAL := help
 
