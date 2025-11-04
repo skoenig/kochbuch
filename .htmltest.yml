@@ -4,3 +4,5 @@ CheckMetaRefresh: false
 IgnoreURLs:
   - http://localhost:1313/
   - https://github.com
+  - /js/main\.bundle\.min\.([0-9a-f]{64})\.js$
+  - /css/main\.bundle\.min\.([0-9a-f]{64})\.css$
